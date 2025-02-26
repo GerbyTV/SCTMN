@@ -6,7 +6,9 @@ Cet outil est conçu pour faciliter l'installation et la mise à jour des fichie
 - **Installation automatique** : Télécharge et installe les fichiers `global.ini` et `user.cfg` dans le dossier de jeu sélectionné.
 - **Mise à jour facile** : Compare les versions locales et en ligne pour garantir que vous utilisez toujours les dernières traductions.
 - **Suppression rapide** : Supprime les fichiers de traduction si nécessaire.
-- **Icône personnalisée** : Une interface conviviale avec un logo spécifique à l'application.
+- **Afficher les prix des commodités directement en jeu**
+- **Sélection de systèmes stellaires et de terminaux** : Utilisez des listes déroulantes pour sélectionner facilement les systèmes stellaires et les terminaux.
+- **Recherche intégrée** : Filtrez les terminaux en utilisant une barre de recherche.
 
 ---
 
@@ -26,8 +28,9 @@ Cet outil est conçu pour faciliter l'installation et la mise à jour des fichie
    - **Installer** : Télécharge les fichiers nécessaires et les installe dans le dossier sélectionné.
    - **Mettre à jour** : Vérifie et remplace le fichier `global.ini` si une nouvelle version est disponible.
    - **Supprimer la traduction** : Supprime les fichiers de traduction (dossier `data` et `user.cfg`).
-
-4. Suivez les messages affichés pour vérifier le succès de l'action.
+4. Utilisez les listes déroulantes pour sélectionner un système stellaire et un terminal.
+5. Utilisez la barre de recherche pour filtrer les terminaux.
+6. Suivez les messages affichés pour vérifier le succès de l'action.
 
 ---
 
@@ -39,7 +42,7 @@ Voici les fichiers et dossiers créés ou modifiés par l'application :
 ---
 
 ## **Contribuer**
-Les contributions sont les bienvenues ! Pour signaler un problème ou proposer des améliorations :
+Les contributions sont les bienvenues ! Pour signaler un problème ou proposer des améliorations :
 1. Ouvrez une *issue* dans ce dépôt.
 2. Créez une branche à partir de `main` pour vos modifications.
 3. Envoyez une *pull request*.
@@ -53,3 +56,7 @@ Ce projet est sous licence **MIT**. Voir le fichier [LICENSE](./LICENSE) pour pl
 
 ## **Crédits**
 Créé par **Gerby** pour simplifier l'expérience des joueurs de Star Citizen. 🌌
+
+---
+
+N'hésitez pas à me faire savoir si vous souhaitez d'autres modifications ou des ajouts supplémentaires !
