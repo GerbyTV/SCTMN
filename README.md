@@ -9,6 +9,10 @@ Cet outil est conçu pour faciliter l'installation et la mise à jour des fichie
 - **Sélection de systèmes stellaires et de terminaux** : Utilisez des listes déroulantes pour sélectionner facilement les systèmes stellaires et les terminaux.
 - **Recherche intégrée** : Filtrez les terminaux en utilisant une barre de recherche.
 - **Mise à jour des prix en temps réel** : Grâce à la sélection d'un terminal, obtenez les prix des commodités directement lorsque vous les scannez avec votre vaisseau ou lorsque vous les sélectionnez avec un Tractor Beam. Les prix sont directement issus de UEX, offrant une expérience unique dans un système de traduction.
+<a href="https://uexcorp.space">
+  <img src="https://uexcorp.space/img/api/uex-api-badge-partnered.png" alt="Uexcorp Partnered Badge" style="height:50px;">
+</a>
+
 
 ---
 
