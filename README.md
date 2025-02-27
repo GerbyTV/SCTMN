@@ -6,9 +6,9 @@ Cet outil est conçu pour faciliter l'installation et la mise à jour des fichie
 - **Installation automatique** : Télécharge et installe les fichiers `global.ini` et `user.cfg` dans le dossier de jeu sélectionné.
 - **Mise à jour facile** : Compare les versions locales et en ligne pour garantir que vous utilisez toujours les dernières traductions.
 - **Suppression rapide** : Supprime les fichiers de traduction si nécessaire.
-- **Afficher les prix des commodités directement en jeu**
 - **Sélection de systèmes stellaires et de terminaux** : Utilisez des listes déroulantes pour sélectionner facilement les systèmes stellaires et les terminaux.
 - **Recherche intégrée** : Filtrez les terminaux en utilisant une barre de recherche.
+- **Mise à jour des prix en temps réel** : Grâce à la sélection d'un terminal, obtenez les prix des commodités directement lorsque vous les scannez avec votre vaisseau ou lorsque vous les sélectionnez avec un Tractor Beam. Les prix sont directement issus de UEX, offrant une expérience unique dans un système de traduction.
 
 ---
 
@@ -50,7 +50,7 @@ Les contributions sont les bienvenues ! Pour signaler un problème ou proposer d
 ---
 
 ## **Licence**
-Ce projet est sous licence **MIT**. Voir le fichier [LICENSE](./LICENSE) pour plus d'informations.
+Ce projet est sous licence **MIT**.
 
 ---
 
@@ -58,5 +58,3 @@ Ce projet est sous licence **MIT**. Voir le fichier [LICENSE](./LICENSE) pour pl
 Créé par **Gerby** pour simplifier l'expérience des joueurs de Star Citizen. 🌌
 
 ---
-
-N'hésitez pas à me faire savoir si vous souhaitez d'autres modifications ou des ajouts supplémentaires !
