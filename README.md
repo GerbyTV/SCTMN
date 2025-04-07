@@ -5,7 +5,6 @@ Cet outil facilite l'installation et la mise à jour des fichiers de traduction 
 <p align="center">
   <img src="https://github.com/GerbyTV/SCTMN/blob/main/Menu.png" alt="Interface de l'application" />
 </p>
----
 
 ## ✨ Fonctionnalités
 
