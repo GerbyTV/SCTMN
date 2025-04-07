@@ -25,7 +25,9 @@ Cet outil facilite l'installation et la mise à jour des fichiers de traduction 
   - Estimation de rentabilité par matériau recyclé (construction et composants).
   - Fiches pratiques pour les vaisseaux de récupération (Misc Fortune, Vulture, Reclaimer).
 
-[![Uexcorp Partnered Badge](https://uexcorp.space/img/api/uex-api-badge-partnered.png)](https://uexcorp.space)
+<a href="https://uexcorp.space">
+  <img src="https://uexcorp.space/img/api/uex-api-badge-partnered.png" alt="Uexcorp Partnered Badge" style="height:50px;">
+</a>
 
 ---
 
