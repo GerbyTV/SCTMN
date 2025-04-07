@@ -1,64 +1,80 @@
-# **Installeur de Traduction - Star Citizen par Gerby**
+# 🚀 Installeur de Traduction - Star Citizen par Gerby
 
-Cet outil est conçu pour faciliter l'installation et la mise à jour des fichiers de traduction pour Star Citizen. Il permet aux utilisateurs de télécharger automatiquement les fichiers nécessaires depuis GitHub et de les installer dans le dossier approprié.
+Cet outil facilite l'installation et la mise à jour des fichiers de traduction pour Star Citizen, tout en offrant une interface moderne et intuitive.
 
-## **Fonctionnalités**
-- **Installation automatique** : Télécharge et installe les fichiers `global.ini` et `user.cfg` dans le dossier de jeu sélectionné.
-- **Mise à jour facile** : Compare les versions locales et en ligne pour garantir que vous utilisez toujours les dernières traductions.
-- **Suppression rapide** : Supprime les fichiers de traduction si nécessaire.
-- **Sélection de systèmes stellaires et de terminaux** : Utilisez des listes déroulantes pour sélectionner facilement les systèmes stellaires et les terminaux.
-- **Recherche intégrée** : Filtrez les terminaux en utilisant une barre de recherche.
-- **Mise à jour des prix en temps réel** : Grâce à la sélection d'un terminal, obtenez les prix des commodités directement lorsque vous les scannez avec votre vaisseau ou lorsque vous les sélectionnez avec un Tractor Beam. Les prix sont directement issus de UEX, offrant une expérience unique dans un système de traduction.
-<a href="https://uexcorp.space">
-  <img src="https://uexcorp.space/img/api/uex-api-badge-partnered.png" alt="Uexcorp Partnered Badge" style="height:50px;">
-</a>
-
+![Interface de l'application](https://github.com/GerbyTV/SCTMN/assets/interface-preview.png)
 
 ---
 
-## **Installation**
-1. Téléchargez l'application :
-   - Rendez-vous sur la page des [releases](https://github.com/GerbyTV/SCTMN/releases).
-   - Téléchargez le fichier exécutable (`TraductionTMN.exe`) dans la dernière version disponible.
+## ✨ Fonctionnalités
 
-2. Placez l'exécutable dans un dossier de votre choix.
+- 📥 **Installation automatique** : Télécharge et installe les fichiers `global.ini` et `user.cfg` dans le dossier de jeu sélectionné.
+- 🔄 **Mise à jour simple** : Vérifie et remplace automatiquement les fichiers de traduction obsolètes.
+- ❌ **Suppression rapide** : Supprime les fichiers de traduction en un clic.
+- 💸 **Mise à jour des prix UEX en temps réel** :
+  - Affiche les prix lors du scan en vaisseau ou de la sélection via Tractor Beam.
+  - Les prix sont liés au terminal sélectionné.
+  - Intégration officielle avec [UEX](https://uexcorp.space) pour des prix fiables et mis à jour.
+- 🌌 **Sélection de terminaux et systèmes stellaires** :
+  - Sélection de **systèmes stellaires** via liste déroulante.
+  - Choix de **terminaux** avec filtre dynamique.
+- ⛏️ **Module Minage** :
+  - Outil "Aaron Halo" pour choisir un point de départ et obtenir les distances optimales jusqu'aux points d'extraction.
+  - Fiches pratiques pour les vaisseaux de minage (Prospector, MOLE, Golem, ATL Geo).
+- 🛠️ **Module Salvage** :
+  - Estimation de rentabilité par matériau recyclé (construction et composants).
+  - Fiches pratiques pour les vaisseaux de récupération (Misc Fortune, Vulture, Reclaimer).
 
----
-
-## **Utilisation**
-1. Lancez l'application en double-cliquant sur l'exécutable.
-2. Sélectionnez le dossier cible (par exemple, `Live`, `PTU`, ou `EPTU`).
-3. Choisissez une action :
-   - **Installer** : Télécharge les fichiers nécessaires et les installe dans le dossier sélectionné.
-   - **Mettre à jour** : Vérifie et remplace le fichier `global.ini` si une nouvelle version est disponible.
-   - **Supprimer la traduction** : Supprime les fichiers de traduction (dossier `data` et `user.cfg`).
-4. Utilisez les listes déroulantes pour sélectionner un système stellaire et un terminal.
-5. Utilisez la barre de recherche pour filtrer les terminaux.
-6. Suivez les messages affichés pour vérifier le succès de l'action.
-
----
-
-## **Structure des fichiers**
-Voici les fichiers et dossiers créés ou modifiés par l'application :
-- **data/Localization/french_(france)/global.ini** : Fichier principal de traduction.
-- **user.cfg** : Fichier de configuration supplémentaire.
+[![Uexcorp Partnered Badge](https://uexcorp.space/img/api/uex-api-badge-partnered.png)](https://uexcorp.space)
 
 ---
 
-## **Contribuer**
-Les contributions sont les bienvenues ! Pour signaler un problème ou proposer des améliorations :
-1. Ouvrez une *issue* dans ce dépôt.
-2. Créez une branche à partir de `main` pour vos modifications.
+## 🧰 Installation
+
+1. Rendez-vous sur la page des [releases](https://github.com/GerbyTV/SCTMN/releases).
+2. Téléchargez le fichier `TraductionTMN.exe` de la dernière version.
+3. Placez l'exécutable dans un dossier dédié.
+
+---
+
+## 🖱️ Utilisation
+
+1. Lancez l’application (`TraductionTMN.exe`).
+2. Sélectionnez le dossier cible de Star Citizen (`Live`, `PTU`, `EPTU`, etc).
+3. Choisissez une action parmi :
+   - **Installer** : Télécharge et installe les fichiers nécessaires.
+   - **Mettre à jour** : Remplace les fichiers s’ils sont obsolètes.
+   - **Supprimer la traduction** : Supprime `global.ini`, `user.cfg` et les fichiers liés.
+4. Utilisez les menus déroulants pour choisir un **système stellaire** et un **terminal**.
+5. Filtrez les terminaux avec la barre de recherche.
+6. Consultez les messages affichés pour confirmer le succès des actions.
+7. Explorez les modules **Minage** et **Salvage** depuis le menu principal.
+
+---
+
+## 🗂️ Structure des fichiers
+
+- `data/Localization/french_(france)/global.ini` : Fichier principal de traduction.
+- `user.cfg` : Configuration supplémentaire personnalisée.
+
+---
+
+## 🤝 Contribuer
+
+Les contributions sont les bienvenues !
+
+1. Créez une *issue* pour signaler un bug ou suggérer une amélioration.
+2. Créez une branche depuis `main`.
 3. Envoyez une *pull request*.
 
 ---
 
-## **Licence**
+## 📄 Licence
+
 Ce projet est sous licence **MIT**.
 
 ---
 
-## **Crédits**
-Créé par **Gerby** pour simplifier l'expérience des joueurs de Star Citizen. 🌌
+## 👨‍🚀 Crédits
 
----
+Développé par **Gerby** pour améliorer l’expérience des joueurs francophones dans Star Citizen. 🌌
