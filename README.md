@@ -2,9 +2,9 @@
 
 Cet outil facilite l'installation et la mise à jour des fichiers de traduction pour Star Citizen, tout en offrant une interface moderne et intuitive.
 
-<div style="text-align: center;">
-  ![Interface de l'application](https://github.com/GerbyTV/SCTMN/blob/main/Menu.png)
-  </div>
+<p align="center">
+  <img src="https://github.com/GerbyTV/SCTMN/blob/main/Menu.png" alt="Interface de l'application" />
+</p>
 ---
 
 ## ✨ Fonctionnalités
