@@ -1,0 +1,216 @@
+BitZeros: ~mission(Contractor|BlackBoxRecoverTitleEasy)
+BitZeros: ~mission(Contractor|BlackBoxRecoverTitleHard)
+BitZeros: ~mission(Contractor|BlackBoxRecoverTitleIntro)
+BitZeros: ~mission(Contractor|BlackBoxRecoverTitleMedium)
+BitZeros: ~mission(Contractor|BlackBoxRecoverTitleSuper)
+BitZeros: ~mission(Contractor|BlackBoxRecoverTitleVeryEasy)
+BitZeros: ~mission(Contractor|BlackBoxRecoverTitleVeryHard)
+BitZeros: ~mission(Contractor|RecoverItemTitle)
+BountyGuild: Prime validée: ~mission(TargetName)
+BountyHuntersGuild: Prime à haut risque: ~mission(TargetName) à Station QV Breaker
+BountyHuntersGuild: Prime validée: ~mission(TargetName) à Station QV Breaker
+BountyHuntersGuild: Prime validée: ~mission(TargetName) à ~mission(Location)
+BountyHuntersGuild: Prime validée: ~mission(TargetName) | ~mission(Danger)
+CitizensForProsperity: Alerte: ~mission(Location) sous attaque
+CitizensForProsperity: Assistance requise contre un raid XenoThreat
+CitizensForProsperity: Assistance requise à ~mission(Location)
+CitizensForProsperity: Attaque sur un avant-poste CFP
+CitizensForProsperity: Appel à l’aide: ~mission(Location)
+CitizensForProsperity: Campagne de reprise des avant-postes XenoThreat
+CitizensForProsperity: Livraison à effectuer
+CitizensForProsperity: Neutraliser un centre de données hors-la-loi
+CitizensForProsperity: Assistance convoi requise
+CitizensForProsperity: Convoi pris sous attaque violente
+CitizensForProsperity: Récupération de fournitures critiques
+CitizensForProsperity: Défendre ~mission(Location) contre les hors-la-loi
+CitizensForProsperity: Défense requise contre Headhunters
+CitizensForProsperity: Détruire les données volées des Headhunters
+CitizensForProsperity: Détruire les serveurs hors-la-loi
+CitizensForProsperity: Détruire les serveurs XenoThreat
+CitizensForProsperity: Détruire les données logistiques XenoThreat
+CitizensForProsperity: Neutraliser la base hors-la-loi à ~mission(Location)
+CitizensForProsperity: Détruire les réserves de carburant
+CitizensForProsperity: Éliminer toute trace des données Headhunters
+CitizensForProsperity: Mettre fin à une opération de narcotiques
+CitizensForProsperity: Attaque Headhunters sur ~mission(Location)
+CitizensForProsperity: Défendre ~mission(Location) contre Headhunters
+CitizensForProsperity: Convoi intercepté
+CitizensForProsperity: Réduire la capacité opérationnelle des hors-la-loi
+CitizensForProsperity: Reprise de plusieurs avant-postes CFP
+CitizensForProsperity: Attaque hors-la-loi à ~mission(Location)
+CitizensForProsperity: Soutien de combat requis
+CitizensForProsperity: Pilote en détresse
+CitizensForProsperity: Protéger ~mission(Location) contre attaque XenoThreat
+CitizensForProsperity: Protéger ~mission(Location) contre incursion XenoThreat
+CitizensForProsperity: Protéger ~mission(Location) contre raid XenoThreat
+CitizensForProsperity: Défense d’avant-poste contre XenoThreat
+CitizensForProsperity: Reprise d’avant-poste Headhunters
+CitizensForProsperity: Reprise d’avant-poste XenoThreat
+CitizensForProsperity: Reprise de zones Headhunters
+CitizensForProsperity: Reprise d’avant-postes XenoThreat
+CitizensForProsperity: Récupération de ressources précieuses
+CitizensForProsperity: Réduction de la capacité opérationnelle des hors-la-loi
+CitizensForProsperity: Répondre à une balise de détresse
+CitizensForProsperity: Reprise d’avant-postes Headhunters
+CitizensForProsperity: Assistance d’urgence requise
+CitizensForProsperity: Opération spéciale de récupération
+CitizensForProsperity: Neutraliser la base Headhunters
+CitizensForProsperity: Neutraliser les hors-la-loi à ~mission(Location)
+CitizensForProsperity: Reprise face aux Headhunters
+CitizensForProsperity: Détruire les serveurs Headhunters
+CitizensForProsperity: ~mission(Location) nécessite assistance
+CitizensForProsperity: ~mission(Location|Address) nécessite assistance
+DeadSaints: ~mission(Contractor|RecoverItemTitle)
+FoxwellEnforcement: Nettoyage du site
+FoxwellEnforcement: Détruire substances dangereuses
+FoxwellEnforcement: Détruire substances illégales
+FoxwellEnforcement: Foxwell_DefendDestructibleEntites_E_Title_001
+FoxwellEnforcement: Foxwell_DefendDestructibleEntites_H_Title_001
+FoxwellEnforcement: Foxwell_DefendDestructibleEntites_M_Title_001
+FoxwellEnforcement: Foxwell_DefendDestructibleEntites_S_Title_001
+FoxwellEnforcement: Foxwell_DefendDestructibleEntites_VE_Title_001
+FoxwellEnforcement: Foxwell_DefendDestructibleEntites_VH_Title_001
+FoxwellEnforcement: Protection du site requise
+FoxwellEnforcement: Neutraliser une nouvelle opération de narcotiques
+FoxwellEnforcement: Contrat niveau orange: Détruire infrastructure hors-la-loi
+FoxwellEnforcement: Contrat niveau orange: Détruire menace hors-la-loi
+FoxwellEnforcement: Contrat niveau orange: Menace potentielle
+FoxwellEnforcement: Contrat niveau orange: Protéger les intérêts du client
+FoxwellEnforcement: Contrat niveau orange: Rendre la pareille
+FoxwellEnforcement: Contrat niveau orange: Patrouille de sécurité
+FoxwellEnforcement: Contrat niveau orange: Protection de vaisseau requise
+FoxwellEnforcement: Contrat niveau orange: Déclencher un piège
+FoxwellEnforcement: Contrat niveau orange: Neutraliser flotte criminelle
+FoxwellEnforcement: Contrat niveau orange: Détruire réserves de carburant
+FoxwellEnforcement: Contrat niveau orange: ~mission(Ship) nécessite assistance
+FoxwellEnforcement: Frappe de précision sur ~mission(TargetName)
+FoxwellEnforcement: Contrat niveau rouge: Escouade embuscade
+FoxwellEnforcement: Contrat niveau rouge: Nettoyer PAF, récupérer cargaison et livrer OLP
+FoxwellEnforcement: Contrat niveau rouge: Détruire infrastructure hors-la-loi
+FoxwellEnforcement: Contrat niveau rouge: Démolition de conteneurs de carburant
+FoxwellEnforcement: Contrat niveau rouge: Patrouille à haut risque
+FoxwellEnforcement: Contrat niveau rouge: Récupérer cargaison volée
+FoxwellEnforcement: Contrat niveau rouge: Récupérer cargaison
+FoxwellEnforcement: Contrat niveau rouge: Sauver vaisseaux à ~mission(DefendLocationWrapperLocation)
+FoxwellEnforcement: Contrat niveau rouge: Sécuriser zone menacée
+FoxwellEnforcement: Contrat niveau rouge: Vaisseau sous attaque
+FoxwellEnforcement: Contrat niveau rouge: Soutien clients VIP
+FoxwellEnforcement: Contrat niveau rouge: Attaque surprise
+FoxwellEnforcement: Toujours disponible pour missions?
+FoxwellEnforcement: Nettoyage complet de zone
+FoxwellEnforcement: Traquer ~mission(TargetName)
+FoxwellEnforcement: Contrat niveau jaune: Embuscade amateur
+FoxwellEnforcement: Contrat niveau jaune: Nettoyer PAF
+FoxwellEnforcement: Contrat niveau jaune: Neutraliser groupe de détournement
+FoxwellEnforcement: Contrat niveau jaune: Défendre ~mission(DefendLocationWrapperLocation)
+FoxwellEnforcement: Contrat niveau jaune: Perturber opérations
+FoxwellEnforcement: Contrat niveau jaune: Limiter menace potentielle
+FoxwellEnforcement: Contrat niveau jaune: Mission mercenaire
+FoxwellEnforcement: Contrat niveau jaune: Neutraliser gang pirate
+FoxwellEnforcement: Contrat niveau jaune: Patrouille de routine
+FoxwellEnforcement: Contrat niveau jaune: Inspection de sécurité
+FoxwellEnforcement: Contrat niveau jaune: Vaisseau sous attaque
+FoxwellEnforcement: Contrat niveau jaune: Résister aux agresseurs
+FoxwellEnforcement: Contrat niveau jaune: Frappe surprise
+FoxwellEnforcement: cfp_EliminateAllFF_Title_001
+FoxwellEnforcement: ~mission(Contractor|DestroyProbeTitle)
+HeadHunters: Représailles rapides
+HeadHunters: Représailles mineures
+HeadHunters: Mission complexe
+HeadHunters: Renfort requis à l’avant-poste
+HeadHunters: Bloquer l’expansion XenoThreat
+HeadHunters: Éliminer une meute de Kopions à ~mission(Location)
+HeadHunters: Gérer les Kopions à ~mission(Location)
+HeadHunters: Mort et cargaison
+HeadHunters: Frappe en espace profond
+HeadHunters: Empêcher la chute de Windfall
+HeadHunters: Évincer CFP
+HeadHunters: Éliminer une cible XenoThreat
+HeadHunters: Lancer offensive
+HeadHunters: Autorisation d’engagement à ~mission(Location)
+HeadHunters: Autorisation d’engagement sur ~mission(TargetName|Last)
+HeadHunters: Stopper l’expansion XenoThreat
+HeadHunters: Neutraliser la tête
+HeadHunters: Headhunters_EliminateAllFF_Title_001
+HeadHunters: Frapper XenoThreat à ~mission(Location)
+HeadHunters: Frapper complexe CFP
+HeadHunters: Frappe XenoThreat au Yard
+HeadHunters: Frappe sur commandement XenoThreat
+HeadHunters: Frappe sur site CFP
+HeadHunters: Éliminer Kopions à ~mission(Location)
+HeadHunters: Éliminer la cible principale
+HeadHunters: Recherche de représailles
+HeadHunters: Neutraliser un site CFP
+HeadHunters: Élimination requise à ~mission(Location)
+HeadHunters: Frappe sur Riviera
+HeadHunters: Besoin d’un opérateur
+HeadHunters: Intervention requise chez Carver's
+HeadHunters: Élimination de cible requise
+HeadHunters: Cible rémunérée en zone CFP
+HeadHunters: Éliminer un traître
+HeadHunters: Regroupement à ~mission(Location)
+HeadHunters: Gestion de réputation
+HeadHunters: Tir en situation chaotique
+HeadHunters: Nettoyer repaires CFP
+HeadHunters: Reprendre Carvers Ridge
+HeadHunters: Prise de territoire XenoThreat
+HeadHunters: Démanteler un repaire XenoThreat
+HeadHunters: Éliminer éléments XenoThreat
+HeadHunters: Yard sous attaque
+HeadHunters: Offensive contre CFP
+HeadHunters: Guerre de territoire
+HeadHunters: Recherché: ~mission(TargetName)
+HeadHunters: Éliminer ~mission(Location)
+HeadHunters: Lieutenant XenoThreat à neutraliser
+HeadHunters: ~mission(Location) autorisé
+HeadHunters: ~mission(Location|Address) sous attaque
+HighpointWildernessSpecialists: Réduction de la population de Valakkar à Station QV Breaker
+HockrowAgency: Dossier Jorrit: données d’anomalie énergétique
+HockrowAgency: Dossier Jorrit: données de consommation énergétique
+HockrowAgency: Dossier Jorrit: données de sécurité
+HockrowAgency: Dossier Jorrit: données sismiques
+InterSec: Défendre un agent InterSec
+InterSec: Détruire un vaisseau Vanduul
+InterSec: Gérer une attaque Vanduul sur un vaisseau
+InterSec: Neutraliser menace UEE: ~mission(TargetName)
+InterSec: Neutraliser une cible Vanduul
+InterSec: Nouveau contrat de défense: élimination de ~mission(TargetName)
+InterSec: Extraction d’agent
+InterSec: Patrouiller un secteur dangereux
+InterSec: Patrouiller zone de chasse Vanduul
+InterSec: Patrouille préventive
+InterSec: Pilote sous feu Vanduul
+InterSec: Frappe préventive sur ~mission(TargetName)
+InterSec: Protéger un actif stratégique
+InterSec: Récupérer des renseignements de contrebande
+InterSec: Terroriste ~mission(TargetName) à neutraliser
+IntersecDefenseSolutions: Récupération de corps Vanduul
+IntersecDefenseSolutions: Récupération de technologie Vanduul
+MilesEckhart: Défense extrêmement dangereuse
+MilesEckhart: Rencontre de vaisseau à haut risque
+MilesEckhart: Sauvetage de vaisseau
+MilesEckhart: Stopper attaque sur client prioritaire
+MilesEckhart: Stopper attaque mortelle
+MilesEckhart: Soutien à client sous attaque
+NorthRock: Attribution de prime: ~mission(TargetName) (HRT)
+Rayari: Ressources supplémentaires pour la recherche
+Rayari: Ressources requises pour la recherche
+Rayari: Ressources critiques pour la recherche
+ShubinInterstellar: Commande importante: ressources minées à la main
+ShubinInterstellar: Commande importante: minerai miné par vaisseau
+ShubinInterstellar: Commande moyenne: ressources minées à la main
+ShubinInterstellar: Commande moyenne: minerai miné par vaisseau
+ShubinInterstellar: Commande majeure: minerai miné par vaisseau
+ShubinInterstellar: Droits miniers Station QV Breaker (exclusifs)
+ShubinInterstellar: Droits miniers Station QV Breaker (partagés)
+ShubinInterstellar: Petite commande: ressources minées à la main
+ShubinInterstellar: Petite commande: minerai miné par vaisseau
+ShubinInterstellar: Commande spéciale: matériaux minés
+ShubinInterstellar: Très grande commande: ressources minées à la main
+ShubinInterstellar: Très grande commande: minerai miné par vaisseau
+ShubinInterstellar: Très petite commande: minerai miné par vaisseau
+Vaughn: Contrat exigeant
+Vaughn: Pause méritée
+Vaughn: Toute chose a une fin
+Vaughn: Fin d’une Salamander
+Vaughn: Ils seront regrettés
