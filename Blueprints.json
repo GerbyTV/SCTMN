@@ -70479,7 +70479,7 @@
       "isReward": true,
       "rewardMissions": [
         "Rayari Inc.: Need Resource for Research\\n",
-        "InterSec Defense Solutions: Retrieve Additional Smuggler Intel",
+        "InterSec: Retrieve Additional Smuggler Intel",
         "Rayari Inc.: Vital Resources Needed For Research"
       ],
       "rewardMissionKeys": [
@@ -70493,7 +70493,7 @@
         {
           "titleKey": "kaboos_mission_title",
           "titleEN": "Retrieve Additional Smuggler Intel",
-          "faction": "InterSec Defense Solutions",
+          "faction": "InterSec",
           "systems": [],
           "illegal": false
         },
@@ -70701,8 +70701,8 @@
       "isReward": true,
       "rewardMissions": [
         "Rayari Inc.: Need Resource for Research\\n",
-        "InterSec Defense Solutions: Recover Vanduul Corpses",
-        "InterSec Defense Solutions: Recover Vanduul Tech",
+        "InterSec: Recover Vanduul Corpses",
+        "InterSec: Recover Vanduul Tech",
         "Rayari Inc.: Vital Resources Needed For Research"
       ],
       "rewardMissionKeys": [
@@ -70716,14 +70716,14 @@
         {
           "titleKey": "intersec_resourcegathering_cryopods_title",
           "titleEN": "Recover Vanduul Corpses",
-          "faction": "InterSec Defense Solutions",
+          "faction": "InterSec",
           "systems": [],
           "illegal": false
         },
         {
           "titleKey": "intersec_resourcegathering_tech_title",
           "titleEN": "Recover Vanduul Tech",
-          "faction": "InterSec Defense Solutions",
+          "faction": "InterSec",
           "systems": [],
           "illegal": false
         },
@@ -70804,9 +70804,9 @@
         "InterSec: Operative Extraction",
         "InterSec: Pilot Under Fire From Vanduul",
         "InterSec: Protect Vital Asset",
-        "InterSec Defense Solutions: Recover Vanduul Corpses",
-        "InterSec Defense Solutions: Recover Vanduul Tech",
-        "InterSec Defense Solutions: Retrieve Additional Smuggler Intel",
+        "InterSec: Recover Vanduul Corpses",
+        "InterSec: Recover Vanduul Tech",
+        "InterSec: Retrieve Additional Smuggler Intel",
         "Rayari Inc.: Vital Resources Needed For Research"
       ],
       "rewardMissionKeys": [
@@ -70865,21 +70865,21 @@
         {
           "titleKey": "intersec_resourcegathering_cryopods_title",
           "titleEN": "Recover Vanduul Corpses",
-          "faction": "InterSec Defense Solutions",
+          "faction": "InterSec",
           "systems": [],
           "illegal": false
         },
         {
           "titleKey": "intersec_resourcegathering_tech_title",
           "titleEN": "Recover Vanduul Tech",
-          "faction": "InterSec Defense Solutions",
+          "faction": "InterSec",
           "systems": [],
           "illegal": false
         },
         {
           "titleKey": "kaboos_mission_title",
           "titleEN": "Retrieve Additional Smuggler Intel",
-          "faction": "InterSec Defense Solutions",
+          "faction": "InterSec",
           "systems": [],
           "illegal": false
         },
@@ -71097,7 +71097,7 @@
       "isReward": true,
       "rewardMissions": [
         "Rayari Inc.: Need Resource for Research\\n",
-        "InterSec Defense Solutions: Retrieve Additional Smuggler Intel",
+        "InterSec: Retrieve Additional Smuggler Intel",
         "Rayari Inc.: Vital Resources Needed For Research"
       ],
       "rewardMissionKeys": [
@@ -71111,7 +71111,7 @@
         {
           "titleKey": "kaboos_mission_title",
           "titleEN": "Retrieve Additional Smuggler Intel",
-          "faction": "InterSec Defense Solutions",
+          "faction": "InterSec",
           "systems": [],
           "illegal": false
         },
@@ -71411,7 +71411,7 @@
       "isReward": true,
       "rewardMissions": [
         "Rayari Inc.: Need Resource for Research\\n",
-        "InterSec Defense Solutions: Retrieve Additional Smuggler Intel",
+        "InterSec: Retrieve Additional Smuggler Intel",
         "Rayari Inc.: Vital Resources Needed For Research"
       ],
       "rewardMissionKeys": [
@@ -71425,7 +71425,7 @@
         {
           "titleKey": "kaboos_mission_title",
           "titleEN": "Retrieve Additional Smuggler Intel",
-          "faction": "InterSec Defense Solutions",
+          "faction": "InterSec",
           "systems": [],
           "illegal": false
         },
@@ -71504,7 +71504,7 @@
         "InterSec: Patrol Dangerous Sector",
         "InterSec: Patrol Vanduul Hunting Ground",
         "InterSec: Patrol to Prevent Possible Attack",
-        "InterSec Defense Solutions: Retrieve Additional Smuggler Intel",
+        "InterSec: Retrieve Additional Smuggler Intel",
         "Rayari Inc.: Vital Resources Needed For Research"
       ],
       "rewardMissionKeys": [
@@ -71545,7 +71545,7 @@
         {
           "titleKey": "kaboos_mission_title",
           "titleEN": "Retrieve Additional Smuggler Intel",
-          "faction": "InterSec Defense Solutions",
+          "faction": "InterSec",
           "systems": [],
           "illegal": false
         },
@@ -76195,13 +76195,13 @@
       "recordGUID": "d62c3e24-0b9a-4de9-8590-b22189fe030a",
       "isReward": true,
       "rewardMissions": [
-        "InterSec Defense Solutions: Retrieve Additional Smuggler Intel"
+        "InterSec: Retrieve Additional Smuggler Intel"
       ],
       "rewardMissionKeys": [
         {
           "titleKey": "kaboos_mission_title",
           "titleEN": "Retrieve Additional Smuggler Intel",
-          "faction": "InterSec Defense Solutions",
+          "faction": "InterSec",
           "systems": [],
           "illegal": false
         }
@@ -76269,13 +76269,13 @@
       "recordGUID": "1ef86967-9f09-43af-b234-a5e9088345cc",
       "isReward": true,
       "rewardMissions": [
-        "InterSec Defense Solutions: Retrieve Additional Smuggler Intel"
+        "InterSec: Retrieve Additional Smuggler Intel"
       ],
       "rewardMissionKeys": [
         {
           "titleKey": "kaboos_mission_title",
           "titleEN": "Retrieve Additional Smuggler Intel",
-          "faction": "InterSec Defense Solutions",
+          "faction": "InterSec",
           "systems": [],
           "illegal": false
         }
@@ -76459,21 +76459,21 @@
       "recordGUID": "7f5ec201-ae52-437a-9327-72732e7c4b84",
       "isReward": true,
       "rewardMissions": [
-        "InterSec Defense Solutions: Recover Vanduul Corpses",
-        "InterSec Defense Solutions: Recover Vanduul Tech"
+        "InterSec: Recover Vanduul Corpses",
+        "InterSec: Recover Vanduul Tech"
       ],
       "rewardMissionKeys": [
         {
           "titleKey": "intersec_resourcegathering_cryopods_title",
           "titleEN": "Recover Vanduul Corpses",
-          "faction": "InterSec Defense Solutions",
+          "faction": "InterSec",
           "systems": [],
           "illegal": false
         },
         {
           "titleKey": "intersec_resourcegathering_tech_title",
           "titleEN": "Recover Vanduul Tech",
-          "faction": "InterSec Defense Solutions",
+          "faction": "InterSec",
           "systems": [],
           "illegal": false
         }
@@ -76790,13 +76790,13 @@
       "recordGUID": "82b03018-62d2-412e-b8c3-2471605e76fe",
       "isReward": true,
       "rewardMissions": [
-        "InterSec Defense Solutions: Retrieve Additional Smuggler Intel"
+        "InterSec: Retrieve Additional Smuggler Intel"
       ],
       "rewardMissionKeys": [
         {
           "titleKey": "kaboos_mission_title",
           "titleEN": "Retrieve Additional Smuggler Intel",
-          "faction": "InterSec Defense Solutions",
+          "faction": "InterSec",
           "systems": [],
           "illegal": false
         }
@@ -76864,13 +76864,13 @@
       "recordGUID": "6024a6ca-197f-42eb-8446-91fb06953b27",
       "isReward": true,
       "rewardMissions": [
-        "InterSec Defense Solutions: Retrieve Additional Smuggler Intel"
+        "InterSec: Retrieve Additional Smuggler Intel"
       ],
       "rewardMissionKeys": [
         {
           "titleKey": "kaboos_mission_title",
           "titleEN": "Retrieve Additional Smuggler Intel",
-          "faction": "InterSec Defense Solutions",
+          "faction": "InterSec",
           "systems": [],
           "illegal": false
         }
@@ -77054,21 +77054,21 @@
       "recordGUID": "8f25d62c-40cb-4cda-9d7b-acfa7704606e",
       "isReward": true,
       "rewardMissions": [
-        "InterSec Defense Solutions: Recover Vanduul Corpses",
-        "InterSec Defense Solutions: Recover Vanduul Tech"
+        "InterSec: Recover Vanduul Corpses",
+        "InterSec: Recover Vanduul Tech"
       ],
       "rewardMissionKeys": [
         {
           "titleKey": "intersec_resourcegathering_cryopods_title",
           "titleEN": "Recover Vanduul Corpses",
-          "faction": "InterSec Defense Solutions",
+          "faction": "InterSec",
           "systems": [],
           "illegal": false
         },
         {
           "titleKey": "intersec_resourcegathering_tech_title",
           "titleEN": "Recover Vanduul Tech",
-          "faction": "InterSec Defense Solutions",
+          "faction": "InterSec",
           "systems": [],
           "illegal": false
         }
@@ -77328,13 +77328,13 @@
       "recordGUID": "f561bc08-cb5e-46c4-8441-111710560c68",
       "isReward": true,
       "rewardMissions": [
-        "InterSec Defense Solutions: Retrieve Additional Smuggler Intel"
+        "InterSec: Retrieve Additional Smuggler Intel"
       ],
       "rewardMissionKeys": [
         {
           "titleKey": "kaboos_mission_title",
           "titleEN": "Retrieve Additional Smuggler Intel",
-          "faction": "InterSec Defense Solutions",
+          "faction": "InterSec",
           "systems": [],
           "illegal": false
         }
@@ -77402,13 +77402,13 @@
       "recordGUID": "07e49825-48e7-454a-a20d-8e4257c52e61",
       "isReward": true,
       "rewardMissions": [
-        "InterSec Defense Solutions: Retrieve Additional Smuggler Intel"
+        "InterSec: Retrieve Additional Smuggler Intel"
       ],
       "rewardMissionKeys": [
         {
           "titleKey": "kaboos_mission_title",
           "titleEN": "Retrieve Additional Smuggler Intel",
-          "faction": "InterSec Defense Solutions",
+          "faction": "InterSec",
           "systems": [],
           "illegal": false
         }
@@ -77592,21 +77592,21 @@
       "recordGUID": "1bfb2db6-2be8-4960-ae41-202cd89019a1",
       "isReward": true,
       "rewardMissions": [
-        "InterSec Defense Solutions: Recover Vanduul Corpses",
-        "InterSec Defense Solutions: Recover Vanduul Tech"
+        "InterSec: Recover Vanduul Corpses",
+        "InterSec: Recover Vanduul Tech"
       ],
       "rewardMissionKeys": [
         {
           "titleKey": "intersec_resourcegathering_cryopods_title",
           "titleEN": "Recover Vanduul Corpses",
-          "faction": "InterSec Defense Solutions",
+          "faction": "InterSec",
           "systems": [],
           "illegal": false
         },
         {
           "titleKey": "intersec_resourcegathering_tech_title",
           "titleEN": "Recover Vanduul Tech",
-          "faction": "InterSec Defense Solutions",
+          "faction": "InterSec",
           "systems": [],
           "illegal": false
         }
@@ -77866,13 +77866,13 @@
       "recordGUID": "af5b9b3b-2b13-4ff7-8b2f-8d251a4fa272",
       "isReward": true,
       "rewardMissions": [
-        "InterSec Defense Solutions: Retrieve Additional Smuggler Intel"
+        "InterSec: Retrieve Additional Smuggler Intel"
       ],
       "rewardMissionKeys": [
         {
           "titleKey": "kaboos_mission_title",
           "titleEN": "Retrieve Additional Smuggler Intel",
-          "faction": "InterSec Defense Solutions",
+          "faction": "InterSec",
           "systems": [],
           "illegal": false
         }
@@ -77940,13 +77940,13 @@
       "recordGUID": "fba490b7-13e5-463b-a774-c8ebd215738e",
       "isReward": true,
       "rewardMissions": [
-        "InterSec Defense Solutions: Retrieve Additional Smuggler Intel"
+        "InterSec: Retrieve Additional Smuggler Intel"
       ],
       "rewardMissionKeys": [
         {
           "titleKey": "kaboos_mission_title",
           "titleEN": "Retrieve Additional Smuggler Intel",
-          "faction": "InterSec Defense Solutions",
+          "faction": "InterSec",
           "systems": [],
           "illegal": false
         }
@@ -78130,21 +78130,21 @@
       "recordGUID": "9a5f0389-4850-442c-8d3d-73bde5418406",
       "isReward": true,
       "rewardMissions": [
-        "InterSec Defense Solutions: Recover Vanduul Corpses",
-        "InterSec Defense Solutions: Recover Vanduul Tech"
+        "InterSec: Recover Vanduul Corpses",
+        "InterSec: Recover Vanduul Tech"
       ],
       "rewardMissionKeys": [
         {
           "titleKey": "intersec_resourcegathering_cryopods_title",
           "titleEN": "Recover Vanduul Corpses",
-          "faction": "InterSec Defense Solutions",
+          "faction": "InterSec",
           "systems": [],
           "illegal": false
         },
         {
           "titleKey": "intersec_resourcegathering_tech_title",
           "titleEN": "Recover Vanduul Tech",
-          "faction": "InterSec Defense Solutions",
+          "faction": "InterSec",
           "systems": [],
           "illegal": false
         }
