@@ -5107,10 +5107,10 @@
         "Foxwell: Foxwell_DefendDestructibleEntites_S_Title_001",
         "Foxwell: Foxwell_DefendDestructibleEntites_VE_Title_001",
         "Foxwell: Foxwell_DefendDestructibleEntites_VH_Title_001",
-        "FoxwellEnforcement: Orange Level Contract: Destroy Outlaw Threat",
-        "FoxwellEnforcement: Orange Level Contract: Take Out Criminal Fleet",
-        "FoxwellEnforcement: Yellow Level Contract: Clear Shipjacking Group",
-        "FoxwellEnforcement: Yellow Level Contract: Neutralize Shipjacking Gang"
+        "Foxwell: Orange Level Contract: Destroy Outlaw Threat",
+        "Foxwell: Orange Level Contract: Take Out Criminal Fleet",
+        "Foxwell: Yellow Level Contract: Clear Shipjacking Group",
+        "Foxwell: Yellow Level Contract: Neutralize Shipjacking Gang"
       ],
       "rewardMissionKeys": [
         {
@@ -5170,7 +5170,7 @@
         {
           "titleKey": "foxwell_shipwaveattack_clearhostiles_title_m_001",
           "titleEN": "Orange Level Contract: Destroy Outlaw Threat",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Stanton"
           ],
@@ -5179,7 +5179,7 @@
         {
           "titleKey": "foxwell_shipwaveattack_clearhostiles_title_h_001",
           "titleEN": "Orange Level Contract: Take Out Criminal Fleet",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Stanton"
           ],
@@ -5188,7 +5188,7 @@
         {
           "titleKey": "foxwell_shipwaveattack_clearhostiles_title_ve_001",
           "titleEN": "Yellow Level Contract: Clear Shipjacking Group",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Stanton"
           ],
@@ -5197,7 +5197,7 @@
         {
           "titleKey": "foxwell_shipwaveattack_clearhostiles_title_e_001",
           "titleEN": "Yellow Level Contract: Neutralize Shipjacking Gang",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Stanton"
           ],
@@ -5267,18 +5267,18 @@
       "recordGUID": "5dc3e1ce-22b9-4616-a4b6-5a7b18df07a9",
       "isReward": true,
       "rewardMissions": [
-        "FoxwellEnforcement: Orange Level Contract: Return the Favor",
-        "FoxwellEnforcement: Orange Level Contract: Spring a Trap",
-        "FoxwellEnforcement: Red Level Contract: Ambush Attack Squad",
-        "FoxwellEnforcement: Red Level Contract: Surprise Attack",
-        "FoxwellEnforcement: Yellow Level Contract: Ambush An Amateur",
-        "FoxwellEnforcement: Yellow Level Contract: Surprise Strike"
+        "Foxwell: Orange Level Contract: Return the Favor",
+        "Foxwell: Orange Level Contract: Spring a Trap",
+        "Foxwell: Red Level Contract: Ambush Attack Squad",
+        "Foxwell: Red Level Contract: Surprise Attack",
+        "Foxwell: Yellow Level Contract: Ambush An Amateur",
+        "Foxwell: Yellow Level Contract: Surprise Strike"
       ],
       "rewardMissionKeys": [
         {
           "titleKey": "foxwell_shipambush_h_title_001",
           "titleEN": "Orange Level Contract: Return the Favor",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Pyro",
             "Stanton"
@@ -5288,7 +5288,7 @@
         {
           "titleKey": "foxwell_shipambush_m_title_001",
           "titleEN": "Orange Level Contract: Spring a Trap",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Pyro",
             "Stanton"
@@ -5298,7 +5298,7 @@
         {
           "titleKey": "foxwell_shipambush_vh_title_001",
           "titleEN": "Red Level Contract: Ambush Attack Squad",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Pyro",
             "Stanton"
@@ -5308,7 +5308,7 @@
         {
           "titleKey": "foxwell_shipambush_s_title_001",
           "titleEN": "Red Level Contract: Surprise Attack",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Pyro",
             "Stanton"
@@ -5318,7 +5318,7 @@
         {
           "titleKey": "foxwell_shipambush_ve_title_001",
           "titleEN": "Yellow Level Contract: Ambush An Amateur",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Pyro",
             "Stanton"
@@ -5328,7 +5328,7 @@
         {
           "titleKey": "foxwell_shipambush_e_title_001",
           "titleEN": "Yellow Level Contract: Surprise Strike",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Pyro",
             "Stanton"
@@ -5399,37 +5399,37 @@
       "recordGUID": "cdd236fa-56b9-4913-90cf-be7f4e6ca5a7",
       "isReward": true,
       "rewardMissions": [
-        "FoxwellEnforcement: Carefully Clear Site",
-        "FoxwellEnforcement: Destroy Dangerous Drugs",
-        "FoxwellEnforcement: Destroy Illegal Drugs",
-        "FoxwellEnforcement: Help Protect Site",
-        "FoxwellEnforcement: Knock Out New Drug Op",
-        "FoxwellEnforcement: Orange Level Contract: Destroy Outlaw Infrastructure",
-        "FoxwellEnforcement: Orange Level Contract: Take Out Fuel Supplies",
-        "FoxwellEnforcement: Orange Level Contract: ~mission(Ship) Needs Assistance",
-        "FoxwellEnforcement: Precision Strike on ~mission(TargetName)",
+        "Foxwell: Carefully Clear Site",
+        "Foxwell: Destroy Dangerous Drugs",
+        "Foxwell: Destroy Illegal Drugs",
+        "Foxwell: Help Protect Site",
+        "Foxwell: Knock Out New Drug Op",
+        "Foxwell: Orange Level Contract: Destroy Outlaw Infrastructure",
+        "Foxwell: Orange Level Contract: Take Out Fuel Supplies",
+        "Foxwell: Orange Level Contract: ~mission(Ship) Needs Assistance",
+        "Foxwell: Precision Strike on ~mission(TargetName)",
         "Foxwell: Red Level Contract: Clear PAFs, Recover Cargo, and Deliver to OLP",
-        "FoxwellEnforcement: Red Level Contract: Destroy Outlaw Infrastructure",
-        "FoxwellEnforcement: Red Level Contract: Fuel Container Demolition",
+        "Foxwell: Red Level Contract: Destroy Outlaw Infrastructure",
+        "Foxwell: Red Level Contract: Fuel Container Demolition",
         "Foxwell: Red Level Contract: Recoup Stolen Cargo Haul",
         "Foxwell: Red Level Contract: Retrieve Cargo Haul",
-        "FoxwellEnforcement: Red Level Contract: Ship Under Attack",
-        "FoxwellEnforcement: Still Looking for Work?",
-        "FoxwellEnforcement: Sweep and Clear Location",
-        "FoxwellEnforcement: Track Down ~mission(TargetName)",
-        "FoxwellEnforcement: Yellow Level Contract: Clear Out PAF",
-        "FoxwellEnforcement: Yellow Level Contract: Disrupt Operations",
-        "FoxwellEnforcement: Yellow Level Contract: Limiting Potential Threat",
-        "FoxwellEnforcement: Yellow Level Contract: Merc Work",
-        "FoxwellEnforcement: Yellow Level Contract: Ship Under Attack",
-        "FoxwellEnforcement: cfp_EliminateAllFF_Title_001",
+        "Foxwell: Red Level Contract: Ship Under Attack",
+        "Foxwell: Still Looking for Work?",
+        "Foxwell: Sweep and Clear Location",
+        "Foxwell: Track Down ~mission(TargetName)",
+        "Foxwell: Yellow Level Contract: Clear Out PAF",
+        "Foxwell: Yellow Level Contract: Disrupt Operations",
+        "Foxwell: Yellow Level Contract: Limiting Potential Threat",
+        "Foxwell: Yellow Level Contract: Merc Work",
+        "Foxwell: Yellow Level Contract: Ship Under Attack",
+        "Foxwell: cfp_EliminateAllFF_Title_001",
         "Foxwell: ~mission(Contractor|DestroyProbeTitle)"
       ],
       "rewardMissionKeys": [
         {
           "titleKey": "foxwell_eliminateall_nonhostiles_title_001",
           "titleEN": "Carefully Clear Site",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Stanton"
           ],
@@ -5438,7 +5438,7 @@
         {
           "titleKey": "foxwell_destroynarcotics_h_title_001",
           "titleEN": "Destroy Dangerous Drugs",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Stanton"
           ],
@@ -5447,7 +5447,7 @@
         {
           "titleKey": "foxwell_destroynarcotics_m_title_001",
           "titleEN": "Destroy Illegal Drugs",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Stanton"
           ],
@@ -5456,7 +5456,7 @@
         {
           "titleKey": "foxwell_eliminateall_allies_title_001",
           "titleEN": "Help Protect Site",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Stanton"
           ],
@@ -5465,7 +5465,7 @@
         {
           "titleKey": "foxwell_destroynarcotics_e_title_001",
           "titleEN": "Knock Out New Drug Op",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Stanton"
           ],
@@ -5474,7 +5474,7 @@
         {
           "titleKey": "foxwell_bombingrun_h_title_001",
           "titleEN": "Orange Level Contract: Destroy Outlaw Infrastructure",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Stanton"
           ],
@@ -5483,7 +5483,7 @@
         {
           "titleKey": "foxwell_bombingrun_m_title_001",
           "titleEN": "Orange Level Contract: Take Out Fuel Supplies",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Stanton"
           ],
@@ -5492,7 +5492,7 @@
         {
           "titleKey": "foxwell_defendship_m_title_001",
           "titleEN": "Orange Level Contract: ~mission(Ship) Needs Assistance",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Stanton"
           ],
@@ -5501,7 +5501,7 @@
         {
           "titleKey": "foxwell_eliminatespecific_nonhostiles_title_001",
           "titleEN": "Precision Strike on ~mission(TargetName)",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Stanton"
           ],
@@ -5519,7 +5519,7 @@
         {
           "titleKey": "foxwell_bombingrun_s_title_001",
           "titleEN": "Red Level Contract: Destroy Outlaw Infrastructure",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Stanton"
           ],
@@ -5528,7 +5528,7 @@
         {
           "titleKey": "foxwell_bombingrun_vh_title_001",
           "titleEN": "Red Level Contract: Fuel Container Demolition",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Stanton"
           ],
@@ -5555,7 +5555,7 @@
         {
           "titleKey": "foxwell_defendship_h_title_001",
           "titleEN": "Red Level Contract: Ship Under Attack",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Stanton"
           ],
@@ -5564,7 +5564,7 @@
         {
           "titleKey": "foxwell_mercenary_rehire_title_001",
           "titleEN": "Still Looking for Work?",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Stanton"
           ],
@@ -5573,7 +5573,7 @@
         {
           "titleKey": "foxwell_eliminateall_title_001",
           "titleEN": "Sweep and Clear Location",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Stanton"
           ],
@@ -5582,7 +5582,7 @@
         {
           "titleKey": "foxwell_eliminatespecific_title_001",
           "titleEN": "Track Down ~mission(TargetName)",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Stanton"
           ],
@@ -5591,7 +5591,7 @@
         {
           "titleKey": "foxwell_eliminateall_paf_m_title_001",
           "titleEN": "Yellow Level Contract: Clear Out PAF",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Stanton"
           ],
@@ -5600,7 +5600,7 @@
         {
           "titleKey": "foxwell_bombingrun_e_title_001",
           "titleEN": "Yellow Level Contract: Disrupt Operations",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Stanton"
           ],
@@ -5609,7 +5609,7 @@
         {
           "titleKey": "foxwell_bombingrun_ve_title_001",
           "titleEN": "Yellow Level Contract: Limiting Potential Threat",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Stanton"
           ],
@@ -5618,7 +5618,7 @@
         {
           "titleKey": "foxwell_eliminateall_olp_m_title_001",
           "titleEN": "Yellow Level Contract: Merc Work",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Stanton"
           ],
@@ -5627,7 +5627,7 @@
         {
           "titleKey": "foxwell_defendship_e_title_001",
           "titleEN": "Yellow Level Contract: Ship Under Attack",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Stanton"
           ],
@@ -5636,7 +5636,7 @@
         {
           "titleKey": "cfp_eliminateallff_title_001",
           "titleEN": "cfp_EliminateAllFF_Title_001",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Stanton"
           ],
@@ -5779,37 +5779,37 @@
       "recordGUID": "dbecb53a-9eaa-4f11-acd3-54690d502fe9",
       "isReward": true,
       "rewardMissions": [
-        "FoxwellEnforcement: Carefully Clear Site",
-        "FoxwellEnforcement: Destroy Dangerous Drugs",
-        "FoxwellEnforcement: Destroy Illegal Drugs",
-        "FoxwellEnforcement: Help Protect Site",
-        "FoxwellEnforcement: Knock Out New Drug Op",
-        "FoxwellEnforcement: Orange Level Contract: Destroy Outlaw Infrastructure",
-        "FoxwellEnforcement: Orange Level Contract: Take Out Fuel Supplies",
-        "FoxwellEnforcement: Orange Level Contract: ~mission(Ship) Needs Assistance",
-        "FoxwellEnforcement: Precision Strike on ~mission(TargetName)",
+        "Foxwell: Carefully Clear Site",
+        "Foxwell: Destroy Dangerous Drugs",
+        "Foxwell: Destroy Illegal Drugs",
+        "Foxwell: Help Protect Site",
+        "Foxwell: Knock Out New Drug Op",
+        "Foxwell: Orange Level Contract: Destroy Outlaw Infrastructure",
+        "Foxwell: Orange Level Contract: Take Out Fuel Supplies",
+        "Foxwell: Orange Level Contract: ~mission(Ship) Needs Assistance",
+        "Foxwell: Precision Strike on ~mission(TargetName)",
         "Foxwell: Red Level Contract: Clear PAFs, Recover Cargo, and Deliver to OLP",
-        "FoxwellEnforcement: Red Level Contract: Destroy Outlaw Infrastructure",
-        "FoxwellEnforcement: Red Level Contract: Fuel Container Demolition",
+        "Foxwell: Red Level Contract: Destroy Outlaw Infrastructure",
+        "Foxwell: Red Level Contract: Fuel Container Demolition",
         "Foxwell: Red Level Contract: Recoup Stolen Cargo Haul",
         "Foxwell: Red Level Contract: Retrieve Cargo Haul",
-        "FoxwellEnforcement: Red Level Contract: Ship Under Attack",
-        "FoxwellEnforcement: Still Looking for Work?",
-        "FoxwellEnforcement: Sweep and Clear Location",
-        "FoxwellEnforcement: Track Down ~mission(TargetName)",
-        "FoxwellEnforcement: Yellow Level Contract: Clear Out PAF",
-        "FoxwellEnforcement: Yellow Level Contract: Disrupt Operations",
-        "FoxwellEnforcement: Yellow Level Contract: Limiting Potential Threat",
-        "FoxwellEnforcement: Yellow Level Contract: Merc Work",
-        "FoxwellEnforcement: Yellow Level Contract: Ship Under Attack",
-        "FoxwellEnforcement: cfp_EliminateAllFF_Title_001",
+        "Foxwell: Red Level Contract: Ship Under Attack",
+        "Foxwell: Still Looking for Work?",
+        "Foxwell: Sweep and Clear Location",
+        "Foxwell: Track Down ~mission(TargetName)",
+        "Foxwell: Yellow Level Contract: Clear Out PAF",
+        "Foxwell: Yellow Level Contract: Disrupt Operations",
+        "Foxwell: Yellow Level Contract: Limiting Potential Threat",
+        "Foxwell: Yellow Level Contract: Merc Work",
+        "Foxwell: Yellow Level Contract: Ship Under Attack",
+        "Foxwell: cfp_EliminateAllFF_Title_001",
         "Foxwell: ~mission(Contractor|DestroyProbeTitle)"
       ],
       "rewardMissionKeys": [
         {
           "titleKey": "foxwell_eliminateall_nonhostiles_title_001",
           "titleEN": "Carefully Clear Site",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Stanton"
           ],
@@ -5818,7 +5818,7 @@
         {
           "titleKey": "foxwell_destroynarcotics_h_title_001",
           "titleEN": "Destroy Dangerous Drugs",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Stanton"
           ],
@@ -5827,7 +5827,7 @@
         {
           "titleKey": "foxwell_destroynarcotics_m_title_001",
           "titleEN": "Destroy Illegal Drugs",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Stanton"
           ],
@@ -5836,7 +5836,7 @@
         {
           "titleKey": "foxwell_eliminateall_allies_title_001",
           "titleEN": "Help Protect Site",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Stanton"
           ],
@@ -5845,7 +5845,7 @@
         {
           "titleKey": "foxwell_destroynarcotics_e_title_001",
           "titleEN": "Knock Out New Drug Op",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Stanton"
           ],
@@ -5854,7 +5854,7 @@
         {
           "titleKey": "foxwell_bombingrun_h_title_001",
           "titleEN": "Orange Level Contract: Destroy Outlaw Infrastructure",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Stanton"
           ],
@@ -5863,7 +5863,7 @@
         {
           "titleKey": "foxwell_bombingrun_m_title_001",
           "titleEN": "Orange Level Contract: Take Out Fuel Supplies",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Stanton"
           ],
@@ -5872,7 +5872,7 @@
         {
           "titleKey": "foxwell_defendship_m_title_001",
           "titleEN": "Orange Level Contract: ~mission(Ship) Needs Assistance",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Stanton"
           ],
@@ -5881,7 +5881,7 @@
         {
           "titleKey": "foxwell_eliminatespecific_nonhostiles_title_001",
           "titleEN": "Precision Strike on ~mission(TargetName)",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Stanton"
           ],
@@ -5899,7 +5899,7 @@
         {
           "titleKey": "foxwell_bombingrun_s_title_001",
           "titleEN": "Red Level Contract: Destroy Outlaw Infrastructure",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Stanton"
           ],
@@ -5908,7 +5908,7 @@
         {
           "titleKey": "foxwell_bombingrun_vh_title_001",
           "titleEN": "Red Level Contract: Fuel Container Demolition",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Stanton"
           ],
@@ -5935,7 +5935,7 @@
         {
           "titleKey": "foxwell_defendship_h_title_001",
           "titleEN": "Red Level Contract: Ship Under Attack",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Stanton"
           ],
@@ -5944,7 +5944,7 @@
         {
           "titleKey": "foxwell_mercenary_rehire_title_001",
           "titleEN": "Still Looking for Work?",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Stanton"
           ],
@@ -5953,7 +5953,7 @@
         {
           "titleKey": "foxwell_eliminateall_title_001",
           "titleEN": "Sweep and Clear Location",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Stanton"
           ],
@@ -5962,7 +5962,7 @@
         {
           "titleKey": "foxwell_eliminatespecific_title_001",
           "titleEN": "Track Down ~mission(TargetName)",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Stanton"
           ],
@@ -5971,7 +5971,7 @@
         {
           "titleKey": "foxwell_eliminateall_paf_m_title_001",
           "titleEN": "Yellow Level Contract: Clear Out PAF",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Stanton"
           ],
@@ -5980,7 +5980,7 @@
         {
           "titleKey": "foxwell_bombingrun_e_title_001",
           "titleEN": "Yellow Level Contract: Disrupt Operations",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Stanton"
           ],
@@ -5989,7 +5989,7 @@
         {
           "titleKey": "foxwell_bombingrun_ve_title_001",
           "titleEN": "Yellow Level Contract: Limiting Potential Threat",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Stanton"
           ],
@@ -5998,7 +5998,7 @@
         {
           "titleKey": "foxwell_eliminateall_olp_m_title_001",
           "titleEN": "Yellow Level Contract: Merc Work",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Stanton"
           ],
@@ -6007,7 +6007,7 @@
         {
           "titleKey": "foxwell_defendship_e_title_001",
           "titleEN": "Yellow Level Contract: Ship Under Attack",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Stanton"
           ],
@@ -6016,7 +6016,7 @@
         {
           "titleKey": "cfp_eliminateallff_title_001",
           "titleEN": "cfp_EliminateAllFF_Title_001",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Stanton"
           ],
@@ -6095,18 +6095,18 @@
       "recordGUID": "3a8077f9-c66c-42b0-9a13-926edea06946",
       "isReward": true,
       "rewardMissions": [
-        "FoxwellEnforcement: Orange Level Contract: Potential Security Threat",
-        "FoxwellEnforcement: Orange Level Contract: Security Patrol",
-        "FoxwellEnforcement: Red Level Contract: High-Risk Security Patrol",
-        "FoxwellEnforcement: Red Level Contract: Secure Threatened Space",
-        "FoxwellEnforcement: Yellow Level Contract: Routine Patrol",
-        "FoxwellEnforcement: Yellow Level Contract: Security Sweep"
+        "Foxwell: Orange Level Contract: Potential Security Threat",
+        "Foxwell: Orange Level Contract: Security Patrol",
+        "Foxwell: Red Level Contract: High-Risk Security Patrol",
+        "Foxwell: Red Level Contract: Secure Threatened Space",
+        "Foxwell: Yellow Level Contract: Routine Patrol",
+        "Foxwell: Yellow Level Contract: Security Sweep"
       ],
       "rewardMissionKeys": [
         {
           "titleKey": "foxwell_securitypatrol_h_title_001",
           "titleEN": "Orange Level Contract: Potential Security Threat",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Pyro",
             "Stanton"
@@ -6116,7 +6116,7 @@
         {
           "titleKey": "foxwell_securitypatrol_m_title_001",
           "titleEN": "Orange Level Contract: Security Patrol",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Pyro",
             "Stanton"
@@ -6126,7 +6126,7 @@
         {
           "titleKey": "foxwell_securitypatrol_vh_title_001",
           "titleEN": "Red Level Contract: High-Risk Security Patrol",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Pyro",
             "Stanton"
@@ -6136,7 +6136,7 @@
         {
           "titleKey": "foxwell_securitypatrol_s_title_001",
           "titleEN": "Red Level Contract: Secure Threatened Space",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Pyro",
             "Stanton"
@@ -6146,7 +6146,7 @@
         {
           "titleKey": "foxwell_securitypatrol_ve_title_001",
           "titleEN": "Yellow Level Contract: Routine Patrol",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Pyro",
             "Stanton"
@@ -6156,7 +6156,7 @@
         {
           "titleKey": "foxwell_securitypatrol_e_title_001",
           "titleEN": "Yellow Level Contract: Security Sweep",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Pyro",
             "Stanton"
@@ -6227,18 +6227,18 @@
       "recordGUID": "261ce634-2bd0-4111-b535-f09473864e2b",
       "isReward": true,
       "rewardMissions": [
-        "FoxwellEnforcement: Orange Level Contract: Protect Our Client’s Interests",
-        "FoxwellEnforcement: Orange Level Contract: Ship Protection Needed",
-        "FoxwellEnforcement: Red Level Contract: Save Ships at ~mission(DefendLocationWrapperLocation)",
-        "FoxwellEnforcement: Red Level Contract: Support VIP Clients",
-        "FoxwellEnforcement: Yellow Level Contract: Defend ~mission(DefendLocationWrapperLocation)",
-        "FoxwellEnforcement: Yellow Level Contract: Stand Up to Aggressors"
+        "Foxwell: Orange Level Contract: Protect Our Client’s Interests",
+        "Foxwell: Orange Level Contract: Ship Protection Needed",
+        "Foxwell: Red Level Contract: Save Ships at ~mission(DefendLocationWrapperLocation)",
+        "Foxwell: Red Level Contract: Support VIP Clients",
+        "Foxwell: Yellow Level Contract: Defend ~mission(DefendLocationWrapperLocation)",
+        "Foxwell: Yellow Level Contract: Stand Up to Aggressors"
       ],
       "rewardMissionKeys": [
         {
           "titleKey": "foxwell_defendlocation_h_title_001",
           "titleEN": "Orange Level Contract: Protect Our Client’s Interests",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Pyro",
             "Stanton"
@@ -6248,7 +6248,7 @@
         {
           "titleKey": "foxwell_defendlocation_m_title_001",
           "titleEN": "Orange Level Contract: Ship Protection Needed",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Pyro",
             "Stanton"
@@ -6258,7 +6258,7 @@
         {
           "titleKey": "foxwell_defendlocation_vh_title_001",
           "titleEN": "Red Level Contract: Save Ships at ~mission(DefendLocationWrapperLocation)",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Pyro",
             "Stanton"
@@ -6268,7 +6268,7 @@
         {
           "titleKey": "foxwell_defendlocation_s_title_001",
           "titleEN": "Red Level Contract: Support VIP Clients",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Pyro",
             "Stanton"
@@ -6278,7 +6278,7 @@
         {
           "titleKey": "foxwell_defendlocation_e_title_001",
           "titleEN": "Yellow Level Contract: Defend ~mission(DefendLocationWrapperLocation)",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Pyro",
             "Stanton"
@@ -6288,7 +6288,7 @@
         {
           "titleKey": "foxwell_defendlocation_ve_title_001",
           "titleEN": "Yellow Level Contract: Stand Up to Aggressors",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Pyro",
             "Stanton"
@@ -6365,10 +6365,10 @@
         "Foxwell: Foxwell_DefendDestructibleEntites_S_Title_001",
         "Foxwell: Foxwell_DefendDestructibleEntites_VE_Title_001",
         "Foxwell: Foxwell_DefendDestructibleEntites_VH_Title_001",
-        "FoxwellEnforcement: Orange Level Contract: Destroy Outlaw Threat",
-        "FoxwellEnforcement: Orange Level Contract: Take Out Criminal Fleet",
-        "FoxwellEnforcement: Yellow Level Contract: Clear Shipjacking Group",
-        "FoxwellEnforcement: Yellow Level Contract: Neutralize Shipjacking Gang"
+        "Foxwell: Orange Level Contract: Destroy Outlaw Threat",
+        "Foxwell: Orange Level Contract: Take Out Criminal Fleet",
+        "Foxwell: Yellow Level Contract: Clear Shipjacking Group",
+        "Foxwell: Yellow Level Contract: Neutralize Shipjacking Gang"
       ],
       "rewardMissionKeys": [
         {
@@ -6428,7 +6428,7 @@
         {
           "titleKey": "foxwell_shipwaveattack_clearhostiles_title_m_001",
           "titleEN": "Orange Level Contract: Destroy Outlaw Threat",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Stanton"
           ],
@@ -6437,7 +6437,7 @@
         {
           "titleKey": "foxwell_shipwaveattack_clearhostiles_title_h_001",
           "titleEN": "Orange Level Contract: Take Out Criminal Fleet",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Stanton"
           ],
@@ -6446,7 +6446,7 @@
         {
           "titleKey": "foxwell_shipwaveattack_clearhostiles_title_ve_001",
           "titleEN": "Yellow Level Contract: Clear Shipjacking Group",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Stanton"
           ],
@@ -6455,7 +6455,7 @@
         {
           "titleKey": "foxwell_shipwaveattack_clearhostiles_title_e_001",
           "titleEN": "Yellow Level Contract: Neutralize Shipjacking Gang",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Stanton"
           ],
@@ -6525,18 +6525,18 @@
       "recordGUID": "9876eb01-42b0-474c-a002-491ff662a3bf",
       "isReward": true,
       "rewardMissions": [
-        "FoxwellEnforcement: Orange Level Contract: Return the Favor",
-        "FoxwellEnforcement: Orange Level Contract: Spring a Trap",
-        "FoxwellEnforcement: Red Level Contract: Ambush Attack Squad",
-        "FoxwellEnforcement: Red Level Contract: Surprise Attack",
-        "FoxwellEnforcement: Yellow Level Contract: Ambush An Amateur",
-        "FoxwellEnforcement: Yellow Level Contract: Surprise Strike"
+        "Foxwell: Orange Level Contract: Return the Favor",
+        "Foxwell: Orange Level Contract: Spring a Trap",
+        "Foxwell: Red Level Contract: Ambush Attack Squad",
+        "Foxwell: Red Level Contract: Surprise Attack",
+        "Foxwell: Yellow Level Contract: Ambush An Amateur",
+        "Foxwell: Yellow Level Contract: Surprise Strike"
       ],
       "rewardMissionKeys": [
         {
           "titleKey": "foxwell_shipambush_h_title_001",
           "titleEN": "Orange Level Contract: Return the Favor",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Pyro",
             "Stanton"
@@ -6546,7 +6546,7 @@
         {
           "titleKey": "foxwell_shipambush_m_title_001",
           "titleEN": "Orange Level Contract: Spring a Trap",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Pyro",
             "Stanton"
@@ -6556,7 +6556,7 @@
         {
           "titleKey": "foxwell_shipambush_vh_title_001",
           "titleEN": "Red Level Contract: Ambush Attack Squad",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Pyro",
             "Stanton"
@@ -6566,7 +6566,7 @@
         {
           "titleKey": "foxwell_shipambush_s_title_001",
           "titleEN": "Red Level Contract: Surprise Attack",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Pyro",
             "Stanton"
@@ -6576,7 +6576,7 @@
         {
           "titleKey": "foxwell_shipambush_ve_title_001",
           "titleEN": "Yellow Level Contract: Ambush An Amateur",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Pyro",
             "Stanton"
@@ -6586,7 +6586,7 @@
         {
           "titleKey": "foxwell_shipambush_e_title_001",
           "titleEN": "Yellow Level Contract: Surprise Strike",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Pyro",
             "Stanton"
@@ -6657,37 +6657,37 @@
       "recordGUID": "197066ae-86df-40a1-a10b-1b927a43cbe7",
       "isReward": true,
       "rewardMissions": [
-        "FoxwellEnforcement: Carefully Clear Site",
-        "FoxwellEnforcement: Destroy Dangerous Drugs",
-        "FoxwellEnforcement: Destroy Illegal Drugs",
-        "FoxwellEnforcement: Help Protect Site",
-        "FoxwellEnforcement: Knock Out New Drug Op",
-        "FoxwellEnforcement: Orange Level Contract: Destroy Outlaw Infrastructure",
-        "FoxwellEnforcement: Orange Level Contract: Take Out Fuel Supplies",
-        "FoxwellEnforcement: Orange Level Contract: ~mission(Ship) Needs Assistance",
-        "FoxwellEnforcement: Precision Strike on ~mission(TargetName)",
+        "Foxwell: Carefully Clear Site",
+        "Foxwell: Destroy Dangerous Drugs",
+        "Foxwell: Destroy Illegal Drugs",
+        "Foxwell: Help Protect Site",
+        "Foxwell: Knock Out New Drug Op",
+        "Foxwell: Orange Level Contract: Destroy Outlaw Infrastructure",
+        "Foxwell: Orange Level Contract: Take Out Fuel Supplies",
+        "Foxwell: Orange Level Contract: ~mission(Ship) Needs Assistance",
+        "Foxwell: Precision Strike on ~mission(TargetName)",
         "Foxwell: Red Level Contract: Clear PAFs, Recover Cargo, and Deliver to OLP",
-        "FoxwellEnforcement: Red Level Contract: Destroy Outlaw Infrastructure",
-        "FoxwellEnforcement: Red Level Contract: Fuel Container Demolition",
+        "Foxwell: Red Level Contract: Destroy Outlaw Infrastructure",
+        "Foxwell: Red Level Contract: Fuel Container Demolition",
         "Foxwell: Red Level Contract: Recoup Stolen Cargo Haul",
         "Foxwell: Red Level Contract: Retrieve Cargo Haul",
-        "FoxwellEnforcement: Red Level Contract: Ship Under Attack",
-        "FoxwellEnforcement: Still Looking for Work?",
-        "FoxwellEnforcement: Sweep and Clear Location",
-        "FoxwellEnforcement: Track Down ~mission(TargetName)",
-        "FoxwellEnforcement: Yellow Level Contract: Clear Out PAF",
-        "FoxwellEnforcement: Yellow Level Contract: Disrupt Operations",
-        "FoxwellEnforcement: Yellow Level Contract: Limiting Potential Threat",
-        "FoxwellEnforcement: Yellow Level Contract: Merc Work",
-        "FoxwellEnforcement: Yellow Level Contract: Ship Under Attack",
-        "FoxwellEnforcement: cfp_EliminateAllFF_Title_001",
+        "Foxwell: Red Level Contract: Ship Under Attack",
+        "Foxwell: Still Looking for Work?",
+        "Foxwell: Sweep and Clear Location",
+        "Foxwell: Track Down ~mission(TargetName)",
+        "Foxwell: Yellow Level Contract: Clear Out PAF",
+        "Foxwell: Yellow Level Contract: Disrupt Operations",
+        "Foxwell: Yellow Level Contract: Limiting Potential Threat",
+        "Foxwell: Yellow Level Contract: Merc Work",
+        "Foxwell: Yellow Level Contract: Ship Under Attack",
+        "Foxwell: cfp_EliminateAllFF_Title_001",
         "Foxwell: ~mission(Contractor|DestroyProbeTitle)"
       ],
       "rewardMissionKeys": [
         {
           "titleKey": "foxwell_eliminateall_nonhostiles_title_001",
           "titleEN": "Carefully Clear Site",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Stanton"
           ],
@@ -6696,7 +6696,7 @@
         {
           "titleKey": "foxwell_destroynarcotics_h_title_001",
           "titleEN": "Destroy Dangerous Drugs",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Stanton"
           ],
@@ -6705,7 +6705,7 @@
         {
           "titleKey": "foxwell_destroynarcotics_m_title_001",
           "titleEN": "Destroy Illegal Drugs",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Stanton"
           ],
@@ -6714,7 +6714,7 @@
         {
           "titleKey": "foxwell_eliminateall_allies_title_001",
           "titleEN": "Help Protect Site",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Stanton"
           ],
@@ -6723,7 +6723,7 @@
         {
           "titleKey": "foxwell_destroynarcotics_e_title_001",
           "titleEN": "Knock Out New Drug Op",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Stanton"
           ],
@@ -6732,7 +6732,7 @@
         {
           "titleKey": "foxwell_bombingrun_h_title_001",
           "titleEN": "Orange Level Contract: Destroy Outlaw Infrastructure",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Stanton"
           ],
@@ -6741,7 +6741,7 @@
         {
           "titleKey": "foxwell_bombingrun_m_title_001",
           "titleEN": "Orange Level Contract: Take Out Fuel Supplies",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Stanton"
           ],
@@ -6750,7 +6750,7 @@
         {
           "titleKey": "foxwell_defendship_m_title_001",
           "titleEN": "Orange Level Contract: ~mission(Ship) Needs Assistance",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Stanton"
           ],
@@ -6759,7 +6759,7 @@
         {
           "titleKey": "foxwell_eliminatespecific_nonhostiles_title_001",
           "titleEN": "Precision Strike on ~mission(TargetName)",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Stanton"
           ],
@@ -6777,7 +6777,7 @@
         {
           "titleKey": "foxwell_bombingrun_s_title_001",
           "titleEN": "Red Level Contract: Destroy Outlaw Infrastructure",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Stanton"
           ],
@@ -6786,7 +6786,7 @@
         {
           "titleKey": "foxwell_bombingrun_vh_title_001",
           "titleEN": "Red Level Contract: Fuel Container Demolition",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Stanton"
           ],
@@ -6813,7 +6813,7 @@
         {
           "titleKey": "foxwell_defendship_h_title_001",
           "titleEN": "Red Level Contract: Ship Under Attack",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Stanton"
           ],
@@ -6822,7 +6822,7 @@
         {
           "titleKey": "foxwell_mercenary_rehire_title_001",
           "titleEN": "Still Looking for Work?",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Stanton"
           ],
@@ -6831,7 +6831,7 @@
         {
           "titleKey": "foxwell_eliminateall_title_001",
           "titleEN": "Sweep and Clear Location",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Stanton"
           ],
@@ -6840,7 +6840,7 @@
         {
           "titleKey": "foxwell_eliminatespecific_title_001",
           "titleEN": "Track Down ~mission(TargetName)",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Stanton"
           ],
@@ -6849,7 +6849,7 @@
         {
           "titleKey": "foxwell_eliminateall_paf_m_title_001",
           "titleEN": "Yellow Level Contract: Clear Out PAF",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Stanton"
           ],
@@ -6858,7 +6858,7 @@
         {
           "titleKey": "foxwell_bombingrun_e_title_001",
           "titleEN": "Yellow Level Contract: Disrupt Operations",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Stanton"
           ],
@@ -6867,7 +6867,7 @@
         {
           "titleKey": "foxwell_bombingrun_ve_title_001",
           "titleEN": "Yellow Level Contract: Limiting Potential Threat",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Stanton"
           ],
@@ -6876,7 +6876,7 @@
         {
           "titleKey": "foxwell_eliminateall_olp_m_title_001",
           "titleEN": "Yellow Level Contract: Merc Work",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Stanton"
           ],
@@ -6885,7 +6885,7 @@
         {
           "titleKey": "foxwell_defendship_e_title_001",
           "titleEN": "Yellow Level Contract: Ship Under Attack",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Stanton"
           ],
@@ -6894,7 +6894,7 @@
         {
           "titleKey": "cfp_eliminateallff_title_001",
           "titleEN": "cfp_EliminateAllFF_Title_001",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Stanton"
           ],
@@ -7037,37 +7037,37 @@
       "recordGUID": "dafc406f-d828-4904-bbed-4964158c09e3",
       "isReward": true,
       "rewardMissions": [
-        "FoxwellEnforcement: Carefully Clear Site",
-        "FoxwellEnforcement: Destroy Dangerous Drugs",
-        "FoxwellEnforcement: Destroy Illegal Drugs",
-        "FoxwellEnforcement: Help Protect Site",
-        "FoxwellEnforcement: Knock Out New Drug Op",
-        "FoxwellEnforcement: Orange Level Contract: Destroy Outlaw Infrastructure",
-        "FoxwellEnforcement: Orange Level Contract: Take Out Fuel Supplies",
-        "FoxwellEnforcement: Orange Level Contract: ~mission(Ship) Needs Assistance",
-        "FoxwellEnforcement: Precision Strike on ~mission(TargetName)",
+        "Foxwell: Carefully Clear Site",
+        "Foxwell: Destroy Dangerous Drugs",
+        "Foxwell: Destroy Illegal Drugs",
+        "Foxwell: Help Protect Site",
+        "Foxwell: Knock Out New Drug Op",
+        "Foxwell: Orange Level Contract: Destroy Outlaw Infrastructure",
+        "Foxwell: Orange Level Contract: Take Out Fuel Supplies",
+        "Foxwell: Orange Level Contract: ~mission(Ship) Needs Assistance",
+        "Foxwell: Precision Strike on ~mission(TargetName)",
         "Foxwell: Red Level Contract: Clear PAFs, Recover Cargo, and Deliver to OLP",
-        "FoxwellEnforcement: Red Level Contract: Destroy Outlaw Infrastructure",
-        "FoxwellEnforcement: Red Level Contract: Fuel Container Demolition",
+        "Foxwell: Red Level Contract: Destroy Outlaw Infrastructure",
+        "Foxwell: Red Level Contract: Fuel Container Demolition",
         "Foxwell: Red Level Contract: Recoup Stolen Cargo Haul",
         "Foxwell: Red Level Contract: Retrieve Cargo Haul",
-        "FoxwellEnforcement: Red Level Contract: Ship Under Attack",
-        "FoxwellEnforcement: Still Looking for Work?",
-        "FoxwellEnforcement: Sweep and Clear Location",
-        "FoxwellEnforcement: Track Down ~mission(TargetName)",
-        "FoxwellEnforcement: Yellow Level Contract: Clear Out PAF",
-        "FoxwellEnforcement: Yellow Level Contract: Disrupt Operations",
-        "FoxwellEnforcement: Yellow Level Contract: Limiting Potential Threat",
-        "FoxwellEnforcement: Yellow Level Contract: Merc Work",
-        "FoxwellEnforcement: Yellow Level Contract: Ship Under Attack",
-        "FoxwellEnforcement: cfp_EliminateAllFF_Title_001",
+        "Foxwell: Red Level Contract: Ship Under Attack",
+        "Foxwell: Still Looking for Work?",
+        "Foxwell: Sweep and Clear Location",
+        "Foxwell: Track Down ~mission(TargetName)",
+        "Foxwell: Yellow Level Contract: Clear Out PAF",
+        "Foxwell: Yellow Level Contract: Disrupt Operations",
+        "Foxwell: Yellow Level Contract: Limiting Potential Threat",
+        "Foxwell: Yellow Level Contract: Merc Work",
+        "Foxwell: Yellow Level Contract: Ship Under Attack",
+        "Foxwell: cfp_EliminateAllFF_Title_001",
         "Foxwell: ~mission(Contractor|DestroyProbeTitle)"
       ],
       "rewardMissionKeys": [
         {
           "titleKey": "foxwell_eliminateall_nonhostiles_title_001",
           "titleEN": "Carefully Clear Site",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Stanton"
           ],
@@ -7076,7 +7076,7 @@
         {
           "titleKey": "foxwell_destroynarcotics_h_title_001",
           "titleEN": "Destroy Dangerous Drugs",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Stanton"
           ],
@@ -7085,7 +7085,7 @@
         {
           "titleKey": "foxwell_destroynarcotics_m_title_001",
           "titleEN": "Destroy Illegal Drugs",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Stanton"
           ],
@@ -7094,7 +7094,7 @@
         {
           "titleKey": "foxwell_eliminateall_allies_title_001",
           "titleEN": "Help Protect Site",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Stanton"
           ],
@@ -7103,7 +7103,7 @@
         {
           "titleKey": "foxwell_destroynarcotics_e_title_001",
           "titleEN": "Knock Out New Drug Op",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Stanton"
           ],
@@ -7112,7 +7112,7 @@
         {
           "titleKey": "foxwell_bombingrun_h_title_001",
           "titleEN": "Orange Level Contract: Destroy Outlaw Infrastructure",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Stanton"
           ],
@@ -7121,7 +7121,7 @@
         {
           "titleKey": "foxwell_bombingrun_m_title_001",
           "titleEN": "Orange Level Contract: Take Out Fuel Supplies",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Stanton"
           ],
@@ -7130,7 +7130,7 @@
         {
           "titleKey": "foxwell_defendship_m_title_001",
           "titleEN": "Orange Level Contract: ~mission(Ship) Needs Assistance",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Stanton"
           ],
@@ -7139,7 +7139,7 @@
         {
           "titleKey": "foxwell_eliminatespecific_nonhostiles_title_001",
           "titleEN": "Precision Strike on ~mission(TargetName)",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Stanton"
           ],
@@ -7157,7 +7157,7 @@
         {
           "titleKey": "foxwell_bombingrun_s_title_001",
           "titleEN": "Red Level Contract: Destroy Outlaw Infrastructure",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Stanton"
           ],
@@ -7166,7 +7166,7 @@
         {
           "titleKey": "foxwell_bombingrun_vh_title_001",
           "titleEN": "Red Level Contract: Fuel Container Demolition",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Stanton"
           ],
@@ -7193,7 +7193,7 @@
         {
           "titleKey": "foxwell_defendship_h_title_001",
           "titleEN": "Red Level Contract: Ship Under Attack",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Stanton"
           ],
@@ -7202,7 +7202,7 @@
         {
           "titleKey": "foxwell_mercenary_rehire_title_001",
           "titleEN": "Still Looking for Work?",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Stanton"
           ],
@@ -7211,7 +7211,7 @@
         {
           "titleKey": "foxwell_eliminateall_title_001",
           "titleEN": "Sweep and Clear Location",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Stanton"
           ],
@@ -7220,7 +7220,7 @@
         {
           "titleKey": "foxwell_eliminatespecific_title_001",
           "titleEN": "Track Down ~mission(TargetName)",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Stanton"
           ],
@@ -7229,7 +7229,7 @@
         {
           "titleKey": "foxwell_eliminateall_paf_m_title_001",
           "titleEN": "Yellow Level Contract: Clear Out PAF",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Stanton"
           ],
@@ -7238,7 +7238,7 @@
         {
           "titleKey": "foxwell_bombingrun_e_title_001",
           "titleEN": "Yellow Level Contract: Disrupt Operations",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Stanton"
           ],
@@ -7247,7 +7247,7 @@
         {
           "titleKey": "foxwell_bombingrun_ve_title_001",
           "titleEN": "Yellow Level Contract: Limiting Potential Threat",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Stanton"
           ],
@@ -7256,7 +7256,7 @@
         {
           "titleKey": "foxwell_eliminateall_olp_m_title_001",
           "titleEN": "Yellow Level Contract: Merc Work",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Stanton"
           ],
@@ -7265,7 +7265,7 @@
         {
           "titleKey": "foxwell_defendship_e_title_001",
           "titleEN": "Yellow Level Contract: Ship Under Attack",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Stanton"
           ],
@@ -7274,7 +7274,7 @@
         {
           "titleKey": "cfp_eliminateallff_title_001",
           "titleEN": "cfp_EliminateAllFF_Title_001",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Stanton"
           ],
@@ -7353,18 +7353,18 @@
       "recordGUID": "36d48fa7-96de-458e-8aad-29886948bbe6",
       "isReward": true,
       "rewardMissions": [
-        "FoxwellEnforcement: Orange Level Contract: Potential Security Threat",
-        "FoxwellEnforcement: Orange Level Contract: Security Patrol",
-        "FoxwellEnforcement: Red Level Contract: High-Risk Security Patrol",
-        "FoxwellEnforcement: Red Level Contract: Secure Threatened Space",
-        "FoxwellEnforcement: Yellow Level Contract: Routine Patrol",
-        "FoxwellEnforcement: Yellow Level Contract: Security Sweep"
+        "Foxwell: Orange Level Contract: Potential Security Threat",
+        "Foxwell: Orange Level Contract: Security Patrol",
+        "Foxwell: Red Level Contract: High-Risk Security Patrol",
+        "Foxwell: Red Level Contract: Secure Threatened Space",
+        "Foxwell: Yellow Level Contract: Routine Patrol",
+        "Foxwell: Yellow Level Contract: Security Sweep"
       ],
       "rewardMissionKeys": [
         {
           "titleKey": "foxwell_securitypatrol_h_title_001",
           "titleEN": "Orange Level Contract: Potential Security Threat",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Pyro",
             "Stanton"
@@ -7374,7 +7374,7 @@
         {
           "titleKey": "foxwell_securitypatrol_m_title_001",
           "titleEN": "Orange Level Contract: Security Patrol",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Pyro",
             "Stanton"
@@ -7384,7 +7384,7 @@
         {
           "titleKey": "foxwell_securitypatrol_vh_title_001",
           "titleEN": "Red Level Contract: High-Risk Security Patrol",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Pyro",
             "Stanton"
@@ -7394,7 +7394,7 @@
         {
           "titleKey": "foxwell_securitypatrol_s_title_001",
           "titleEN": "Red Level Contract: Secure Threatened Space",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Pyro",
             "Stanton"
@@ -7404,7 +7404,7 @@
         {
           "titleKey": "foxwell_securitypatrol_ve_title_001",
           "titleEN": "Yellow Level Contract: Routine Patrol",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Pyro",
             "Stanton"
@@ -7414,7 +7414,7 @@
         {
           "titleKey": "foxwell_securitypatrol_e_title_001",
           "titleEN": "Yellow Level Contract: Security Sweep",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Pyro",
             "Stanton"
@@ -7485,18 +7485,18 @@
       "recordGUID": "b8bcf4b0-b42a-4a9f-8547-bcf3110245c0",
       "isReward": true,
       "rewardMissions": [
-        "FoxwellEnforcement: Orange Level Contract: Protect Our Client’s Interests",
-        "FoxwellEnforcement: Orange Level Contract: Ship Protection Needed",
-        "FoxwellEnforcement: Red Level Contract: Save Ships at ~mission(DefendLocationWrapperLocation)",
-        "FoxwellEnforcement: Red Level Contract: Support VIP Clients",
-        "FoxwellEnforcement: Yellow Level Contract: Defend ~mission(DefendLocationWrapperLocation)",
-        "FoxwellEnforcement: Yellow Level Contract: Stand Up to Aggressors"
+        "Foxwell: Orange Level Contract: Protect Our Client’s Interests",
+        "Foxwell: Orange Level Contract: Ship Protection Needed",
+        "Foxwell: Red Level Contract: Save Ships at ~mission(DefendLocationWrapperLocation)",
+        "Foxwell: Red Level Contract: Support VIP Clients",
+        "Foxwell: Yellow Level Contract: Defend ~mission(DefendLocationWrapperLocation)",
+        "Foxwell: Yellow Level Contract: Stand Up to Aggressors"
       ],
       "rewardMissionKeys": [
         {
           "titleKey": "foxwell_defendlocation_h_title_001",
           "titleEN": "Orange Level Contract: Protect Our Client’s Interests",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Pyro",
             "Stanton"
@@ -7506,7 +7506,7 @@
         {
           "titleKey": "foxwell_defendlocation_m_title_001",
           "titleEN": "Orange Level Contract: Ship Protection Needed",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Pyro",
             "Stanton"
@@ -7516,7 +7516,7 @@
         {
           "titleKey": "foxwell_defendlocation_vh_title_001",
           "titleEN": "Red Level Contract: Save Ships at ~mission(DefendLocationWrapperLocation)",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Pyro",
             "Stanton"
@@ -7526,7 +7526,7 @@
         {
           "titleKey": "foxwell_defendlocation_s_title_001",
           "titleEN": "Red Level Contract: Support VIP Clients",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Pyro",
             "Stanton"
@@ -7536,7 +7536,7 @@
         {
           "titleKey": "foxwell_defendlocation_e_title_001",
           "titleEN": "Yellow Level Contract: Defend ~mission(DefendLocationWrapperLocation)",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Pyro",
             "Stanton"
@@ -7546,7 +7546,7 @@
         {
           "titleKey": "foxwell_defendlocation_ve_title_001",
           "titleEN": "Yellow Level Contract: Stand Up to Aggressors",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Pyro",
             "Stanton"
@@ -7623,10 +7623,10 @@
         "Foxwell: Foxwell_DefendDestructibleEntites_S_Title_001",
         "Foxwell: Foxwell_DefendDestructibleEntites_VE_Title_001",
         "Foxwell: Foxwell_DefendDestructibleEntites_VH_Title_001",
-        "FoxwellEnforcement: Orange Level Contract: Destroy Outlaw Threat",
-        "FoxwellEnforcement: Orange Level Contract: Take Out Criminal Fleet",
-        "FoxwellEnforcement: Yellow Level Contract: Clear Shipjacking Group",
-        "FoxwellEnforcement: Yellow Level Contract: Neutralize Shipjacking Gang"
+        "Foxwell: Orange Level Contract: Destroy Outlaw Threat",
+        "Foxwell: Orange Level Contract: Take Out Criminal Fleet",
+        "Foxwell: Yellow Level Contract: Clear Shipjacking Group",
+        "Foxwell: Yellow Level Contract: Neutralize Shipjacking Gang"
       ],
       "rewardMissionKeys": [
         {
@@ -7686,7 +7686,7 @@
         {
           "titleKey": "foxwell_shipwaveattack_clearhostiles_title_m_001",
           "titleEN": "Orange Level Contract: Destroy Outlaw Threat",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Stanton"
           ],
@@ -7695,7 +7695,7 @@
         {
           "titleKey": "foxwell_shipwaveattack_clearhostiles_title_h_001",
           "titleEN": "Orange Level Contract: Take Out Criminal Fleet",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Stanton"
           ],
@@ -7704,7 +7704,7 @@
         {
           "titleKey": "foxwell_shipwaveattack_clearhostiles_title_ve_001",
           "titleEN": "Yellow Level Contract: Clear Shipjacking Group",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Stanton"
           ],
@@ -7713,7 +7713,7 @@
         {
           "titleKey": "foxwell_shipwaveattack_clearhostiles_title_e_001",
           "titleEN": "Yellow Level Contract: Neutralize Shipjacking Gang",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Stanton"
           ],
@@ -7783,18 +7783,18 @@
       "recordGUID": "2487dc3a-6a2e-4071-a165-f140d0c8b20d",
       "isReward": true,
       "rewardMissions": [
-        "FoxwellEnforcement: Orange Level Contract: Return the Favor",
-        "FoxwellEnforcement: Orange Level Contract: Spring a Trap",
-        "FoxwellEnforcement: Red Level Contract: Ambush Attack Squad",
-        "FoxwellEnforcement: Red Level Contract: Surprise Attack",
-        "FoxwellEnforcement: Yellow Level Contract: Ambush An Amateur",
-        "FoxwellEnforcement: Yellow Level Contract: Surprise Strike"
+        "Foxwell: Orange Level Contract: Return the Favor",
+        "Foxwell: Orange Level Contract: Spring a Trap",
+        "Foxwell: Red Level Contract: Ambush Attack Squad",
+        "Foxwell: Red Level Contract: Surprise Attack",
+        "Foxwell: Yellow Level Contract: Ambush An Amateur",
+        "Foxwell: Yellow Level Contract: Surprise Strike"
       ],
       "rewardMissionKeys": [
         {
           "titleKey": "foxwell_shipambush_h_title_001",
           "titleEN": "Orange Level Contract: Return the Favor",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Pyro",
             "Stanton"
@@ -7804,7 +7804,7 @@
         {
           "titleKey": "foxwell_shipambush_m_title_001",
           "titleEN": "Orange Level Contract: Spring a Trap",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Pyro",
             "Stanton"
@@ -7814,7 +7814,7 @@
         {
           "titleKey": "foxwell_shipambush_vh_title_001",
           "titleEN": "Red Level Contract: Ambush Attack Squad",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Pyro",
             "Stanton"
@@ -7824,7 +7824,7 @@
         {
           "titleKey": "foxwell_shipambush_s_title_001",
           "titleEN": "Red Level Contract: Surprise Attack",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Pyro",
             "Stanton"
@@ -7834,7 +7834,7 @@
         {
           "titleKey": "foxwell_shipambush_ve_title_001",
           "titleEN": "Yellow Level Contract: Ambush An Amateur",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Pyro",
             "Stanton"
@@ -7844,7 +7844,7 @@
         {
           "titleKey": "foxwell_shipambush_e_title_001",
           "titleEN": "Yellow Level Contract: Surprise Strike",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Pyro",
             "Stanton"
@@ -7915,37 +7915,37 @@
       "recordGUID": "0f184cb6-2404-4a12-b12f-54ed9d6997ce",
       "isReward": true,
       "rewardMissions": [
-        "FoxwellEnforcement: Carefully Clear Site",
-        "FoxwellEnforcement: Destroy Dangerous Drugs",
-        "FoxwellEnforcement: Destroy Illegal Drugs",
-        "FoxwellEnforcement: Help Protect Site",
-        "FoxwellEnforcement: Knock Out New Drug Op",
-        "FoxwellEnforcement: Orange Level Contract: Destroy Outlaw Infrastructure",
-        "FoxwellEnforcement: Orange Level Contract: Take Out Fuel Supplies",
-        "FoxwellEnforcement: Orange Level Contract: ~mission(Ship) Needs Assistance",
-        "FoxwellEnforcement: Precision Strike on ~mission(TargetName)",
+        "Foxwell: Carefully Clear Site",
+        "Foxwell: Destroy Dangerous Drugs",
+        "Foxwell: Destroy Illegal Drugs",
+        "Foxwell: Help Protect Site",
+        "Foxwell: Knock Out New Drug Op",
+        "Foxwell: Orange Level Contract: Destroy Outlaw Infrastructure",
+        "Foxwell: Orange Level Contract: Take Out Fuel Supplies",
+        "Foxwell: Orange Level Contract: ~mission(Ship) Needs Assistance",
+        "Foxwell: Precision Strike on ~mission(TargetName)",
         "Foxwell: Red Level Contract: Clear PAFs, Recover Cargo, and Deliver to OLP",
-        "FoxwellEnforcement: Red Level Contract: Destroy Outlaw Infrastructure",
-        "FoxwellEnforcement: Red Level Contract: Fuel Container Demolition",
+        "Foxwell: Red Level Contract: Destroy Outlaw Infrastructure",
+        "Foxwell: Red Level Contract: Fuel Container Demolition",
         "Foxwell: Red Level Contract: Recoup Stolen Cargo Haul",
         "Foxwell: Red Level Contract: Retrieve Cargo Haul",
-        "FoxwellEnforcement: Red Level Contract: Ship Under Attack",
-        "FoxwellEnforcement: Still Looking for Work?",
-        "FoxwellEnforcement: Sweep and Clear Location",
-        "FoxwellEnforcement: Track Down ~mission(TargetName)",
-        "FoxwellEnforcement: Yellow Level Contract: Clear Out PAF",
-        "FoxwellEnforcement: Yellow Level Contract: Disrupt Operations",
-        "FoxwellEnforcement: Yellow Level Contract: Limiting Potential Threat",
-        "FoxwellEnforcement: Yellow Level Contract: Merc Work",
-        "FoxwellEnforcement: Yellow Level Contract: Ship Under Attack",
-        "FoxwellEnforcement: cfp_EliminateAllFF_Title_001",
+        "Foxwell: Red Level Contract: Ship Under Attack",
+        "Foxwell: Still Looking for Work?",
+        "Foxwell: Sweep and Clear Location",
+        "Foxwell: Track Down ~mission(TargetName)",
+        "Foxwell: Yellow Level Contract: Clear Out PAF",
+        "Foxwell: Yellow Level Contract: Disrupt Operations",
+        "Foxwell: Yellow Level Contract: Limiting Potential Threat",
+        "Foxwell: Yellow Level Contract: Merc Work",
+        "Foxwell: Yellow Level Contract: Ship Under Attack",
+        "Foxwell: cfp_EliminateAllFF_Title_001",
         "Foxwell: ~mission(Contractor|DestroyProbeTitle)"
       ],
       "rewardMissionKeys": [
         {
           "titleKey": "foxwell_eliminateall_nonhostiles_title_001",
           "titleEN": "Carefully Clear Site",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Stanton"
           ],
@@ -7954,7 +7954,7 @@
         {
           "titleKey": "foxwell_destroynarcotics_h_title_001",
           "titleEN": "Destroy Dangerous Drugs",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Stanton"
           ],
@@ -7963,7 +7963,7 @@
         {
           "titleKey": "foxwell_destroynarcotics_m_title_001",
           "titleEN": "Destroy Illegal Drugs",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Stanton"
           ],
@@ -7972,7 +7972,7 @@
         {
           "titleKey": "foxwell_eliminateall_allies_title_001",
           "titleEN": "Help Protect Site",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Stanton"
           ],
@@ -7981,7 +7981,7 @@
         {
           "titleKey": "foxwell_destroynarcotics_e_title_001",
           "titleEN": "Knock Out New Drug Op",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Stanton"
           ],
@@ -7990,7 +7990,7 @@
         {
           "titleKey": "foxwell_bombingrun_h_title_001",
           "titleEN": "Orange Level Contract: Destroy Outlaw Infrastructure",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Stanton"
           ],
@@ -7999,7 +7999,7 @@
         {
           "titleKey": "foxwell_bombingrun_m_title_001",
           "titleEN": "Orange Level Contract: Take Out Fuel Supplies",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Stanton"
           ],
@@ -8008,7 +8008,7 @@
         {
           "titleKey": "foxwell_defendship_m_title_001",
           "titleEN": "Orange Level Contract: ~mission(Ship) Needs Assistance",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Stanton"
           ],
@@ -8017,7 +8017,7 @@
         {
           "titleKey": "foxwell_eliminatespecific_nonhostiles_title_001",
           "titleEN": "Precision Strike on ~mission(TargetName)",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Stanton"
           ],
@@ -8035,7 +8035,7 @@
         {
           "titleKey": "foxwell_bombingrun_s_title_001",
           "titleEN": "Red Level Contract: Destroy Outlaw Infrastructure",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Stanton"
           ],
@@ -8044,7 +8044,7 @@
         {
           "titleKey": "foxwell_bombingrun_vh_title_001",
           "titleEN": "Red Level Contract: Fuel Container Demolition",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Stanton"
           ],
@@ -8071,7 +8071,7 @@
         {
           "titleKey": "foxwell_defendship_h_title_001",
           "titleEN": "Red Level Contract: Ship Under Attack",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Stanton"
           ],
@@ -8080,7 +8080,7 @@
         {
           "titleKey": "foxwell_mercenary_rehire_title_001",
           "titleEN": "Still Looking for Work?",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Stanton"
           ],
@@ -8089,7 +8089,7 @@
         {
           "titleKey": "foxwell_eliminateall_title_001",
           "titleEN": "Sweep and Clear Location",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Stanton"
           ],
@@ -8098,7 +8098,7 @@
         {
           "titleKey": "foxwell_eliminatespecific_title_001",
           "titleEN": "Track Down ~mission(TargetName)",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Stanton"
           ],
@@ -8107,7 +8107,7 @@
         {
           "titleKey": "foxwell_eliminateall_paf_m_title_001",
           "titleEN": "Yellow Level Contract: Clear Out PAF",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Stanton"
           ],
@@ -8116,7 +8116,7 @@
         {
           "titleKey": "foxwell_bombingrun_e_title_001",
           "titleEN": "Yellow Level Contract: Disrupt Operations",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Stanton"
           ],
@@ -8125,7 +8125,7 @@
         {
           "titleKey": "foxwell_bombingrun_ve_title_001",
           "titleEN": "Yellow Level Contract: Limiting Potential Threat",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Stanton"
           ],
@@ -8134,7 +8134,7 @@
         {
           "titleKey": "foxwell_eliminateall_olp_m_title_001",
           "titleEN": "Yellow Level Contract: Merc Work",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Stanton"
           ],
@@ -8143,7 +8143,7 @@
         {
           "titleKey": "foxwell_defendship_e_title_001",
           "titleEN": "Yellow Level Contract: Ship Under Attack",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Stanton"
           ],
@@ -8152,7 +8152,7 @@
         {
           "titleKey": "cfp_eliminateallff_title_001",
           "titleEN": "cfp_EliminateAllFF_Title_001",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Stanton"
           ],
@@ -8295,37 +8295,37 @@
       "recordGUID": "46a6c1ed-8109-4cc3-9a82-9cd46337b3e5",
       "isReward": true,
       "rewardMissions": [
-        "FoxwellEnforcement: Carefully Clear Site",
-        "FoxwellEnforcement: Destroy Dangerous Drugs",
-        "FoxwellEnforcement: Destroy Illegal Drugs",
-        "FoxwellEnforcement: Help Protect Site",
-        "FoxwellEnforcement: Knock Out New Drug Op",
-        "FoxwellEnforcement: Orange Level Contract: Destroy Outlaw Infrastructure",
-        "FoxwellEnforcement: Orange Level Contract: Take Out Fuel Supplies",
-        "FoxwellEnforcement: Orange Level Contract: ~mission(Ship) Needs Assistance",
-        "FoxwellEnforcement: Precision Strike on ~mission(TargetName)",
+        "Foxwell: Carefully Clear Site",
+        "Foxwell: Destroy Dangerous Drugs",
+        "Foxwell: Destroy Illegal Drugs",
+        "Foxwell: Help Protect Site",
+        "Foxwell: Knock Out New Drug Op",
+        "Foxwell: Orange Level Contract: Destroy Outlaw Infrastructure",
+        "Foxwell: Orange Level Contract: Take Out Fuel Supplies",
+        "Foxwell: Orange Level Contract: ~mission(Ship) Needs Assistance",
+        "Foxwell: Precision Strike on ~mission(TargetName)",
         "Foxwell: Red Level Contract: Clear PAFs, Recover Cargo, and Deliver to OLP",
-        "FoxwellEnforcement: Red Level Contract: Destroy Outlaw Infrastructure",
-        "FoxwellEnforcement: Red Level Contract: Fuel Container Demolition",
+        "Foxwell: Red Level Contract: Destroy Outlaw Infrastructure",
+        "Foxwell: Red Level Contract: Fuel Container Demolition",
         "Foxwell: Red Level Contract: Recoup Stolen Cargo Haul",
         "Foxwell: Red Level Contract: Retrieve Cargo Haul",
-        "FoxwellEnforcement: Red Level Contract: Ship Under Attack",
-        "FoxwellEnforcement: Still Looking for Work?",
-        "FoxwellEnforcement: Sweep and Clear Location",
-        "FoxwellEnforcement: Track Down ~mission(TargetName)",
-        "FoxwellEnforcement: Yellow Level Contract: Clear Out PAF",
-        "FoxwellEnforcement: Yellow Level Contract: Disrupt Operations",
-        "FoxwellEnforcement: Yellow Level Contract: Limiting Potential Threat",
-        "FoxwellEnforcement: Yellow Level Contract: Merc Work",
-        "FoxwellEnforcement: Yellow Level Contract: Ship Under Attack",
-        "FoxwellEnforcement: cfp_EliminateAllFF_Title_001",
+        "Foxwell: Red Level Contract: Ship Under Attack",
+        "Foxwell: Still Looking for Work?",
+        "Foxwell: Sweep and Clear Location",
+        "Foxwell: Track Down ~mission(TargetName)",
+        "Foxwell: Yellow Level Contract: Clear Out PAF",
+        "Foxwell: Yellow Level Contract: Disrupt Operations",
+        "Foxwell: Yellow Level Contract: Limiting Potential Threat",
+        "Foxwell: Yellow Level Contract: Merc Work",
+        "Foxwell: Yellow Level Contract: Ship Under Attack",
+        "Foxwell: cfp_EliminateAllFF_Title_001",
         "Foxwell: ~mission(Contractor|DestroyProbeTitle)"
       ],
       "rewardMissionKeys": [
         {
           "titleKey": "foxwell_eliminateall_nonhostiles_title_001",
           "titleEN": "Carefully Clear Site",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Stanton"
           ],
@@ -8334,7 +8334,7 @@
         {
           "titleKey": "foxwell_destroynarcotics_h_title_001",
           "titleEN": "Destroy Dangerous Drugs",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Stanton"
           ],
@@ -8343,7 +8343,7 @@
         {
           "titleKey": "foxwell_destroynarcotics_m_title_001",
           "titleEN": "Destroy Illegal Drugs",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Stanton"
           ],
@@ -8352,7 +8352,7 @@
         {
           "titleKey": "foxwell_eliminateall_allies_title_001",
           "titleEN": "Help Protect Site",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Stanton"
           ],
@@ -8361,7 +8361,7 @@
         {
           "titleKey": "foxwell_destroynarcotics_e_title_001",
           "titleEN": "Knock Out New Drug Op",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Stanton"
           ],
@@ -8370,7 +8370,7 @@
         {
           "titleKey": "foxwell_bombingrun_h_title_001",
           "titleEN": "Orange Level Contract: Destroy Outlaw Infrastructure",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Stanton"
           ],
@@ -8379,7 +8379,7 @@
         {
           "titleKey": "foxwell_bombingrun_m_title_001",
           "titleEN": "Orange Level Contract: Take Out Fuel Supplies",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Stanton"
           ],
@@ -8388,7 +8388,7 @@
         {
           "titleKey": "foxwell_defendship_m_title_001",
           "titleEN": "Orange Level Contract: ~mission(Ship) Needs Assistance",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Stanton"
           ],
@@ -8397,7 +8397,7 @@
         {
           "titleKey": "foxwell_eliminatespecific_nonhostiles_title_001",
           "titleEN": "Precision Strike on ~mission(TargetName)",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Stanton"
           ],
@@ -8415,7 +8415,7 @@
         {
           "titleKey": "foxwell_bombingrun_s_title_001",
           "titleEN": "Red Level Contract: Destroy Outlaw Infrastructure",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Stanton"
           ],
@@ -8424,7 +8424,7 @@
         {
           "titleKey": "foxwell_bombingrun_vh_title_001",
           "titleEN": "Red Level Contract: Fuel Container Demolition",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Stanton"
           ],
@@ -8451,7 +8451,7 @@
         {
           "titleKey": "foxwell_defendship_h_title_001",
           "titleEN": "Red Level Contract: Ship Under Attack",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Stanton"
           ],
@@ -8460,7 +8460,7 @@
         {
           "titleKey": "foxwell_mercenary_rehire_title_001",
           "titleEN": "Still Looking for Work?",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Stanton"
           ],
@@ -8469,7 +8469,7 @@
         {
           "titleKey": "foxwell_eliminateall_title_001",
           "titleEN": "Sweep and Clear Location",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Stanton"
           ],
@@ -8478,7 +8478,7 @@
         {
           "titleKey": "foxwell_eliminatespecific_title_001",
           "titleEN": "Track Down ~mission(TargetName)",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Stanton"
           ],
@@ -8487,7 +8487,7 @@
         {
           "titleKey": "foxwell_eliminateall_paf_m_title_001",
           "titleEN": "Yellow Level Contract: Clear Out PAF",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Stanton"
           ],
@@ -8496,7 +8496,7 @@
         {
           "titleKey": "foxwell_bombingrun_e_title_001",
           "titleEN": "Yellow Level Contract: Disrupt Operations",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Stanton"
           ],
@@ -8505,7 +8505,7 @@
         {
           "titleKey": "foxwell_bombingrun_ve_title_001",
           "titleEN": "Yellow Level Contract: Limiting Potential Threat",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Stanton"
           ],
@@ -8514,7 +8514,7 @@
         {
           "titleKey": "foxwell_eliminateall_olp_m_title_001",
           "titleEN": "Yellow Level Contract: Merc Work",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Stanton"
           ],
@@ -8523,7 +8523,7 @@
         {
           "titleKey": "foxwell_defendship_e_title_001",
           "titleEN": "Yellow Level Contract: Ship Under Attack",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Stanton"
           ],
@@ -8532,7 +8532,7 @@
         {
           "titleKey": "cfp_eliminateallff_title_001",
           "titleEN": "cfp_EliminateAllFF_Title_001",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Stanton"
           ],
@@ -8611,18 +8611,18 @@
       "recordGUID": "b9062a61-1475-4b15-9a24-a15351d5e689",
       "isReward": true,
       "rewardMissions": [
-        "FoxwellEnforcement: Orange Level Contract: Potential Security Threat",
-        "FoxwellEnforcement: Orange Level Contract: Security Patrol",
-        "FoxwellEnforcement: Red Level Contract: High-Risk Security Patrol",
-        "FoxwellEnforcement: Red Level Contract: Secure Threatened Space",
-        "FoxwellEnforcement: Yellow Level Contract: Routine Patrol",
-        "FoxwellEnforcement: Yellow Level Contract: Security Sweep"
+        "Foxwell: Orange Level Contract: Potential Security Threat",
+        "Foxwell: Orange Level Contract: Security Patrol",
+        "Foxwell: Red Level Contract: High-Risk Security Patrol",
+        "Foxwell: Red Level Contract: Secure Threatened Space",
+        "Foxwell: Yellow Level Contract: Routine Patrol",
+        "Foxwell: Yellow Level Contract: Security Sweep"
       ],
       "rewardMissionKeys": [
         {
           "titleKey": "foxwell_securitypatrol_h_title_001",
           "titleEN": "Orange Level Contract: Potential Security Threat",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Pyro",
             "Stanton"
@@ -8632,7 +8632,7 @@
         {
           "titleKey": "foxwell_securitypatrol_m_title_001",
           "titleEN": "Orange Level Contract: Security Patrol",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Pyro",
             "Stanton"
@@ -8642,7 +8642,7 @@
         {
           "titleKey": "foxwell_securitypatrol_vh_title_001",
           "titleEN": "Red Level Contract: High-Risk Security Patrol",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Pyro",
             "Stanton"
@@ -8652,7 +8652,7 @@
         {
           "titleKey": "foxwell_securitypatrol_s_title_001",
           "titleEN": "Red Level Contract: Secure Threatened Space",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Pyro",
             "Stanton"
@@ -8662,7 +8662,7 @@
         {
           "titleKey": "foxwell_securitypatrol_ve_title_001",
           "titleEN": "Yellow Level Contract: Routine Patrol",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Pyro",
             "Stanton"
@@ -8672,7 +8672,7 @@
         {
           "titleKey": "foxwell_securitypatrol_e_title_001",
           "titleEN": "Yellow Level Contract: Security Sweep",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Pyro",
             "Stanton"
@@ -8743,18 +8743,18 @@
       "recordGUID": "8ed18cbc-4d7c-4ea8-9f40-140cc6e4d35a",
       "isReward": true,
       "rewardMissions": [
-        "FoxwellEnforcement: Orange Level Contract: Protect Our Client’s Interests",
-        "FoxwellEnforcement: Orange Level Contract: Ship Protection Needed",
-        "FoxwellEnforcement: Red Level Contract: Save Ships at ~mission(DefendLocationWrapperLocation)",
-        "FoxwellEnforcement: Red Level Contract: Support VIP Clients",
-        "FoxwellEnforcement: Yellow Level Contract: Defend ~mission(DefendLocationWrapperLocation)",
-        "FoxwellEnforcement: Yellow Level Contract: Stand Up to Aggressors"
+        "Foxwell: Orange Level Contract: Protect Our Client’s Interests",
+        "Foxwell: Orange Level Contract: Ship Protection Needed",
+        "Foxwell: Red Level Contract: Save Ships at ~mission(DefendLocationWrapperLocation)",
+        "Foxwell: Red Level Contract: Support VIP Clients",
+        "Foxwell: Yellow Level Contract: Defend ~mission(DefendLocationWrapperLocation)",
+        "Foxwell: Yellow Level Contract: Stand Up to Aggressors"
       ],
       "rewardMissionKeys": [
         {
           "titleKey": "foxwell_defendlocation_h_title_001",
           "titleEN": "Orange Level Contract: Protect Our Client’s Interests",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Pyro",
             "Stanton"
@@ -8764,7 +8764,7 @@
         {
           "titleKey": "foxwell_defendlocation_m_title_001",
           "titleEN": "Orange Level Contract: Ship Protection Needed",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Pyro",
             "Stanton"
@@ -8774,7 +8774,7 @@
         {
           "titleKey": "foxwell_defendlocation_vh_title_001",
           "titleEN": "Red Level Contract: Save Ships at ~mission(DefendLocationWrapperLocation)",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Pyro",
             "Stanton"
@@ -8784,7 +8784,7 @@
         {
           "titleKey": "foxwell_defendlocation_s_title_001",
           "titleEN": "Red Level Contract: Support VIP Clients",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Pyro",
             "Stanton"
@@ -8794,7 +8794,7 @@
         {
           "titleKey": "foxwell_defendlocation_e_title_001",
           "titleEN": "Yellow Level Contract: Defend ~mission(DefendLocationWrapperLocation)",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Pyro",
             "Stanton"
@@ -8804,7 +8804,7 @@
         {
           "titleKey": "foxwell_defendlocation_ve_title_001",
           "titleEN": "Yellow Level Contract: Stand Up to Aggressors",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Pyro",
             "Stanton"
@@ -8881,10 +8881,10 @@
         "Foxwell: Foxwell_DefendDestructibleEntites_S_Title_001",
         "Foxwell: Foxwell_DefendDestructibleEntites_VE_Title_001",
         "Foxwell: Foxwell_DefendDestructibleEntites_VH_Title_001",
-        "FoxwellEnforcement: Orange Level Contract: Destroy Outlaw Threat",
-        "FoxwellEnforcement: Orange Level Contract: Take Out Criminal Fleet",
-        "FoxwellEnforcement: Yellow Level Contract: Clear Shipjacking Group",
-        "FoxwellEnforcement: Yellow Level Contract: Neutralize Shipjacking Gang"
+        "Foxwell: Orange Level Contract: Destroy Outlaw Threat",
+        "Foxwell: Orange Level Contract: Take Out Criminal Fleet",
+        "Foxwell: Yellow Level Contract: Clear Shipjacking Group",
+        "Foxwell: Yellow Level Contract: Neutralize Shipjacking Gang"
       ],
       "rewardMissionKeys": [
         {
@@ -8944,7 +8944,7 @@
         {
           "titleKey": "foxwell_shipwaveattack_clearhostiles_title_m_001",
           "titleEN": "Orange Level Contract: Destroy Outlaw Threat",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Stanton"
           ],
@@ -8953,7 +8953,7 @@
         {
           "titleKey": "foxwell_shipwaveattack_clearhostiles_title_h_001",
           "titleEN": "Orange Level Contract: Take Out Criminal Fleet",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Stanton"
           ],
@@ -8962,7 +8962,7 @@
         {
           "titleKey": "foxwell_shipwaveattack_clearhostiles_title_ve_001",
           "titleEN": "Yellow Level Contract: Clear Shipjacking Group",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Stanton"
           ],
@@ -8971,7 +8971,7 @@
         {
           "titleKey": "foxwell_shipwaveattack_clearhostiles_title_e_001",
           "titleEN": "Yellow Level Contract: Neutralize Shipjacking Gang",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Stanton"
           ],
@@ -9041,18 +9041,18 @@
       "recordGUID": "14442076-50ac-42a4-99c0-7d929e8c65b5",
       "isReward": true,
       "rewardMissions": [
-        "FoxwellEnforcement: Orange Level Contract: Return the Favor",
-        "FoxwellEnforcement: Orange Level Contract: Spring a Trap",
-        "FoxwellEnforcement: Red Level Contract: Ambush Attack Squad",
-        "FoxwellEnforcement: Red Level Contract: Surprise Attack",
-        "FoxwellEnforcement: Yellow Level Contract: Ambush An Amateur",
-        "FoxwellEnforcement: Yellow Level Contract: Surprise Strike"
+        "Foxwell: Orange Level Contract: Return the Favor",
+        "Foxwell: Orange Level Contract: Spring a Trap",
+        "Foxwell: Red Level Contract: Ambush Attack Squad",
+        "Foxwell: Red Level Contract: Surprise Attack",
+        "Foxwell: Yellow Level Contract: Ambush An Amateur",
+        "Foxwell: Yellow Level Contract: Surprise Strike"
       ],
       "rewardMissionKeys": [
         {
           "titleKey": "foxwell_shipambush_h_title_001",
           "titleEN": "Orange Level Contract: Return the Favor",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Pyro",
             "Stanton"
@@ -9062,7 +9062,7 @@
         {
           "titleKey": "foxwell_shipambush_m_title_001",
           "titleEN": "Orange Level Contract: Spring a Trap",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Pyro",
             "Stanton"
@@ -9072,7 +9072,7 @@
         {
           "titleKey": "foxwell_shipambush_vh_title_001",
           "titleEN": "Red Level Contract: Ambush Attack Squad",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Pyro",
             "Stanton"
@@ -9082,7 +9082,7 @@
         {
           "titleKey": "foxwell_shipambush_s_title_001",
           "titleEN": "Red Level Contract: Surprise Attack",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Pyro",
             "Stanton"
@@ -9092,7 +9092,7 @@
         {
           "titleKey": "foxwell_shipambush_ve_title_001",
           "titleEN": "Yellow Level Contract: Ambush An Amateur",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Pyro",
             "Stanton"
@@ -9102,7 +9102,7 @@
         {
           "titleKey": "foxwell_shipambush_e_title_001",
           "titleEN": "Yellow Level Contract: Surprise Strike",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Pyro",
             "Stanton"
@@ -9173,37 +9173,37 @@
       "recordGUID": "d68aeaa3-cb28-48ed-8233-a83439e3adad",
       "isReward": true,
       "rewardMissions": [
-        "FoxwellEnforcement: Carefully Clear Site",
-        "FoxwellEnforcement: Destroy Dangerous Drugs",
-        "FoxwellEnforcement: Destroy Illegal Drugs",
-        "FoxwellEnforcement: Help Protect Site",
-        "FoxwellEnforcement: Knock Out New Drug Op",
-        "FoxwellEnforcement: Orange Level Contract: Destroy Outlaw Infrastructure",
-        "FoxwellEnforcement: Orange Level Contract: Take Out Fuel Supplies",
-        "FoxwellEnforcement: Orange Level Contract: ~mission(Ship) Needs Assistance",
-        "FoxwellEnforcement: Precision Strike on ~mission(TargetName)",
+        "Foxwell: Carefully Clear Site",
+        "Foxwell: Destroy Dangerous Drugs",
+        "Foxwell: Destroy Illegal Drugs",
+        "Foxwell: Help Protect Site",
+        "Foxwell: Knock Out New Drug Op",
+        "Foxwell: Orange Level Contract: Destroy Outlaw Infrastructure",
+        "Foxwell: Orange Level Contract: Take Out Fuel Supplies",
+        "Foxwell: Orange Level Contract: ~mission(Ship) Needs Assistance",
+        "Foxwell: Precision Strike on ~mission(TargetName)",
         "Foxwell: Red Level Contract: Clear PAFs, Recover Cargo, and Deliver to OLP",
-        "FoxwellEnforcement: Red Level Contract: Destroy Outlaw Infrastructure",
-        "FoxwellEnforcement: Red Level Contract: Fuel Container Demolition",
+        "Foxwell: Red Level Contract: Destroy Outlaw Infrastructure",
+        "Foxwell: Red Level Contract: Fuel Container Demolition",
         "Foxwell: Red Level Contract: Recoup Stolen Cargo Haul",
         "Foxwell: Red Level Contract: Retrieve Cargo Haul",
-        "FoxwellEnforcement: Red Level Contract: Ship Under Attack",
-        "FoxwellEnforcement: Still Looking for Work?",
-        "FoxwellEnforcement: Sweep and Clear Location",
-        "FoxwellEnforcement: Track Down ~mission(TargetName)",
-        "FoxwellEnforcement: Yellow Level Contract: Clear Out PAF",
-        "FoxwellEnforcement: Yellow Level Contract: Disrupt Operations",
-        "FoxwellEnforcement: Yellow Level Contract: Limiting Potential Threat",
-        "FoxwellEnforcement: Yellow Level Contract: Merc Work",
-        "FoxwellEnforcement: Yellow Level Contract: Ship Under Attack",
-        "FoxwellEnforcement: cfp_EliminateAllFF_Title_001",
+        "Foxwell: Red Level Contract: Ship Under Attack",
+        "Foxwell: Still Looking for Work?",
+        "Foxwell: Sweep and Clear Location",
+        "Foxwell: Track Down ~mission(TargetName)",
+        "Foxwell: Yellow Level Contract: Clear Out PAF",
+        "Foxwell: Yellow Level Contract: Disrupt Operations",
+        "Foxwell: Yellow Level Contract: Limiting Potential Threat",
+        "Foxwell: Yellow Level Contract: Merc Work",
+        "Foxwell: Yellow Level Contract: Ship Under Attack",
+        "Foxwell: cfp_EliminateAllFF_Title_001",
         "Foxwell: ~mission(Contractor|DestroyProbeTitle)"
       ],
       "rewardMissionKeys": [
         {
           "titleKey": "foxwell_eliminateall_nonhostiles_title_001",
           "titleEN": "Carefully Clear Site",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Stanton"
           ],
@@ -9212,7 +9212,7 @@
         {
           "titleKey": "foxwell_destroynarcotics_h_title_001",
           "titleEN": "Destroy Dangerous Drugs",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Stanton"
           ],
@@ -9221,7 +9221,7 @@
         {
           "titleKey": "foxwell_destroynarcotics_m_title_001",
           "titleEN": "Destroy Illegal Drugs",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Stanton"
           ],
@@ -9230,7 +9230,7 @@
         {
           "titleKey": "foxwell_eliminateall_allies_title_001",
           "titleEN": "Help Protect Site",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Stanton"
           ],
@@ -9239,7 +9239,7 @@
         {
           "titleKey": "foxwell_destroynarcotics_e_title_001",
           "titleEN": "Knock Out New Drug Op",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Stanton"
           ],
@@ -9248,7 +9248,7 @@
         {
           "titleKey": "foxwell_bombingrun_h_title_001",
           "titleEN": "Orange Level Contract: Destroy Outlaw Infrastructure",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Stanton"
           ],
@@ -9257,7 +9257,7 @@
         {
           "titleKey": "foxwell_bombingrun_m_title_001",
           "titleEN": "Orange Level Contract: Take Out Fuel Supplies",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Stanton"
           ],
@@ -9266,7 +9266,7 @@
         {
           "titleKey": "foxwell_defendship_m_title_001",
           "titleEN": "Orange Level Contract: ~mission(Ship) Needs Assistance",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Stanton"
           ],
@@ -9275,7 +9275,7 @@
         {
           "titleKey": "foxwell_eliminatespecific_nonhostiles_title_001",
           "titleEN": "Precision Strike on ~mission(TargetName)",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Stanton"
           ],
@@ -9293,7 +9293,7 @@
         {
           "titleKey": "foxwell_bombingrun_s_title_001",
           "titleEN": "Red Level Contract: Destroy Outlaw Infrastructure",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Stanton"
           ],
@@ -9302,7 +9302,7 @@
         {
           "titleKey": "foxwell_bombingrun_vh_title_001",
           "titleEN": "Red Level Contract: Fuel Container Demolition",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Stanton"
           ],
@@ -9329,7 +9329,7 @@
         {
           "titleKey": "foxwell_defendship_h_title_001",
           "titleEN": "Red Level Contract: Ship Under Attack",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Stanton"
           ],
@@ -9338,7 +9338,7 @@
         {
           "titleKey": "foxwell_mercenary_rehire_title_001",
           "titleEN": "Still Looking for Work?",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Stanton"
           ],
@@ -9347,7 +9347,7 @@
         {
           "titleKey": "foxwell_eliminateall_title_001",
           "titleEN": "Sweep and Clear Location",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Stanton"
           ],
@@ -9356,7 +9356,7 @@
         {
           "titleKey": "foxwell_eliminatespecific_title_001",
           "titleEN": "Track Down ~mission(TargetName)",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Stanton"
           ],
@@ -9365,7 +9365,7 @@
         {
           "titleKey": "foxwell_eliminateall_paf_m_title_001",
           "titleEN": "Yellow Level Contract: Clear Out PAF",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Stanton"
           ],
@@ -9374,7 +9374,7 @@
         {
           "titleKey": "foxwell_bombingrun_e_title_001",
           "titleEN": "Yellow Level Contract: Disrupt Operations",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Stanton"
           ],
@@ -9383,7 +9383,7 @@
         {
           "titleKey": "foxwell_bombingrun_ve_title_001",
           "titleEN": "Yellow Level Contract: Limiting Potential Threat",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Stanton"
           ],
@@ -9392,7 +9392,7 @@
         {
           "titleKey": "foxwell_eliminateall_olp_m_title_001",
           "titleEN": "Yellow Level Contract: Merc Work",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Stanton"
           ],
@@ -9401,7 +9401,7 @@
         {
           "titleKey": "foxwell_defendship_e_title_001",
           "titleEN": "Yellow Level Contract: Ship Under Attack",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Stanton"
           ],
@@ -9410,7 +9410,7 @@
         {
           "titleKey": "cfp_eliminateallff_title_001",
           "titleEN": "cfp_EliminateAllFF_Title_001",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Stanton"
           ],
@@ -9553,37 +9553,37 @@
       "recordGUID": "828aaaf9-03fb-4baf-bee5-26cefced3ddd",
       "isReward": true,
       "rewardMissions": [
-        "FoxwellEnforcement: Carefully Clear Site",
-        "FoxwellEnforcement: Destroy Dangerous Drugs",
-        "FoxwellEnforcement: Destroy Illegal Drugs",
-        "FoxwellEnforcement: Help Protect Site",
-        "FoxwellEnforcement: Knock Out New Drug Op",
-        "FoxwellEnforcement: Orange Level Contract: Destroy Outlaw Infrastructure",
-        "FoxwellEnforcement: Orange Level Contract: Take Out Fuel Supplies",
-        "FoxwellEnforcement: Orange Level Contract: ~mission(Ship) Needs Assistance",
-        "FoxwellEnforcement: Precision Strike on ~mission(TargetName)",
+        "Foxwell: Carefully Clear Site",
+        "Foxwell: Destroy Dangerous Drugs",
+        "Foxwell: Destroy Illegal Drugs",
+        "Foxwell: Help Protect Site",
+        "Foxwell: Knock Out New Drug Op",
+        "Foxwell: Orange Level Contract: Destroy Outlaw Infrastructure",
+        "Foxwell: Orange Level Contract: Take Out Fuel Supplies",
+        "Foxwell: Orange Level Contract: ~mission(Ship) Needs Assistance",
+        "Foxwell: Precision Strike on ~mission(TargetName)",
         "Foxwell: Red Level Contract: Clear PAFs, Recover Cargo, and Deliver to OLP",
-        "FoxwellEnforcement: Red Level Contract: Destroy Outlaw Infrastructure",
-        "FoxwellEnforcement: Red Level Contract: Fuel Container Demolition",
+        "Foxwell: Red Level Contract: Destroy Outlaw Infrastructure",
+        "Foxwell: Red Level Contract: Fuel Container Demolition",
         "Foxwell: Red Level Contract: Recoup Stolen Cargo Haul",
         "Foxwell: Red Level Contract: Retrieve Cargo Haul",
-        "FoxwellEnforcement: Red Level Contract: Ship Under Attack",
-        "FoxwellEnforcement: Still Looking for Work?",
-        "FoxwellEnforcement: Sweep and Clear Location",
-        "FoxwellEnforcement: Track Down ~mission(TargetName)",
-        "FoxwellEnforcement: Yellow Level Contract: Clear Out PAF",
-        "FoxwellEnforcement: Yellow Level Contract: Disrupt Operations",
-        "FoxwellEnforcement: Yellow Level Contract: Limiting Potential Threat",
-        "FoxwellEnforcement: Yellow Level Contract: Merc Work",
-        "FoxwellEnforcement: Yellow Level Contract: Ship Under Attack",
-        "FoxwellEnforcement: cfp_EliminateAllFF_Title_001",
+        "Foxwell: Red Level Contract: Ship Under Attack",
+        "Foxwell: Still Looking for Work?",
+        "Foxwell: Sweep and Clear Location",
+        "Foxwell: Track Down ~mission(TargetName)",
+        "Foxwell: Yellow Level Contract: Clear Out PAF",
+        "Foxwell: Yellow Level Contract: Disrupt Operations",
+        "Foxwell: Yellow Level Contract: Limiting Potential Threat",
+        "Foxwell: Yellow Level Contract: Merc Work",
+        "Foxwell: Yellow Level Contract: Ship Under Attack",
+        "Foxwell: cfp_EliminateAllFF_Title_001",
         "Foxwell: ~mission(Contractor|DestroyProbeTitle)"
       ],
       "rewardMissionKeys": [
         {
           "titleKey": "foxwell_eliminateall_nonhostiles_title_001",
           "titleEN": "Carefully Clear Site",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Stanton"
           ],
@@ -9592,7 +9592,7 @@
         {
           "titleKey": "foxwell_destroynarcotics_h_title_001",
           "titleEN": "Destroy Dangerous Drugs",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Stanton"
           ],
@@ -9601,7 +9601,7 @@
         {
           "titleKey": "foxwell_destroynarcotics_m_title_001",
           "titleEN": "Destroy Illegal Drugs",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Stanton"
           ],
@@ -9610,7 +9610,7 @@
         {
           "titleKey": "foxwell_eliminateall_allies_title_001",
           "titleEN": "Help Protect Site",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Stanton"
           ],
@@ -9619,7 +9619,7 @@
         {
           "titleKey": "foxwell_destroynarcotics_e_title_001",
           "titleEN": "Knock Out New Drug Op",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Stanton"
           ],
@@ -9628,7 +9628,7 @@
         {
           "titleKey": "foxwell_bombingrun_h_title_001",
           "titleEN": "Orange Level Contract: Destroy Outlaw Infrastructure",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Stanton"
           ],
@@ -9637,7 +9637,7 @@
         {
           "titleKey": "foxwell_bombingrun_m_title_001",
           "titleEN": "Orange Level Contract: Take Out Fuel Supplies",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Stanton"
           ],
@@ -9646,7 +9646,7 @@
         {
           "titleKey": "foxwell_defendship_m_title_001",
           "titleEN": "Orange Level Contract: ~mission(Ship) Needs Assistance",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Stanton"
           ],
@@ -9655,7 +9655,7 @@
         {
           "titleKey": "foxwell_eliminatespecific_nonhostiles_title_001",
           "titleEN": "Precision Strike on ~mission(TargetName)",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Stanton"
           ],
@@ -9673,7 +9673,7 @@
         {
           "titleKey": "foxwell_bombingrun_s_title_001",
           "titleEN": "Red Level Contract: Destroy Outlaw Infrastructure",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Stanton"
           ],
@@ -9682,7 +9682,7 @@
         {
           "titleKey": "foxwell_bombingrun_vh_title_001",
           "titleEN": "Red Level Contract: Fuel Container Demolition",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Stanton"
           ],
@@ -9709,7 +9709,7 @@
         {
           "titleKey": "foxwell_defendship_h_title_001",
           "titleEN": "Red Level Contract: Ship Under Attack",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Stanton"
           ],
@@ -9718,7 +9718,7 @@
         {
           "titleKey": "foxwell_mercenary_rehire_title_001",
           "titleEN": "Still Looking for Work?",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Stanton"
           ],
@@ -9727,7 +9727,7 @@
         {
           "titleKey": "foxwell_eliminateall_title_001",
           "titleEN": "Sweep and Clear Location",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Stanton"
           ],
@@ -9736,7 +9736,7 @@
         {
           "titleKey": "foxwell_eliminatespecific_title_001",
           "titleEN": "Track Down ~mission(TargetName)",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Stanton"
           ],
@@ -9745,7 +9745,7 @@
         {
           "titleKey": "foxwell_eliminateall_paf_m_title_001",
           "titleEN": "Yellow Level Contract: Clear Out PAF",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Stanton"
           ],
@@ -9754,7 +9754,7 @@
         {
           "titleKey": "foxwell_bombingrun_e_title_001",
           "titleEN": "Yellow Level Contract: Disrupt Operations",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Stanton"
           ],
@@ -9763,7 +9763,7 @@
         {
           "titleKey": "foxwell_bombingrun_ve_title_001",
           "titleEN": "Yellow Level Contract: Limiting Potential Threat",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Stanton"
           ],
@@ -9772,7 +9772,7 @@
         {
           "titleKey": "foxwell_eliminateall_olp_m_title_001",
           "titleEN": "Yellow Level Contract: Merc Work",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Stanton"
           ],
@@ -9781,7 +9781,7 @@
         {
           "titleKey": "foxwell_defendship_e_title_001",
           "titleEN": "Yellow Level Contract: Ship Under Attack",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Stanton"
           ],
@@ -9790,7 +9790,7 @@
         {
           "titleKey": "cfp_eliminateallff_title_001",
           "titleEN": "cfp_EliminateAllFF_Title_001",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Stanton"
           ],
@@ -9869,18 +9869,18 @@
       "recordGUID": "74c0a6b8-db57-4000-85c2-e263f4118f1f",
       "isReward": true,
       "rewardMissions": [
-        "FoxwellEnforcement: Orange Level Contract: Potential Security Threat",
-        "FoxwellEnforcement: Orange Level Contract: Security Patrol",
-        "FoxwellEnforcement: Red Level Contract: High-Risk Security Patrol",
-        "FoxwellEnforcement: Red Level Contract: Secure Threatened Space",
-        "FoxwellEnforcement: Yellow Level Contract: Routine Patrol",
-        "FoxwellEnforcement: Yellow Level Contract: Security Sweep"
+        "Foxwell: Orange Level Contract: Potential Security Threat",
+        "Foxwell: Orange Level Contract: Security Patrol",
+        "Foxwell: Red Level Contract: High-Risk Security Patrol",
+        "Foxwell: Red Level Contract: Secure Threatened Space",
+        "Foxwell: Yellow Level Contract: Routine Patrol",
+        "Foxwell: Yellow Level Contract: Security Sweep"
       ],
       "rewardMissionKeys": [
         {
           "titleKey": "foxwell_securitypatrol_h_title_001",
           "titleEN": "Orange Level Contract: Potential Security Threat",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Pyro",
             "Stanton"
@@ -9890,7 +9890,7 @@
         {
           "titleKey": "foxwell_securitypatrol_m_title_001",
           "titleEN": "Orange Level Contract: Security Patrol",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Pyro",
             "Stanton"
@@ -9900,7 +9900,7 @@
         {
           "titleKey": "foxwell_securitypatrol_vh_title_001",
           "titleEN": "Red Level Contract: High-Risk Security Patrol",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Pyro",
             "Stanton"
@@ -9910,7 +9910,7 @@
         {
           "titleKey": "foxwell_securitypatrol_s_title_001",
           "titleEN": "Red Level Contract: Secure Threatened Space",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Pyro",
             "Stanton"
@@ -9920,7 +9920,7 @@
         {
           "titleKey": "foxwell_securitypatrol_ve_title_001",
           "titleEN": "Yellow Level Contract: Routine Patrol",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Pyro",
             "Stanton"
@@ -9930,7 +9930,7 @@
         {
           "titleKey": "foxwell_securitypatrol_e_title_001",
           "titleEN": "Yellow Level Contract: Security Sweep",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Pyro",
             "Stanton"
@@ -10001,18 +10001,18 @@
       "recordGUID": "57931ddb-524a-4ed6-9a7d-d86d1627f792",
       "isReward": true,
       "rewardMissions": [
-        "FoxwellEnforcement: Orange Level Contract: Protect Our Client’s Interests",
-        "FoxwellEnforcement: Orange Level Contract: Ship Protection Needed",
-        "FoxwellEnforcement: Red Level Contract: Save Ships at ~mission(DefendLocationWrapperLocation)",
-        "FoxwellEnforcement: Red Level Contract: Support VIP Clients",
-        "FoxwellEnforcement: Yellow Level Contract: Defend ~mission(DefendLocationWrapperLocation)",
-        "FoxwellEnforcement: Yellow Level Contract: Stand Up to Aggressors"
+        "Foxwell: Orange Level Contract: Protect Our Client’s Interests",
+        "Foxwell: Orange Level Contract: Ship Protection Needed",
+        "Foxwell: Red Level Contract: Save Ships at ~mission(DefendLocationWrapperLocation)",
+        "Foxwell: Red Level Contract: Support VIP Clients",
+        "Foxwell: Yellow Level Contract: Defend ~mission(DefendLocationWrapperLocation)",
+        "Foxwell: Yellow Level Contract: Stand Up to Aggressors"
       ],
       "rewardMissionKeys": [
         {
           "titleKey": "foxwell_defendlocation_h_title_001",
           "titleEN": "Orange Level Contract: Protect Our Client’s Interests",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Pyro",
             "Stanton"
@@ -10022,7 +10022,7 @@
         {
           "titleKey": "foxwell_defendlocation_m_title_001",
           "titleEN": "Orange Level Contract: Ship Protection Needed",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Pyro",
             "Stanton"
@@ -10032,7 +10032,7 @@
         {
           "titleKey": "foxwell_defendlocation_vh_title_001",
           "titleEN": "Red Level Contract: Save Ships at ~mission(DefendLocationWrapperLocation)",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Pyro",
             "Stanton"
@@ -10042,7 +10042,7 @@
         {
           "titleKey": "foxwell_defendlocation_s_title_001",
           "titleEN": "Red Level Contract: Support VIP Clients",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Pyro",
             "Stanton"
@@ -10052,7 +10052,7 @@
         {
           "titleKey": "foxwell_defendlocation_e_title_001",
           "titleEN": "Yellow Level Contract: Defend ~mission(DefendLocationWrapperLocation)",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Pyro",
             "Stanton"
@@ -10062,7 +10062,7 @@
         {
           "titleKey": "foxwell_defendlocation_ve_title_001",
           "titleEN": "Yellow Level Contract: Stand Up to Aggressors",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Pyro",
             "Stanton"
@@ -49153,8 +49153,8 @@
       "recordGUID": "c14689b3-71ba-4386-be4a-9ed558d97d4b",
       "isReward": true,
       "rewardMissions": [
-        "RCD: QV Breaker Station Mining Rights (Exclusive)",
-        "RCD: QV Breaker Station Mining Rights (Shared)",
+        "Shubin Interstellar: QV Breaker Station Mining Rights (Exclusive)",
+        "Shubin Interstellar: QV Breaker Station Mining Rights (Shared)",
         "BitZeros: ~mission(Contractor|RecoverItemTitle)",
         "DeadSaints: ~mission(Contractor|RecoverItemTitle)"
       ],
@@ -49162,14 +49162,14 @@
         {
           "titleKey": "shubin_rockcracker_solo_title_01",
           "titleEN": "QV Breaker Station Mining Rights (Exclusive)",
-          "faction": "RCD",
+          "faction": "Shubin Interstellar",
           "systems": [],
           "illegal": false
         },
         {
           "titleKey": "shubin_rockcracker_pvp_title_01",
           "titleEN": "QV Breaker Station Mining Rights (Shared)",
-          "faction": "RCD",
+          "faction": "Shubin Interstellar",
           "systems": [],
           "illegal": false
         },
@@ -49255,8 +49255,8 @@
       "recordGUID": "4db9360f-dd3e-4aff-8ada-f79897951cae",
       "isReward": true,
       "rewardMissions": [
-        "RCD: QV Breaker Station Mining Rights (Exclusive)",
-        "RCD: QV Breaker Station Mining Rights (Shared)",
+        "Shubin Interstellar: QV Breaker Station Mining Rights (Exclusive)",
+        "Shubin Interstellar: QV Breaker Station Mining Rights (Shared)",
         "BitZeros: ~mission(Contractor|RecoverItemTitle)",
         "DeadSaints: ~mission(Contractor|RecoverItemTitle)"
       ],
@@ -49264,14 +49264,14 @@
         {
           "titleKey": "shubin_rockcracker_solo_title_01",
           "titleEN": "QV Breaker Station Mining Rights (Exclusive)",
-          "faction": "RCD",
+          "faction": "Shubin Interstellar",
           "systems": [],
           "illegal": false
         },
         {
           "titleKey": "shubin_rockcracker_pvp_title_01",
           "titleEN": "QV Breaker Station Mining Rights (Shared)",
-          "faction": "RCD",
+          "faction": "Shubin Interstellar",
           "systems": [],
           "illegal": false
         },
@@ -50073,8 +50073,8 @@
       "recordGUID": "19bf2ec3-f114-4f27-982f-5236b35fe8c7",
       "isReward": true,
       "rewardMissions": [
-        "RCD: QV Breaker Station Mining Rights (Exclusive)",
-        "RCD: QV Breaker Station Mining Rights (Shared)",
+        "Shubin Interstellar: QV Breaker Station Mining Rights (Exclusive)",
+        "Shubin Interstellar: QV Breaker Station Mining Rights (Shared)",
         "BitZeros: ~mission(Contractor|RecoverItemTitle)",
         "DeadSaints: ~mission(Contractor|RecoverItemTitle)"
       ],
@@ -50082,14 +50082,14 @@
         {
           "titleKey": "shubin_rockcracker_solo_title_01",
           "titleEN": "QV Breaker Station Mining Rights (Exclusive)",
-          "faction": "RCD",
+          "faction": "Shubin Interstellar",
           "systems": [],
           "illegal": false
         },
         {
           "titleKey": "shubin_rockcracker_pvp_title_01",
           "titleEN": "QV Breaker Station Mining Rights (Shared)",
-          "faction": "RCD",
+          "faction": "Shubin Interstellar",
           "systems": [],
           "illegal": false
         },
@@ -50175,8 +50175,8 @@
       "recordGUID": "c52b8f11-6bdb-49df-ac05-87c3b8fd48be",
       "isReward": true,
       "rewardMissions": [
-        "RCD: QV Breaker Station Mining Rights (Exclusive)",
-        "RCD: QV Breaker Station Mining Rights (Shared)",
+        "Shubin Interstellar: QV Breaker Station Mining Rights (Exclusive)",
+        "Shubin Interstellar: QV Breaker Station Mining Rights (Shared)",
         "BitZeros: ~mission(Contractor|RecoverItemTitle)",
         "DeadSaints: ~mission(Contractor|RecoverItemTitle)"
       ],
@@ -50184,14 +50184,14 @@
         {
           "titleKey": "shubin_rockcracker_solo_title_01",
           "titleEN": "QV Breaker Station Mining Rights (Exclusive)",
-          "faction": "RCD",
+          "faction": "Shubin Interstellar",
           "systems": [],
           "illegal": false
         },
         {
           "titleKey": "shubin_rockcracker_pvp_title_01",
           "titleEN": "QV Breaker Station Mining Rights (Shared)",
-          "faction": "RCD",
+          "faction": "Shubin Interstellar",
           "systems": [],
           "illegal": false
         },
@@ -50909,8 +50909,8 @@
       "recordGUID": "e4a0800f-6c5f-4d88-8328-bff2ab46dd34",
       "isReward": true,
       "rewardMissions": [
-        "RCD: QV Breaker Station Mining Rights (Exclusive)",
-        "RCD: QV Breaker Station Mining Rights (Shared)",
+        "Shubin Interstellar: QV Breaker Station Mining Rights (Exclusive)",
+        "Shubin Interstellar: QV Breaker Station Mining Rights (Shared)",
         "BitZeros: ~mission(Contractor|RecoverItemTitle)",
         "DeadSaints: ~mission(Contractor|RecoverItemTitle)"
       ],
@@ -50918,14 +50918,14 @@
         {
           "titleKey": "shubin_rockcracker_solo_title_01",
           "titleEN": "QV Breaker Station Mining Rights (Exclusive)",
-          "faction": "RCD",
+          "faction": "Shubin Interstellar",
           "systems": [],
           "illegal": false
         },
         {
           "titleKey": "shubin_rockcracker_pvp_title_01",
           "titleEN": "QV Breaker Station Mining Rights (Shared)",
-          "faction": "RCD",
+          "faction": "Shubin Interstellar",
           "systems": [],
           "illegal": false
         },
@@ -51095,8 +51095,8 @@
       "recordGUID": "fc095af7-3ced-4533-970a-007788ca8274",
       "isReward": true,
       "rewardMissions": [
-        "RCD: QV Breaker Station Mining Rights (Exclusive)",
-        "RCD: QV Breaker Station Mining Rights (Shared)",
+        "Shubin Interstellar: QV Breaker Station Mining Rights (Exclusive)",
+        "Shubin Interstellar: QV Breaker Station Mining Rights (Shared)",
         "BitZeros: ~mission(Contractor|RecoverItemTitle)",
         "DeadSaints: ~mission(Contractor|RecoverItemTitle)"
       ],
@@ -51104,14 +51104,14 @@
         {
           "titleKey": "shubin_rockcracker_solo_title_01",
           "titleEN": "QV Breaker Station Mining Rights (Exclusive)",
-          "faction": "RCD",
+          "faction": "Shubin Interstellar",
           "systems": [],
           "illegal": false
         },
         {
           "titleKey": "shubin_rockcracker_pvp_title_01",
           "titleEN": "QV Breaker Station Mining Rights (Shared)",
-          "faction": "RCD",
+          "faction": "Shubin Interstellar",
           "systems": [],
           "illegal": false
         },
@@ -51913,8 +51913,8 @@
       "recordGUID": "f43c9684-1a3a-4783-9469-4a61fe0ccc98",
       "isReward": true,
       "rewardMissions": [
-        "RCD: QV Breaker Station Mining Rights (Exclusive)",
-        "RCD: QV Breaker Station Mining Rights (Shared)",
+        "Shubin Interstellar: QV Breaker Station Mining Rights (Exclusive)",
+        "Shubin Interstellar: QV Breaker Station Mining Rights (Shared)",
         "BitZeros: ~mission(Contractor|RecoverItemTitle)",
         "DeadSaints: ~mission(Contractor|RecoverItemTitle)"
       ],
@@ -51922,14 +51922,14 @@
         {
           "titleKey": "shubin_rockcracker_solo_title_01",
           "titleEN": "QV Breaker Station Mining Rights (Exclusive)",
-          "faction": "RCD",
+          "faction": "Shubin Interstellar",
           "systems": [],
           "illegal": false
         },
         {
           "titleKey": "shubin_rockcracker_pvp_title_01",
           "titleEN": "QV Breaker Station Mining Rights (Shared)",
-          "faction": "RCD",
+          "faction": "Shubin Interstellar",
           "systems": [],
           "illegal": false
         },
@@ -52015,8 +52015,8 @@
       "recordGUID": "1eff502e-f190-4906-b974-32c117eb1971",
       "isReward": true,
       "rewardMissions": [
-        "RCD: QV Breaker Station Mining Rights (Exclusive)",
-        "RCD: QV Breaker Station Mining Rights (Shared)",
+        "Shubin Interstellar: QV Breaker Station Mining Rights (Exclusive)",
+        "Shubin Interstellar: QV Breaker Station Mining Rights (Shared)",
         "BitZeros: ~mission(Contractor|RecoverItemTitle)",
         "DeadSaints: ~mission(Contractor|RecoverItemTitle)"
       ],
@@ -52024,14 +52024,14 @@
         {
           "titleKey": "shubin_rockcracker_solo_title_01",
           "titleEN": "QV Breaker Station Mining Rights (Exclusive)",
-          "faction": "RCD",
+          "faction": "Shubin Interstellar",
           "systems": [],
           "illegal": false
         },
         {
           "titleKey": "shubin_rockcracker_pvp_title_01",
           "titleEN": "QV Breaker Station Mining Rights (Shared)",
-          "faction": "RCD",
+          "faction": "Shubin Interstellar",
           "systems": [],
           "illegal": false
         },
@@ -68734,18 +68734,18 @@
       "recordGUID": "7fdd7f0c-5c40-4073-980c-3ec27d6ed4de",
       "isReward": true,
       "rewardMissions": [
-        "FoxwellEnforcement: Orange Level Contract: Potential Security Threat",
-        "FoxwellEnforcement: Orange Level Contract: Security Patrol",
-        "FoxwellEnforcement: Red Level Contract: High-Risk Security Patrol",
-        "FoxwellEnforcement: Red Level Contract: Secure Threatened Space",
-        "FoxwellEnforcement: Yellow Level Contract: Routine Patrol",
-        "FoxwellEnforcement: Yellow Level Contract: Security Sweep"
+        "Foxwell: Orange Level Contract: Potential Security Threat",
+        "Foxwell: Orange Level Contract: Security Patrol",
+        "Foxwell: Red Level Contract: High-Risk Security Patrol",
+        "Foxwell: Red Level Contract: Secure Threatened Space",
+        "Foxwell: Yellow Level Contract: Routine Patrol",
+        "Foxwell: Yellow Level Contract: Security Sweep"
       ],
       "rewardMissionKeys": [
         {
           "titleKey": "foxwell_securitypatrol_h_title_001",
           "titleEN": "Orange Level Contract: Potential Security Threat",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Pyro",
             "Stanton"
@@ -68755,7 +68755,7 @@
         {
           "titleKey": "foxwell_securitypatrol_m_title_001",
           "titleEN": "Orange Level Contract: Security Patrol",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Pyro",
             "Stanton"
@@ -68765,7 +68765,7 @@
         {
           "titleKey": "foxwell_securitypatrol_vh_title_001",
           "titleEN": "Red Level Contract: High-Risk Security Patrol",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Pyro",
             "Stanton"
@@ -68775,7 +68775,7 @@
         {
           "titleKey": "foxwell_securitypatrol_s_title_001",
           "titleEN": "Red Level Contract: Secure Threatened Space",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Pyro",
             "Stanton"
@@ -68785,7 +68785,7 @@
         {
           "titleKey": "foxwell_securitypatrol_ve_title_001",
           "titleEN": "Yellow Level Contract: Routine Patrol",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Pyro",
             "Stanton"
@@ -68795,7 +68795,7 @@
         {
           "titleKey": "foxwell_securitypatrol_e_title_001",
           "titleEN": "Yellow Level Contract: Security Sweep",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Pyro",
             "Stanton"
@@ -68866,18 +68866,18 @@
       "recordGUID": "f5f78868-8eed-4953-9859-ea405ff8fe91",
       "isReward": true,
       "rewardMissions": [
-        "FoxwellEnforcement: Orange Level Contract: Protect Our Client’s Interests",
-        "FoxwellEnforcement: Orange Level Contract: Ship Protection Needed",
-        "FoxwellEnforcement: Red Level Contract: Save Ships at ~mission(DefendLocationWrapperLocation)",
-        "FoxwellEnforcement: Red Level Contract: Support VIP Clients",
-        "FoxwellEnforcement: Yellow Level Contract: Defend ~mission(DefendLocationWrapperLocation)",
-        "FoxwellEnforcement: Yellow Level Contract: Stand Up to Aggressors"
+        "Foxwell: Orange Level Contract: Protect Our Client’s Interests",
+        "Foxwell: Orange Level Contract: Ship Protection Needed",
+        "Foxwell: Red Level Contract: Save Ships at ~mission(DefendLocationWrapperLocation)",
+        "Foxwell: Red Level Contract: Support VIP Clients",
+        "Foxwell: Yellow Level Contract: Defend ~mission(DefendLocationWrapperLocation)",
+        "Foxwell: Yellow Level Contract: Stand Up to Aggressors"
       ],
       "rewardMissionKeys": [
         {
           "titleKey": "foxwell_defendlocation_h_title_001",
           "titleEN": "Orange Level Contract: Protect Our Client’s Interests",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Pyro",
             "Stanton"
@@ -68887,7 +68887,7 @@
         {
           "titleKey": "foxwell_defendlocation_m_title_001",
           "titleEN": "Orange Level Contract: Ship Protection Needed",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Pyro",
             "Stanton"
@@ -68897,7 +68897,7 @@
         {
           "titleKey": "foxwell_defendlocation_vh_title_001",
           "titleEN": "Red Level Contract: Save Ships at ~mission(DefendLocationWrapperLocation)",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Pyro",
             "Stanton"
@@ -68907,7 +68907,7 @@
         {
           "titleKey": "foxwell_defendlocation_s_title_001",
           "titleEN": "Red Level Contract: Support VIP Clients",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Pyro",
             "Stanton"
@@ -68917,7 +68917,7 @@
         {
           "titleKey": "foxwell_defendlocation_e_title_001",
           "titleEN": "Yellow Level Contract: Defend ~mission(DefendLocationWrapperLocation)",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Pyro",
             "Stanton"
@@ -68927,7 +68927,7 @@
         {
           "titleKey": "foxwell_defendlocation_ve_title_001",
           "titleEN": "Yellow Level Contract: Stand Up to Aggressors",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Pyro",
             "Stanton"
@@ -68998,18 +68998,18 @@
       "recordGUID": "6157c081-0a9b-4319-bbbc-7f2cc1ef7158",
       "isReward": true,
       "rewardMissions": [
-        "FoxwellEnforcement: Orange Level Contract: Return the Favor",
-        "FoxwellEnforcement: Orange Level Contract: Spring a Trap",
-        "FoxwellEnforcement: Red Level Contract: Ambush Attack Squad",
-        "FoxwellEnforcement: Red Level Contract: Surprise Attack",
-        "FoxwellEnforcement: Yellow Level Contract: Ambush An Amateur",
-        "FoxwellEnforcement: Yellow Level Contract: Surprise Strike"
+        "Foxwell: Orange Level Contract: Return the Favor",
+        "Foxwell: Orange Level Contract: Spring a Trap",
+        "Foxwell: Red Level Contract: Ambush Attack Squad",
+        "Foxwell: Red Level Contract: Surprise Attack",
+        "Foxwell: Yellow Level Contract: Ambush An Amateur",
+        "Foxwell: Yellow Level Contract: Surprise Strike"
       ],
       "rewardMissionKeys": [
         {
           "titleKey": "foxwell_shipambush_h_title_001",
           "titleEN": "Orange Level Contract: Return the Favor",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Pyro",
             "Stanton"
@@ -69019,7 +69019,7 @@
         {
           "titleKey": "foxwell_shipambush_m_title_001",
           "titleEN": "Orange Level Contract: Spring a Trap",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Pyro",
             "Stanton"
@@ -69029,7 +69029,7 @@
         {
           "titleKey": "foxwell_shipambush_vh_title_001",
           "titleEN": "Red Level Contract: Ambush Attack Squad",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Pyro",
             "Stanton"
@@ -69039,7 +69039,7 @@
         {
           "titleKey": "foxwell_shipambush_s_title_001",
           "titleEN": "Red Level Contract: Surprise Attack",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Pyro",
             "Stanton"
@@ -69049,7 +69049,7 @@
         {
           "titleKey": "foxwell_shipambush_ve_title_001",
           "titleEN": "Yellow Level Contract: Ambush An Amateur",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Pyro",
             "Stanton"
@@ -69059,7 +69059,7 @@
         {
           "titleKey": "foxwell_shipambush_e_title_001",
           "titleEN": "Yellow Level Contract: Surprise Strike",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Pyro",
             "Stanton"
@@ -69136,10 +69136,10 @@
         "Foxwell: Foxwell_DefendDestructibleEntites_S_Title_001",
         "Foxwell: Foxwell_DefendDestructibleEntites_VE_Title_001",
         "Foxwell: Foxwell_DefendDestructibleEntites_VH_Title_001",
-        "FoxwellEnforcement: Orange Level Contract: Destroy Outlaw Threat",
-        "FoxwellEnforcement: Orange Level Contract: Take Out Criminal Fleet",
-        "FoxwellEnforcement: Yellow Level Contract: Clear Shipjacking Group",
-        "FoxwellEnforcement: Yellow Level Contract: Neutralize Shipjacking Gang"
+        "Foxwell: Orange Level Contract: Destroy Outlaw Threat",
+        "Foxwell: Orange Level Contract: Take Out Criminal Fleet",
+        "Foxwell: Yellow Level Contract: Clear Shipjacking Group",
+        "Foxwell: Yellow Level Contract: Neutralize Shipjacking Gang"
       ],
       "rewardMissionKeys": [
         {
@@ -69199,7 +69199,7 @@
         {
           "titleKey": "foxwell_shipwaveattack_clearhostiles_title_m_001",
           "titleEN": "Orange Level Contract: Destroy Outlaw Threat",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Stanton"
           ],
@@ -69208,7 +69208,7 @@
         {
           "titleKey": "foxwell_shipwaveattack_clearhostiles_title_h_001",
           "titleEN": "Orange Level Contract: Take Out Criminal Fleet",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Stanton"
           ],
@@ -69217,7 +69217,7 @@
         {
           "titleKey": "foxwell_shipwaveattack_clearhostiles_title_ve_001",
           "titleEN": "Yellow Level Contract: Clear Shipjacking Group",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Stanton"
           ],
@@ -69226,7 +69226,7 @@
         {
           "titleKey": "foxwell_shipwaveattack_clearhostiles_title_e_001",
           "titleEN": "Yellow Level Contract: Neutralize Shipjacking Gang",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Stanton"
           ],
@@ -69302,28 +69302,28 @@
         "Foxwell: Foxwell_DefendDestructibleEntites_S_Title_001",
         "Foxwell: Foxwell_DefendDestructibleEntites_VE_Title_001",
         "Foxwell: Foxwell_DefendDestructibleEntites_VH_Title_001",
-        "FoxwellEnforcement: Orange Level Contract: Destroy Outlaw Threat",
-        "FoxwellEnforcement: Orange Level Contract: Potential Security Threat",
-        "FoxwellEnforcement: Orange Level Contract: Protect Our Client’s Interests",
-        "FoxwellEnforcement: Orange Level Contract: Return the Favor",
-        "FoxwellEnforcement: Orange Level Contract: Security Patrol",
-        "FoxwellEnforcement: Orange Level Contract: Ship Protection Needed",
-        "FoxwellEnforcement: Orange Level Contract: Spring a Trap",
-        "FoxwellEnforcement: Orange Level Contract: Take Out Criminal Fleet",
-        "FoxwellEnforcement: Red Level Contract: Ambush Attack Squad",
-        "FoxwellEnforcement: Red Level Contract: High-Risk Security Patrol",
-        "FoxwellEnforcement: Red Level Contract: Save Ships at ~mission(DefendLocationWrapperLocation)",
-        "FoxwellEnforcement: Red Level Contract: Secure Threatened Space",
-        "FoxwellEnforcement: Red Level Contract: Support VIP Clients",
-        "FoxwellEnforcement: Red Level Contract: Surprise Attack",
-        "FoxwellEnforcement: Yellow Level Contract: Ambush An Amateur",
-        "FoxwellEnforcement: Yellow Level Contract: Clear Shipjacking Group",
-        "FoxwellEnforcement: Yellow Level Contract: Defend ~mission(DefendLocationWrapperLocation)",
-        "FoxwellEnforcement: Yellow Level Contract: Neutralize Shipjacking Gang",
-        "FoxwellEnforcement: Yellow Level Contract: Routine Patrol",
-        "FoxwellEnforcement: Yellow Level Contract: Security Sweep",
-        "FoxwellEnforcement: Yellow Level Contract: Stand Up to Aggressors",
-        "FoxwellEnforcement: Yellow Level Contract: Surprise Strike"
+        "Foxwell: Orange Level Contract: Destroy Outlaw Threat",
+        "Foxwell: Orange Level Contract: Potential Security Threat",
+        "Foxwell: Orange Level Contract: Protect Our Client’s Interests",
+        "Foxwell: Orange Level Contract: Return the Favor",
+        "Foxwell: Orange Level Contract: Security Patrol",
+        "Foxwell: Orange Level Contract: Ship Protection Needed",
+        "Foxwell: Orange Level Contract: Spring a Trap",
+        "Foxwell: Orange Level Contract: Take Out Criminal Fleet",
+        "Foxwell: Red Level Contract: Ambush Attack Squad",
+        "Foxwell: Red Level Contract: High-Risk Security Patrol",
+        "Foxwell: Red Level Contract: Save Ships at ~mission(DefendLocationWrapperLocation)",
+        "Foxwell: Red Level Contract: Secure Threatened Space",
+        "Foxwell: Red Level Contract: Support VIP Clients",
+        "Foxwell: Red Level Contract: Surprise Attack",
+        "Foxwell: Yellow Level Contract: Ambush An Amateur",
+        "Foxwell: Yellow Level Contract: Clear Shipjacking Group",
+        "Foxwell: Yellow Level Contract: Defend ~mission(DefendLocationWrapperLocation)",
+        "Foxwell: Yellow Level Contract: Neutralize Shipjacking Gang",
+        "Foxwell: Yellow Level Contract: Routine Patrol",
+        "Foxwell: Yellow Level Contract: Security Sweep",
+        "Foxwell: Yellow Level Contract: Stand Up to Aggressors",
+        "Foxwell: Yellow Level Contract: Surprise Strike"
       ],
       "rewardMissionKeys": [
         {
@@ -69383,7 +69383,7 @@
         {
           "titleKey": "foxwell_shipwaveattack_clearhostiles_title_m_001",
           "titleEN": "Orange Level Contract: Destroy Outlaw Threat",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Stanton"
           ],
@@ -69392,7 +69392,7 @@
         {
           "titleKey": "foxwell_securitypatrol_h_title_001",
           "titleEN": "Orange Level Contract: Potential Security Threat",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Pyro",
             "Stanton"
@@ -69402,7 +69402,7 @@
         {
           "titleKey": "foxwell_defendlocation_h_title_001",
           "titleEN": "Orange Level Contract: Protect Our Client’s Interests",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Pyro",
             "Stanton"
@@ -69412,7 +69412,7 @@
         {
           "titleKey": "foxwell_shipambush_h_title_001",
           "titleEN": "Orange Level Contract: Return the Favor",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Pyro",
             "Stanton"
@@ -69422,7 +69422,7 @@
         {
           "titleKey": "foxwell_securitypatrol_m_title_001",
           "titleEN": "Orange Level Contract: Security Patrol",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Pyro",
             "Stanton"
@@ -69432,7 +69432,7 @@
         {
           "titleKey": "foxwell_defendlocation_m_title_001",
           "titleEN": "Orange Level Contract: Ship Protection Needed",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Pyro",
             "Stanton"
@@ -69442,7 +69442,7 @@
         {
           "titleKey": "foxwell_shipambush_m_title_001",
           "titleEN": "Orange Level Contract: Spring a Trap",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Pyro",
             "Stanton"
@@ -69452,7 +69452,7 @@
         {
           "titleKey": "foxwell_shipwaveattack_clearhostiles_title_h_001",
           "titleEN": "Orange Level Contract: Take Out Criminal Fleet",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Stanton"
           ],
@@ -69461,7 +69461,7 @@
         {
           "titleKey": "foxwell_shipambush_vh_title_001",
           "titleEN": "Red Level Contract: Ambush Attack Squad",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Pyro",
             "Stanton"
@@ -69471,7 +69471,7 @@
         {
           "titleKey": "foxwell_securitypatrol_vh_title_001",
           "titleEN": "Red Level Contract: High-Risk Security Patrol",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Pyro",
             "Stanton"
@@ -69481,7 +69481,7 @@
         {
           "titleKey": "foxwell_defendlocation_vh_title_001",
           "titleEN": "Red Level Contract: Save Ships at ~mission(DefendLocationWrapperLocation)",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Pyro",
             "Stanton"
@@ -69491,7 +69491,7 @@
         {
           "titleKey": "foxwell_securitypatrol_s_title_001",
           "titleEN": "Red Level Contract: Secure Threatened Space",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Pyro",
             "Stanton"
@@ -69501,7 +69501,7 @@
         {
           "titleKey": "foxwell_defendlocation_s_title_001",
           "titleEN": "Red Level Contract: Support VIP Clients",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Pyro",
             "Stanton"
@@ -69511,7 +69511,7 @@
         {
           "titleKey": "foxwell_shipambush_s_title_001",
           "titleEN": "Red Level Contract: Surprise Attack",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Pyro",
             "Stanton"
@@ -69521,7 +69521,7 @@
         {
           "titleKey": "foxwell_shipambush_ve_title_001",
           "titleEN": "Yellow Level Contract: Ambush An Amateur",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Pyro",
             "Stanton"
@@ -69531,7 +69531,7 @@
         {
           "titleKey": "foxwell_shipwaveattack_clearhostiles_title_ve_001",
           "titleEN": "Yellow Level Contract: Clear Shipjacking Group",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Stanton"
           ],
@@ -69540,7 +69540,7 @@
         {
           "titleKey": "foxwell_defendlocation_e_title_001",
           "titleEN": "Yellow Level Contract: Defend ~mission(DefendLocationWrapperLocation)",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Pyro",
             "Stanton"
@@ -69550,7 +69550,7 @@
         {
           "titleKey": "foxwell_shipwaveattack_clearhostiles_title_e_001",
           "titleEN": "Yellow Level Contract: Neutralize Shipjacking Gang",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Stanton"
           ],
@@ -69559,7 +69559,7 @@
         {
           "titleKey": "foxwell_securitypatrol_ve_title_001",
           "titleEN": "Yellow Level Contract: Routine Patrol",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Pyro",
             "Stanton"
@@ -69569,7 +69569,7 @@
         {
           "titleKey": "foxwell_securitypatrol_e_title_001",
           "titleEN": "Yellow Level Contract: Security Sweep",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Pyro",
             "Stanton"
@@ -69579,7 +69579,7 @@
         {
           "titleKey": "foxwell_defendlocation_ve_title_001",
           "titleEN": "Yellow Level Contract: Stand Up to Aggressors",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Pyro",
             "Stanton"
@@ -69589,7 +69589,7 @@
         {
           "titleKey": "foxwell_shipambush_e_title_001",
           "titleEN": "Yellow Level Contract: Surprise Strike",
-          "faction": "FoxwellEnforcement",
+          "faction": "Foxwell",
           "systems": [
             "Pyro",
             "Stanton"
@@ -71605,8 +71605,8 @@
       "recordGUID": "878240ee-e1ee-47a9-ac1f-fe1b5171619c",
       "isReward": true,
       "rewardMissions": [
-        "RCD: QV Breaker Station Mining Rights (Exclusive)",
-        "RCD: QV Breaker Station Mining Rights (Shared)",
+        "Shubin Interstellar: QV Breaker Station Mining Rights (Exclusive)",
+        "Shubin Interstellar: QV Breaker Station Mining Rights (Shared)",
         "BitZeros: ~mission(Contractor|RecoverItemTitle)",
         "DeadSaints: ~mission(Contractor|RecoverItemTitle)"
       ],
@@ -71614,14 +71614,14 @@
         {
           "titleKey": "shubin_rockcracker_solo_title_01",
           "titleEN": "QV Breaker Station Mining Rights (Exclusive)",
-          "faction": "RCD",
+          "faction": "Shubin Interstellar",
           "systems": [],
           "illegal": false
         },
         {
           "titleKey": "shubin_rockcracker_pvp_title_01",
           "titleEN": "QV Breaker Station Mining Rights (Shared)",
-          "faction": "RCD",
+          "faction": "Shubin Interstellar",
           "systems": [],
           "illegal": false
         },
@@ -71707,8 +71707,8 @@
       "recordGUID": "07eb22f2-17bb-4428-853b-d6777db53038",
       "isReward": true,
       "rewardMissions": [
-        "RCD: QV Breaker Station Mining Rights (Exclusive)",
-        "RCD: QV Breaker Station Mining Rights (Shared)",
+        "Shubin Interstellar: QV Breaker Station Mining Rights (Exclusive)",
+        "Shubin Interstellar: QV Breaker Station Mining Rights (Shared)",
         "BitZeros: ~mission(Contractor|RecoverItemTitle)",
         "DeadSaints: ~mission(Contractor|RecoverItemTitle)"
       ],
@@ -71716,14 +71716,14 @@
         {
           "titleKey": "shubin_rockcracker_solo_title_01",
           "titleEN": "QV Breaker Station Mining Rights (Exclusive)",
-          "faction": "RCD",
+          "faction": "Shubin Interstellar",
           "systems": [],
           "illegal": false
         },
         {
           "titleKey": "shubin_rockcracker_pvp_title_01",
           "titleEN": "QV Breaker Station Mining Rights (Shared)",
-          "faction": "RCD",
+          "faction": "Shubin Interstellar",
           "systems": [],
           "illegal": false
         },
@@ -72199,8 +72199,8 @@
         "Citizens For Prosperity: Pilot Seeking Combat Support",
         "Citizens For Prosperity: Pilot in Distress",
         "InterSec: Preemptive Strike On ~mission(TargetName)",
-        "RCD: QV Breaker Station Mining Rights (Exclusive)",
-        "RCD: QV Breaker Station Mining Rights (Shared)",
+        "Shubin Interstellar: QV Breaker Station Mining Rights (Exclusive)",
+        "Shubin Interstellar: QV Breaker Station Mining Rights (Shared)",
         "HighpointWildernessSpecialists: Reduce Valakkar Breaker Station Population",
         "Citizens For Prosperity: Respond to Distress Beacon",
         "Eckhart: Save Ship",
@@ -72341,14 +72341,14 @@
         {
           "titleKey": "shubin_rockcracker_solo_title_01",
           "titleEN": "QV Breaker Station Mining Rights (Exclusive)",
-          "faction": "RCD",
+          "faction": "Shubin Interstellar",
           "systems": [],
           "illegal": false
         },
         {
           "titleKey": "shubin_rockcracker_pvp_title_01",
           "titleEN": "QV Breaker Station Mining Rights (Shared)",
-          "faction": "RCD",
+          "faction": "Shubin Interstellar",
           "systems": [],
           "illegal": false
         },
