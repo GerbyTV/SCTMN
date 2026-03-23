@@ -18750,41 +18750,41 @@
       "recordGUID": "e471e8d9-51d2-43cf-b94e-201e70a68a5b",
       "isReward": true,
       "rewardMissions": [
-        "HeadHunters: A Swift Reprisal",
-        "HeadHunters: A little retaliation",
-        "HeadHunters: A tricky tricky task",
-        "HeadHunters: Block XenoThreat Expansion",
-        "HeadHunters: Butcher Kopion Pack at ~mission(Location)",
-        "HeadHunters: Deal with Kopions at ~mission(Location)",
-        "HeadHunters: Death and cargo",
-        "HeadHunters: Don't let Windfall Fall",
-        "HeadHunters: Driving CFP out",
-        "HeadHunters: Halt XenoThreat Expansion",
-        "HeadHunters: Headhunters_EliminateAllFF_Title_001",
-        "HeadHunters: Hit XenoThreat at ~mission(Location)",
-        "HeadHunters: Hit a CFP Complex",
-        "HeadHunters: Hit on XenoThreat command",
-        "HeadHunters: Hitting a CFP site",
-        "HeadHunters: Kill Kopions at ~mission(Location)",
-        "HeadHunters: Need a hitter",
-        "HeadHunters: Rally at ~mission(Location)",
-        "HeadHunters: Reputation Management",
-        "HeadHunters: Sweep and clear some CFP haunts",
-        "HeadHunters: Take back Carvers Ridge",
-        "HeadHunters: Taking XenoThreat Turf",
-        "HeadHunters: Taking down a XenoThreat Hideout",
-        "HeadHunters: Taking out some XenoThreat trash",
-        "HeadHunters: The Yard's under attack",
-        "HeadHunters: Turf War",
-        "HeadHunters: Wipe ~mission(Location) out",
-        "HeadHunters: ~mission(Location) has been greenlit",
-        "HeadHunters: ~mission(Location|Address) under attack"
+        "Headhunters: A Swift Reprisal",
+        "Headhunters: A little retaliation",
+        "Headhunters: A tricky tricky task",
+        "Headhunters: Block XenoThreat Expansion",
+        "Headhunters: Butcher Kopion Pack at ~mission(Location)",
+        "Headhunters: Deal with Kopions at ~mission(Location)",
+        "Headhunters: Death and cargo",
+        "Headhunters: Don't let Windfall Fall",
+        "Headhunters: Driving CFP out",
+        "Headhunters: Halt XenoThreat Expansion",
+        "Headhunters: Headhunters_EliminateAllFF_Title_001",
+        "Headhunters: Hit XenoThreat at ~mission(Location)",
+        "Headhunters: Hit a CFP Complex",
+        "Headhunters: Hit on XenoThreat command",
+        "Headhunters: Hitting a CFP site",
+        "Headhunters: Kill Kopions at ~mission(Location)",
+        "Headhunters: Need a hitter",
+        "Headhunters: Rally at ~mission(Location)",
+        "Headhunters: Reputation Management",
+        "Headhunters: Sweep and clear some CFP haunts",
+        "Headhunters: Take back Carvers Ridge",
+        "Headhunters: Taking XenoThreat Turf",
+        "Headhunters: Taking down a XenoThreat Hideout",
+        "Headhunters: Taking out some XenoThreat trash",
+        "Headhunters: The Yard's under attack",
+        "Headhunters: Turf War",
+        "Headhunters: Wipe ~mission(Location) out",
+        "Headhunters: ~mission(Location) has been greenlit",
+        "Headhunters: ~mission(Location|Address) under attack"
       ],
       "rewardMissionKeys": [
         {
           "titleKey": "headhunters_eliminateall_caves_title_01",
           "titleEN": "A Swift Reprisal",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -18793,7 +18793,7 @@
         {
           "titleKey": "headhunters_chainelimall_1c_attackcfp_e_title_001",
           "titleEN": "A little retaliation",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -18802,7 +18802,7 @@
         {
           "titleKey": "headhunters_eliminateall_retrievestolen_missingperson_base_generic_m_title_001",
           "titleEN": "A tricky tricky task",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -18811,7 +18811,7 @@
         {
           "titleKey": "headhunters_defend_xt_vh_title_001",
           "titleEN": "Block XenoThreat Expansion",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -18820,7 +18820,7 @@
         {
           "titleKey": "hh_killanimals_h_derelictoutpostscaves_title_001",
           "titleEN": "Butcher Kopion Pack at ~mission(Location)",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -18829,7 +18829,7 @@
         {
           "titleKey": "hh_killanimals_e_derelictoutpostscaves_title_001",
           "titleEN": "Deal with Kopions at ~mission(Location)",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -18838,7 +18838,7 @@
         {
           "titleKey": "headhunters_eliminateall_retrievestolen_base_generic_m_title_001",
           "titleEN": "Death and cargo",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -18847,7 +18847,7 @@
         {
           "titleKey": "headhunters_defend_generic_m_windfall_title_001",
           "titleEN": "Don't let Windfall Fall",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -18856,7 +18856,7 @@
         {
           "titleKey": "headhunters_chainelimall_1c_elimspec_attackcfp_m_title_001",
           "titleEN": "Driving CFP out",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -18865,7 +18865,7 @@
         {
           "titleKey": "headhunters_defend_xt_h_title_001",
           "titleEN": "Halt XenoThreat Expansion",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -18874,7 +18874,7 @@
         {
           "titleKey": "headhunters_eliminateallff_title_001",
           "titleEN": "Headhunters_EliminateAllFF_Title_001",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -18883,7 +18883,7 @@
         {
           "titleKey": "headhunters_eliminateall_xenothreat_h_title_001",
           "titleEN": "Hit XenoThreat at ~mission(Location)",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -18892,7 +18892,7 @@
         {
           "titleKey": "headhunters_chainelimall_3c_elimspec_attackcfp_vh_title_001",
           "titleEN": "Hit a CFP Complex",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -18901,7 +18901,7 @@
         {
           "titleKey": "headhunters_chainelimall_boss_xenothreat_vh_title_001",
           "titleEN": "Hit on XenoThreat command",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -18910,7 +18910,7 @@
         {
           "titleKey": "headhunters_eliminateall_cfp_e_title_001",
           "titleEN": "Hitting a CFP site",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -18919,7 +18919,7 @@
         {
           "titleKey": "hh_killanimals_m_derelictoutpostscaves_title_001",
           "titleEN": "Kill Kopions at ~mission(Location)",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -18928,7 +18928,7 @@
         {
           "titleKey": "headhunters_eliminateall_base_generic_e_title_001",
           "titleEN": "Need a hitter",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -18937,7 +18937,7 @@
         {
           "titleKey": "headhunters_defend_generic_m_goldenrivera_title_001",
           "titleEN": "Rally at ~mission(Location)",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -18946,7 +18946,7 @@
         {
           "titleKey": "headhunters_eliminateall_outpost_title_01",
           "titleEN": "Reputation Management",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -18955,7 +18955,7 @@
         {
           "titleKey": "headhunters_chainelimall_2c_elimspec_attackcfp_h_title_001",
           "titleEN": "Sweep and clear some CFP haunts",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -18964,7 +18964,7 @@
         {
           "titleKey": "headhunters_defend_generic_m_carvers_title_001",
           "titleEN": "Take back Carvers Ridge",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -18973,7 +18973,7 @@
         {
           "titleKey": "headhunters_chainelimall_2c_elimspec_attackxt_h_title_001",
           "titleEN": "Taking XenoThreat Turf",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -18982,7 +18982,7 @@
         {
           "titleKey": "headhunters_chainelimall_3c_elimspec_attackxt_vh_title_001",
           "titleEN": "Taking down a XenoThreat Hideout",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -18991,7 +18991,7 @@
         {
           "titleKey": "headhunters_chainelimall_1c_attackxt_m_title_001",
           "titleEN": "Taking out some XenoThreat trash",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -19000,7 +19000,7 @@
         {
           "titleKey": "headhunters_defend_generic_m_theyard_title_001",
           "titleEN": "The Yard's under attack",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -19009,7 +19009,7 @@
         {
           "titleKey": "headhunters_eliminateall_xt_derelicts_title_01",
           "titleEN": "Turf War",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -19018,7 +19018,7 @@
         {
           "titleKey": "headhunters_eliminateall_generic_m_title_001",
           "titleEN": "Wipe ~mission(Location) out",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -19027,7 +19027,7 @@
         {
           "titleKey": "headhunters_eliminateall_cfp_m_title_001",
           "titleEN": "~mission(Location) has been greenlit",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -19036,7 +19036,7 @@
         {
           "titleKey": "headhunters_defend_generic_m_title_001",
           "titleEN": "~mission(Location|Address) under attack",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -19122,41 +19122,41 @@
       "recordGUID": "3eea6d43-d683-4ec7-9853-be654982f135",
       "isReward": true,
       "rewardMissions": [
-        "HeadHunters: A Swift Reprisal",
-        "HeadHunters: A little retaliation",
-        "HeadHunters: A tricky tricky task",
-        "HeadHunters: Block XenoThreat Expansion",
-        "HeadHunters: Butcher Kopion Pack at ~mission(Location)",
-        "HeadHunters: Deal with Kopions at ~mission(Location)",
-        "HeadHunters: Death and cargo",
-        "HeadHunters: Don't let Windfall Fall",
-        "HeadHunters: Driving CFP out",
-        "HeadHunters: Halt XenoThreat Expansion",
-        "HeadHunters: Headhunters_EliminateAllFF_Title_001",
-        "HeadHunters: Hit XenoThreat at ~mission(Location)",
-        "HeadHunters: Hit a CFP Complex",
-        "HeadHunters: Hit on XenoThreat command",
-        "HeadHunters: Hitting a CFP site",
-        "HeadHunters: Kill Kopions at ~mission(Location)",
-        "HeadHunters: Need a hitter",
-        "HeadHunters: Rally at ~mission(Location)",
-        "HeadHunters: Reputation Management",
-        "HeadHunters: Sweep and clear some CFP haunts",
-        "HeadHunters: Take back Carvers Ridge",
-        "HeadHunters: Taking XenoThreat Turf",
-        "HeadHunters: Taking down a XenoThreat Hideout",
-        "HeadHunters: Taking out some XenoThreat trash",
-        "HeadHunters: The Yard's under attack",
-        "HeadHunters: Turf War",
-        "HeadHunters: Wipe ~mission(Location) out",
-        "HeadHunters: ~mission(Location) has been greenlit",
-        "HeadHunters: ~mission(Location|Address) under attack"
+        "Headhunters: A Swift Reprisal",
+        "Headhunters: A little retaliation",
+        "Headhunters: A tricky tricky task",
+        "Headhunters: Block XenoThreat Expansion",
+        "Headhunters: Butcher Kopion Pack at ~mission(Location)",
+        "Headhunters: Deal with Kopions at ~mission(Location)",
+        "Headhunters: Death and cargo",
+        "Headhunters: Don't let Windfall Fall",
+        "Headhunters: Driving CFP out",
+        "Headhunters: Halt XenoThreat Expansion",
+        "Headhunters: Headhunters_EliminateAllFF_Title_001",
+        "Headhunters: Hit XenoThreat at ~mission(Location)",
+        "Headhunters: Hit a CFP Complex",
+        "Headhunters: Hit on XenoThreat command",
+        "Headhunters: Hitting a CFP site",
+        "Headhunters: Kill Kopions at ~mission(Location)",
+        "Headhunters: Need a hitter",
+        "Headhunters: Rally at ~mission(Location)",
+        "Headhunters: Reputation Management",
+        "Headhunters: Sweep and clear some CFP haunts",
+        "Headhunters: Take back Carvers Ridge",
+        "Headhunters: Taking XenoThreat Turf",
+        "Headhunters: Taking down a XenoThreat Hideout",
+        "Headhunters: Taking out some XenoThreat trash",
+        "Headhunters: The Yard's under attack",
+        "Headhunters: Turf War",
+        "Headhunters: Wipe ~mission(Location) out",
+        "Headhunters: ~mission(Location) has been greenlit",
+        "Headhunters: ~mission(Location|Address) under attack"
       ],
       "rewardMissionKeys": [
         {
           "titleKey": "headhunters_eliminateall_caves_title_01",
           "titleEN": "A Swift Reprisal",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -19165,7 +19165,7 @@
         {
           "titleKey": "headhunters_chainelimall_1c_attackcfp_e_title_001",
           "titleEN": "A little retaliation",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -19174,7 +19174,7 @@
         {
           "titleKey": "headhunters_eliminateall_retrievestolen_missingperson_base_generic_m_title_001",
           "titleEN": "A tricky tricky task",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -19183,7 +19183,7 @@
         {
           "titleKey": "headhunters_defend_xt_vh_title_001",
           "titleEN": "Block XenoThreat Expansion",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -19192,7 +19192,7 @@
         {
           "titleKey": "hh_killanimals_h_derelictoutpostscaves_title_001",
           "titleEN": "Butcher Kopion Pack at ~mission(Location)",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -19201,7 +19201,7 @@
         {
           "titleKey": "hh_killanimals_e_derelictoutpostscaves_title_001",
           "titleEN": "Deal with Kopions at ~mission(Location)",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -19210,7 +19210,7 @@
         {
           "titleKey": "headhunters_eliminateall_retrievestolen_base_generic_m_title_001",
           "titleEN": "Death and cargo",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -19219,7 +19219,7 @@
         {
           "titleKey": "headhunters_defend_generic_m_windfall_title_001",
           "titleEN": "Don't let Windfall Fall",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -19228,7 +19228,7 @@
         {
           "titleKey": "headhunters_chainelimall_1c_elimspec_attackcfp_m_title_001",
           "titleEN": "Driving CFP out",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -19237,7 +19237,7 @@
         {
           "titleKey": "headhunters_defend_xt_h_title_001",
           "titleEN": "Halt XenoThreat Expansion",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -19246,7 +19246,7 @@
         {
           "titleKey": "headhunters_eliminateallff_title_001",
           "titleEN": "Headhunters_EliminateAllFF_Title_001",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -19255,7 +19255,7 @@
         {
           "titleKey": "headhunters_eliminateall_xenothreat_h_title_001",
           "titleEN": "Hit XenoThreat at ~mission(Location)",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -19264,7 +19264,7 @@
         {
           "titleKey": "headhunters_chainelimall_3c_elimspec_attackcfp_vh_title_001",
           "titleEN": "Hit a CFP Complex",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -19273,7 +19273,7 @@
         {
           "titleKey": "headhunters_chainelimall_boss_xenothreat_vh_title_001",
           "titleEN": "Hit on XenoThreat command",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -19282,7 +19282,7 @@
         {
           "titleKey": "headhunters_eliminateall_cfp_e_title_001",
           "titleEN": "Hitting a CFP site",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -19291,7 +19291,7 @@
         {
           "titleKey": "hh_killanimals_m_derelictoutpostscaves_title_001",
           "titleEN": "Kill Kopions at ~mission(Location)",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -19300,7 +19300,7 @@
         {
           "titleKey": "headhunters_eliminateall_base_generic_e_title_001",
           "titleEN": "Need a hitter",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -19309,7 +19309,7 @@
         {
           "titleKey": "headhunters_defend_generic_m_goldenrivera_title_001",
           "titleEN": "Rally at ~mission(Location)",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -19318,7 +19318,7 @@
         {
           "titleKey": "headhunters_eliminateall_outpost_title_01",
           "titleEN": "Reputation Management",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -19327,7 +19327,7 @@
         {
           "titleKey": "headhunters_chainelimall_2c_elimspec_attackcfp_h_title_001",
           "titleEN": "Sweep and clear some CFP haunts",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -19336,7 +19336,7 @@
         {
           "titleKey": "headhunters_defend_generic_m_carvers_title_001",
           "titleEN": "Take back Carvers Ridge",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -19345,7 +19345,7 @@
         {
           "titleKey": "headhunters_chainelimall_2c_elimspec_attackxt_h_title_001",
           "titleEN": "Taking XenoThreat Turf",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -19354,7 +19354,7 @@
         {
           "titleKey": "headhunters_chainelimall_3c_elimspec_attackxt_vh_title_001",
           "titleEN": "Taking down a XenoThreat Hideout",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -19363,7 +19363,7 @@
         {
           "titleKey": "headhunters_chainelimall_1c_attackxt_m_title_001",
           "titleEN": "Taking out some XenoThreat trash",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -19372,7 +19372,7 @@
         {
           "titleKey": "headhunters_defend_generic_m_theyard_title_001",
           "titleEN": "The Yard's under attack",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -19381,7 +19381,7 @@
         {
           "titleKey": "headhunters_eliminateall_xt_derelicts_title_01",
           "titleEN": "Turf War",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -19390,7 +19390,7 @@
         {
           "titleKey": "headhunters_eliminateall_generic_m_title_001",
           "titleEN": "Wipe ~mission(Location) out",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -19399,7 +19399,7 @@
         {
           "titleKey": "headhunters_eliminateall_cfp_m_title_001",
           "titleEN": "~mission(Location) has been greenlit",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -19408,7 +19408,7 @@
         {
           "titleKey": "headhunters_defend_generic_m_title_001",
           "titleEN": "~mission(Location|Address) under attack",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -19574,41 +19574,41 @@
       "recordGUID": "9eba6e0e-4ed7-457d-9fd7-4c450ada4be4",
       "isReward": true,
       "rewardMissions": [
-        "HeadHunters: A Swift Reprisal",
-        "HeadHunters: A little retaliation",
-        "HeadHunters: A tricky tricky task",
-        "HeadHunters: Block XenoThreat Expansion",
-        "HeadHunters: Butcher Kopion Pack at ~mission(Location)",
-        "HeadHunters: Deal with Kopions at ~mission(Location)",
-        "HeadHunters: Death and cargo",
-        "HeadHunters: Don't let Windfall Fall",
-        "HeadHunters: Driving CFP out",
-        "HeadHunters: Halt XenoThreat Expansion",
-        "HeadHunters: Headhunters_EliminateAllFF_Title_001",
-        "HeadHunters: Hit XenoThreat at ~mission(Location)",
-        "HeadHunters: Hit a CFP Complex",
-        "HeadHunters: Hit on XenoThreat command",
-        "HeadHunters: Hitting a CFP site",
-        "HeadHunters: Kill Kopions at ~mission(Location)",
-        "HeadHunters: Need a hitter",
-        "HeadHunters: Rally at ~mission(Location)",
-        "HeadHunters: Reputation Management",
-        "HeadHunters: Sweep and clear some CFP haunts",
-        "HeadHunters: Take back Carvers Ridge",
-        "HeadHunters: Taking XenoThreat Turf",
-        "HeadHunters: Taking down a XenoThreat Hideout",
-        "HeadHunters: Taking out some XenoThreat trash",
-        "HeadHunters: The Yard's under attack",
-        "HeadHunters: Turf War",
-        "HeadHunters: Wipe ~mission(Location) out",
-        "HeadHunters: ~mission(Location) has been greenlit",
-        "HeadHunters: ~mission(Location|Address) under attack"
+        "Headhunters: A Swift Reprisal",
+        "Headhunters: A little retaliation",
+        "Headhunters: A tricky tricky task",
+        "Headhunters: Block XenoThreat Expansion",
+        "Headhunters: Butcher Kopion Pack at ~mission(Location)",
+        "Headhunters: Deal with Kopions at ~mission(Location)",
+        "Headhunters: Death and cargo",
+        "Headhunters: Don't let Windfall Fall",
+        "Headhunters: Driving CFP out",
+        "Headhunters: Halt XenoThreat Expansion",
+        "Headhunters: Headhunters_EliminateAllFF_Title_001",
+        "Headhunters: Hit XenoThreat at ~mission(Location)",
+        "Headhunters: Hit a CFP Complex",
+        "Headhunters: Hit on XenoThreat command",
+        "Headhunters: Hitting a CFP site",
+        "Headhunters: Kill Kopions at ~mission(Location)",
+        "Headhunters: Need a hitter",
+        "Headhunters: Rally at ~mission(Location)",
+        "Headhunters: Reputation Management",
+        "Headhunters: Sweep and clear some CFP haunts",
+        "Headhunters: Take back Carvers Ridge",
+        "Headhunters: Taking XenoThreat Turf",
+        "Headhunters: Taking down a XenoThreat Hideout",
+        "Headhunters: Taking out some XenoThreat trash",
+        "Headhunters: The Yard's under attack",
+        "Headhunters: Turf War",
+        "Headhunters: Wipe ~mission(Location) out",
+        "Headhunters: ~mission(Location) has been greenlit",
+        "Headhunters: ~mission(Location|Address) under attack"
       ],
       "rewardMissionKeys": [
         {
           "titleKey": "headhunters_eliminateall_caves_title_01",
           "titleEN": "A Swift Reprisal",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -19617,7 +19617,7 @@
         {
           "titleKey": "headhunters_chainelimall_1c_attackcfp_e_title_001",
           "titleEN": "A little retaliation",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -19626,7 +19626,7 @@
         {
           "titleKey": "headhunters_eliminateall_retrievestolen_missingperson_base_generic_m_title_001",
           "titleEN": "A tricky tricky task",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -19635,7 +19635,7 @@
         {
           "titleKey": "headhunters_defend_xt_vh_title_001",
           "titleEN": "Block XenoThreat Expansion",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -19644,7 +19644,7 @@
         {
           "titleKey": "hh_killanimals_h_derelictoutpostscaves_title_001",
           "titleEN": "Butcher Kopion Pack at ~mission(Location)",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -19653,7 +19653,7 @@
         {
           "titleKey": "hh_killanimals_e_derelictoutpostscaves_title_001",
           "titleEN": "Deal with Kopions at ~mission(Location)",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -19662,7 +19662,7 @@
         {
           "titleKey": "headhunters_eliminateall_retrievestolen_base_generic_m_title_001",
           "titleEN": "Death and cargo",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -19671,7 +19671,7 @@
         {
           "titleKey": "headhunters_defend_generic_m_windfall_title_001",
           "titleEN": "Don't let Windfall Fall",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -19680,7 +19680,7 @@
         {
           "titleKey": "headhunters_chainelimall_1c_elimspec_attackcfp_m_title_001",
           "titleEN": "Driving CFP out",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -19689,7 +19689,7 @@
         {
           "titleKey": "headhunters_defend_xt_h_title_001",
           "titleEN": "Halt XenoThreat Expansion",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -19698,7 +19698,7 @@
         {
           "titleKey": "headhunters_eliminateallff_title_001",
           "titleEN": "Headhunters_EliminateAllFF_Title_001",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -19707,7 +19707,7 @@
         {
           "titleKey": "headhunters_eliminateall_xenothreat_h_title_001",
           "titleEN": "Hit XenoThreat at ~mission(Location)",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -19716,7 +19716,7 @@
         {
           "titleKey": "headhunters_chainelimall_3c_elimspec_attackcfp_vh_title_001",
           "titleEN": "Hit a CFP Complex",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -19725,7 +19725,7 @@
         {
           "titleKey": "headhunters_chainelimall_boss_xenothreat_vh_title_001",
           "titleEN": "Hit on XenoThreat command",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -19734,7 +19734,7 @@
         {
           "titleKey": "headhunters_eliminateall_cfp_e_title_001",
           "titleEN": "Hitting a CFP site",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -19743,7 +19743,7 @@
         {
           "titleKey": "hh_killanimals_m_derelictoutpostscaves_title_001",
           "titleEN": "Kill Kopions at ~mission(Location)",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -19752,7 +19752,7 @@
         {
           "titleKey": "headhunters_eliminateall_base_generic_e_title_001",
           "titleEN": "Need a hitter",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -19761,7 +19761,7 @@
         {
           "titleKey": "headhunters_defend_generic_m_goldenrivera_title_001",
           "titleEN": "Rally at ~mission(Location)",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -19770,7 +19770,7 @@
         {
           "titleKey": "headhunters_eliminateall_outpost_title_01",
           "titleEN": "Reputation Management",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -19779,7 +19779,7 @@
         {
           "titleKey": "headhunters_chainelimall_2c_elimspec_attackcfp_h_title_001",
           "titleEN": "Sweep and clear some CFP haunts",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -19788,7 +19788,7 @@
         {
           "titleKey": "headhunters_defend_generic_m_carvers_title_001",
           "titleEN": "Take back Carvers Ridge",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -19797,7 +19797,7 @@
         {
           "titleKey": "headhunters_chainelimall_2c_elimspec_attackxt_h_title_001",
           "titleEN": "Taking XenoThreat Turf",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -19806,7 +19806,7 @@
         {
           "titleKey": "headhunters_chainelimall_3c_elimspec_attackxt_vh_title_001",
           "titleEN": "Taking down a XenoThreat Hideout",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -19815,7 +19815,7 @@
         {
           "titleKey": "headhunters_chainelimall_1c_attackxt_m_title_001",
           "titleEN": "Taking out some XenoThreat trash",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -19824,7 +19824,7 @@
         {
           "titleKey": "headhunters_defend_generic_m_theyard_title_001",
           "titleEN": "The Yard's under attack",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -19833,7 +19833,7 @@
         {
           "titleKey": "headhunters_eliminateall_xt_derelicts_title_01",
           "titleEN": "Turf War",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -19842,7 +19842,7 @@
         {
           "titleKey": "headhunters_eliminateall_generic_m_title_001",
           "titleEN": "Wipe ~mission(Location) out",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -19851,7 +19851,7 @@
         {
           "titleKey": "headhunters_eliminateall_cfp_m_title_001",
           "titleEN": "~mission(Location) has been greenlit",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -19860,7 +19860,7 @@
         {
           "titleKey": "headhunters_defend_generic_m_title_001",
           "titleEN": "~mission(Location|Address) under attack",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -19946,41 +19946,41 @@
       "recordGUID": "d1da140e-b7ee-46ba-b76a-f5dd33c0348c",
       "isReward": true,
       "rewardMissions": [
-        "HeadHunters: A Swift Reprisal",
-        "HeadHunters: A little retaliation",
-        "HeadHunters: A tricky tricky task",
-        "HeadHunters: Block XenoThreat Expansion",
-        "HeadHunters: Butcher Kopion Pack at ~mission(Location)",
-        "HeadHunters: Deal with Kopions at ~mission(Location)",
-        "HeadHunters: Death and cargo",
-        "HeadHunters: Don't let Windfall Fall",
-        "HeadHunters: Driving CFP out",
-        "HeadHunters: Halt XenoThreat Expansion",
-        "HeadHunters: Headhunters_EliminateAllFF_Title_001",
-        "HeadHunters: Hit XenoThreat at ~mission(Location)",
-        "HeadHunters: Hit a CFP Complex",
-        "HeadHunters: Hit on XenoThreat command",
-        "HeadHunters: Hitting a CFP site",
-        "HeadHunters: Kill Kopions at ~mission(Location)",
-        "HeadHunters: Need a hitter",
-        "HeadHunters: Rally at ~mission(Location)",
-        "HeadHunters: Reputation Management",
-        "HeadHunters: Sweep and clear some CFP haunts",
-        "HeadHunters: Take back Carvers Ridge",
-        "HeadHunters: Taking XenoThreat Turf",
-        "HeadHunters: Taking down a XenoThreat Hideout",
-        "HeadHunters: Taking out some XenoThreat trash",
-        "HeadHunters: The Yard's under attack",
-        "HeadHunters: Turf War",
-        "HeadHunters: Wipe ~mission(Location) out",
-        "HeadHunters: ~mission(Location) has been greenlit",
-        "HeadHunters: ~mission(Location|Address) under attack"
+        "Headhunters: A Swift Reprisal",
+        "Headhunters: A little retaliation",
+        "Headhunters: A tricky tricky task",
+        "Headhunters: Block XenoThreat Expansion",
+        "Headhunters: Butcher Kopion Pack at ~mission(Location)",
+        "Headhunters: Deal with Kopions at ~mission(Location)",
+        "Headhunters: Death and cargo",
+        "Headhunters: Don't let Windfall Fall",
+        "Headhunters: Driving CFP out",
+        "Headhunters: Halt XenoThreat Expansion",
+        "Headhunters: Headhunters_EliminateAllFF_Title_001",
+        "Headhunters: Hit XenoThreat at ~mission(Location)",
+        "Headhunters: Hit a CFP Complex",
+        "Headhunters: Hit on XenoThreat command",
+        "Headhunters: Hitting a CFP site",
+        "Headhunters: Kill Kopions at ~mission(Location)",
+        "Headhunters: Need a hitter",
+        "Headhunters: Rally at ~mission(Location)",
+        "Headhunters: Reputation Management",
+        "Headhunters: Sweep and clear some CFP haunts",
+        "Headhunters: Take back Carvers Ridge",
+        "Headhunters: Taking XenoThreat Turf",
+        "Headhunters: Taking down a XenoThreat Hideout",
+        "Headhunters: Taking out some XenoThreat trash",
+        "Headhunters: The Yard's under attack",
+        "Headhunters: Turf War",
+        "Headhunters: Wipe ~mission(Location) out",
+        "Headhunters: ~mission(Location) has been greenlit",
+        "Headhunters: ~mission(Location|Address) under attack"
       ],
       "rewardMissionKeys": [
         {
           "titleKey": "headhunters_eliminateall_caves_title_01",
           "titleEN": "A Swift Reprisal",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -19989,7 +19989,7 @@
         {
           "titleKey": "headhunters_chainelimall_1c_attackcfp_e_title_001",
           "titleEN": "A little retaliation",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -19998,7 +19998,7 @@
         {
           "titleKey": "headhunters_eliminateall_retrievestolen_missingperson_base_generic_m_title_001",
           "titleEN": "A tricky tricky task",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -20007,7 +20007,7 @@
         {
           "titleKey": "headhunters_defend_xt_vh_title_001",
           "titleEN": "Block XenoThreat Expansion",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -20016,7 +20016,7 @@
         {
           "titleKey": "hh_killanimals_h_derelictoutpostscaves_title_001",
           "titleEN": "Butcher Kopion Pack at ~mission(Location)",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -20025,7 +20025,7 @@
         {
           "titleKey": "hh_killanimals_e_derelictoutpostscaves_title_001",
           "titleEN": "Deal with Kopions at ~mission(Location)",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -20034,7 +20034,7 @@
         {
           "titleKey": "headhunters_eliminateall_retrievestolen_base_generic_m_title_001",
           "titleEN": "Death and cargo",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -20043,7 +20043,7 @@
         {
           "titleKey": "headhunters_defend_generic_m_windfall_title_001",
           "titleEN": "Don't let Windfall Fall",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -20052,7 +20052,7 @@
         {
           "titleKey": "headhunters_chainelimall_1c_elimspec_attackcfp_m_title_001",
           "titleEN": "Driving CFP out",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -20061,7 +20061,7 @@
         {
           "titleKey": "headhunters_defend_xt_h_title_001",
           "titleEN": "Halt XenoThreat Expansion",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -20070,7 +20070,7 @@
         {
           "titleKey": "headhunters_eliminateallff_title_001",
           "titleEN": "Headhunters_EliminateAllFF_Title_001",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -20079,7 +20079,7 @@
         {
           "titleKey": "headhunters_eliminateall_xenothreat_h_title_001",
           "titleEN": "Hit XenoThreat at ~mission(Location)",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -20088,7 +20088,7 @@
         {
           "titleKey": "headhunters_chainelimall_3c_elimspec_attackcfp_vh_title_001",
           "titleEN": "Hit a CFP Complex",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -20097,7 +20097,7 @@
         {
           "titleKey": "headhunters_chainelimall_boss_xenothreat_vh_title_001",
           "titleEN": "Hit on XenoThreat command",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -20106,7 +20106,7 @@
         {
           "titleKey": "headhunters_eliminateall_cfp_e_title_001",
           "titleEN": "Hitting a CFP site",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -20115,7 +20115,7 @@
         {
           "titleKey": "hh_killanimals_m_derelictoutpostscaves_title_001",
           "titleEN": "Kill Kopions at ~mission(Location)",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -20124,7 +20124,7 @@
         {
           "titleKey": "headhunters_eliminateall_base_generic_e_title_001",
           "titleEN": "Need a hitter",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -20133,7 +20133,7 @@
         {
           "titleKey": "headhunters_defend_generic_m_goldenrivera_title_001",
           "titleEN": "Rally at ~mission(Location)",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -20142,7 +20142,7 @@
         {
           "titleKey": "headhunters_eliminateall_outpost_title_01",
           "titleEN": "Reputation Management",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -20151,7 +20151,7 @@
         {
           "titleKey": "headhunters_chainelimall_2c_elimspec_attackcfp_h_title_001",
           "titleEN": "Sweep and clear some CFP haunts",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -20160,7 +20160,7 @@
         {
           "titleKey": "headhunters_defend_generic_m_carvers_title_001",
           "titleEN": "Take back Carvers Ridge",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -20169,7 +20169,7 @@
         {
           "titleKey": "headhunters_chainelimall_2c_elimspec_attackxt_h_title_001",
           "titleEN": "Taking XenoThreat Turf",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -20178,7 +20178,7 @@
         {
           "titleKey": "headhunters_chainelimall_3c_elimspec_attackxt_vh_title_001",
           "titleEN": "Taking down a XenoThreat Hideout",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -20187,7 +20187,7 @@
         {
           "titleKey": "headhunters_chainelimall_1c_attackxt_m_title_001",
           "titleEN": "Taking out some XenoThreat trash",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -20196,7 +20196,7 @@
         {
           "titleKey": "headhunters_defend_generic_m_theyard_title_001",
           "titleEN": "The Yard's under attack",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -20205,7 +20205,7 @@
         {
           "titleKey": "headhunters_eliminateall_xt_derelicts_title_01",
           "titleEN": "Turf War",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -20214,7 +20214,7 @@
         {
           "titleKey": "headhunters_eliminateall_generic_m_title_001",
           "titleEN": "Wipe ~mission(Location) out",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -20223,7 +20223,7 @@
         {
           "titleKey": "headhunters_eliminateall_cfp_m_title_001",
           "titleEN": "~mission(Location) has been greenlit",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -20232,7 +20232,7 @@
         {
           "titleKey": "headhunters_defend_generic_m_title_001",
           "titleEN": "~mission(Location|Address) under attack",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -24740,41 +24740,41 @@
       "recordGUID": "c022fbee-2b9d-4bdb-9895-307812c30316",
       "isReward": true,
       "rewardMissions": [
-        "HeadHunters: A Swift Reprisal",
-        "HeadHunters: A little retaliation",
-        "HeadHunters: A tricky tricky task",
-        "HeadHunters: Block XenoThreat Expansion",
-        "HeadHunters: Butcher Kopion Pack at ~mission(Location)",
-        "HeadHunters: Deal with Kopions at ~mission(Location)",
-        "HeadHunters: Death and cargo",
-        "HeadHunters: Don't let Windfall Fall",
-        "HeadHunters: Driving CFP out",
-        "HeadHunters: Halt XenoThreat Expansion",
-        "HeadHunters: Headhunters_EliminateAllFF_Title_001",
-        "HeadHunters: Hit XenoThreat at ~mission(Location)",
-        "HeadHunters: Hit a CFP Complex",
-        "HeadHunters: Hit on XenoThreat command",
-        "HeadHunters: Hitting a CFP site",
-        "HeadHunters: Kill Kopions at ~mission(Location)",
-        "HeadHunters: Need a hitter",
-        "HeadHunters: Rally at ~mission(Location)",
-        "HeadHunters: Reputation Management",
-        "HeadHunters: Sweep and clear some CFP haunts",
-        "HeadHunters: Take back Carvers Ridge",
-        "HeadHunters: Taking XenoThreat Turf",
-        "HeadHunters: Taking down a XenoThreat Hideout",
-        "HeadHunters: Taking out some XenoThreat trash",
-        "HeadHunters: The Yard's under attack",
-        "HeadHunters: Turf War",
-        "HeadHunters: Wipe ~mission(Location) out",
-        "HeadHunters: ~mission(Location) has been greenlit",
-        "HeadHunters: ~mission(Location|Address) under attack"
+        "Headhunters: A Swift Reprisal",
+        "Headhunters: A little retaliation",
+        "Headhunters: A tricky tricky task",
+        "Headhunters: Block XenoThreat Expansion",
+        "Headhunters: Butcher Kopion Pack at ~mission(Location)",
+        "Headhunters: Deal with Kopions at ~mission(Location)",
+        "Headhunters: Death and cargo",
+        "Headhunters: Don't let Windfall Fall",
+        "Headhunters: Driving CFP out",
+        "Headhunters: Halt XenoThreat Expansion",
+        "Headhunters: Headhunters_EliminateAllFF_Title_001",
+        "Headhunters: Hit XenoThreat at ~mission(Location)",
+        "Headhunters: Hit a CFP Complex",
+        "Headhunters: Hit on XenoThreat command",
+        "Headhunters: Hitting a CFP site",
+        "Headhunters: Kill Kopions at ~mission(Location)",
+        "Headhunters: Need a hitter",
+        "Headhunters: Rally at ~mission(Location)",
+        "Headhunters: Reputation Management",
+        "Headhunters: Sweep and clear some CFP haunts",
+        "Headhunters: Take back Carvers Ridge",
+        "Headhunters: Taking XenoThreat Turf",
+        "Headhunters: Taking down a XenoThreat Hideout",
+        "Headhunters: Taking out some XenoThreat trash",
+        "Headhunters: The Yard's under attack",
+        "Headhunters: Turf War",
+        "Headhunters: Wipe ~mission(Location) out",
+        "Headhunters: ~mission(Location) has been greenlit",
+        "Headhunters: ~mission(Location|Address) under attack"
       ],
       "rewardMissionKeys": [
         {
           "titleKey": "headhunters_eliminateall_caves_title_01",
           "titleEN": "A Swift Reprisal",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -24783,7 +24783,7 @@
         {
           "titleKey": "headhunters_chainelimall_1c_attackcfp_e_title_001",
           "titleEN": "A little retaliation",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -24792,7 +24792,7 @@
         {
           "titleKey": "headhunters_eliminateall_retrievestolen_missingperson_base_generic_m_title_001",
           "titleEN": "A tricky tricky task",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -24801,7 +24801,7 @@
         {
           "titleKey": "headhunters_defend_xt_vh_title_001",
           "titleEN": "Block XenoThreat Expansion",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -24810,7 +24810,7 @@
         {
           "titleKey": "hh_killanimals_h_derelictoutpostscaves_title_001",
           "titleEN": "Butcher Kopion Pack at ~mission(Location)",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -24819,7 +24819,7 @@
         {
           "titleKey": "hh_killanimals_e_derelictoutpostscaves_title_001",
           "titleEN": "Deal with Kopions at ~mission(Location)",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -24828,7 +24828,7 @@
         {
           "titleKey": "headhunters_eliminateall_retrievestolen_base_generic_m_title_001",
           "titleEN": "Death and cargo",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -24837,7 +24837,7 @@
         {
           "titleKey": "headhunters_defend_generic_m_windfall_title_001",
           "titleEN": "Don't let Windfall Fall",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -24846,7 +24846,7 @@
         {
           "titleKey": "headhunters_chainelimall_1c_elimspec_attackcfp_m_title_001",
           "titleEN": "Driving CFP out",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -24855,7 +24855,7 @@
         {
           "titleKey": "headhunters_defend_xt_h_title_001",
           "titleEN": "Halt XenoThreat Expansion",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -24864,7 +24864,7 @@
         {
           "titleKey": "headhunters_eliminateallff_title_001",
           "titleEN": "Headhunters_EliminateAllFF_Title_001",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -24873,7 +24873,7 @@
         {
           "titleKey": "headhunters_eliminateall_xenothreat_h_title_001",
           "titleEN": "Hit XenoThreat at ~mission(Location)",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -24882,7 +24882,7 @@
         {
           "titleKey": "headhunters_chainelimall_3c_elimspec_attackcfp_vh_title_001",
           "titleEN": "Hit a CFP Complex",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -24891,7 +24891,7 @@
         {
           "titleKey": "headhunters_chainelimall_boss_xenothreat_vh_title_001",
           "titleEN": "Hit on XenoThreat command",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -24900,7 +24900,7 @@
         {
           "titleKey": "headhunters_eliminateall_cfp_e_title_001",
           "titleEN": "Hitting a CFP site",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -24909,7 +24909,7 @@
         {
           "titleKey": "hh_killanimals_m_derelictoutpostscaves_title_001",
           "titleEN": "Kill Kopions at ~mission(Location)",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -24918,7 +24918,7 @@
         {
           "titleKey": "headhunters_eliminateall_base_generic_e_title_001",
           "titleEN": "Need a hitter",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -24927,7 +24927,7 @@
         {
           "titleKey": "headhunters_defend_generic_m_goldenrivera_title_001",
           "titleEN": "Rally at ~mission(Location)",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -24936,7 +24936,7 @@
         {
           "titleKey": "headhunters_eliminateall_outpost_title_01",
           "titleEN": "Reputation Management",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -24945,7 +24945,7 @@
         {
           "titleKey": "headhunters_chainelimall_2c_elimspec_attackcfp_h_title_001",
           "titleEN": "Sweep and clear some CFP haunts",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -24954,7 +24954,7 @@
         {
           "titleKey": "headhunters_defend_generic_m_carvers_title_001",
           "titleEN": "Take back Carvers Ridge",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -24963,7 +24963,7 @@
         {
           "titleKey": "headhunters_chainelimall_2c_elimspec_attackxt_h_title_001",
           "titleEN": "Taking XenoThreat Turf",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -24972,7 +24972,7 @@
         {
           "titleKey": "headhunters_chainelimall_3c_elimspec_attackxt_vh_title_001",
           "titleEN": "Taking down a XenoThreat Hideout",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -24981,7 +24981,7 @@
         {
           "titleKey": "headhunters_chainelimall_1c_attackxt_m_title_001",
           "titleEN": "Taking out some XenoThreat trash",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -24990,7 +24990,7 @@
         {
           "titleKey": "headhunters_defend_generic_m_theyard_title_001",
           "titleEN": "The Yard's under attack",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -24999,7 +24999,7 @@
         {
           "titleKey": "headhunters_eliminateall_xt_derelicts_title_01",
           "titleEN": "Turf War",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -25008,7 +25008,7 @@
         {
           "titleKey": "headhunters_eliminateall_generic_m_title_001",
           "titleEN": "Wipe ~mission(Location) out",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -25017,7 +25017,7 @@
         {
           "titleKey": "headhunters_eliminateall_cfp_m_title_001",
           "titleEN": "~mission(Location) has been greenlit",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -25026,7 +25026,7 @@
         {
           "titleKey": "headhunters_defend_generic_m_title_001",
           "titleEN": "~mission(Location|Address) under attack",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -25162,41 +25162,41 @@
       "recordGUID": "a37bc293-33fb-4689-b6fb-44e39b86a410",
       "isReward": true,
       "rewardMissions": [
-        "HeadHunters: A Swift Reprisal",
-        "HeadHunters: A little retaliation",
-        "HeadHunters: A tricky tricky task",
-        "HeadHunters: Block XenoThreat Expansion",
-        "HeadHunters: Butcher Kopion Pack at ~mission(Location)",
-        "HeadHunters: Deal with Kopions at ~mission(Location)",
-        "HeadHunters: Death and cargo",
-        "HeadHunters: Don't let Windfall Fall",
-        "HeadHunters: Driving CFP out",
-        "HeadHunters: Halt XenoThreat Expansion",
-        "HeadHunters: Headhunters_EliminateAllFF_Title_001",
-        "HeadHunters: Hit XenoThreat at ~mission(Location)",
-        "HeadHunters: Hit a CFP Complex",
-        "HeadHunters: Hit on XenoThreat command",
-        "HeadHunters: Hitting a CFP site",
-        "HeadHunters: Kill Kopions at ~mission(Location)",
-        "HeadHunters: Need a hitter",
-        "HeadHunters: Rally at ~mission(Location)",
-        "HeadHunters: Reputation Management",
-        "HeadHunters: Sweep and clear some CFP haunts",
-        "HeadHunters: Take back Carvers Ridge",
-        "HeadHunters: Taking XenoThreat Turf",
-        "HeadHunters: Taking down a XenoThreat Hideout",
-        "HeadHunters: Taking out some XenoThreat trash",
-        "HeadHunters: The Yard's under attack",
-        "HeadHunters: Turf War",
-        "HeadHunters: Wipe ~mission(Location) out",
-        "HeadHunters: ~mission(Location) has been greenlit",
-        "HeadHunters: ~mission(Location|Address) under attack"
+        "Headhunters: A Swift Reprisal",
+        "Headhunters: A little retaliation",
+        "Headhunters: A tricky tricky task",
+        "Headhunters: Block XenoThreat Expansion",
+        "Headhunters: Butcher Kopion Pack at ~mission(Location)",
+        "Headhunters: Deal with Kopions at ~mission(Location)",
+        "Headhunters: Death and cargo",
+        "Headhunters: Don't let Windfall Fall",
+        "Headhunters: Driving CFP out",
+        "Headhunters: Halt XenoThreat Expansion",
+        "Headhunters: Headhunters_EliminateAllFF_Title_001",
+        "Headhunters: Hit XenoThreat at ~mission(Location)",
+        "Headhunters: Hit a CFP Complex",
+        "Headhunters: Hit on XenoThreat command",
+        "Headhunters: Hitting a CFP site",
+        "Headhunters: Kill Kopions at ~mission(Location)",
+        "Headhunters: Need a hitter",
+        "Headhunters: Rally at ~mission(Location)",
+        "Headhunters: Reputation Management",
+        "Headhunters: Sweep and clear some CFP haunts",
+        "Headhunters: Take back Carvers Ridge",
+        "Headhunters: Taking XenoThreat Turf",
+        "Headhunters: Taking down a XenoThreat Hideout",
+        "Headhunters: Taking out some XenoThreat trash",
+        "Headhunters: The Yard's under attack",
+        "Headhunters: Turf War",
+        "Headhunters: Wipe ~mission(Location) out",
+        "Headhunters: ~mission(Location) has been greenlit",
+        "Headhunters: ~mission(Location|Address) under attack"
       ],
       "rewardMissionKeys": [
         {
           "titleKey": "headhunters_eliminateall_caves_title_01",
           "titleEN": "A Swift Reprisal",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -25205,7 +25205,7 @@
         {
           "titleKey": "headhunters_chainelimall_1c_attackcfp_e_title_001",
           "titleEN": "A little retaliation",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -25214,7 +25214,7 @@
         {
           "titleKey": "headhunters_eliminateall_retrievestolen_missingperson_base_generic_m_title_001",
           "titleEN": "A tricky tricky task",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -25223,7 +25223,7 @@
         {
           "titleKey": "headhunters_defend_xt_vh_title_001",
           "titleEN": "Block XenoThreat Expansion",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -25232,7 +25232,7 @@
         {
           "titleKey": "hh_killanimals_h_derelictoutpostscaves_title_001",
           "titleEN": "Butcher Kopion Pack at ~mission(Location)",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -25241,7 +25241,7 @@
         {
           "titleKey": "hh_killanimals_e_derelictoutpostscaves_title_001",
           "titleEN": "Deal with Kopions at ~mission(Location)",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -25250,7 +25250,7 @@
         {
           "titleKey": "headhunters_eliminateall_retrievestolen_base_generic_m_title_001",
           "titleEN": "Death and cargo",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -25259,7 +25259,7 @@
         {
           "titleKey": "headhunters_defend_generic_m_windfall_title_001",
           "titleEN": "Don't let Windfall Fall",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -25268,7 +25268,7 @@
         {
           "titleKey": "headhunters_chainelimall_1c_elimspec_attackcfp_m_title_001",
           "titleEN": "Driving CFP out",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -25277,7 +25277,7 @@
         {
           "titleKey": "headhunters_defend_xt_h_title_001",
           "titleEN": "Halt XenoThreat Expansion",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -25286,7 +25286,7 @@
         {
           "titleKey": "headhunters_eliminateallff_title_001",
           "titleEN": "Headhunters_EliminateAllFF_Title_001",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -25295,7 +25295,7 @@
         {
           "titleKey": "headhunters_eliminateall_xenothreat_h_title_001",
           "titleEN": "Hit XenoThreat at ~mission(Location)",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -25304,7 +25304,7 @@
         {
           "titleKey": "headhunters_chainelimall_3c_elimspec_attackcfp_vh_title_001",
           "titleEN": "Hit a CFP Complex",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -25313,7 +25313,7 @@
         {
           "titleKey": "headhunters_chainelimall_boss_xenothreat_vh_title_001",
           "titleEN": "Hit on XenoThreat command",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -25322,7 +25322,7 @@
         {
           "titleKey": "headhunters_eliminateall_cfp_e_title_001",
           "titleEN": "Hitting a CFP site",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -25331,7 +25331,7 @@
         {
           "titleKey": "hh_killanimals_m_derelictoutpostscaves_title_001",
           "titleEN": "Kill Kopions at ~mission(Location)",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -25340,7 +25340,7 @@
         {
           "titleKey": "headhunters_eliminateall_base_generic_e_title_001",
           "titleEN": "Need a hitter",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -25349,7 +25349,7 @@
         {
           "titleKey": "headhunters_defend_generic_m_goldenrivera_title_001",
           "titleEN": "Rally at ~mission(Location)",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -25358,7 +25358,7 @@
         {
           "titleKey": "headhunters_eliminateall_outpost_title_01",
           "titleEN": "Reputation Management",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -25367,7 +25367,7 @@
         {
           "titleKey": "headhunters_chainelimall_2c_elimspec_attackcfp_h_title_001",
           "titleEN": "Sweep and clear some CFP haunts",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -25376,7 +25376,7 @@
         {
           "titleKey": "headhunters_defend_generic_m_carvers_title_001",
           "titleEN": "Take back Carvers Ridge",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -25385,7 +25385,7 @@
         {
           "titleKey": "headhunters_chainelimall_2c_elimspec_attackxt_h_title_001",
           "titleEN": "Taking XenoThreat Turf",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -25394,7 +25394,7 @@
         {
           "titleKey": "headhunters_chainelimall_3c_elimspec_attackxt_vh_title_001",
           "titleEN": "Taking down a XenoThreat Hideout",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -25403,7 +25403,7 @@
         {
           "titleKey": "headhunters_chainelimall_1c_attackxt_m_title_001",
           "titleEN": "Taking out some XenoThreat trash",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -25412,7 +25412,7 @@
         {
           "titleKey": "headhunters_defend_generic_m_theyard_title_001",
           "titleEN": "The Yard's under attack",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -25421,7 +25421,7 @@
         {
           "titleKey": "headhunters_eliminateall_xt_derelicts_title_01",
           "titleEN": "Turf War",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -25430,7 +25430,7 @@
         {
           "titleKey": "headhunters_eliminateall_generic_m_title_001",
           "titleEN": "Wipe ~mission(Location) out",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -25439,7 +25439,7 @@
         {
           "titleKey": "headhunters_eliminateall_cfp_m_title_001",
           "titleEN": "~mission(Location) has been greenlit",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -25448,7 +25448,7 @@
         {
           "titleKey": "headhunters_defend_generic_m_title_001",
           "titleEN": "~mission(Location|Address) under attack",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -25584,41 +25584,41 @@
       "recordGUID": "0e0a5872-3224-46be-baa7-1df604b70a41",
       "isReward": true,
       "rewardMissions": [
-        "HeadHunters: A Swift Reprisal",
-        "HeadHunters: A little retaliation",
-        "HeadHunters: A tricky tricky task",
-        "HeadHunters: Block XenoThreat Expansion",
-        "HeadHunters: Butcher Kopion Pack at ~mission(Location)",
-        "HeadHunters: Deal with Kopions at ~mission(Location)",
-        "HeadHunters: Death and cargo",
-        "HeadHunters: Don't let Windfall Fall",
-        "HeadHunters: Driving CFP out",
-        "HeadHunters: Halt XenoThreat Expansion",
-        "HeadHunters: Headhunters_EliminateAllFF_Title_001",
-        "HeadHunters: Hit XenoThreat at ~mission(Location)",
-        "HeadHunters: Hit a CFP Complex",
-        "HeadHunters: Hit on XenoThreat command",
-        "HeadHunters: Hitting a CFP site",
-        "HeadHunters: Kill Kopions at ~mission(Location)",
-        "HeadHunters: Need a hitter",
-        "HeadHunters: Rally at ~mission(Location)",
-        "HeadHunters: Reputation Management",
-        "HeadHunters: Sweep and clear some CFP haunts",
-        "HeadHunters: Take back Carvers Ridge",
-        "HeadHunters: Taking XenoThreat Turf",
-        "HeadHunters: Taking down a XenoThreat Hideout",
-        "HeadHunters: Taking out some XenoThreat trash",
-        "HeadHunters: The Yard's under attack",
-        "HeadHunters: Turf War",
-        "HeadHunters: Wipe ~mission(Location) out",
-        "HeadHunters: ~mission(Location) has been greenlit",
-        "HeadHunters: ~mission(Location|Address) under attack"
+        "Headhunters: A Swift Reprisal",
+        "Headhunters: A little retaliation",
+        "Headhunters: A tricky tricky task",
+        "Headhunters: Block XenoThreat Expansion",
+        "Headhunters: Butcher Kopion Pack at ~mission(Location)",
+        "Headhunters: Deal with Kopions at ~mission(Location)",
+        "Headhunters: Death and cargo",
+        "Headhunters: Don't let Windfall Fall",
+        "Headhunters: Driving CFP out",
+        "Headhunters: Halt XenoThreat Expansion",
+        "Headhunters: Headhunters_EliminateAllFF_Title_001",
+        "Headhunters: Hit XenoThreat at ~mission(Location)",
+        "Headhunters: Hit a CFP Complex",
+        "Headhunters: Hit on XenoThreat command",
+        "Headhunters: Hitting a CFP site",
+        "Headhunters: Kill Kopions at ~mission(Location)",
+        "Headhunters: Need a hitter",
+        "Headhunters: Rally at ~mission(Location)",
+        "Headhunters: Reputation Management",
+        "Headhunters: Sweep and clear some CFP haunts",
+        "Headhunters: Take back Carvers Ridge",
+        "Headhunters: Taking XenoThreat Turf",
+        "Headhunters: Taking down a XenoThreat Hideout",
+        "Headhunters: Taking out some XenoThreat trash",
+        "Headhunters: The Yard's under attack",
+        "Headhunters: Turf War",
+        "Headhunters: Wipe ~mission(Location) out",
+        "Headhunters: ~mission(Location) has been greenlit",
+        "Headhunters: ~mission(Location|Address) under attack"
       ],
       "rewardMissionKeys": [
         {
           "titleKey": "headhunters_eliminateall_caves_title_01",
           "titleEN": "A Swift Reprisal",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -25627,7 +25627,7 @@
         {
           "titleKey": "headhunters_chainelimall_1c_attackcfp_e_title_001",
           "titleEN": "A little retaliation",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -25636,7 +25636,7 @@
         {
           "titleKey": "headhunters_eliminateall_retrievestolen_missingperson_base_generic_m_title_001",
           "titleEN": "A tricky tricky task",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -25645,7 +25645,7 @@
         {
           "titleKey": "headhunters_defend_xt_vh_title_001",
           "titleEN": "Block XenoThreat Expansion",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -25654,7 +25654,7 @@
         {
           "titleKey": "hh_killanimals_h_derelictoutpostscaves_title_001",
           "titleEN": "Butcher Kopion Pack at ~mission(Location)",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -25663,7 +25663,7 @@
         {
           "titleKey": "hh_killanimals_e_derelictoutpostscaves_title_001",
           "titleEN": "Deal with Kopions at ~mission(Location)",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -25672,7 +25672,7 @@
         {
           "titleKey": "headhunters_eliminateall_retrievestolen_base_generic_m_title_001",
           "titleEN": "Death and cargo",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -25681,7 +25681,7 @@
         {
           "titleKey": "headhunters_defend_generic_m_windfall_title_001",
           "titleEN": "Don't let Windfall Fall",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -25690,7 +25690,7 @@
         {
           "titleKey": "headhunters_chainelimall_1c_elimspec_attackcfp_m_title_001",
           "titleEN": "Driving CFP out",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -25699,7 +25699,7 @@
         {
           "titleKey": "headhunters_defend_xt_h_title_001",
           "titleEN": "Halt XenoThreat Expansion",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -25708,7 +25708,7 @@
         {
           "titleKey": "headhunters_eliminateallff_title_001",
           "titleEN": "Headhunters_EliminateAllFF_Title_001",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -25717,7 +25717,7 @@
         {
           "titleKey": "headhunters_eliminateall_xenothreat_h_title_001",
           "titleEN": "Hit XenoThreat at ~mission(Location)",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -25726,7 +25726,7 @@
         {
           "titleKey": "headhunters_chainelimall_3c_elimspec_attackcfp_vh_title_001",
           "titleEN": "Hit a CFP Complex",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -25735,7 +25735,7 @@
         {
           "titleKey": "headhunters_chainelimall_boss_xenothreat_vh_title_001",
           "titleEN": "Hit on XenoThreat command",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -25744,7 +25744,7 @@
         {
           "titleKey": "headhunters_eliminateall_cfp_e_title_001",
           "titleEN": "Hitting a CFP site",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -25753,7 +25753,7 @@
         {
           "titleKey": "hh_killanimals_m_derelictoutpostscaves_title_001",
           "titleEN": "Kill Kopions at ~mission(Location)",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -25762,7 +25762,7 @@
         {
           "titleKey": "headhunters_eliminateall_base_generic_e_title_001",
           "titleEN": "Need a hitter",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -25771,7 +25771,7 @@
         {
           "titleKey": "headhunters_defend_generic_m_goldenrivera_title_001",
           "titleEN": "Rally at ~mission(Location)",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -25780,7 +25780,7 @@
         {
           "titleKey": "headhunters_eliminateall_outpost_title_01",
           "titleEN": "Reputation Management",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -25789,7 +25789,7 @@
         {
           "titleKey": "headhunters_chainelimall_2c_elimspec_attackcfp_h_title_001",
           "titleEN": "Sweep and clear some CFP haunts",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -25798,7 +25798,7 @@
         {
           "titleKey": "headhunters_defend_generic_m_carvers_title_001",
           "titleEN": "Take back Carvers Ridge",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -25807,7 +25807,7 @@
         {
           "titleKey": "headhunters_chainelimall_2c_elimspec_attackxt_h_title_001",
           "titleEN": "Taking XenoThreat Turf",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -25816,7 +25816,7 @@
         {
           "titleKey": "headhunters_chainelimall_3c_elimspec_attackxt_vh_title_001",
           "titleEN": "Taking down a XenoThreat Hideout",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -25825,7 +25825,7 @@
         {
           "titleKey": "headhunters_chainelimall_1c_attackxt_m_title_001",
           "titleEN": "Taking out some XenoThreat trash",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -25834,7 +25834,7 @@
         {
           "titleKey": "headhunters_defend_generic_m_theyard_title_001",
           "titleEN": "The Yard's under attack",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -25843,7 +25843,7 @@
         {
           "titleKey": "headhunters_eliminateall_xt_derelicts_title_01",
           "titleEN": "Turf War",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -25852,7 +25852,7 @@
         {
           "titleKey": "headhunters_eliminateall_generic_m_title_001",
           "titleEN": "Wipe ~mission(Location) out",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -25861,7 +25861,7 @@
         {
           "titleKey": "headhunters_eliminateall_cfp_m_title_001",
           "titleEN": "~mission(Location) has been greenlit",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -25870,7 +25870,7 @@
         {
           "titleKey": "headhunters_defend_generic_m_title_001",
           "titleEN": "~mission(Location|Address) under attack",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -26006,41 +26006,41 @@
       "recordGUID": "e1910d29-d413-4d91-b618-9b7ae278e7f8",
       "isReward": true,
       "rewardMissions": [
-        "HeadHunters: A Swift Reprisal",
-        "HeadHunters: A little retaliation",
-        "HeadHunters: A tricky tricky task",
-        "HeadHunters: Block XenoThreat Expansion",
-        "HeadHunters: Butcher Kopion Pack at ~mission(Location)",
-        "HeadHunters: Deal with Kopions at ~mission(Location)",
-        "HeadHunters: Death and cargo",
-        "HeadHunters: Don't let Windfall Fall",
-        "HeadHunters: Driving CFP out",
-        "HeadHunters: Halt XenoThreat Expansion",
-        "HeadHunters: Headhunters_EliminateAllFF_Title_001",
-        "HeadHunters: Hit XenoThreat at ~mission(Location)",
-        "HeadHunters: Hit a CFP Complex",
-        "HeadHunters: Hit on XenoThreat command",
-        "HeadHunters: Hitting a CFP site",
-        "HeadHunters: Kill Kopions at ~mission(Location)",
-        "HeadHunters: Need a hitter",
-        "HeadHunters: Rally at ~mission(Location)",
-        "HeadHunters: Reputation Management",
-        "HeadHunters: Sweep and clear some CFP haunts",
-        "HeadHunters: Take back Carvers Ridge",
-        "HeadHunters: Taking XenoThreat Turf",
-        "HeadHunters: Taking down a XenoThreat Hideout",
-        "HeadHunters: Taking out some XenoThreat trash",
-        "HeadHunters: The Yard's under attack",
-        "HeadHunters: Turf War",
-        "HeadHunters: Wipe ~mission(Location) out",
-        "HeadHunters: ~mission(Location) has been greenlit",
-        "HeadHunters: ~mission(Location|Address) under attack"
+        "Headhunters: A Swift Reprisal",
+        "Headhunters: A little retaliation",
+        "Headhunters: A tricky tricky task",
+        "Headhunters: Block XenoThreat Expansion",
+        "Headhunters: Butcher Kopion Pack at ~mission(Location)",
+        "Headhunters: Deal with Kopions at ~mission(Location)",
+        "Headhunters: Death and cargo",
+        "Headhunters: Don't let Windfall Fall",
+        "Headhunters: Driving CFP out",
+        "Headhunters: Halt XenoThreat Expansion",
+        "Headhunters: Headhunters_EliminateAllFF_Title_001",
+        "Headhunters: Hit XenoThreat at ~mission(Location)",
+        "Headhunters: Hit a CFP Complex",
+        "Headhunters: Hit on XenoThreat command",
+        "Headhunters: Hitting a CFP site",
+        "Headhunters: Kill Kopions at ~mission(Location)",
+        "Headhunters: Need a hitter",
+        "Headhunters: Rally at ~mission(Location)",
+        "Headhunters: Reputation Management",
+        "Headhunters: Sweep and clear some CFP haunts",
+        "Headhunters: Take back Carvers Ridge",
+        "Headhunters: Taking XenoThreat Turf",
+        "Headhunters: Taking down a XenoThreat Hideout",
+        "Headhunters: Taking out some XenoThreat trash",
+        "Headhunters: The Yard's under attack",
+        "Headhunters: Turf War",
+        "Headhunters: Wipe ~mission(Location) out",
+        "Headhunters: ~mission(Location) has been greenlit",
+        "Headhunters: ~mission(Location|Address) under attack"
       ],
       "rewardMissionKeys": [
         {
           "titleKey": "headhunters_eliminateall_caves_title_01",
           "titleEN": "A Swift Reprisal",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -26049,7 +26049,7 @@
         {
           "titleKey": "headhunters_chainelimall_1c_attackcfp_e_title_001",
           "titleEN": "A little retaliation",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -26058,7 +26058,7 @@
         {
           "titleKey": "headhunters_eliminateall_retrievestolen_missingperson_base_generic_m_title_001",
           "titleEN": "A tricky tricky task",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -26067,7 +26067,7 @@
         {
           "titleKey": "headhunters_defend_xt_vh_title_001",
           "titleEN": "Block XenoThreat Expansion",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -26076,7 +26076,7 @@
         {
           "titleKey": "hh_killanimals_h_derelictoutpostscaves_title_001",
           "titleEN": "Butcher Kopion Pack at ~mission(Location)",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -26085,7 +26085,7 @@
         {
           "titleKey": "hh_killanimals_e_derelictoutpostscaves_title_001",
           "titleEN": "Deal with Kopions at ~mission(Location)",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -26094,7 +26094,7 @@
         {
           "titleKey": "headhunters_eliminateall_retrievestolen_base_generic_m_title_001",
           "titleEN": "Death and cargo",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -26103,7 +26103,7 @@
         {
           "titleKey": "headhunters_defend_generic_m_windfall_title_001",
           "titleEN": "Don't let Windfall Fall",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -26112,7 +26112,7 @@
         {
           "titleKey": "headhunters_chainelimall_1c_elimspec_attackcfp_m_title_001",
           "titleEN": "Driving CFP out",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -26121,7 +26121,7 @@
         {
           "titleKey": "headhunters_defend_xt_h_title_001",
           "titleEN": "Halt XenoThreat Expansion",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -26130,7 +26130,7 @@
         {
           "titleKey": "headhunters_eliminateallff_title_001",
           "titleEN": "Headhunters_EliminateAllFF_Title_001",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -26139,7 +26139,7 @@
         {
           "titleKey": "headhunters_eliminateall_xenothreat_h_title_001",
           "titleEN": "Hit XenoThreat at ~mission(Location)",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -26148,7 +26148,7 @@
         {
           "titleKey": "headhunters_chainelimall_3c_elimspec_attackcfp_vh_title_001",
           "titleEN": "Hit a CFP Complex",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -26157,7 +26157,7 @@
         {
           "titleKey": "headhunters_chainelimall_boss_xenothreat_vh_title_001",
           "titleEN": "Hit on XenoThreat command",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -26166,7 +26166,7 @@
         {
           "titleKey": "headhunters_eliminateall_cfp_e_title_001",
           "titleEN": "Hitting a CFP site",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -26175,7 +26175,7 @@
         {
           "titleKey": "hh_killanimals_m_derelictoutpostscaves_title_001",
           "titleEN": "Kill Kopions at ~mission(Location)",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -26184,7 +26184,7 @@
         {
           "titleKey": "headhunters_eliminateall_base_generic_e_title_001",
           "titleEN": "Need a hitter",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -26193,7 +26193,7 @@
         {
           "titleKey": "headhunters_defend_generic_m_goldenrivera_title_001",
           "titleEN": "Rally at ~mission(Location)",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -26202,7 +26202,7 @@
         {
           "titleKey": "headhunters_eliminateall_outpost_title_01",
           "titleEN": "Reputation Management",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -26211,7 +26211,7 @@
         {
           "titleKey": "headhunters_chainelimall_2c_elimspec_attackcfp_h_title_001",
           "titleEN": "Sweep and clear some CFP haunts",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -26220,7 +26220,7 @@
         {
           "titleKey": "headhunters_defend_generic_m_carvers_title_001",
           "titleEN": "Take back Carvers Ridge",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -26229,7 +26229,7 @@
         {
           "titleKey": "headhunters_chainelimall_2c_elimspec_attackxt_h_title_001",
           "titleEN": "Taking XenoThreat Turf",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -26238,7 +26238,7 @@
         {
           "titleKey": "headhunters_chainelimall_3c_elimspec_attackxt_vh_title_001",
           "titleEN": "Taking down a XenoThreat Hideout",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -26247,7 +26247,7 @@
         {
           "titleKey": "headhunters_chainelimall_1c_attackxt_m_title_001",
           "titleEN": "Taking out some XenoThreat trash",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -26256,7 +26256,7 @@
         {
           "titleKey": "headhunters_defend_generic_m_theyard_title_001",
           "titleEN": "The Yard's under attack",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -26265,7 +26265,7 @@
         {
           "titleKey": "headhunters_eliminateall_xt_derelicts_title_01",
           "titleEN": "Turf War",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -26274,7 +26274,7 @@
         {
           "titleKey": "headhunters_eliminateall_generic_m_title_001",
           "titleEN": "Wipe ~mission(Location) out",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -26283,7 +26283,7 @@
         {
           "titleKey": "headhunters_eliminateall_cfp_m_title_001",
           "titleEN": "~mission(Location) has been greenlit",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -26292,7 +26292,7 @@
         {
           "titleKey": "headhunters_defend_generic_m_title_001",
           "titleEN": "~mission(Location|Address) under attack",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -28705,24 +28705,24 @@
       "recordGUID": "089e5827-ec15-480a-877c-eca20dfd166f",
       "isReward": true,
       "rewardMissions": [
-        "HeadHunters: Deep space hit",
-        "HeadHunters: Green light on ~mission(TargetName|Last)",
-        "HeadHunters: Head of the snake",
-        "HeadHunters: Hit on XenoThreat at the Yard",
-        "HeadHunters: Kill the king",
-        "HeadHunters: Need a CFP taken down",
-        "HeadHunters: Need a hit on the Riviera",
-        "HeadHunters: Need a scalpel at Carver's",
-        "HeadHunters: Need someone taken out",
-        "HeadHunters: Shot in the chaos",
-        "HeadHunters: Wanted: ~mission(TargetName)",
-        "HeadHunters: XenoThreat Lieutenant needs some killing"
+        "Headhunters: Deep space hit",
+        "Headhunters: Green light on ~mission(TargetName|Last)",
+        "Headhunters: Head of the snake",
+        "Headhunters: Hit on XenoThreat at the Yard",
+        "Headhunters: Kill the king",
+        "Headhunters: Need a CFP taken down",
+        "Headhunters: Need a hit on the Riviera",
+        "Headhunters: Need a scalpel at Carver's",
+        "Headhunters: Need someone taken out",
+        "Headhunters: Shot in the chaos",
+        "Headhunters: Wanted: ~mission(TargetName)",
+        "Headhunters: XenoThreat Lieutenant needs some killing"
       ],
       "rewardMissionKeys": [
         {
           "titleKey": "headhunters_eliminatespecific_asteroid_generic_ve_title_001",
           "titleEN": "Deep space hit",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -28731,7 +28731,7 @@
         {
           "titleKey": "headhunters_eliminatespecific_generic_vh_title_001",
           "titleEN": "Green light on ~mission(TargetName|Last)",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -28740,7 +28740,7 @@
         {
           "titleKey": "headhunters_eliminatespecific_windfall_xenothreat_h_title_001",
           "titleEN": "Head of the snake",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -28749,7 +28749,7 @@
         {
           "titleKey": "headhunters_eliminatespecific_theyard_xenothreat_h_title_001",
           "titleEN": "Hit on XenoThreat at the Yard",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -28758,7 +28758,7 @@
         {
           "titleKey": "headhunters_eliminatespecific_generic_e_title_001",
           "titleEN": "Kill the king",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -28767,7 +28767,7 @@
         {
           "titleKey": "headhunters_eliminatespecific_cfp_m_title_001",
           "titleEN": "Need a CFP taken down",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -28776,7 +28776,7 @@
         {
           "titleKey": "headhunters_eliminatespecific_riviera_xenothreat_vh_title_001",
           "titleEN": "Need a hit on the Riviera",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -28785,7 +28785,7 @@
         {
           "titleKey": "headhunters_eliminatespecific_carvers_xenothreat_h_title_001",
           "titleEN": "Need a scalpel at Carver's",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -28794,7 +28794,7 @@
         {
           "titleKey": "headhunters_eliminatespecific_generic_m_title_001",
           "titleEN": "Need someone taken out",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -28803,7 +28803,7 @@
         {
           "titleKey": "headhunters_eliminatespecific_cfp_e_title_001",
           "titleEN": "Shot in the chaos",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -28812,7 +28812,7 @@
         {
           "titleKey": "headhunters_eliminatespecific_xenothreat_vh_title_001",
           "titleEN": "Wanted: ~mission(TargetName)",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -28821,7 +28821,7 @@
         {
           "titleKey": "headhunters_eliminatespecific_xenothreat_h_title_001",
           "titleEN": "XenoThreat Lieutenant needs some killing",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -28892,24 +28892,24 @@
       "recordGUID": "803b8613-00c9-4c1e-a7fa-04038310dc22",
       "isReward": true,
       "rewardMissions": [
-        "HeadHunters: Deep space hit",
-        "HeadHunters: Green light on ~mission(TargetName|Last)",
-        "HeadHunters: Head of the snake",
-        "HeadHunters: Hit on XenoThreat at the Yard",
-        "HeadHunters: Kill the king",
-        "HeadHunters: Need a CFP taken down",
-        "HeadHunters: Need a hit on the Riviera",
-        "HeadHunters: Need a scalpel at Carver's",
-        "HeadHunters: Need someone taken out",
-        "HeadHunters: Shot in the chaos",
-        "HeadHunters: Wanted: ~mission(TargetName)",
-        "HeadHunters: XenoThreat Lieutenant needs some killing"
+        "Headhunters: Deep space hit",
+        "Headhunters: Green light on ~mission(TargetName|Last)",
+        "Headhunters: Head of the snake",
+        "Headhunters: Hit on XenoThreat at the Yard",
+        "Headhunters: Kill the king",
+        "Headhunters: Need a CFP taken down",
+        "Headhunters: Need a hit on the Riviera",
+        "Headhunters: Need a scalpel at Carver's",
+        "Headhunters: Need someone taken out",
+        "Headhunters: Shot in the chaos",
+        "Headhunters: Wanted: ~mission(TargetName)",
+        "Headhunters: XenoThreat Lieutenant needs some killing"
       ],
       "rewardMissionKeys": [
         {
           "titleKey": "headhunters_eliminatespecific_asteroid_generic_ve_title_001",
           "titleEN": "Deep space hit",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -28918,7 +28918,7 @@
         {
           "titleKey": "headhunters_eliminatespecific_generic_vh_title_001",
           "titleEN": "Green light on ~mission(TargetName|Last)",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -28927,7 +28927,7 @@
         {
           "titleKey": "headhunters_eliminatespecific_windfall_xenothreat_h_title_001",
           "titleEN": "Head of the snake",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -28936,7 +28936,7 @@
         {
           "titleKey": "headhunters_eliminatespecific_theyard_xenothreat_h_title_001",
           "titleEN": "Hit on XenoThreat at the Yard",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -28945,7 +28945,7 @@
         {
           "titleKey": "headhunters_eliminatespecific_generic_e_title_001",
           "titleEN": "Kill the king",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -28954,7 +28954,7 @@
         {
           "titleKey": "headhunters_eliminatespecific_cfp_m_title_001",
           "titleEN": "Need a CFP taken down",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -28963,7 +28963,7 @@
         {
           "titleKey": "headhunters_eliminatespecific_riviera_xenothreat_vh_title_001",
           "titleEN": "Need a hit on the Riviera",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -28972,7 +28972,7 @@
         {
           "titleKey": "headhunters_eliminatespecific_carvers_xenothreat_h_title_001",
           "titleEN": "Need a scalpel at Carver's",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -28981,7 +28981,7 @@
         {
           "titleKey": "headhunters_eliminatespecific_generic_m_title_001",
           "titleEN": "Need someone taken out",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -28990,7 +28990,7 @@
         {
           "titleKey": "headhunters_eliminatespecific_cfp_e_title_001",
           "titleEN": "Shot in the chaos",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -28999,7 +28999,7 @@
         {
           "titleKey": "headhunters_eliminatespecific_xenothreat_vh_title_001",
           "titleEN": "Wanted: ~mission(TargetName)",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -29008,7 +29008,7 @@
         {
           "titleKey": "headhunters_eliminatespecific_xenothreat_h_title_001",
           "titleEN": "XenoThreat Lieutenant needs some killing",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -29144,24 +29144,24 @@
       "recordGUID": "33ce3672-0606-48aa-98cf-7c94618f2e7d",
       "isReward": true,
       "rewardMissions": [
-        "HeadHunters: Deep space hit",
-        "HeadHunters: Green light on ~mission(TargetName|Last)",
-        "HeadHunters: Head of the snake",
-        "HeadHunters: Hit on XenoThreat at the Yard",
-        "HeadHunters: Kill the king",
-        "HeadHunters: Need a CFP taken down",
-        "HeadHunters: Need a hit on the Riviera",
-        "HeadHunters: Need a scalpel at Carver's",
-        "HeadHunters: Need someone taken out",
-        "HeadHunters: Shot in the chaos",
-        "HeadHunters: Wanted: ~mission(TargetName)",
-        "HeadHunters: XenoThreat Lieutenant needs some killing"
+        "Headhunters: Deep space hit",
+        "Headhunters: Green light on ~mission(TargetName|Last)",
+        "Headhunters: Head of the snake",
+        "Headhunters: Hit on XenoThreat at the Yard",
+        "Headhunters: Kill the king",
+        "Headhunters: Need a CFP taken down",
+        "Headhunters: Need a hit on the Riviera",
+        "Headhunters: Need a scalpel at Carver's",
+        "Headhunters: Need someone taken out",
+        "Headhunters: Shot in the chaos",
+        "Headhunters: Wanted: ~mission(TargetName)",
+        "Headhunters: XenoThreat Lieutenant needs some killing"
       ],
       "rewardMissionKeys": [
         {
           "titleKey": "headhunters_eliminatespecific_asteroid_generic_ve_title_001",
           "titleEN": "Deep space hit",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -29170,7 +29170,7 @@
         {
           "titleKey": "headhunters_eliminatespecific_generic_vh_title_001",
           "titleEN": "Green light on ~mission(TargetName|Last)",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -29179,7 +29179,7 @@
         {
           "titleKey": "headhunters_eliminatespecific_windfall_xenothreat_h_title_001",
           "titleEN": "Head of the snake",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -29188,7 +29188,7 @@
         {
           "titleKey": "headhunters_eliminatespecific_theyard_xenothreat_h_title_001",
           "titleEN": "Hit on XenoThreat at the Yard",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -29197,7 +29197,7 @@
         {
           "titleKey": "headhunters_eliminatespecific_generic_e_title_001",
           "titleEN": "Kill the king",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -29206,7 +29206,7 @@
         {
           "titleKey": "headhunters_eliminatespecific_cfp_m_title_001",
           "titleEN": "Need a CFP taken down",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -29215,7 +29215,7 @@
         {
           "titleKey": "headhunters_eliminatespecific_riviera_xenothreat_vh_title_001",
           "titleEN": "Need a hit on the Riviera",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -29224,7 +29224,7 @@
         {
           "titleKey": "headhunters_eliminatespecific_carvers_xenothreat_h_title_001",
           "titleEN": "Need a scalpel at Carver's",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -29233,7 +29233,7 @@
         {
           "titleKey": "headhunters_eliminatespecific_generic_m_title_001",
           "titleEN": "Need someone taken out",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -29242,7 +29242,7 @@
         {
           "titleKey": "headhunters_eliminatespecific_cfp_e_title_001",
           "titleEN": "Shot in the chaos",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -29251,7 +29251,7 @@
         {
           "titleKey": "headhunters_eliminatespecific_xenothreat_vh_title_001",
           "titleEN": "Wanted: ~mission(TargetName)",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -29260,7 +29260,7 @@
         {
           "titleKey": "headhunters_eliminatespecific_xenothreat_h_title_001",
           "titleEN": "XenoThreat Lieutenant needs some killing",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -29396,24 +29396,24 @@
       "recordGUID": "34d6d2d6-6937-44ae-85f9-a690c43668ce",
       "isReward": true,
       "rewardMissions": [
-        "HeadHunters: Deep space hit",
-        "HeadHunters: Green light on ~mission(TargetName|Last)",
-        "HeadHunters: Head of the snake",
-        "HeadHunters: Hit on XenoThreat at the Yard",
-        "HeadHunters: Kill the king",
-        "HeadHunters: Need a CFP taken down",
-        "HeadHunters: Need a hit on the Riviera",
-        "HeadHunters: Need a scalpel at Carver's",
-        "HeadHunters: Need someone taken out",
-        "HeadHunters: Shot in the chaos",
-        "HeadHunters: Wanted: ~mission(TargetName)",
-        "HeadHunters: XenoThreat Lieutenant needs some killing"
+        "Headhunters: Deep space hit",
+        "Headhunters: Green light on ~mission(TargetName|Last)",
+        "Headhunters: Head of the snake",
+        "Headhunters: Hit on XenoThreat at the Yard",
+        "Headhunters: Kill the king",
+        "Headhunters: Need a CFP taken down",
+        "Headhunters: Need a hit on the Riviera",
+        "Headhunters: Need a scalpel at Carver's",
+        "Headhunters: Need someone taken out",
+        "Headhunters: Shot in the chaos",
+        "Headhunters: Wanted: ~mission(TargetName)",
+        "Headhunters: XenoThreat Lieutenant needs some killing"
       ],
       "rewardMissionKeys": [
         {
           "titleKey": "headhunters_eliminatespecific_asteroid_generic_ve_title_001",
           "titleEN": "Deep space hit",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -29422,7 +29422,7 @@
         {
           "titleKey": "headhunters_eliminatespecific_generic_vh_title_001",
           "titleEN": "Green light on ~mission(TargetName|Last)",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -29431,7 +29431,7 @@
         {
           "titleKey": "headhunters_eliminatespecific_windfall_xenothreat_h_title_001",
           "titleEN": "Head of the snake",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -29440,7 +29440,7 @@
         {
           "titleKey": "headhunters_eliminatespecific_theyard_xenothreat_h_title_001",
           "titleEN": "Hit on XenoThreat at the Yard",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -29449,7 +29449,7 @@
         {
           "titleKey": "headhunters_eliminatespecific_generic_e_title_001",
           "titleEN": "Kill the king",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -29458,7 +29458,7 @@
         {
           "titleKey": "headhunters_eliminatespecific_cfp_m_title_001",
           "titleEN": "Need a CFP taken down",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -29467,7 +29467,7 @@
         {
           "titleKey": "headhunters_eliminatespecific_riviera_xenothreat_vh_title_001",
           "titleEN": "Need a hit on the Riviera",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -29476,7 +29476,7 @@
         {
           "titleKey": "headhunters_eliminatespecific_carvers_xenothreat_h_title_001",
           "titleEN": "Need a scalpel at Carver's",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -29485,7 +29485,7 @@
         {
           "titleKey": "headhunters_eliminatespecific_generic_m_title_001",
           "titleEN": "Need someone taken out",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -29494,7 +29494,7 @@
         {
           "titleKey": "headhunters_eliminatespecific_cfp_e_title_001",
           "titleEN": "Shot in the chaos",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -29503,7 +29503,7 @@
         {
           "titleKey": "headhunters_eliminatespecific_xenothreat_vh_title_001",
           "titleEN": "Wanted: ~mission(TargetName)",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -29512,7 +29512,7 @@
         {
           "titleKey": "headhunters_eliminatespecific_xenothreat_h_title_001",
           "titleEN": "XenoThreat Lieutenant needs some killing",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -32045,7 +32045,7 @@
       "rewardMissions": [
         "Vaughn: A Challenging Contract",
         "Vaughn: All Things Come To An End",
-        "HeadHunters: Need a death at ~mission(Location)"
+        "Headhunters: Need a death at ~mission(Location)"
       ],
       "rewardMissionKeys": [
         {
@@ -32067,7 +32067,7 @@
         {
           "titleKey": "headhunters_eliminatespecific_asteroid_generic_m_title_001",
           "titleEN": "Need a death at ~mission(Location)",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -33966,18 +33966,18 @@
       "recordGUID": "3c392f33-e51d-4255-bf7b-a09c98fce6b4",
       "isReward": true,
       "rewardMissions": [
-        "HeadHunters: Deep space hit",
-        "HeadHunters: Drop a XenoThreat",
-        "HeadHunters: Kill the king",
-        "HeadHunters: Need a CFP taken down",
-        "HeadHunters: Paid Target in CFP",
-        "HeadHunters: Plug a traitor"
+        "Headhunters: Deep space hit",
+        "Headhunters: Drop a XenoThreat",
+        "Headhunters: Kill the king",
+        "Headhunters: Need a CFP taken down",
+        "Headhunters: Paid Target in CFP",
+        "Headhunters: Plug a traitor"
       ],
       "rewardMissionKeys": [
         {
           "titleKey": "headhunters_eliminatespecific_asteroid_generic_ve_title_001",
           "titleEN": "Deep space hit",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -33986,7 +33986,7 @@
         {
           "titleKey": "headhunters_eliminatespecific_xenothreat_title_001",
           "titleEN": "Drop a XenoThreat",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -33995,7 +33995,7 @@
         {
           "titleKey": "headhunters_eliminatespecific_generic_e_title_001",
           "titleEN": "Kill the king",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -34004,7 +34004,7 @@
         {
           "titleKey": "headhunters_eliminatespecific_cfp_m_title_001",
           "titleEN": "Need a CFP taken down",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -34013,7 +34013,7 @@
         {
           "titleKey": "headhunters_eliminatespecific_cfp_h_title_001",
           "titleEN": "Paid Target in CFP",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -34022,7 +34022,7 @@
         {
           "titleKey": "headhunters_eliminatespecific_defector_title_001",
           "titleEN": "Plug a traitor",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -34353,18 +34353,18 @@
       "recordGUID": "5db147fd-8664-449b-8b07-fab752fda55f",
       "isReward": true,
       "rewardMissions": [
-        "HeadHunters: Deep space hit",
-        "HeadHunters: Drop a XenoThreat",
-        "HeadHunters: Kill the king",
-        "HeadHunters: Need a CFP taken down",
-        "HeadHunters: Paid Target in CFP",
-        "HeadHunters: Plug a traitor"
+        "Headhunters: Deep space hit",
+        "Headhunters: Drop a XenoThreat",
+        "Headhunters: Kill the king",
+        "Headhunters: Need a CFP taken down",
+        "Headhunters: Paid Target in CFP",
+        "Headhunters: Plug a traitor"
       ],
       "rewardMissionKeys": [
         {
           "titleKey": "headhunters_eliminatespecific_asteroid_generic_ve_title_001",
           "titleEN": "Deep space hit",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -34373,7 +34373,7 @@
         {
           "titleKey": "headhunters_eliminatespecific_xenothreat_title_001",
           "titleEN": "Drop a XenoThreat",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -34382,7 +34382,7 @@
         {
           "titleKey": "headhunters_eliminatespecific_generic_e_title_001",
           "titleEN": "Kill the king",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -34391,7 +34391,7 @@
         {
           "titleKey": "headhunters_eliminatespecific_cfp_m_title_001",
           "titleEN": "Need a CFP taken down",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -34400,7 +34400,7 @@
         {
           "titleKey": "headhunters_eliminatespecific_cfp_h_title_001",
           "titleEN": "Paid Target in CFP",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -34409,7 +34409,7 @@
         {
           "titleKey": "headhunters_eliminatespecific_defector_title_001",
           "titleEN": "Plug a traitor",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -34480,18 +34480,18 @@
       "recordGUID": "f2947ab8-56b3-43e6-9ef6-6301070a1846",
       "isReward": true,
       "rewardMissions": [
-        "HeadHunters: Deep space hit",
-        "HeadHunters: Drop a XenoThreat",
-        "HeadHunters: Kill the king",
-        "HeadHunters: Need a CFP taken down",
-        "HeadHunters: Paid Target in CFP",
-        "HeadHunters: Plug a traitor"
+        "Headhunters: Deep space hit",
+        "Headhunters: Drop a XenoThreat",
+        "Headhunters: Kill the king",
+        "Headhunters: Need a CFP taken down",
+        "Headhunters: Paid Target in CFP",
+        "Headhunters: Plug a traitor"
       ],
       "rewardMissionKeys": [
         {
           "titleKey": "headhunters_eliminatespecific_asteroid_generic_ve_title_001",
           "titleEN": "Deep space hit",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -34500,7 +34500,7 @@
         {
           "titleKey": "headhunters_eliminatespecific_xenothreat_title_001",
           "titleEN": "Drop a XenoThreat",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -34509,7 +34509,7 @@
         {
           "titleKey": "headhunters_eliminatespecific_generic_e_title_001",
           "titleEN": "Kill the king",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -34518,7 +34518,7 @@
         {
           "titleKey": "headhunters_eliminatespecific_cfp_m_title_001",
           "titleEN": "Need a CFP taken down",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -34527,7 +34527,7 @@
         {
           "titleKey": "headhunters_eliminatespecific_cfp_h_title_001",
           "titleEN": "Paid Target in CFP",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -34536,7 +34536,7 @@
         {
           "titleKey": "headhunters_eliminatespecific_defector_title_001",
           "titleEN": "Plug a traitor",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -34607,18 +34607,18 @@
       "recordGUID": "da837190-0a00-4a9c-b627-d2e41adc0029",
       "isReward": true,
       "rewardMissions": [
-        "HeadHunters: Deep space hit",
-        "HeadHunters: Drop a XenoThreat",
-        "HeadHunters: Kill the king",
-        "HeadHunters: Need a CFP taken down",
-        "HeadHunters: Paid Target in CFP",
-        "HeadHunters: Plug a traitor"
+        "Headhunters: Deep space hit",
+        "Headhunters: Drop a XenoThreat",
+        "Headhunters: Kill the king",
+        "Headhunters: Need a CFP taken down",
+        "Headhunters: Paid Target in CFP",
+        "Headhunters: Plug a traitor"
       ],
       "rewardMissionKeys": [
         {
           "titleKey": "headhunters_eliminatespecific_asteroid_generic_ve_title_001",
           "titleEN": "Deep space hit",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -34627,7 +34627,7 @@
         {
           "titleKey": "headhunters_eliminatespecific_xenothreat_title_001",
           "titleEN": "Drop a XenoThreat",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -34636,7 +34636,7 @@
         {
           "titleKey": "headhunters_eliminatespecific_generic_e_title_001",
           "titleEN": "Kill the king",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -34645,7 +34645,7 @@
         {
           "titleKey": "headhunters_eliminatespecific_cfp_m_title_001",
           "titleEN": "Need a CFP taken down",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -34654,7 +34654,7 @@
         {
           "titleKey": "headhunters_eliminatespecific_cfp_h_title_001",
           "titleEN": "Paid Target in CFP",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -34663,7 +34663,7 @@
         {
           "titleKey": "headhunters_eliminatespecific_defector_title_001",
           "titleEN": "Plug a traitor",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -34719,13 +34719,13 @@
       "recordGUID": "33468f8d-6272-41a8-8b43-16709772c1ef",
       "isReward": true,
       "rewardMissions": [
-        "HeadHunters: Need a death at ~mission(Location)"
+        "Headhunters: Need a death at ~mission(Location)"
       ],
       "rewardMissionKeys": [
         {
           "titleKey": "headhunters_eliminatespecific_asteroid_generic_m_title_001",
           "titleEN": "Need a death at ~mission(Location)",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -34796,13 +34796,13 @@
       "recordGUID": "deb590b5-426d-4737-869d-04458f209f3f",
       "isReward": true,
       "rewardMissions": [
-        "HeadHunters: Need a death at ~mission(Location)"
+        "Headhunters: Need a death at ~mission(Location)"
       ],
       "rewardMissionKeys": [
         {
           "titleKey": "headhunters_eliminatespecific_asteroid_generic_m_title_001",
           "titleEN": "Need a death at ~mission(Location)",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -34873,13 +34873,13 @@
       "recordGUID": "51187178-413a-40b9-bc10-a42f25369aa8",
       "isReward": true,
       "rewardMissions": [
-        "HeadHunters: Need a death at ~mission(Location)"
+        "Headhunters: Need a death at ~mission(Location)"
       ],
       "rewardMissionKeys": [
         {
           "titleKey": "headhunters_eliminatespecific_asteroid_generic_m_title_001",
           "titleEN": "Need a death at ~mission(Location)",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -35050,22 +35050,22 @@
       "recordGUID": "2946fc90-9ad7-4554-9bdd-940ed97538c5",
       "isReward": true,
       "rewardMissions": [
-        "HeadHunters: A tricky tricky task",
-        "HeadHunters: Back up needed at outpost",
-        "HeadHunters: Death and cargo",
-        "HeadHunters: Go on the warpath",
-        "HeadHunters: Green light on ~mission(Location)",
-        "HeadHunters: Hit on XenoThreat command",
-        "HeadHunters: Looking for a little revenge",
-        "HeadHunters: Need a hitter",
-        "HeadHunters: Reputation Management",
-        "HeadHunters: Time to roll on CFP"
+        "Headhunters: A tricky tricky task",
+        "Headhunters: Back up needed at outpost",
+        "Headhunters: Death and cargo",
+        "Headhunters: Go on the warpath",
+        "Headhunters: Green light on ~mission(Location)",
+        "Headhunters: Hit on XenoThreat command",
+        "Headhunters: Looking for a little revenge",
+        "Headhunters: Need a hitter",
+        "Headhunters: Reputation Management",
+        "Headhunters: Time to roll on CFP"
       ],
       "rewardMissionKeys": [
         {
           "titleKey": "headhunters_eliminateall_retrievestolen_missingperson_base_generic_m_title_001",
           "titleEN": "A tricky tricky task",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -35074,7 +35074,7 @@
         {
           "titleKey": "headhunters_defend_xt_title_001",
           "titleEN": "Back up needed at outpost",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -35083,7 +35083,7 @@
         {
           "titleKey": "headhunters_eliminateall_retrievestolen_base_generic_m_title_001",
           "titleEN": "Death and cargo",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -35092,7 +35092,7 @@
         {
           "titleKey": "headhunters_chainelimall_attackgen_e_title_001",
           "titleEN": "Go on the warpath",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -35101,7 +35101,7 @@
         {
           "titleKey": "headhunters_eliminateall_xt_title_001",
           "titleEN": "Green light on ~mission(Location)",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -35110,7 +35110,7 @@
         {
           "titleKey": "headhunters_chainelimall_boss_xenothreat_vh_title_001",
           "titleEN": "Hit on XenoThreat command",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -35119,7 +35119,7 @@
         {
           "titleKey": "headhunters_eliminateall_cfp_title_001",
           "titleEN": "Looking for a little revenge",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -35128,7 +35128,7 @@
         {
           "titleKey": "headhunters_eliminateall_base_generic_e_title_001",
           "titleEN": "Need a hitter",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -35137,7 +35137,7 @@
         {
           "titleKey": "headhunters_eliminateall_outpost_title_01",
           "titleEN": "Reputation Management",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -35146,7 +35146,7 @@
         {
           "titleKey": "headhunters_chainelimall_attackcfp_e_title_001",
           "titleEN": "Time to roll on CFP",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -35302,22 +35302,22 @@
       "recordGUID": "c391c68a-30cd-4a09-971f-a6f816906337",
       "isReward": true,
       "rewardMissions": [
-        "HeadHunters: A tricky tricky task",
-        "HeadHunters: Back up needed at outpost",
-        "HeadHunters: Death and cargo",
-        "HeadHunters: Go on the warpath",
-        "HeadHunters: Green light on ~mission(Location)",
-        "HeadHunters: Hit on XenoThreat command",
-        "HeadHunters: Looking for a little revenge",
-        "HeadHunters: Need a hitter",
-        "HeadHunters: Reputation Management",
-        "HeadHunters: Time to roll on CFP"
+        "Headhunters: A tricky tricky task",
+        "Headhunters: Back up needed at outpost",
+        "Headhunters: Death and cargo",
+        "Headhunters: Go on the warpath",
+        "Headhunters: Green light on ~mission(Location)",
+        "Headhunters: Hit on XenoThreat command",
+        "Headhunters: Looking for a little revenge",
+        "Headhunters: Need a hitter",
+        "Headhunters: Reputation Management",
+        "Headhunters: Time to roll on CFP"
       ],
       "rewardMissionKeys": [
         {
           "titleKey": "headhunters_eliminateall_retrievestolen_missingperson_base_generic_m_title_001",
           "titleEN": "A tricky tricky task",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -35326,7 +35326,7 @@
         {
           "titleKey": "headhunters_defend_xt_title_001",
           "titleEN": "Back up needed at outpost",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -35335,7 +35335,7 @@
         {
           "titleKey": "headhunters_eliminateall_retrievestolen_base_generic_m_title_001",
           "titleEN": "Death and cargo",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -35344,7 +35344,7 @@
         {
           "titleKey": "headhunters_chainelimall_attackgen_e_title_001",
           "titleEN": "Go on the warpath",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -35353,7 +35353,7 @@
         {
           "titleKey": "headhunters_eliminateall_xt_title_001",
           "titleEN": "Green light on ~mission(Location)",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -35362,7 +35362,7 @@
         {
           "titleKey": "headhunters_chainelimall_boss_xenothreat_vh_title_001",
           "titleEN": "Hit on XenoThreat command",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -35371,7 +35371,7 @@
         {
           "titleKey": "headhunters_eliminateall_cfp_title_001",
           "titleEN": "Looking for a little revenge",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -35380,7 +35380,7 @@
         {
           "titleKey": "headhunters_eliminateall_base_generic_e_title_001",
           "titleEN": "Need a hitter",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -35389,7 +35389,7 @@
         {
           "titleKey": "headhunters_eliminateall_outpost_title_01",
           "titleEN": "Reputation Management",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -35398,7 +35398,7 @@
         {
           "titleKey": "headhunters_chainelimall_attackcfp_e_title_001",
           "titleEN": "Time to roll on CFP",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -35554,22 +35554,22 @@
       "recordGUID": "e277c982-f965-4c27-9377-1db753e1a8f6",
       "isReward": true,
       "rewardMissions": [
-        "HeadHunters: A tricky tricky task",
-        "HeadHunters: Back up needed at outpost",
-        "HeadHunters: Death and cargo",
-        "HeadHunters: Go on the warpath",
-        "HeadHunters: Green light on ~mission(Location)",
-        "HeadHunters: Hit on XenoThreat command",
-        "HeadHunters: Looking for a little revenge",
-        "HeadHunters: Need a hitter",
-        "HeadHunters: Reputation Management",
-        "HeadHunters: Time to roll on CFP"
+        "Headhunters: A tricky tricky task",
+        "Headhunters: Back up needed at outpost",
+        "Headhunters: Death and cargo",
+        "Headhunters: Go on the warpath",
+        "Headhunters: Green light on ~mission(Location)",
+        "Headhunters: Hit on XenoThreat command",
+        "Headhunters: Looking for a little revenge",
+        "Headhunters: Need a hitter",
+        "Headhunters: Reputation Management",
+        "Headhunters: Time to roll on CFP"
       ],
       "rewardMissionKeys": [
         {
           "titleKey": "headhunters_eliminateall_retrievestolen_missingperson_base_generic_m_title_001",
           "titleEN": "A tricky tricky task",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -35578,7 +35578,7 @@
         {
           "titleKey": "headhunters_defend_xt_title_001",
           "titleEN": "Back up needed at outpost",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -35587,7 +35587,7 @@
         {
           "titleKey": "headhunters_eliminateall_retrievestolen_base_generic_m_title_001",
           "titleEN": "Death and cargo",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -35596,7 +35596,7 @@
         {
           "titleKey": "headhunters_chainelimall_attackgen_e_title_001",
           "titleEN": "Go on the warpath",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -35605,7 +35605,7 @@
         {
           "titleKey": "headhunters_eliminateall_xt_title_001",
           "titleEN": "Green light on ~mission(Location)",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -35614,7 +35614,7 @@
         {
           "titleKey": "headhunters_chainelimall_boss_xenothreat_vh_title_001",
           "titleEN": "Hit on XenoThreat command",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -35623,7 +35623,7 @@
         {
           "titleKey": "headhunters_eliminateall_cfp_title_001",
           "titleEN": "Looking for a little revenge",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -35632,7 +35632,7 @@
         {
           "titleKey": "headhunters_eliminateall_base_generic_e_title_001",
           "titleEN": "Need a hitter",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -35641,7 +35641,7 @@
         {
           "titleKey": "headhunters_eliminateall_outpost_title_01",
           "titleEN": "Reputation Management",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -35650,7 +35650,7 @@
         {
           "titleKey": "headhunters_chainelimall_attackcfp_e_title_001",
           "titleEN": "Time to roll on CFP",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -35806,22 +35806,22 @@
       "recordGUID": "b19b4e92-2e22-4179-a647-0e13152a7302",
       "isReward": true,
       "rewardMissions": [
-        "HeadHunters: A tricky tricky task",
-        "HeadHunters: Back up needed at outpost",
-        "HeadHunters: Death and cargo",
-        "HeadHunters: Go on the warpath",
-        "HeadHunters: Green light on ~mission(Location)",
-        "HeadHunters: Hit on XenoThreat command",
-        "HeadHunters: Looking for a little revenge",
-        "HeadHunters: Need a hitter",
-        "HeadHunters: Reputation Management",
-        "HeadHunters: Time to roll on CFP"
+        "Headhunters: A tricky tricky task",
+        "Headhunters: Back up needed at outpost",
+        "Headhunters: Death and cargo",
+        "Headhunters: Go on the warpath",
+        "Headhunters: Green light on ~mission(Location)",
+        "Headhunters: Hit on XenoThreat command",
+        "Headhunters: Looking for a little revenge",
+        "Headhunters: Need a hitter",
+        "Headhunters: Reputation Management",
+        "Headhunters: Time to roll on CFP"
       ],
       "rewardMissionKeys": [
         {
           "titleKey": "headhunters_eliminateall_retrievestolen_missingperson_base_generic_m_title_001",
           "titleEN": "A tricky tricky task",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -35830,7 +35830,7 @@
         {
           "titleKey": "headhunters_defend_xt_title_001",
           "titleEN": "Back up needed at outpost",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -35839,7 +35839,7 @@
         {
           "titleKey": "headhunters_eliminateall_retrievestolen_base_generic_m_title_001",
           "titleEN": "Death and cargo",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -35848,7 +35848,7 @@
         {
           "titleKey": "headhunters_chainelimall_attackgen_e_title_001",
           "titleEN": "Go on the warpath",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -35857,7 +35857,7 @@
         {
           "titleKey": "headhunters_eliminateall_xt_title_001",
           "titleEN": "Green light on ~mission(Location)",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -35866,7 +35866,7 @@
         {
           "titleKey": "headhunters_chainelimall_boss_xenothreat_vh_title_001",
           "titleEN": "Hit on XenoThreat command",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -35875,7 +35875,7 @@
         {
           "titleKey": "headhunters_eliminateall_cfp_title_001",
           "titleEN": "Looking for a little revenge",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -35884,7 +35884,7 @@
         {
           "titleKey": "headhunters_eliminateall_base_generic_e_title_001",
           "titleEN": "Need a hitter",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -35893,7 +35893,7 @@
         {
           "titleKey": "headhunters_eliminateall_outpost_title_01",
           "titleEN": "Reputation Management",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -35902,7 +35902,7 @@
         {
           "titleKey": "headhunters_chainelimall_attackcfp_e_title_001",
           "titleEN": "Time to roll on CFP",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -48933,13 +48933,13 @@
       "recordGUID": "bfb08c7d-88d3-486e-aa39-5bb97864c5c8",
       "isReward": true,
       "rewardMissions": [
-        "HeadHunters: Need a death at ~mission(Location)"
+        "Headhunters: Need a death at ~mission(Location)"
       ],
       "rewardMissionKeys": [
         {
           "titleKey": "headhunters_eliminatespecific_asteroid_generic_m_title_001",
           "titleEN": "Need a death at ~mission(Location)",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -53116,24 +53116,24 @@
       "recordGUID": "b9a41cf8-32b0-46ca-bb61-3e40a44c4a71",
       "isReward": true,
       "rewardMissions": [
-        "HeadHunters: Deep space hit",
-        "HeadHunters: Green light on ~mission(TargetName|Last)",
-        "HeadHunters: Head of the snake",
-        "HeadHunters: Hit on XenoThreat at the Yard",
-        "HeadHunters: Kill the king",
-        "HeadHunters: Need a CFP taken down",
-        "HeadHunters: Need a hit on the Riviera",
-        "HeadHunters: Need a scalpel at Carver's",
-        "HeadHunters: Need someone taken out",
-        "HeadHunters: Shot in the chaos",
-        "HeadHunters: Wanted: ~mission(TargetName)",
-        "HeadHunters: XenoThreat Lieutenant needs some killing"
+        "Headhunters: Deep space hit",
+        "Headhunters: Green light on ~mission(TargetName|Last)",
+        "Headhunters: Head of the snake",
+        "Headhunters: Hit on XenoThreat at the Yard",
+        "Headhunters: Kill the king",
+        "Headhunters: Need a CFP taken down",
+        "Headhunters: Need a hit on the Riviera",
+        "Headhunters: Need a scalpel at Carver's",
+        "Headhunters: Need someone taken out",
+        "Headhunters: Shot in the chaos",
+        "Headhunters: Wanted: ~mission(TargetName)",
+        "Headhunters: XenoThreat Lieutenant needs some killing"
       ],
       "rewardMissionKeys": [
         {
           "titleKey": "headhunters_eliminatespecific_asteroid_generic_ve_title_001",
           "titleEN": "Deep space hit",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -53142,7 +53142,7 @@
         {
           "titleKey": "headhunters_eliminatespecific_generic_vh_title_001",
           "titleEN": "Green light on ~mission(TargetName|Last)",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -53151,7 +53151,7 @@
         {
           "titleKey": "headhunters_eliminatespecific_windfall_xenothreat_h_title_001",
           "titleEN": "Head of the snake",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -53160,7 +53160,7 @@
         {
           "titleKey": "headhunters_eliminatespecific_theyard_xenothreat_h_title_001",
           "titleEN": "Hit on XenoThreat at the Yard",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -53169,7 +53169,7 @@
         {
           "titleKey": "headhunters_eliminatespecific_generic_e_title_001",
           "titleEN": "Kill the king",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -53178,7 +53178,7 @@
         {
           "titleKey": "headhunters_eliminatespecific_cfp_m_title_001",
           "titleEN": "Need a CFP taken down",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -53187,7 +53187,7 @@
         {
           "titleKey": "headhunters_eliminatespecific_riviera_xenothreat_vh_title_001",
           "titleEN": "Need a hit on the Riviera",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -53196,7 +53196,7 @@
         {
           "titleKey": "headhunters_eliminatespecific_carvers_xenothreat_h_title_001",
           "titleEN": "Need a scalpel at Carver's",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -53205,7 +53205,7 @@
         {
           "titleKey": "headhunters_eliminatespecific_generic_m_title_001",
           "titleEN": "Need someone taken out",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -53214,7 +53214,7 @@
         {
           "titleKey": "headhunters_eliminatespecific_cfp_e_title_001",
           "titleEN": "Shot in the chaos",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -53223,7 +53223,7 @@
         {
           "titleKey": "headhunters_eliminatespecific_xenothreat_vh_title_001",
           "titleEN": "Wanted: ~mission(TargetName)",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -53232,7 +53232,7 @@
         {
           "titleKey": "headhunters_eliminatespecific_xenothreat_h_title_001",
           "titleEN": "XenoThreat Lieutenant needs some killing",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -53563,18 +53563,18 @@
       "recordGUID": "28e21312-dc19-4c3f-85e0-14102acc41ad",
       "isReward": true,
       "rewardMissions": [
-        "HeadHunters: Deep space hit",
-        "HeadHunters: Drop a XenoThreat",
-        "HeadHunters: Kill the king",
-        "HeadHunters: Need a CFP taken down",
-        "HeadHunters: Paid Target in CFP",
-        "HeadHunters: Plug a traitor"
+        "Headhunters: Deep space hit",
+        "Headhunters: Drop a XenoThreat",
+        "Headhunters: Kill the king",
+        "Headhunters: Need a CFP taken down",
+        "Headhunters: Paid Target in CFP",
+        "Headhunters: Plug a traitor"
       ],
       "rewardMissionKeys": [
         {
           "titleKey": "headhunters_eliminatespecific_asteroid_generic_ve_title_001",
           "titleEN": "Deep space hit",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -53583,7 +53583,7 @@
         {
           "titleKey": "headhunters_eliminatespecific_xenothreat_title_001",
           "titleEN": "Drop a XenoThreat",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -53592,7 +53592,7 @@
         {
           "titleKey": "headhunters_eliminatespecific_generic_e_title_001",
           "titleEN": "Kill the king",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -53601,7 +53601,7 @@
         {
           "titleKey": "headhunters_eliminatespecific_cfp_m_title_001",
           "titleEN": "Need a CFP taken down",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -53610,7 +53610,7 @@
         {
           "titleKey": "headhunters_eliminatespecific_cfp_h_title_001",
           "titleEN": "Paid Target in CFP",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -53619,7 +53619,7 @@
         {
           "titleKey": "headhunters_eliminatespecific_defector_title_001",
           "titleEN": "Plug a traitor",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -53690,24 +53690,24 @@
       "recordGUID": "0c474fba-0dd9-4cfa-ac52-082647835ef5",
       "isReward": true,
       "rewardMissions": [
-        "HeadHunters: Deep space hit",
-        "HeadHunters: Green light on ~mission(TargetName|Last)",
-        "HeadHunters: Head of the snake",
-        "HeadHunters: Hit on XenoThreat at the Yard",
-        "HeadHunters: Kill the king",
-        "HeadHunters: Need a CFP taken down",
-        "HeadHunters: Need a hit on the Riviera",
-        "HeadHunters: Need a scalpel at Carver's",
-        "HeadHunters: Need someone taken out",
-        "HeadHunters: Shot in the chaos",
-        "HeadHunters: Wanted: ~mission(TargetName)",
-        "HeadHunters: XenoThreat Lieutenant needs some killing"
+        "Headhunters: Deep space hit",
+        "Headhunters: Green light on ~mission(TargetName|Last)",
+        "Headhunters: Head of the snake",
+        "Headhunters: Hit on XenoThreat at the Yard",
+        "Headhunters: Kill the king",
+        "Headhunters: Need a CFP taken down",
+        "Headhunters: Need a hit on the Riviera",
+        "Headhunters: Need a scalpel at Carver's",
+        "Headhunters: Need someone taken out",
+        "Headhunters: Shot in the chaos",
+        "Headhunters: Wanted: ~mission(TargetName)",
+        "Headhunters: XenoThreat Lieutenant needs some killing"
       ],
       "rewardMissionKeys": [
         {
           "titleKey": "headhunters_eliminatespecific_asteroid_generic_ve_title_001",
           "titleEN": "Deep space hit",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -53716,7 +53716,7 @@
         {
           "titleKey": "headhunters_eliminatespecific_generic_vh_title_001",
           "titleEN": "Green light on ~mission(TargetName|Last)",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -53725,7 +53725,7 @@
         {
           "titleKey": "headhunters_eliminatespecific_windfall_xenothreat_h_title_001",
           "titleEN": "Head of the snake",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -53734,7 +53734,7 @@
         {
           "titleKey": "headhunters_eliminatespecific_theyard_xenothreat_h_title_001",
           "titleEN": "Hit on XenoThreat at the Yard",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -53743,7 +53743,7 @@
         {
           "titleKey": "headhunters_eliminatespecific_generic_e_title_001",
           "titleEN": "Kill the king",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -53752,7 +53752,7 @@
         {
           "titleKey": "headhunters_eliminatespecific_cfp_m_title_001",
           "titleEN": "Need a CFP taken down",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -53761,7 +53761,7 @@
         {
           "titleKey": "headhunters_eliminatespecific_riviera_xenothreat_vh_title_001",
           "titleEN": "Need a hit on the Riviera",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -53770,7 +53770,7 @@
         {
           "titleKey": "headhunters_eliminatespecific_carvers_xenothreat_h_title_001",
           "titleEN": "Need a scalpel at Carver's",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -53779,7 +53779,7 @@
         {
           "titleKey": "headhunters_eliminatespecific_generic_m_title_001",
           "titleEN": "Need someone taken out",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -53788,7 +53788,7 @@
         {
           "titleKey": "headhunters_eliminatespecific_cfp_e_title_001",
           "titleEN": "Shot in the chaos",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -53797,7 +53797,7 @@
         {
           "titleKey": "headhunters_eliminatespecific_xenothreat_vh_title_001",
           "titleEN": "Wanted: ~mission(TargetName)",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -53806,7 +53806,7 @@
         {
           "titleKey": "headhunters_eliminatespecific_xenothreat_h_title_001",
           "titleEN": "XenoThreat Lieutenant needs some killing",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -54137,18 +54137,18 @@
       "recordGUID": "861e4561-ae30-4da4-9ce2-ef98ca9fbffd",
       "isReward": true,
       "rewardMissions": [
-        "HeadHunters: Deep space hit",
-        "HeadHunters: Drop a XenoThreat",
-        "HeadHunters: Kill the king",
-        "HeadHunters: Need a CFP taken down",
-        "HeadHunters: Paid Target in CFP",
-        "HeadHunters: Plug a traitor"
+        "Headhunters: Deep space hit",
+        "Headhunters: Drop a XenoThreat",
+        "Headhunters: Kill the king",
+        "Headhunters: Need a CFP taken down",
+        "Headhunters: Paid Target in CFP",
+        "Headhunters: Plug a traitor"
       ],
       "rewardMissionKeys": [
         {
           "titleKey": "headhunters_eliminatespecific_asteroid_generic_ve_title_001",
           "titleEN": "Deep space hit",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -54157,7 +54157,7 @@
         {
           "titleKey": "headhunters_eliminatespecific_xenothreat_title_001",
           "titleEN": "Drop a XenoThreat",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -54166,7 +54166,7 @@
         {
           "titleKey": "headhunters_eliminatespecific_generic_e_title_001",
           "titleEN": "Kill the king",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -54175,7 +54175,7 @@
         {
           "titleKey": "headhunters_eliminatespecific_cfp_m_title_001",
           "titleEN": "Need a CFP taken down",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -54184,7 +54184,7 @@
         {
           "titleKey": "headhunters_eliminatespecific_cfp_h_title_001",
           "titleEN": "Paid Target in CFP",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -54193,7 +54193,7 @@
         {
           "titleKey": "headhunters_eliminatespecific_defector_title_001",
           "titleEN": "Plug a traitor",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -54264,24 +54264,24 @@
       "recordGUID": "ac63d308-6b69-4b69-975e-3866dd241d96",
       "isReward": true,
       "rewardMissions": [
-        "HeadHunters: Deep space hit",
-        "HeadHunters: Green light on ~mission(TargetName|Last)",
-        "HeadHunters: Head of the snake",
-        "HeadHunters: Hit on XenoThreat at the Yard",
-        "HeadHunters: Kill the king",
-        "HeadHunters: Need a CFP taken down",
-        "HeadHunters: Need a hit on the Riviera",
-        "HeadHunters: Need a scalpel at Carver's",
-        "HeadHunters: Need someone taken out",
-        "HeadHunters: Shot in the chaos",
-        "HeadHunters: Wanted: ~mission(TargetName)",
-        "HeadHunters: XenoThreat Lieutenant needs some killing"
+        "Headhunters: Deep space hit",
+        "Headhunters: Green light on ~mission(TargetName|Last)",
+        "Headhunters: Head of the snake",
+        "Headhunters: Hit on XenoThreat at the Yard",
+        "Headhunters: Kill the king",
+        "Headhunters: Need a CFP taken down",
+        "Headhunters: Need a hit on the Riviera",
+        "Headhunters: Need a scalpel at Carver's",
+        "Headhunters: Need someone taken out",
+        "Headhunters: Shot in the chaos",
+        "Headhunters: Wanted: ~mission(TargetName)",
+        "Headhunters: XenoThreat Lieutenant needs some killing"
       ],
       "rewardMissionKeys": [
         {
           "titleKey": "headhunters_eliminatespecific_asteroid_generic_ve_title_001",
           "titleEN": "Deep space hit",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -54290,7 +54290,7 @@
         {
           "titleKey": "headhunters_eliminatespecific_generic_vh_title_001",
           "titleEN": "Green light on ~mission(TargetName|Last)",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -54299,7 +54299,7 @@
         {
           "titleKey": "headhunters_eliminatespecific_windfall_xenothreat_h_title_001",
           "titleEN": "Head of the snake",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -54308,7 +54308,7 @@
         {
           "titleKey": "headhunters_eliminatespecific_theyard_xenothreat_h_title_001",
           "titleEN": "Hit on XenoThreat at the Yard",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -54317,7 +54317,7 @@
         {
           "titleKey": "headhunters_eliminatespecific_generic_e_title_001",
           "titleEN": "Kill the king",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -54326,7 +54326,7 @@
         {
           "titleKey": "headhunters_eliminatespecific_cfp_m_title_001",
           "titleEN": "Need a CFP taken down",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -54335,7 +54335,7 @@
         {
           "titleKey": "headhunters_eliminatespecific_riviera_xenothreat_vh_title_001",
           "titleEN": "Need a hit on the Riviera",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -54344,7 +54344,7 @@
         {
           "titleKey": "headhunters_eliminatespecific_carvers_xenothreat_h_title_001",
           "titleEN": "Need a scalpel at Carver's",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -54353,7 +54353,7 @@
         {
           "titleKey": "headhunters_eliminatespecific_generic_m_title_001",
           "titleEN": "Need someone taken out",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -54362,7 +54362,7 @@
         {
           "titleKey": "headhunters_eliminatespecific_cfp_e_title_001",
           "titleEN": "Shot in the chaos",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -54371,7 +54371,7 @@
         {
           "titleKey": "headhunters_eliminatespecific_xenothreat_vh_title_001",
           "titleEN": "Wanted: ~mission(TargetName)",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -54380,7 +54380,7 @@
         {
           "titleKey": "headhunters_eliminatespecific_xenothreat_h_title_001",
           "titleEN": "XenoThreat Lieutenant needs some killing",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -54776,18 +54776,18 @@
       "recordGUID": "6f3172a1-f6d1-4b10-bfc0-1ccdf95a5b62",
       "isReward": true,
       "rewardMissions": [
-        "HeadHunters: Deep space hit",
-        "HeadHunters: Drop a XenoThreat",
-        "HeadHunters: Kill the king",
-        "HeadHunters: Need a CFP taken down",
-        "HeadHunters: Paid Target in CFP",
-        "HeadHunters: Plug a traitor"
+        "Headhunters: Deep space hit",
+        "Headhunters: Drop a XenoThreat",
+        "Headhunters: Kill the king",
+        "Headhunters: Need a CFP taken down",
+        "Headhunters: Paid Target in CFP",
+        "Headhunters: Plug a traitor"
       ],
       "rewardMissionKeys": [
         {
           "titleKey": "headhunters_eliminatespecific_asteroid_generic_ve_title_001",
           "titleEN": "Deep space hit",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -54796,7 +54796,7 @@
         {
           "titleKey": "headhunters_eliminatespecific_xenothreat_title_001",
           "titleEN": "Drop a XenoThreat",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -54805,7 +54805,7 @@
         {
           "titleKey": "headhunters_eliminatespecific_generic_e_title_001",
           "titleEN": "Kill the king",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -54814,7 +54814,7 @@
         {
           "titleKey": "headhunters_eliminatespecific_cfp_m_title_001",
           "titleEN": "Need a CFP taken down",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -54823,7 +54823,7 @@
         {
           "titleKey": "headhunters_eliminatespecific_cfp_h_title_001",
           "titleEN": "Paid Target in CFP",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -54832,7 +54832,7 @@
         {
           "titleKey": "headhunters_eliminatespecific_defector_title_001",
           "titleEN": "Plug a traitor",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -54903,24 +54903,24 @@
       "recordGUID": "981ed143-c8ee-4eb4-9560-d69354229cd1",
       "isReward": true,
       "rewardMissions": [
-        "HeadHunters: Deep space hit",
-        "HeadHunters: Green light on ~mission(TargetName|Last)",
-        "HeadHunters: Head of the snake",
-        "HeadHunters: Hit on XenoThreat at the Yard",
-        "HeadHunters: Kill the king",
-        "HeadHunters: Need a CFP taken down",
-        "HeadHunters: Need a hit on the Riviera",
-        "HeadHunters: Need a scalpel at Carver's",
-        "HeadHunters: Need someone taken out",
-        "HeadHunters: Shot in the chaos",
-        "HeadHunters: Wanted: ~mission(TargetName)",
-        "HeadHunters: XenoThreat Lieutenant needs some killing"
+        "Headhunters: Deep space hit",
+        "Headhunters: Green light on ~mission(TargetName|Last)",
+        "Headhunters: Head of the snake",
+        "Headhunters: Hit on XenoThreat at the Yard",
+        "Headhunters: Kill the king",
+        "Headhunters: Need a CFP taken down",
+        "Headhunters: Need a hit on the Riviera",
+        "Headhunters: Need a scalpel at Carver's",
+        "Headhunters: Need someone taken out",
+        "Headhunters: Shot in the chaos",
+        "Headhunters: Wanted: ~mission(TargetName)",
+        "Headhunters: XenoThreat Lieutenant needs some killing"
       ],
       "rewardMissionKeys": [
         {
           "titleKey": "headhunters_eliminatespecific_asteroid_generic_ve_title_001",
           "titleEN": "Deep space hit",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -54929,7 +54929,7 @@
         {
           "titleKey": "headhunters_eliminatespecific_generic_vh_title_001",
           "titleEN": "Green light on ~mission(TargetName|Last)",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -54938,7 +54938,7 @@
         {
           "titleKey": "headhunters_eliminatespecific_windfall_xenothreat_h_title_001",
           "titleEN": "Head of the snake",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -54947,7 +54947,7 @@
         {
           "titleKey": "headhunters_eliminatespecific_theyard_xenothreat_h_title_001",
           "titleEN": "Hit on XenoThreat at the Yard",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -54956,7 +54956,7 @@
         {
           "titleKey": "headhunters_eliminatespecific_generic_e_title_001",
           "titleEN": "Kill the king",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -54965,7 +54965,7 @@
         {
           "titleKey": "headhunters_eliminatespecific_cfp_m_title_001",
           "titleEN": "Need a CFP taken down",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -54974,7 +54974,7 @@
         {
           "titleKey": "headhunters_eliminatespecific_riviera_xenothreat_vh_title_001",
           "titleEN": "Need a hit on the Riviera",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -54983,7 +54983,7 @@
         {
           "titleKey": "headhunters_eliminatespecific_carvers_xenothreat_h_title_001",
           "titleEN": "Need a scalpel at Carver's",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -54992,7 +54992,7 @@
         {
           "titleKey": "headhunters_eliminatespecific_generic_m_title_001",
           "titleEN": "Need someone taken out",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -55001,7 +55001,7 @@
         {
           "titleKey": "headhunters_eliminatespecific_cfp_e_title_001",
           "titleEN": "Shot in the chaos",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -55010,7 +55010,7 @@
         {
           "titleKey": "headhunters_eliminatespecific_xenothreat_vh_title_001",
           "titleEN": "Wanted: ~mission(TargetName)",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -55019,7 +55019,7 @@
         {
           "titleKey": "headhunters_eliminatespecific_xenothreat_h_title_001",
           "titleEN": "XenoThreat Lieutenant needs some killing",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -55415,18 +55415,18 @@
       "recordGUID": "9fe788a3-1319-4f13-afd7-fc3e9653d43b",
       "isReward": true,
       "rewardMissions": [
-        "HeadHunters: Deep space hit",
-        "HeadHunters: Drop a XenoThreat",
-        "HeadHunters: Kill the king",
-        "HeadHunters: Need a CFP taken down",
-        "HeadHunters: Paid Target in CFP",
-        "HeadHunters: Plug a traitor"
+        "Headhunters: Deep space hit",
+        "Headhunters: Drop a XenoThreat",
+        "Headhunters: Kill the king",
+        "Headhunters: Need a CFP taken down",
+        "Headhunters: Paid Target in CFP",
+        "Headhunters: Plug a traitor"
       ],
       "rewardMissionKeys": [
         {
           "titleKey": "headhunters_eliminatespecific_asteroid_generic_ve_title_001",
           "titleEN": "Deep space hit",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -55435,7 +55435,7 @@
         {
           "titleKey": "headhunters_eliminatespecific_xenothreat_title_001",
           "titleEN": "Drop a XenoThreat",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -55444,7 +55444,7 @@
         {
           "titleKey": "headhunters_eliminatespecific_generic_e_title_001",
           "titleEN": "Kill the king",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -55453,7 +55453,7 @@
         {
           "titleKey": "headhunters_eliminatespecific_cfp_m_title_001",
           "titleEN": "Need a CFP taken down",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -55462,7 +55462,7 @@
         {
           "titleKey": "headhunters_eliminatespecific_cfp_h_title_001",
           "titleEN": "Paid Target in CFP",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -55471,7 +55471,7 @@
         {
           "titleKey": "headhunters_eliminatespecific_defector_title_001",
           "titleEN": "Plug a traitor",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -73451,13 +73451,13 @@
       "recordGUID": "a98a8834-d924-468d-8d1b-8e4aba3e8291",
       "isReward": true,
       "rewardMissions": [
-        "HeadHunters: Need a death at ~mission(Location)"
+        "Headhunters: Need a death at ~mission(Location)"
       ],
       "rewardMissionKeys": [
         {
           "titleKey": "headhunters_eliminatespecific_asteroid_generic_m_title_001",
           "titleEN": "Need a death at ~mission(Location)",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -73528,13 +73528,13 @@
       "recordGUID": "d3e96412-ae77-4b5a-8e80-bc7575563be7",
       "isReward": true,
       "rewardMissions": [
-        "HeadHunters: Need a death at ~mission(Location)"
+        "Headhunters: Need a death at ~mission(Location)"
       ],
       "rewardMissionKeys": [
         {
           "titleKey": "headhunters_eliminatespecific_asteroid_generic_m_title_001",
           "titleEN": "Need a death at ~mission(Location)",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -73590,13 +73590,13 @@
       "recordGUID": "ef686d26-24a4-4244-b55b-856d995a0ff2",
       "isReward": true,
       "rewardMissions": [
-        "HeadHunters: Need a death at ~mission(Location)"
+        "Headhunters: Need a death at ~mission(Location)"
       ],
       "rewardMissionKeys": [
         {
           "titleKey": "headhunters_eliminatespecific_asteroid_generic_m_title_001",
           "titleEN": "Need a death at ~mission(Location)",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -74476,24 +74476,24 @@
       "recordGUID": "180baf29-ed81-42e2-a5a7-82b1f3dbc07f",
       "isReward": true,
       "rewardMissions": [
-        "HeadHunters: Deep space hit",
-        "HeadHunters: Green light on ~mission(TargetName|Last)",
-        "HeadHunters: Head of the snake",
-        "HeadHunters: Hit on XenoThreat at the Yard",
-        "HeadHunters: Kill the king",
-        "HeadHunters: Need a CFP taken down",
-        "HeadHunters: Need a hit on the Riviera",
-        "HeadHunters: Need a scalpel at Carver's",
-        "HeadHunters: Need someone taken out",
-        "HeadHunters: Shot in the chaos",
-        "HeadHunters: Wanted: ~mission(TargetName)",
-        "HeadHunters: XenoThreat Lieutenant needs some killing"
+        "Headhunters: Deep space hit",
+        "Headhunters: Green light on ~mission(TargetName|Last)",
+        "Headhunters: Head of the snake",
+        "Headhunters: Hit on XenoThreat at the Yard",
+        "Headhunters: Kill the king",
+        "Headhunters: Need a CFP taken down",
+        "Headhunters: Need a hit on the Riviera",
+        "Headhunters: Need a scalpel at Carver's",
+        "Headhunters: Need someone taken out",
+        "Headhunters: Shot in the chaos",
+        "Headhunters: Wanted: ~mission(TargetName)",
+        "Headhunters: XenoThreat Lieutenant needs some killing"
       ],
       "rewardMissionKeys": [
         {
           "titleKey": "headhunters_eliminatespecific_asteroid_generic_ve_title_001",
           "titleEN": "Deep space hit",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -74502,7 +74502,7 @@
         {
           "titleKey": "headhunters_eliminatespecific_generic_vh_title_001",
           "titleEN": "Green light on ~mission(TargetName|Last)",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -74511,7 +74511,7 @@
         {
           "titleKey": "headhunters_eliminatespecific_windfall_xenothreat_h_title_001",
           "titleEN": "Head of the snake",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -74520,7 +74520,7 @@
         {
           "titleKey": "headhunters_eliminatespecific_theyard_xenothreat_h_title_001",
           "titleEN": "Hit on XenoThreat at the Yard",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -74529,7 +74529,7 @@
         {
           "titleKey": "headhunters_eliminatespecific_generic_e_title_001",
           "titleEN": "Kill the king",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -74538,7 +74538,7 @@
         {
           "titleKey": "headhunters_eliminatespecific_cfp_m_title_001",
           "titleEN": "Need a CFP taken down",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -74547,7 +74547,7 @@
         {
           "titleKey": "headhunters_eliminatespecific_riviera_xenothreat_vh_title_001",
           "titleEN": "Need a hit on the Riviera",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -74556,7 +74556,7 @@
         {
           "titleKey": "headhunters_eliminatespecific_carvers_xenothreat_h_title_001",
           "titleEN": "Need a scalpel at Carver's",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -74565,7 +74565,7 @@
         {
           "titleKey": "headhunters_eliminatespecific_generic_m_title_001",
           "titleEN": "Need someone taken out",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -74574,7 +74574,7 @@
         {
           "titleKey": "headhunters_eliminatespecific_cfp_e_title_001",
           "titleEN": "Shot in the chaos",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -74583,7 +74583,7 @@
         {
           "titleKey": "headhunters_eliminatespecific_xenothreat_vh_title_001",
           "titleEN": "Wanted: ~mission(TargetName)",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -74592,7 +74592,7 @@
         {
           "titleKey": "headhunters_eliminatespecific_xenothreat_h_title_001",
           "titleEN": "XenoThreat Lieutenant needs some killing",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -74678,24 +74678,24 @@
       "recordGUID": "92b57ee6-9ff4-4d44-a4da-1d3b7bb1860d",
       "isReward": true,
       "rewardMissions": [
-        "HeadHunters: Deep space hit",
-        "HeadHunters: Green light on ~mission(TargetName|Last)",
-        "HeadHunters: Head of the snake",
-        "HeadHunters: Hit on XenoThreat at the Yard",
-        "HeadHunters: Kill the king",
-        "HeadHunters: Need a CFP taken down",
-        "HeadHunters: Need a hit on the Riviera",
-        "HeadHunters: Need a scalpel at Carver's",
-        "HeadHunters: Need someone taken out",
-        "HeadHunters: Shot in the chaos",
-        "HeadHunters: Wanted: ~mission(TargetName)",
-        "HeadHunters: XenoThreat Lieutenant needs some killing"
+        "Headhunters: Deep space hit",
+        "Headhunters: Green light on ~mission(TargetName|Last)",
+        "Headhunters: Head of the snake",
+        "Headhunters: Hit on XenoThreat at the Yard",
+        "Headhunters: Kill the king",
+        "Headhunters: Need a CFP taken down",
+        "Headhunters: Need a hit on the Riviera",
+        "Headhunters: Need a scalpel at Carver's",
+        "Headhunters: Need someone taken out",
+        "Headhunters: Shot in the chaos",
+        "Headhunters: Wanted: ~mission(TargetName)",
+        "Headhunters: XenoThreat Lieutenant needs some killing"
       ],
       "rewardMissionKeys": [
         {
           "titleKey": "headhunters_eliminatespecific_asteroid_generic_ve_title_001",
           "titleEN": "Deep space hit",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -74704,7 +74704,7 @@
         {
           "titleKey": "headhunters_eliminatespecific_generic_vh_title_001",
           "titleEN": "Green light on ~mission(TargetName|Last)",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -74713,7 +74713,7 @@
         {
           "titleKey": "headhunters_eliminatespecific_windfall_xenothreat_h_title_001",
           "titleEN": "Head of the snake",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -74722,7 +74722,7 @@
         {
           "titleKey": "headhunters_eliminatespecific_theyard_xenothreat_h_title_001",
           "titleEN": "Hit on XenoThreat at the Yard",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -74731,7 +74731,7 @@
         {
           "titleKey": "headhunters_eliminatespecific_generic_e_title_001",
           "titleEN": "Kill the king",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -74740,7 +74740,7 @@
         {
           "titleKey": "headhunters_eliminatespecific_cfp_m_title_001",
           "titleEN": "Need a CFP taken down",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -74749,7 +74749,7 @@
         {
           "titleKey": "headhunters_eliminatespecific_riviera_xenothreat_vh_title_001",
           "titleEN": "Need a hit on the Riviera",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -74758,7 +74758,7 @@
         {
           "titleKey": "headhunters_eliminatespecific_carvers_xenothreat_h_title_001",
           "titleEN": "Need a scalpel at Carver's",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -74767,7 +74767,7 @@
         {
           "titleKey": "headhunters_eliminatespecific_generic_m_title_001",
           "titleEN": "Need someone taken out",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -74776,7 +74776,7 @@
         {
           "titleKey": "headhunters_eliminatespecific_cfp_e_title_001",
           "titleEN": "Shot in the chaos",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -74785,7 +74785,7 @@
         {
           "titleKey": "headhunters_eliminatespecific_xenothreat_vh_title_001",
           "titleEN": "Wanted: ~mission(TargetName)",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -74794,7 +74794,7 @@
         {
           "titleKey": "headhunters_eliminatespecific_xenothreat_h_title_001",
           "titleEN": "XenoThreat Lieutenant needs some killing",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -83625,22 +83625,22 @@
       "recordGUID": "b7bf92c7-a3ee-4082-996b-46bc67b5929b",
       "isReward": true,
       "rewardMissions": [
-        "HeadHunters: A tricky tricky task",
-        "HeadHunters: Back up needed at outpost",
-        "HeadHunters: Death and cargo",
-        "HeadHunters: Go on the warpath",
-        "HeadHunters: Green light on ~mission(Location)",
-        "HeadHunters: Hit on XenoThreat command",
-        "HeadHunters: Looking for a little revenge",
-        "HeadHunters: Need a hitter",
-        "HeadHunters: Reputation Management",
-        "HeadHunters: Time to roll on CFP"
+        "Headhunters: A tricky tricky task",
+        "Headhunters: Back up needed at outpost",
+        "Headhunters: Death and cargo",
+        "Headhunters: Go on the warpath",
+        "Headhunters: Green light on ~mission(Location)",
+        "Headhunters: Hit on XenoThreat command",
+        "Headhunters: Looking for a little revenge",
+        "Headhunters: Need a hitter",
+        "Headhunters: Reputation Management",
+        "Headhunters: Time to roll on CFP"
       ],
       "rewardMissionKeys": [
         {
           "titleKey": "headhunters_eliminateall_retrievestolen_missingperson_base_generic_m_title_001",
           "titleEN": "A tricky tricky task",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -83649,7 +83649,7 @@
         {
           "titleKey": "headhunters_defend_xt_title_001",
           "titleEN": "Back up needed at outpost",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -83658,7 +83658,7 @@
         {
           "titleKey": "headhunters_eliminateall_retrievestolen_base_generic_m_title_001",
           "titleEN": "Death and cargo",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -83667,7 +83667,7 @@
         {
           "titleKey": "headhunters_chainelimall_attackgen_e_title_001",
           "titleEN": "Go on the warpath",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -83676,7 +83676,7 @@
         {
           "titleKey": "headhunters_eliminateall_xt_title_001",
           "titleEN": "Green light on ~mission(Location)",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -83685,7 +83685,7 @@
         {
           "titleKey": "headhunters_chainelimall_boss_xenothreat_vh_title_001",
           "titleEN": "Hit on XenoThreat command",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -83694,7 +83694,7 @@
         {
           "titleKey": "headhunters_eliminateall_cfp_title_001",
           "titleEN": "Looking for a little revenge",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -83703,7 +83703,7 @@
         {
           "titleKey": "headhunters_eliminateall_base_generic_e_title_001",
           "titleEN": "Need a hitter",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -83712,7 +83712,7 @@
         {
           "titleKey": "headhunters_eliminateall_outpost_title_01",
           "titleEN": "Reputation Management",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -83721,7 +83721,7 @@
         {
           "titleKey": "headhunters_chainelimall_attackcfp_e_title_001",
           "titleEN": "Time to roll on CFP",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -83792,22 +83792,22 @@
       "recordGUID": "7e51e245-9baa-4845-b9e5-7028f257adb9",
       "isReward": true,
       "rewardMissions": [
-        "HeadHunters: A tricky tricky task",
-        "HeadHunters: Back up needed at outpost",
-        "HeadHunters: Death and cargo",
-        "HeadHunters: Go on the warpath",
-        "HeadHunters: Green light on ~mission(Location)",
-        "HeadHunters: Hit on XenoThreat command",
-        "HeadHunters: Looking for a little revenge",
-        "HeadHunters: Need a hitter",
-        "HeadHunters: Reputation Management",
-        "HeadHunters: Time to roll on CFP"
+        "Headhunters: A tricky tricky task",
+        "Headhunters: Back up needed at outpost",
+        "Headhunters: Death and cargo",
+        "Headhunters: Go on the warpath",
+        "Headhunters: Green light on ~mission(Location)",
+        "Headhunters: Hit on XenoThreat command",
+        "Headhunters: Looking for a little revenge",
+        "Headhunters: Need a hitter",
+        "Headhunters: Reputation Management",
+        "Headhunters: Time to roll on CFP"
       ],
       "rewardMissionKeys": [
         {
           "titleKey": "headhunters_eliminateall_retrievestolen_missingperson_base_generic_m_title_001",
           "titleEN": "A tricky tricky task",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -83816,7 +83816,7 @@
         {
           "titleKey": "headhunters_defend_xt_title_001",
           "titleEN": "Back up needed at outpost",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -83825,7 +83825,7 @@
         {
           "titleKey": "headhunters_eliminateall_retrievestolen_base_generic_m_title_001",
           "titleEN": "Death and cargo",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -83834,7 +83834,7 @@
         {
           "titleKey": "headhunters_chainelimall_attackgen_e_title_001",
           "titleEN": "Go on the warpath",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -83843,7 +83843,7 @@
         {
           "titleKey": "headhunters_eliminateall_xt_title_001",
           "titleEN": "Green light on ~mission(Location)",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -83852,7 +83852,7 @@
         {
           "titleKey": "headhunters_chainelimall_boss_xenothreat_vh_title_001",
           "titleEN": "Hit on XenoThreat command",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -83861,7 +83861,7 @@
         {
           "titleKey": "headhunters_eliminateall_cfp_title_001",
           "titleEN": "Looking for a little revenge",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -83870,7 +83870,7 @@
         {
           "titleKey": "headhunters_eliminateall_base_generic_e_title_001",
           "titleEN": "Need a hitter",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -83879,7 +83879,7 @@
         {
           "titleKey": "headhunters_eliminateall_outpost_title_01",
           "titleEN": "Reputation Management",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -83888,7 +83888,7 @@
         {
           "titleKey": "headhunters_chainelimall_attackcfp_e_title_001",
           "titleEN": "Time to roll on CFP",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -84024,22 +84024,22 @@
       "recordGUID": "97847c70-ec56-4b59-b946-4416d8f38d1d",
       "isReward": true,
       "rewardMissions": [
-        "HeadHunters: A tricky tricky task",
-        "HeadHunters: Back up needed at outpost",
-        "HeadHunters: Death and cargo",
-        "HeadHunters: Go on the warpath",
-        "HeadHunters: Green light on ~mission(Location)",
-        "HeadHunters: Hit on XenoThreat command",
-        "HeadHunters: Looking for a little revenge",
-        "HeadHunters: Need a hitter",
-        "HeadHunters: Reputation Management",
-        "HeadHunters: Time to roll on CFP"
+        "Headhunters: A tricky tricky task",
+        "Headhunters: Back up needed at outpost",
+        "Headhunters: Death and cargo",
+        "Headhunters: Go on the warpath",
+        "Headhunters: Green light on ~mission(Location)",
+        "Headhunters: Hit on XenoThreat command",
+        "Headhunters: Looking for a little revenge",
+        "Headhunters: Need a hitter",
+        "Headhunters: Reputation Management",
+        "Headhunters: Time to roll on CFP"
       ],
       "rewardMissionKeys": [
         {
           "titleKey": "headhunters_eliminateall_retrievestolen_missingperson_base_generic_m_title_001",
           "titleEN": "A tricky tricky task",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -84048,7 +84048,7 @@
         {
           "titleKey": "headhunters_defend_xt_title_001",
           "titleEN": "Back up needed at outpost",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -84057,7 +84057,7 @@
         {
           "titleKey": "headhunters_eliminateall_retrievestolen_base_generic_m_title_001",
           "titleEN": "Death and cargo",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -84066,7 +84066,7 @@
         {
           "titleKey": "headhunters_chainelimall_attackgen_e_title_001",
           "titleEN": "Go on the warpath",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -84075,7 +84075,7 @@
         {
           "titleKey": "headhunters_eliminateall_xt_title_001",
           "titleEN": "Green light on ~mission(Location)",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -84084,7 +84084,7 @@
         {
           "titleKey": "headhunters_chainelimall_boss_xenothreat_vh_title_001",
           "titleEN": "Hit on XenoThreat command",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -84093,7 +84093,7 @@
         {
           "titleKey": "headhunters_eliminateall_cfp_title_001",
           "titleEN": "Looking for a little revenge",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -84102,7 +84102,7 @@
         {
           "titleKey": "headhunters_eliminateall_base_generic_e_title_001",
           "titleEN": "Need a hitter",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -84111,7 +84111,7 @@
         {
           "titleKey": "headhunters_eliminateall_outpost_title_01",
           "titleEN": "Reputation Management",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -84120,7 +84120,7 @@
         {
           "titleKey": "headhunters_chainelimall_attackcfp_e_title_001",
           "titleEN": "Time to roll on CFP",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -84191,22 +84191,22 @@
       "recordGUID": "9c6ca949-c28c-40db-9e32-e4abd23ef3de",
       "isReward": true,
       "rewardMissions": [
-        "HeadHunters: A tricky tricky task",
-        "HeadHunters: Back up needed at outpost",
-        "HeadHunters: Death and cargo",
-        "HeadHunters: Go on the warpath",
-        "HeadHunters: Green light on ~mission(Location)",
-        "HeadHunters: Hit on XenoThreat command",
-        "HeadHunters: Looking for a little revenge",
-        "HeadHunters: Need a hitter",
-        "HeadHunters: Reputation Management",
-        "HeadHunters: Time to roll on CFP"
+        "Headhunters: A tricky tricky task",
+        "Headhunters: Back up needed at outpost",
+        "Headhunters: Death and cargo",
+        "Headhunters: Go on the warpath",
+        "Headhunters: Green light on ~mission(Location)",
+        "Headhunters: Hit on XenoThreat command",
+        "Headhunters: Looking for a little revenge",
+        "Headhunters: Need a hitter",
+        "Headhunters: Reputation Management",
+        "Headhunters: Time to roll on CFP"
       ],
       "rewardMissionKeys": [
         {
           "titleKey": "headhunters_eliminateall_retrievestolen_missingperson_base_generic_m_title_001",
           "titleEN": "A tricky tricky task",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -84215,7 +84215,7 @@
         {
           "titleKey": "headhunters_defend_xt_title_001",
           "titleEN": "Back up needed at outpost",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -84224,7 +84224,7 @@
         {
           "titleKey": "headhunters_eliminateall_retrievestolen_base_generic_m_title_001",
           "titleEN": "Death and cargo",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -84233,7 +84233,7 @@
         {
           "titleKey": "headhunters_chainelimall_attackgen_e_title_001",
           "titleEN": "Go on the warpath",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -84242,7 +84242,7 @@
         {
           "titleKey": "headhunters_eliminateall_xt_title_001",
           "titleEN": "Green light on ~mission(Location)",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -84251,7 +84251,7 @@
         {
           "titleKey": "headhunters_chainelimall_boss_xenothreat_vh_title_001",
           "titleEN": "Hit on XenoThreat command",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -84260,7 +84260,7 @@
         {
           "titleKey": "headhunters_eliminateall_cfp_title_001",
           "titleEN": "Looking for a little revenge",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -84269,7 +84269,7 @@
         {
           "titleKey": "headhunters_eliminateall_base_generic_e_title_001",
           "titleEN": "Need a hitter",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -84278,7 +84278,7 @@
         {
           "titleKey": "headhunters_eliminateall_outpost_title_01",
           "titleEN": "Reputation Management",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
@@ -84287,7 +84287,7 @@
         {
           "titleKey": "headhunters_chainelimall_attackcfp_e_title_001",
           "titleEN": "Time to roll on CFP",
-          "faction": "HeadHunters",
+          "faction": "Headhunters",
           "systems": [
             "Pyro"
           ],
