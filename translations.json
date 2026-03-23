@@ -3,33 +3,5 @@
     "ammo": "Chargeur",
     "armour": "Armure",
     "weapons": "Arme"
-  },
-  "resources": {
-    "Copper": "Cuivre",
-    "Iron": "Fer",
-    "Gold": "Or",
-    "Tungsten": "Tungstène",
-    "Silicon": "Silicium",
-    "Aluminum": "Aluminium",
-    "Titanium": "Titane",
-    "Quartz": "Quartz",
-    "Corundum": "Corindon",
-    "Laranite": "Laranite",
-    "Taranite": "Taranite",
-    "Hephaestanite": "Hephaestanite",
-    "Hadanite": "Hadanite",
-    "Janalite": "Janalite",
-    "Dolivine": "Dolivine",
-    "Aphorite": "Aphorite",
-    "Bexalite": "Bexalite",
-    "Quantanium": "Quantanium",
-    "Borase": "Borase",
-    "Riccite": "Riccite",
-    "Aslarite": "Aslarite",
-    "Ouratite": "Ouratite",
-    "Torite": "Torite",
-    "Savrilium": "Savrilium",
-    "Feynmaline": "Feynmaline",
-    "Glacosite": "Glacosite"
   }
 }
