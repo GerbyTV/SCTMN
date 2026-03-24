@@ -1,5 +1,5 @@
 {
-  "version": "LAST",
+  "version": "4.7.0-PTU.11506930",
   "blueprints": [
     {
       "file": "crafting\\blueprints\\crafting\\fpsgear\\BP_CRAFT_gmni_sniper_ballistic_01_arctic01.xml",
@@ -59989,7 +59989,9 @@
           "titleKey": "shubin_rockcracker_pvp_title_01",
           "titleEN": "QV Breaker Station Mining Rights (Shared)",
           "faction": "Shubin Interstellar",
-          "systems": [],
+          "systems": [
+            "Nyx"
+          ],
           "illegal": false
         },
         {
@@ -60113,7 +60115,9 @@
           "titleKey": "shubin_rockcracker_pvp_title_01",
           "titleEN": "QV Breaker Station Mining Rights (Shared)",
           "faction": "Shubin Interstellar",
-          "systems": [],
+          "systems": [
+            "Nyx"
+          ],
           "illegal": false
         },
         {
@@ -61041,7 +61045,9 @@
           "titleKey": "shubin_rockcracker_pvp_title_01",
           "titleEN": "QV Breaker Station Mining Rights (Shared)",
           "faction": "Shubin Interstellar",
-          "systems": [],
+          "systems": [
+            "Nyx"
+          ],
           "illegal": false
         },
         {
@@ -61165,7 +61171,9 @@
           "titleKey": "shubin_rockcracker_pvp_title_01",
           "titleEN": "QV Breaker Station Mining Rights (Shared)",
           "faction": "Shubin Interstellar",
-          "systems": [],
+          "systems": [
+            "Nyx"
+          ],
           "illegal": false
         },
         {
@@ -61987,7 +61995,9 @@
           "titleKey": "shubin_rockcracker_pvp_title_01",
           "titleEN": "QV Breaker Station Mining Rights (Shared)",
           "faction": "Shubin Interstellar",
-          "systems": [],
+          "systems": [
+            "Nyx"
+          ],
           "illegal": false
         },
         {
@@ -62217,7 +62227,9 @@
           "titleKey": "shubin_rockcracker_pvp_title_01",
           "titleEN": "QV Breaker Station Mining Rights (Shared)",
           "faction": "Shubin Interstellar",
-          "systems": [],
+          "systems": [
+            "Nyx"
+          ],
           "illegal": false
         },
         {
@@ -63145,7 +63157,9 @@
           "titleKey": "shubin_rockcracker_pvp_title_01",
           "titleEN": "QV Breaker Station Mining Rights (Shared)",
           "faction": "Shubin Interstellar",
-          "systems": [],
+          "systems": [
+            "Nyx"
+          ],
           "illegal": false
         },
         {
@@ -63269,7 +63283,9 @@
           "titleKey": "shubin_rockcracker_pvp_title_01",
           "titleEN": "QV Breaker Station Mining Rights (Shared)",
           "faction": "Shubin Interstellar",
-          "systems": [],
+          "systems": [
+            "Nyx"
+          ],
           "illegal": false
         },
         {
@@ -87982,7 +87998,9 @@
           "titleKey": "shubin_rockcracker_pvp_title_01",
           "titleEN": "QV Breaker Station Mining Rights (Shared)",
           "faction": "Shubin Interstellar",
-          "systems": [],
+          "systems": [
+            "Nyx"
+          ],
           "illegal": false
         },
         {
@@ -88106,7 +88124,9 @@
           "titleKey": "shubin_rockcracker_pvp_title_01",
           "titleEN": "QV Breaker Station Mining Rights (Shared)",
           "faction": "Shubin Interstellar",
-          "systems": [],
+          "systems": [
+            "Nyx"
+          ],
           "illegal": false
         },
         {
@@ -88797,7 +88817,9 @@
           "titleKey": "shubin_rockcracker_pvp_title_01",
           "titleEN": "QV Breaker Station Mining Rights (Shared)",
           "faction": "Shubin Interstellar",
-          "systems": [],
+          "systems": [
+            "Nyx"
+          ],
           "illegal": false
         },
         {
@@ -102478,6 +102500,112 @@
       ]
     },
     {
+      "file": "crafting\\blueprints\\crafting\\fpsgear\\BP_CRAFT_volt_sniper_energy_01_tint02.xml",
+      "recordName": "CraftingBlueprintRecord.BP_CRAFT_VOLT_SNIPER_ENERGY_01_TINT02",
+      "recordGUID": "202ed065-69ba-4b16-945c-0856cefce789",
+      "isReward": true,
+      "rewardMissions": [
+        "Hockrow: Jorrit Dossier: Updated Security Data"
+      ],
+      "rewardMissionKeys": [
+        {
+          "titleKey": "hockrow_facilitydelve_p2m2_repeat_title",
+          "titleEN": "Jorrit Dossier: Updated Security Data",
+          "faction": "Hockrow",
+          "systems": [
+            "Stanton"
+          ],
+          "illegal": false
+        }
+      ],
+      "internalName": "BP_CRAFT_volt_sniper_energy_01_tint02",
+      "locKey": "@item_Namevolt_sniper_energy_01_tint02",
+      "blueprintName": "Zenith \"Landslide\" Laser Sniper Rifle",
+      "categoryName": "Arme",
+      "craftTime": {
+        "days": 0,
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 30.0
+      },
+      "slots": [
+        {
+          "slotDebugName": "FRAME",
+          "slotDisplayName": "Cadre",
+          "requiredCount": 1,
+          "options": [
+            {
+              "modifiers": [],
+              "type": "resource",
+              "resourceGUID": "06cafea0-49fe-4dce-b0f0-dc583316c66d",
+              "resourceName": "Taranite",
+              "resourceRecordName": "ResourceType.Taranite",
+              "commodityGUID": "06cafea0-49fe-4dce-b0f0-dc583316c66d",
+              "commodityLocKey": "@items_commodities_taranite",
+              "commodityLocDescKey": "@items_commodities_taranite_desc",
+              "commodityDisplayNameKey": "@items_commodities_taranite",
+              "commodityDisplayTypeKey": "",
+              "commodityXmlStem": "resourcetypedatabase",
+              "minQuality": 0.0,
+              "standardCargoUnits": 0.06
+            }
+          ]
+        },
+        {
+          "slotDebugName": "CABLING",
+          "slotDisplayName": "Câblage",
+          "requiredCount": 1,
+          "options": [
+            {
+              "modifiers": [],
+              "type": "resource",
+              "resourceGUID": "21825507-7923-4683-9bf3-9cfe316940e3",
+              "resourceName": "Gold",
+              "resourceRecordName": "ResourceType.Gold",
+              "commodityGUID": "21825507-7923-4683-9bf3-9cfe316940e3",
+              "commodityLocKey": "@items_commodities_gold",
+              "commodityLocDescKey": "@items_commodities_gold_desc",
+              "commodityDisplayNameKey": "@items_commodities_gold",
+              "commodityDisplayTypeKey": "",
+              "commodityXmlStem": "resourcetypedatabase",
+              "minQuality": 0.0,
+              "standardCargoUnits": 0.02
+            }
+          ]
+        },
+        {
+          "slotDebugName": "REGULATOR",
+          "slotDisplayName": "Régulateur",
+          "requiredCount": 1,
+          "options": [
+            {
+              "modifiers": [],
+              "type": "item",
+              "entityGUID": "e954d75e-fb1e-487e-90a8-170f0284b502",
+              "entityName": "Janalite",
+              "quantity": 1,
+              "minQuality": 0.0
+            }
+          ]
+        },
+        {
+          "slotDebugName": "PRECISION PARTS",
+          "slotDisplayName": "Pièces de précision",
+          "requiredCount": 1,
+          "options": [
+            {
+              "modifiers": [],
+              "type": "item",
+              "entityGUID": "51b456cd-e73e-42a8-b36e-0bf6fbe29ce6",
+              "entityName": "Sadaryx",
+              "quantity": 1,
+              "minQuality": 0.0
+            }
+          ]
+        }
+      ]
+    },
+    {
       "file": "crafting\\blueprints\\crafting\\fpsgear\\BP_CRAFT_volt_sniper_energy_01_collector01.xml",
       "recordName": "CraftingBlueprintRecord.BP_CRAFT_VOLT_SNIPER_ENERGY_01_COLLECTOR01",
       "recordGUID": "90d4a4ae-0879-4df3-8dcf-7d4768499174",
@@ -102697,112 +102825,6 @@
         }
       ],
       "internalName": "BP_CRAFT_volt_sniper_energy_01",
-      "locKey": "@item_Namevolt_sniper_energy_01",
-      "blueprintName": "Zenith Laser Sniper Rifle",
-      "categoryName": "Arme",
-      "craftTime": {
-        "days": 0,
-        "hours": 0,
-        "minutes": 3,
-        "seconds": 30.0
-      },
-      "slots": [
-        {
-          "slotDebugName": "FRAME",
-          "slotDisplayName": "Cadre",
-          "requiredCount": 1,
-          "options": [
-            {
-              "modifiers": [],
-              "type": "resource",
-              "resourceGUID": "06cafea0-49fe-4dce-b0f0-dc583316c66d",
-              "resourceName": "Taranite",
-              "resourceRecordName": "ResourceType.Taranite",
-              "commodityGUID": "06cafea0-49fe-4dce-b0f0-dc583316c66d",
-              "commodityLocKey": "@items_commodities_taranite",
-              "commodityLocDescKey": "@items_commodities_taranite_desc",
-              "commodityDisplayNameKey": "@items_commodities_taranite",
-              "commodityDisplayTypeKey": "",
-              "commodityXmlStem": "resourcetypedatabase",
-              "minQuality": 0.0,
-              "standardCargoUnits": 0.06
-            }
-          ]
-        },
-        {
-          "slotDebugName": "CABLING",
-          "slotDisplayName": "Câblage",
-          "requiredCount": 1,
-          "options": [
-            {
-              "modifiers": [],
-              "type": "resource",
-              "resourceGUID": "21825507-7923-4683-9bf3-9cfe316940e3",
-              "resourceName": "Gold",
-              "resourceRecordName": "ResourceType.Gold",
-              "commodityGUID": "21825507-7923-4683-9bf3-9cfe316940e3",
-              "commodityLocKey": "@items_commodities_gold",
-              "commodityLocDescKey": "@items_commodities_gold_desc",
-              "commodityDisplayNameKey": "@items_commodities_gold",
-              "commodityDisplayTypeKey": "",
-              "commodityXmlStem": "resourcetypedatabase",
-              "minQuality": 0.0,
-              "standardCargoUnits": 0.02
-            }
-          ]
-        },
-        {
-          "slotDebugName": "REGULATOR",
-          "slotDisplayName": "Régulateur",
-          "requiredCount": 1,
-          "options": [
-            {
-              "modifiers": [],
-              "type": "item",
-              "entityGUID": "e954d75e-fb1e-487e-90a8-170f0284b502",
-              "entityName": "Janalite",
-              "quantity": 1,
-              "minQuality": 0.0
-            }
-          ]
-        },
-        {
-          "slotDebugName": "PRECISION PARTS",
-          "slotDisplayName": "Pièces de précision",
-          "requiredCount": 1,
-          "options": [
-            {
-              "modifiers": [],
-              "type": "item",
-              "entityGUID": "51b456cd-e73e-42a8-b36e-0bf6fbe29ce6",
-              "entityName": "Sadaryx",
-              "quantity": 1,
-              "minQuality": 0.0
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "file": "crafting\\blueprints\\crafting\\fpsgear\\BP_CRAFT_volt_sniper_energy_01_tint02.xml",
-      "recordName": "CraftingBlueprintRecord.BP_CRAFT_VOLT_SNIPER_ENERGY_01_TINT02",
-      "recordGUID": "202ed065-69ba-4b16-945c-0856cefce789",
-      "isReward": true,
-      "rewardMissions": [
-        "Hockrow: Jorrit Dossier: Updated Security Data"
-      ],
-      "rewardMissionKeys": [
-        {
-          "titleKey": "hockrow_facilitydelve_p2m2_repeat_title",
-          "titleEN": "Jorrit Dossier: Updated Security Data",
-          "faction": "Hockrow",
-          "systems": [
-            "Stanton"
-          ],
-          "illegal": false
-        }
-      ],
-      "internalName": "BP_CRAFT_volt_sniper_energy_01_tint02",
       "locKey": "@item_Namevolt_sniper_energy_01",
       "blueprintName": "Zenith Laser Sniper Rifle",
       "categoryName": "Arme",
