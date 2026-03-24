@@ -59975,7 +59975,7 @@
         "Shubin Interstellar: QV Breaker Station Mining Rights (Exclusive)",
         "Shubin Interstellar: QV Breaker Station Mining Rights (Shared)",
         "Bit Zeros: ~mission(Contractor|RecoverItemTitle)",
-        "DeadSaints: ~mission(Contractor|RecoverItemTitle)"
+        "Dead Saints: ~mission(Contractor|RecoverItemTitle)"
       ],
       "rewardMissionKeys": [
         {
@@ -60006,7 +60006,7 @@
         {
           "titleKey": "recovery_title",
           "titleEN": "~mission(Contractor|RecoverItemTitle)",
-          "faction": "DeadSaints",
+          "faction": "Dead Saints",
           "systems": [
             "Nyx"
           ],
@@ -60101,7 +60101,7 @@
         "Shubin Interstellar: QV Breaker Station Mining Rights (Exclusive)",
         "Shubin Interstellar: QV Breaker Station Mining Rights (Shared)",
         "Bit Zeros: ~mission(Contractor|RecoverItemTitle)",
-        "DeadSaints: ~mission(Contractor|RecoverItemTitle)"
+        "Dead Saints: ~mission(Contractor|RecoverItemTitle)"
       ],
       "rewardMissionKeys": [
         {
@@ -60132,7 +60132,7 @@
         {
           "titleKey": "recovery_title",
           "titleEN": "~mission(Contractor|RecoverItemTitle)",
-          "faction": "DeadSaints",
+          "faction": "Dead Saints",
           "systems": [
             "Nyx"
           ],
@@ -61031,7 +61031,7 @@
         "Shubin Interstellar: QV Breaker Station Mining Rights (Exclusive)",
         "Shubin Interstellar: QV Breaker Station Mining Rights (Shared)",
         "Bit Zeros: ~mission(Contractor|RecoverItemTitle)",
-        "DeadSaints: ~mission(Contractor|RecoverItemTitle)"
+        "Dead Saints: ~mission(Contractor|RecoverItemTitle)"
       ],
       "rewardMissionKeys": [
         {
@@ -61062,7 +61062,7 @@
         {
           "titleKey": "recovery_title",
           "titleEN": "~mission(Contractor|RecoverItemTitle)",
-          "faction": "DeadSaints",
+          "faction": "Dead Saints",
           "systems": [
             "Nyx"
           ],
@@ -61157,7 +61157,7 @@
         "Shubin Interstellar: QV Breaker Station Mining Rights (Exclusive)",
         "Shubin Interstellar: QV Breaker Station Mining Rights (Shared)",
         "Bit Zeros: ~mission(Contractor|RecoverItemTitle)",
-        "DeadSaints: ~mission(Contractor|RecoverItemTitle)"
+        "Dead Saints: ~mission(Contractor|RecoverItemTitle)"
       ],
       "rewardMissionKeys": [
         {
@@ -61188,7 +61188,7 @@
         {
           "titleKey": "recovery_title",
           "titleEN": "~mission(Contractor|RecoverItemTitle)",
-          "faction": "DeadSaints",
+          "faction": "Dead Saints",
           "systems": [
             "Nyx"
           ],
@@ -61981,7 +61981,7 @@
         "Shubin Interstellar: QV Breaker Station Mining Rights (Exclusive)",
         "Shubin Interstellar: QV Breaker Station Mining Rights (Shared)",
         "Bit Zeros: ~mission(Contractor|RecoverItemTitle)",
-        "DeadSaints: ~mission(Contractor|RecoverItemTitle)"
+        "Dead Saints: ~mission(Contractor|RecoverItemTitle)"
       ],
       "rewardMissionKeys": [
         {
@@ -62012,7 +62012,7 @@
         {
           "titleKey": "recovery_title",
           "titleEN": "~mission(Contractor|RecoverItemTitle)",
-          "faction": "DeadSaints",
+          "faction": "Dead Saints",
           "systems": [
             "Nyx"
           ],
@@ -62213,7 +62213,7 @@
         "Shubin Interstellar: QV Breaker Station Mining Rights (Exclusive)",
         "Shubin Interstellar: QV Breaker Station Mining Rights (Shared)",
         "Bit Zeros: ~mission(Contractor|RecoverItemTitle)",
-        "DeadSaints: ~mission(Contractor|RecoverItemTitle)"
+        "Dead Saints: ~mission(Contractor|RecoverItemTitle)"
       ],
       "rewardMissionKeys": [
         {
@@ -62244,7 +62244,7 @@
         {
           "titleKey": "recovery_title",
           "titleEN": "~mission(Contractor|RecoverItemTitle)",
-          "faction": "DeadSaints",
+          "faction": "Dead Saints",
           "systems": [
             "Nyx"
           ],
@@ -63143,7 +63143,7 @@
         "Shubin Interstellar: QV Breaker Station Mining Rights (Exclusive)",
         "Shubin Interstellar: QV Breaker Station Mining Rights (Shared)",
         "Bit Zeros: ~mission(Contractor|RecoverItemTitle)",
-        "DeadSaints: ~mission(Contractor|RecoverItemTitle)"
+        "Dead Saints: ~mission(Contractor|RecoverItemTitle)"
       ],
       "rewardMissionKeys": [
         {
@@ -63174,7 +63174,7 @@
         {
           "titleKey": "recovery_title",
           "titleEN": "~mission(Contractor|RecoverItemTitle)",
-          "faction": "DeadSaints",
+          "faction": "Dead Saints",
           "systems": [
             "Nyx"
           ],
@@ -63269,7 +63269,7 @@
         "Shubin Interstellar: QV Breaker Station Mining Rights (Exclusive)",
         "Shubin Interstellar: QV Breaker Station Mining Rights (Shared)",
         "Bit Zeros: ~mission(Contractor|RecoverItemTitle)",
-        "DeadSaints: ~mission(Contractor|RecoverItemTitle)"
+        "Dead Saints: ~mission(Contractor|RecoverItemTitle)"
       ],
       "rewardMissionKeys": [
         {
@@ -63300,7 +63300,7 @@
         {
           "titleKey": "recovery_title",
           "titleEN": "~mission(Contractor|RecoverItemTitle)",
-          "faction": "DeadSaints",
+          "faction": "Dead Saints",
           "systems": [
             "Nyx"
           ],
@@ -87984,7 +87984,7 @@
         "Shubin Interstellar: QV Breaker Station Mining Rights (Exclusive)",
         "Shubin Interstellar: QV Breaker Station Mining Rights (Shared)",
         "Bit Zeros: ~mission(Contractor|RecoverItemTitle)",
-        "DeadSaints: ~mission(Contractor|RecoverItemTitle)"
+        "Dead Saints: ~mission(Contractor|RecoverItemTitle)"
       ],
       "rewardMissionKeys": [
         {
@@ -88015,7 +88015,7 @@
         {
           "titleKey": "recovery_title",
           "titleEN": "~mission(Contractor|RecoverItemTitle)",
-          "faction": "DeadSaints",
+          "faction": "Dead Saints",
           "systems": [
             "Nyx"
           ],
@@ -88110,7 +88110,7 @@
         "Shubin Interstellar: QV Breaker Station Mining Rights (Exclusive)",
         "Shubin Interstellar: QV Breaker Station Mining Rights (Shared)",
         "Bit Zeros: ~mission(Contractor|RecoverItemTitle)",
-        "DeadSaints: ~mission(Contractor|RecoverItemTitle)"
+        "Dead Saints: ~mission(Contractor|RecoverItemTitle)"
       ],
       "rewardMissionKeys": [
         {
@@ -88141,7 +88141,7 @@
         {
           "titleKey": "recovery_title",
           "titleEN": "~mission(Contractor|RecoverItemTitle)",
-          "faction": "DeadSaints",
+          "faction": "Dead Saints",
           "systems": [
             "Nyx"
           ],
@@ -88679,7 +88679,7 @@
         "InterSec: Terrorist ~mission(TargetName) to be Neutralized",
         "Bounty Hunters Guild: Verified Bounty: ~mission(TargetName) at QV Breaker Station",
         "Bit Zeros: ~mission(Contractor|RecoverItemTitle)",
-        "DeadSaints: ~mission(Contractor|RecoverItemTitle)"
+        "Dead Saints: ~mission(Contractor|RecoverItemTitle)"
       ],
       "rewardMissionKeys": [
         {
@@ -88913,7 +88913,7 @@
         {
           "titleKey": "recovery_title",
           "titleEN": "~mission(Contractor|RecoverItemTitle)",
-          "faction": "DeadSaints",
+          "faction": "Dead Saints",
           "systems": [
             "Nyx"
           ],
