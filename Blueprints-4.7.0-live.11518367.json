@@ -9,7 +9,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_behr_lmg_ballistic_01_mag",
-      "locKey": "@item_Namebehr_lmg_ballistic_01_mag",
+      "locKey": "@item_Name_behr_lmg_ballistic_01_mag",
       "blueprintName": "Behr Lmg Ballistic 01 Mag",
       "categoryName": "Chargeur",
       "craftTime": {
@@ -73,7 +73,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_behr_pistol_ballistic_01_mag",
-      "locKey": "@item_Namebehr_pistol_ballistic_01_mag",
+      "locKey": "@item_Name_behr_pistol_ballistic_01_mag",
       "blueprintName": "Behr Pistol Ballistic 01 Mag",
       "categoryName": "Chargeur",
       "craftTime": {
@@ -137,7 +137,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_behr_rifle_ballistic_01_mag",
-      "locKey": "@item_Namebehr_rifle_ballistic_01_mag",
+      "locKey": "@item_Name_behr_rifle_ballistic_01_mag",
       "blueprintName": "Behr Rifle Ballistic 01 Mag",
       "categoryName": "Chargeur",
       "craftTime": {
@@ -201,7 +201,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_behr_rifle_ballistic_02_mag_civilian",
-      "locKey": "@item_Namebehr_rifle_ballistic_02_mag_civilian",
+      "locKey": "@item_Name_behr_rifle_ballistic_02_mag_civilian",
       "blueprintName": "Behr Rifle Ballistic 02 Mag Civilian",
       "categoryName": "Chargeur",
       "craftTime": {
@@ -265,7 +265,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_behr_smg_ballistic_01_mag",
-      "locKey": "@item_Namebehr_smg_ballistic_01_mag",
+      "locKey": "@item_Name_behr_smg_ballistic_01_mag",
       "blueprintName": "Behr Smg Ballistic 01 Mag",
       "categoryName": "Chargeur",
       "craftTime": {
@@ -329,7 +329,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_behr_sniper_ballistic_01_mag",
-      "locKey": "@item_Namebehr_sniper_ballistic_01_mag",
+      "locKey": "@item_Name_behr_sniper_ballistic_01_mag",
       "blueprintName": "Behr Sniper Ballistic 01 Mag",
       "categoryName": "Chargeur",
       "craftTime": {
@@ -393,7 +393,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_gmni_lmg_ballistic_01_mag",
-      "locKey": "@item_Namegmni_lmg_ballistic_01_mag",
+      "locKey": "@item_Name_gmni_lmg_ballistic_01_mag",
       "blueprintName": "Gmni Lmg Ballistic 01 Mag",
       "categoryName": "Chargeur",
       "craftTime": {
@@ -457,7 +457,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_gmni_pistol_ballistic_01_mag",
-      "locKey": "@item_Namegmni_pistol_ballistic_01_mag",
+      "locKey": "@item_Name_gmni_pistol_ballistic_01_mag",
       "blueprintName": "Gmni Pistol Ballistic 01 Mag",
       "categoryName": "Chargeur",
       "craftTime": {
@@ -521,7 +521,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_gmni_rifle_ballistic_01_mag",
-      "locKey": "@item_Namegmni_rifle_ballistic_01_mag",
+      "locKey": "@item_Name_gmni_rifle_ballistic_01_mag",
       "blueprintName": "Gmni Rifle Ballistic 01 Mag",
       "categoryName": "Chargeur",
       "craftTime": {
@@ -585,7 +585,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_gmni_smg_ballistic_01_mag",
-      "locKey": "@item_Namegmni_smg_ballistic_01_mag",
+      "locKey": "@item_Name_gmni_smg_ballistic_01_mag",
       "blueprintName": "Gmni Smg Ballistic 01 Mag",
       "categoryName": "Chargeur",
       "craftTime": {
@@ -649,7 +649,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_gmni_sniper_ballistic_01_mag",
-      "locKey": "@item_Namegmni_sniper_ballistic_01_mag",
+      "locKey": "@item_Name_gmni_sniper_ballistic_01_mag",
       "blueprintName": "Gmni Sniper Ballistic 01 Mag",
       "categoryName": "Chargeur",
       "craftTime": {
@@ -713,7 +713,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_ksar_pistol_ballistic_01_mag",
-      "locKey": "@item_Nameksar_pistol_ballistic_01_mag",
+      "locKey": "@item_Name_ksar_pistol_ballistic_01_mag",
       "blueprintName": "Ksar Pistol Ballistic 01 Mag",
       "categoryName": "Chargeur",
       "craftTime": {
@@ -777,7 +777,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_ksar_sniper_ballistic_01_mag",
-      "locKey": "@item_Nameksar_sniper_ballistic_01_mag",
+      "locKey": "@item_Name_ksar_sniper_ballistic_01_mag",
       "blueprintName": "Ksar Sniper Ballistic 01 Mag",
       "categoryName": "Chargeur",
       "craftTime": {
@@ -841,7 +841,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_none_lmg_ballistic_01_mag",
-      "locKey": "@item_Namenone_lmg_ballistic_01_mag",
+      "locKey": "@item_Name_none_lmg_ballistic_01_mag",
       "blueprintName": "None Lmg Ballistic 01 Mag",
       "categoryName": "Chargeur",
       "craftTime": {
@@ -905,7 +905,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_none_rifle_multi_01_mag",
-      "locKey": "@item_Namenone_rifle_multi_01_mag",
+      "locKey": "@item_Name_none_rifle_multi_01_mag",
       "blueprintName": "None Rifle Multi 01 Mag",
       "categoryName": "Chargeur",
       "craftTime": {
@@ -969,7 +969,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_lbco_pistol_energy_01_mag",
-      "locKey": "@item_Namelbco_pistol_energy_01_mag",
+      "locKey": "@item_Name_lbco_pistol_energy_01_mag",
       "blueprintName": "Lbco Pistol Energy 01 Mag",
       "categoryName": "Chargeur",
       "craftTime": {
@@ -1033,7 +1033,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_lbco_sniper_energy_01_mag",
-      "locKey": "@item_Namelbco_sniper_energy_01_mag",
+      "locKey": "@item_Name_lbco_sniper_energy_01_mag",
       "blueprintName": "Lbco Sniper Energy 01 Mag",
       "categoryName": "Chargeur",
       "craftTime": {
@@ -1097,7 +1097,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_volt_rifle_energy_01_mag",
-      "locKey": "@item_Namevolt_rifle_energy_01_mag",
+      "locKey": "@item_Name_volt_rifle_energy_01_mag",
       "blueprintName": "Volt Rifle Energy 01 Mag",
       "categoryName": "Chargeur",
       "craftTime": {
@@ -1161,7 +1161,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_volt_sniper_energy_01_mag",
-      "locKey": "@item_Namevolt_sniper_energy_01_mag",
+      "locKey": "@item_Name_volt_sniper_energy_01_mag",
       "blueprintName": "Volt Sniper Energy 01 Mag",
       "categoryName": "Chargeur",
       "craftTime": {
@@ -1225,7 +1225,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_klwe_lmg_energy_01_mag",
-      "locKey": "@item_Nameklwe_lmg_energy_01_mag",
+      "locKey": "@item_Name_klwe_lmg_energy_01_mag",
       "blueprintName": "Klwe Lmg Energy 01 Mag",
       "categoryName": "Chargeur",
       "craftTime": {
@@ -1289,7 +1289,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_klwe_pistol_energy_01_mag",
-      "locKey": "@item_Nameklwe_pistol_energy_01_mag",
+      "locKey": "@item_Name_klwe_pistol_energy_01_mag",
       "blueprintName": "Klwe Pistol Energy 01 Mag",
       "categoryName": "Chargeur",
       "craftTime": {
@@ -1353,7 +1353,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_klwe_rifle_energy_01_mag",
-      "locKey": "@item_Nameklwe_rifle_energy_01_mag",
+      "locKey": "@item_Name_klwe_rifle_energy_01_mag",
       "blueprintName": "Klwe Rifle Energy 01 Mag",
       "categoryName": "Chargeur",
       "craftTime": {
@@ -1417,7 +1417,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_klwe_smg_energy_01_mag",
-      "locKey": "@item_Nameklwe_smg_energy_01_mag",
+      "locKey": "@item_Name_klwe_smg_energy_01_mag",
       "blueprintName": "Klwe Smg Energy 01 Mag",
       "categoryName": "Chargeur",
       "craftTime": {
@@ -1481,7 +1481,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_klwe_sniper_energy_01_mag",
-      "locKey": "@item_Nameklwe_sniper_energy_01_mag",
+      "locKey": "@item_Name_klwe_sniper_energy_01_mag",
       "blueprintName": "Klwe Sniper Energy 01 Mag",
       "categoryName": "Chargeur",
       "craftTime": {
@@ -1545,7 +1545,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_ksar_smg_energy_01_mag",
-      "locKey": "@item_Nameksar_smg_energy_01_mag",
+      "locKey": "@item_Name_ksar_smg_energy_01_mag",
       "blueprintName": "Ksar Smg Energy 01 Mag",
       "categoryName": "Chargeur",
       "craftTime": {
@@ -1609,7 +1609,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_volt_lmg_energy_01_mag",
-      "locKey": "@item_Namevolt_lmg_energy_01_mag",
+      "locKey": "@item_Name_volt_lmg_energy_01_mag",
       "blueprintName": "Volt Lmg Energy 01 Mag",
       "categoryName": "Chargeur",
       "craftTime": {
@@ -1673,7 +1673,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_volt_pistol_energy_01_mag",
-      "locKey": "@item_Namevolt_pistol_energy_01_mag",
+      "locKey": "@item_Name_volt_pistol_energy_01_mag",
       "blueprintName": "Volt Pistol Energy 01 Mag",
       "categoryName": "Chargeur",
       "craftTime": {
@@ -1737,7 +1737,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_volt_smg_energy_01_mag",
-      "locKey": "@item_Namevolt_smg_energy_01_mag",
+      "locKey": "@item_Name_volt_smg_energy_01_mag",
       "blueprintName": "Volt Smg Energy 01 Mag",
       "categoryName": "Chargeur",
       "craftTime": {
@@ -1801,7 +1801,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_ksar_rifle_energy_01_mag",
-      "locKey": "@item_Nameksar_rifle_energy_01_mag",
+      "locKey": "@item_Name_ksar_rifle_energy_01_mag",
       "blueprintName": "Ksar Rifle Energy 01 Mag",
       "categoryName": "Chargeur",
       "craftTime": {
@@ -1865,7 +1865,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_ksar_shotgun_energy_01_mag",
-      "locKey": "@item_Nameksar_shotgun_energy_01_mag",
+      "locKey": "@item_Name_ksar_shotgun_energy_01_mag",
       "blueprintName": "Ksar Shotgun Energy 01 Mag",
       "categoryName": "Chargeur",
       "craftTime": {
@@ -1929,7 +1929,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_volt_shotgun_energy_01_mag",
-      "locKey": "@item_Namevolt_shotgun_energy_01_mag",
+      "locKey": "@item_Name_volt_shotgun_energy_01_mag",
       "blueprintName": "Volt Shotgun Energy 01 Mag",
       "categoryName": "Chargeur",
       "craftTime": {
@@ -1993,7 +1993,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_behr_shotgun_ballistic_01_mag",
-      "locKey": "@item_Namebehr_shotgun_ballistic_01_mag",
+      "locKey": "@item_Name_behr_shotgun_ballistic_01_mag",
       "blueprintName": "Behr Shotgun Ballistic 01 Mag",
       "categoryName": "Chargeur",
       "craftTime": {
@@ -2057,7 +2057,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_gmni_shotgun_ballistic_01_mag",
-      "locKey": "@item_Namegmni_shotgun_ballistic_01_mag",
+      "locKey": "@item_Name_gmni_shotgun_ballistic_01_mag",
       "blueprintName": "Gmni Shotgun Ballistic 01 Mag",
       "categoryName": "Chargeur",
       "craftTime": {
@@ -2121,7 +2121,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_ksar_shotgun_ballistic_01_mag",
-      "locKey": "@item_Nameksar_shotgun_ballistic_01_mag",
+      "locKey": "@item_Name_ksar_shotgun_ballistic_01_mag",
       "blueprintName": "Ksar Shotgun Ballistic 01 Mag",
       "categoryName": "Chargeur",
       "craftTime": {
@@ -2185,7 +2185,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_none_pistol_ballistic_01_mag",
-      "locKey": "@item_Namenone_pistol_ballistic_01_mag",
+      "locKey": "@item_Name_none_pistol_ballistic_01_mag",
       "blueprintName": "None Pistol Ballistic 01 Mag",
       "categoryName": "Chargeur",
       "craftTime": {
@@ -2249,7 +2249,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_none_shotgun_ballistic_01_mag",
-      "locKey": "@item_Namenone_shotgun_ballistic_01_mag",
+      "locKey": "@item_Name_none_shotgun_ballistic_01_mag",
       "blueprintName": "None Shotgun Ballistic 01 Mag",
       "categoryName": "Chargeur",
       "craftTime": {
@@ -25001,7 +25001,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_gys_jacket_01_01_01",
-      "locKey": "@item_Namegys_jacket_01_01_01",
+      "locKey": "@item_Name_gys_jacket_01_01_01",
       "blueprintName": "Gys Jacket 01 01 01",
       "categoryName": "armour",
       "craftTime": {
@@ -25065,7 +25065,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_gys_pants_01_01_01",
-      "locKey": "@item_Namegys_pants_01_01_01",
+      "locKey": "@item_Name_gys_pants_01_01_01",
       "blueprintName": "Gys Pants 01 01 01",
       "categoryName": "armour",
       "craftTime": {
@@ -25645,7 +25645,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_kap_combat_heavy_core_02_01_01",
-      "locKey": "@item_Namekap_combat_heavy_core_02_01_01",
+      "locKey": "@item_Name_kap_combat_heavy_core_02_01_01",
       "blueprintName": "Kap Combat Heavy Core 02 01 01",
       "categoryName": "armour",
       "craftTime": {
@@ -25731,7 +25731,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_kap_combat_heavy_core_02_04_01",
-      "locKey": "@item_Namekap_combat_heavy_core_02_04_01",
+      "locKey": "@item_Name_kap_combat_heavy_core_02_04_01",
       "blueprintName": "Kap Combat Heavy Core 02 04 01",
       "categoryName": "armour",
       "craftTime": {
@@ -25817,7 +25817,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_kap_combat_heavy_core_02_05_01",
-      "locKey": "@item_Namekap_combat_heavy_core_02_05_01",
+      "locKey": "@item_Name_kap_combat_heavy_core_02_05_01",
       "blueprintName": "Kap Combat Heavy Core 02 05 01",
       "categoryName": "armour",
       "craftTime": {
@@ -25903,7 +25903,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_kap_combat_heavy_core_02_06_01",
-      "locKey": "@item_Namekap_combat_heavy_core_02_06_01",
+      "locKey": "@item_Name_kap_combat_heavy_core_02_06_01",
       "blueprintName": "Kap Combat Heavy Core 02 06 01",
       "categoryName": "armour",
       "craftTime": {
@@ -25989,7 +25989,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_kap_combat_heavy_core_02_07_01",
-      "locKey": "@item_Namekap_combat_heavy_core_02_07_01",
+      "locKey": "@item_Name_kap_combat_heavy_core_02_07_01",
       "blueprintName": "Kap Combat Heavy Core 02 07 01",
       "categoryName": "armour",
       "craftTime": {
@@ -26075,7 +26075,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_kap_combat_heavy_core_02_08_01",
-      "locKey": "@item_Namekap_combat_heavy_core_02_08_01",
+      "locKey": "@item_Name_kap_combat_heavy_core_02_08_01",
       "blueprintName": "Kap Combat Heavy Core 02 08 01",
       "categoryName": "armour",
       "craftTime": {
@@ -28648,7 +28648,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_qrt_combat_medium_core_01_01_01",
-      "locKey": "@item_Nameqrt_combat_medium_core_01_01_01",
+      "locKey": "@item_Name_qrt_combat_medium_core_01_01_01",
       "blueprintName": "Qrt Combat Medium Core 01 01 01",
       "categoryName": "armour",
       "craftTime": {
@@ -28734,7 +28734,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_qrt_combat_medium_core_01_01_02",
-      "locKey": "@item_Nameqrt_combat_medium_core_01_01_02",
+      "locKey": "@item_Name_qrt_combat_medium_core_01_01_02",
       "blueprintName": "Qrt Combat Medium Core 01 01 02",
       "categoryName": "armour",
       "craftTime": {
@@ -28820,7 +28820,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_qrt_combat_medium_core_01_01_10",
-      "locKey": "@item_Nameqrt_combat_medium_core_01_01_10",
+      "locKey": "@item_Name_qrt_combat_medium_core_01_01_10",
       "blueprintName": "Qrt Combat Medium Core 01 01 10",
       "categoryName": "armour",
       "craftTime": {
@@ -28906,7 +28906,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_qrt_combat_medium_core_01_01_15",
-      "locKey": "@item_Nameqrt_combat_medium_core_01_01_15",
+      "locKey": "@item_Name_qrt_combat_medium_core_01_01_15",
       "blueprintName": "Qrt Combat Medium Core 01 01 15",
       "categoryName": "armour",
       "craftTime": {
@@ -28992,7 +28992,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_qrt_combat_medium_core_01_01_16",
-      "locKey": "@item_Nameqrt_combat_medium_core_01_01_16",
+      "locKey": "@item_Name_qrt_combat_medium_core_01_01_16",
       "blueprintName": "Qrt Combat Medium Core 01 01 16",
       "categoryName": "armour",
       "craftTime": {
@@ -29078,7 +29078,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_qrt_combat_medium_core_02_01_01",
-      "locKey": "@item_Nameqrt_combat_medium_core_02_01_01",
+      "locKey": "@item_Name_qrt_combat_medium_core_02_01_01",
       "blueprintName": "Qrt Combat Medium Core 02 01 01",
       "categoryName": "armour",
       "craftTime": {
@@ -34770,7 +34770,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_omc_utility_heavy_core_01_01_01",
-      "locKey": "@item_Nameomc_utility_heavy_core_01_01_01",
+      "locKey": "@item_Name_omc_utility_heavy_core_01_01_01",
       "blueprintName": "Omc Utility Heavy Core 01 01 01",
       "categoryName": "armour",
       "craftTime": {
@@ -34856,7 +34856,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_omc_utility_heavy_core_01_01_04",
-      "locKey": "@item_Nameomc_utility_heavy_core_01_01_04",
+      "locKey": "@item_Name_omc_utility_heavy_core_01_01_04",
       "blueprintName": "Omc Utility Heavy Core 01 01 04",
       "categoryName": "armour",
       "craftTime": {
@@ -34942,7 +34942,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_omc_utility_heavy_core_01_01_16",
-      "locKey": "@item_Nameomc_utility_heavy_core_01_01_16",
+      "locKey": "@item_Name_omc_utility_heavy_core_01_01_16",
       "blueprintName": "Omc Utility Heavy Core 01 01 16",
       "categoryName": "armour",
       "craftTime": {
@@ -35028,7 +35028,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_omc_utility_heavy_core_01_01_17",
-      "locKey": "@item_Nameomc_utility_heavy_core_01_01_17",
+      "locKey": "@item_Name_omc_utility_heavy_core_01_01_17",
       "blueprintName": "Omc Utility Heavy Core 01 01 17",
       "categoryName": "armour",
       "craftTime": {
@@ -35114,7 +35114,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_omc_utility_heavy_core_01_02_01",
-      "locKey": "@item_Nameomc_utility_heavy_core_01_02_01",
+      "locKey": "@item_Name_omc_utility_heavy_core_01_02_01",
       "blueprintName": "Omc Utility Heavy Core 01 02 01",
       "categoryName": "armour",
       "craftTime": {
@@ -37088,7 +37088,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_qrt_utility_heavy_core_01_01_01",
-      "locKey": "@item_Nameqrt_utility_heavy_core_01_01_01",
+      "locKey": "@item_Name_qrt_utility_heavy_core_01_01_01",
       "blueprintName": "Qrt Utility Heavy Core 01 01 01",
       "categoryName": "armour",
       "craftTime": {
@@ -37174,7 +37174,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_qrt_utility_heavy_core_01_01_03",
-      "locKey": "@item_Nameqrt_utility_heavy_core_01_01_03",
+      "locKey": "@item_Name_qrt_utility_heavy_core_01_01_03",
       "blueprintName": "Qrt Utility Heavy Core 01 01 03",
       "categoryName": "armour",
       "craftTime": {
@@ -37260,7 +37260,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_qrt_utility_heavy_core_01_01_04",
-      "locKey": "@item_Nameqrt_utility_heavy_core_01_01_04",
+      "locKey": "@item_Name_qrt_utility_heavy_core_01_01_04",
       "blueprintName": "Qrt Utility Heavy Core 01 01 04",
       "categoryName": "armour",
       "craftTime": {
@@ -37346,7 +37346,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_qrt_utility_heavy_core_01_01_10",
-      "locKey": "@item_Nameqrt_utility_heavy_core_01_01_10",
+      "locKey": "@item_Name_qrt_utility_heavy_core_01_01_10",
       "blueprintName": "Qrt Utility Heavy Core 01 01 10",
       "categoryName": "armour",
       "craftTime": {
@@ -37432,7 +37432,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_qrt_utility_heavy_core_01_01_12",
-      "locKey": "@item_Nameqrt_utility_heavy_core_01_01_12",
+      "locKey": "@item_Name_qrt_utility_heavy_core_01_01_12",
       "blueprintName": "Qrt Utility Heavy Core 01 01 12",
       "categoryName": "armour",
       "craftTime": {
@@ -37518,7 +37518,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_qrt_utility_heavy_core_01_01_17",
-      "locKey": "@item_Nameqrt_utility_heavy_core_01_01_17",
+      "locKey": "@item_Name_qrt_utility_heavy_core_01_01_17",
       "blueprintName": "Qrt Utility Heavy Core 01 01 17",
       "categoryName": "armour",
       "craftTime": {
@@ -44054,7 +44054,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_clda_utility_heavy_suit_01_01_01",
-      "locKey": "@item_Nameclda_utility_heavy_suit_01_01_01",
+      "locKey": "@item_Name_clda_utility_heavy_suit_01_01_01",
       "blueprintName": "Clda Utility Heavy Suit 01 01 01",
       "categoryName": "armour",
       "craftTime": {
@@ -44824,7 +44824,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_srvl_combat_light_core_01_01_01",
-      "locKey": "@item_Namesrvl_combat_light_core_01_01_01",
+      "locKey": "@item_Name_srvl_combat_light_core_01_01_01",
       "blueprintName": "Srvl Combat Light Core 01 01 01",
       "categoryName": "armour",
       "craftTime": {
@@ -44994,7 +44994,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_syfb_flightsuit_suit_01_01_01",
-      "locKey": "@item_Namesyfb_flightsuit_suit_01_01_01",
+      "locKey": "@item_Name_syfb_flightsuit_suit_01_01_01",
       "blueprintName": "Syfb Flightsuit Suit 01 01 01",
       "categoryName": "armour",
       "craftTime": {
@@ -51034,7 +51034,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_qrt_specialist_heavy_core_01_01_01",
-      "locKey": "@item_Nameqrt_specialist_heavy_core_01_01_01",
+      "locKey": "@item_Name_qrt_specialist_heavy_core_01_01_01",
       "blueprintName": "Qrt Specialist Heavy Core 01 01 01",
       "categoryName": "armour",
       "craftTime": {
@@ -51120,7 +51120,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_qrt_specialist_heavy_core_01_01_10",
-      "locKey": "@item_Nameqrt_specialist_heavy_core_01_01_10",
+      "locKey": "@item_Name_qrt_specialist_heavy_core_01_01_10",
       "blueprintName": "Qrt Specialist Heavy Core 01 01 10",
       "categoryName": "armour",
       "craftTime": {
@@ -51206,7 +51206,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_qrt_specialist_heavy_core_01_01_12",
-      "locKey": "@item_Nameqrt_specialist_heavy_core_01_01_12",
+      "locKey": "@item_Name_qrt_specialist_heavy_core_01_01_12",
       "blueprintName": "Qrt Specialist Heavy Core 01 01 12",
       "categoryName": "armour",
       "craftTime": {
@@ -51292,7 +51292,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_qrt_specialist_heavy_core_01_01_13",
-      "locKey": "@item_Nameqrt_specialist_heavy_core_01_01_13",
+      "locKey": "@item_Name_qrt_specialist_heavy_core_01_01_13",
       "blueprintName": "Qrt Specialist Heavy Core 01 01 13",
       "categoryName": "armour",
       "craftTime": {
@@ -51378,7 +51378,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_qrt_specialist_heavy_core_01_01_15",
-      "locKey": "@item_Nameqrt_specialist_heavy_core_01_01_15",
+      "locKey": "@item_Name_qrt_specialist_heavy_core_01_01_15",
       "blueprintName": "Qrt Specialist Heavy Core 01 01 15",
       "categoryName": "armour",
       "craftTime": {
@@ -51464,7 +51464,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_qrt_specialist_heavy_core_01_02_16",
-      "locKey": "@item_Nameqrt_specialist_heavy_core_01_02_16",
+      "locKey": "@item_Name_qrt_specialist_heavy_core_01_02_16",
       "blueprintName": "Qrt Specialist Heavy Core 01 02 16",
       "categoryName": "armour",
       "craftTime": {
@@ -51550,7 +51550,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_qrt_specialist_heavy_core_01_03_01",
-      "locKey": "@item_Nameqrt_specialist_heavy_core_01_03_01",
+      "locKey": "@item_Name_qrt_specialist_heavy_core_01_03_01",
       "blueprintName": "Qrt Specialist Heavy Core 01 03 01",
       "categoryName": "armour",
       "craftTime": {
@@ -53484,7 +53484,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_rrs_specialist_heavy_core_01_01_01",
-      "locKey": "@item_Namerrs_specialist_heavy_core_01_01_01",
+      "locKey": "@item_Name_rrs_specialist_heavy_core_01_01_01",
       "blueprintName": "Rrs Specialist Heavy Core 01 01 01",
       "categoryName": "armour",
       "craftTime": {
@@ -53570,7 +53570,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_rrs_specialist_heavy_core_01_01_03",
-      "locKey": "@item_Namerrs_specialist_heavy_core_01_01_03",
+      "locKey": "@item_Name_rrs_specialist_heavy_core_01_01_03",
       "blueprintName": "Rrs Specialist Heavy Core 01 01 03",
       "categoryName": "armour",
       "craftTime": {
@@ -53656,7 +53656,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_rrs_specialist_heavy_core_01_01_10",
-      "locKey": "@item_Namerrs_specialist_heavy_core_01_01_10",
+      "locKey": "@item_Name_rrs_specialist_heavy_core_01_01_10",
       "blueprintName": "Rrs Specialist Heavy Core 01 01 10",
       "categoryName": "armour",
       "craftTime": {
@@ -53742,7 +53742,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_rrs_specialist_heavy_core_01_01_12",
-      "locKey": "@item_Namerrs_specialist_heavy_core_01_01_12",
+      "locKey": "@item_Name_rrs_specialist_heavy_core_01_01_12",
       "blueprintName": "Rrs Specialist Heavy Core 01 01 12",
       "categoryName": "armour",
       "craftTime": {
@@ -53828,7 +53828,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_rrs_specialist_heavy_core_01_02_01",
-      "locKey": "@item_Namerrs_specialist_heavy_core_01_02_01",
+      "locKey": "@item_Name_rrs_specialist_heavy_core_01_02_01",
       "blueprintName": "Rrs Specialist Heavy Core 01 02 01",
       "categoryName": "armour",
       "craftTime": {
@@ -53914,7 +53914,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_rrs_specialist_heavy_core_01_9tails_01",
-      "locKey": "@item_Namerrs_specialist_heavy_core_01_9tails_01",
+      "locKey": "@item_Name_rrs_specialist_heavy_core_01_9tails_01",
       "blueprintName": "Rrs Specialist Heavy Core 01 9Tails 01",
       "categoryName": "armour",
       "craftTime": {
@@ -55268,7 +55268,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_rrs_specialist_light_core_01_01_01",
-      "locKey": "@item_Namerrs_specialist_light_core_01_01_01",
+      "locKey": "@item_Name_rrs_specialist_light_core_01_01_01",
       "blueprintName": "Rrs Specialist Light Core 01 01 01",
       "categoryName": "armour",
       "craftTime": {
@@ -55546,7 +55546,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_vgl_utility_light_core_01_01_01",
-      "locKey": "@item_Namevgl_utility_light_core_01_01_01",
+      "locKey": "@item_Name_vgl_utility_light_core_01_01_01",
       "blueprintName": "Vgl Utility Light Core 01 01 01",
       "categoryName": "armour",
       "craftTime": {
@@ -57072,7 +57072,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_grin_utility_medium_core_02_01_01",
-      "locKey": "@item_Namegrin_utility_medium_core_02_01_01",
+      "locKey": "@item_Name_grin_utility_medium_core_02_01_01",
       "blueprintName": "Grin Utility Medium Core 02 01 01",
       "categoryName": "armour",
       "craftTime": {
@@ -57158,7 +57158,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_grin_utility_medium_core_02_01_03",
-      "locKey": "@item_Namegrin_utility_medium_core_02_01_03",
+      "locKey": "@item_Name_grin_utility_medium_core_02_01_03",
       "blueprintName": "Grin Utility Medium Core 02 01 03",
       "categoryName": "armour",
       "craftTime": {
@@ -57244,7 +57244,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_grin_utility_medium_core_02_01_07",
-      "locKey": "@item_Namegrin_utility_medium_core_02_01_07",
+      "locKey": "@item_Name_grin_utility_medium_core_02_01_07",
       "blueprintName": "Grin Utility Medium Core 02 01 07",
       "categoryName": "armour",
       "craftTime": {
@@ -57330,7 +57330,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_grin_utility_medium_core_02_01_12",
-      "locKey": "@item_Namegrin_utility_medium_core_02_01_12",
+      "locKey": "@item_Name_grin_utility_medium_core_02_01_12",
       "blueprintName": "Grin Utility Medium Core 02 01 12",
       "categoryName": "armour",
       "craftTime": {
@@ -57416,7 +57416,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_grin_utility_medium_core_02_01_16",
-      "locKey": "@item_Namegrin_utility_medium_core_02_01_16",
+      "locKey": "@item_Name_grin_utility_medium_core_02_01_16",
       "blueprintName": "Grin Utility Medium Core 02 01 16",
       "categoryName": "armour",
       "craftTime": {
@@ -57932,7 +57932,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_mrai_flightsuit_01_01_01",
-      "locKey": "@item_Namemrai_flightsuit_01_01_01",
+      "locKey": "@item_Name_mrai_flightsuit_01_01_01",
       "blueprintName": "Mrai Flightsuit 01 01 01",
       "categoryName": "armour",
       "craftTime": {
@@ -58095,7 +58095,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_clda_utility_heavy_suit_03_01_01",
-      "locKey": "@item_Nameclda_utility_heavy_suit_03_01_01",
+      "locKey": "@item_Name_clda_utility_heavy_suit_03_01_01",
       "blueprintName": "Clda Utility Heavy Suit 03 01 01",
       "categoryName": "armour",
       "craftTime": {
@@ -58403,7 +58403,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_grin_utility_medium_core_01_01_01",
-      "locKey": "@item_Namegrin_utility_medium_core_01_01_01",
+      "locKey": "@item_Name_grin_utility_medium_core_01_01_01",
       "blueprintName": "Grin Utility Medium Core 01 01 01",
       "categoryName": "armour",
       "craftTime": {
@@ -59327,7 +59327,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_kap_combat_light_core_01_01_01",
-      "locKey": "@item_Namekap_combat_light_core_01_01_01",
+      "locKey": "@item_Name_kap_combat_light_core_01_01_01",
       "blueprintName": "Kap Combat Light Core 01 01 01",
       "categoryName": "armour",
       "craftTime": {
@@ -59413,7 +59413,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_kap_combat_light_core_01_01_02",
-      "locKey": "@item_Namekap_combat_light_core_01_01_02",
+      "locKey": "@item_Name_kap_combat_light_core_01_01_02",
       "blueprintName": "Kap Combat Light Core 01 01 02",
       "categoryName": "armour",
       "craftTime": {
@@ -59499,7 +59499,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_kap_combat_light_core_01_01_10",
-      "locKey": "@item_Namekap_combat_light_core_01_01_10",
+      "locKey": "@item_Name_kap_combat_light_core_01_01_10",
       "blueprintName": "Kap Combat Light Core 01 01 10",
       "categoryName": "armour",
       "craftTime": {
@@ -59585,7 +59585,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_kap_combat_light_core_01_01_15",
-      "locKey": "@item_Namekap_combat_light_core_01_01_15",
+      "locKey": "@item_Name_kap_combat_light_core_01_01_15",
       "blueprintName": "Kap Combat Light Core 01 01 15",
       "categoryName": "armour",
       "craftTime": {
@@ -59671,7 +59671,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_kap_combat_light_core_01_01_16",
-      "locKey": "@item_Namekap_combat_light_core_01_01_16",
+      "locKey": "@item_Name_kap_combat_light_core_01_01_16",
       "blueprintName": "Kap Combat Light Core 01 01 16",
       "categoryName": "armour",
       "craftTime": {
@@ -59757,7 +59757,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_kap_combat_light_core_02_01_01",
-      "locKey": "@item_Namekap_combat_light_core_02_01_01",
+      "locKey": "@item_Name_kap_combat_light_core_02_01_01",
       "blueprintName": "Kap Combat Light Core 02 01 01",
       "categoryName": "armour",
       "craftTime": {
@@ -59843,7 +59843,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_kap_combat_light_core_02_02_01",
-      "locKey": "@item_Namekap_combat_light_core_02_02_01",
+      "locKey": "@item_Name_kap_combat_light_core_02_02_01",
       "blueprintName": "Kap Combat Light Core 02 02 01",
       "categoryName": "armour",
       "craftTime": {
@@ -61993,7 +61993,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_qrt_specialist_medium_core_01_01_01",
-      "locKey": "@item_Nameqrt_specialist_medium_core_01_01_01",
+      "locKey": "@item_Name_qrt_specialist_medium_core_01_01_01",
       "blueprintName": "Qrt Specialist Medium Core 01 01 01",
       "categoryName": "armour",
       "craftTime": {
@@ -62079,7 +62079,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_qrt_specialist_medium_core_01_01_04",
-      "locKey": "@item_Nameqrt_specialist_medium_core_01_01_04",
+      "locKey": "@item_Name_qrt_specialist_medium_core_01_01_04",
       "blueprintName": "Qrt Specialist Medium Core 01 01 04",
       "categoryName": "armour",
       "craftTime": {
@@ -62165,7 +62165,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_qrt_specialist_medium_core_01_01_10",
-      "locKey": "@item_Nameqrt_specialist_medium_core_01_01_10",
+      "locKey": "@item_Name_qrt_specialist_medium_core_01_01_10",
       "blueprintName": "Qrt Specialist Medium Core 01 01 10",
       "categoryName": "armour",
       "craftTime": {
@@ -62251,7 +62251,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_qrt_specialist_medium_core_01_01_15",
-      "locKey": "@item_Nameqrt_specialist_medium_core_01_01_15",
+      "locKey": "@item_Name_qrt_specialist_medium_core_01_01_15",
       "blueprintName": "Qrt Specialist Medium Core 01 01 15",
       "categoryName": "armour",
       "craftTime": {
@@ -62337,7 +62337,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_qrt_specialist_medium_core_01_01_16",
-      "locKey": "@item_Nameqrt_specialist_medium_core_01_01_16",
+      "locKey": "@item_Name_qrt_specialist_medium_core_01_01_16",
       "blueprintName": "Qrt Specialist Medium Core 01 01 16",
       "categoryName": "armour",
       "craftTime": {
@@ -62423,7 +62423,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_qrt_specialist_medium_core_01_01_iae2022",
-      "locKey": "@item_Nameqrt_specialist_medium_core_01_01_iae2022",
+      "locKey": "@item_Name_qrt_specialist_medium_core_01_01_iae2022",
       "blueprintName": "Qrt Specialist Medium Core 01 01 Iae2022",
       "categoryName": "armour",
       "craftTime": {
@@ -62509,7 +62509,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_qrt_specialist_medium_core_01_01_iae2024",
-      "locKey": "@item_Nameqrt_specialist_medium_core_01_01_iae2024",
+      "locKey": "@item_Name_qrt_specialist_medium_core_01_01_iae2024",
       "blueprintName": "Qrt Specialist Medium Core 01 01 Iae2024",
       "categoryName": "armour",
       "craftTime": {
@@ -62595,7 +62595,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_qrt_specialist_medium_core_01_03_01",
-      "locKey": "@item_Nameqrt_specialist_medium_core_01_03_01",
+      "locKey": "@item_Name_qrt_specialist_medium_core_01_03_01",
       "blueprintName": "Qrt Specialist Medium Core 01 03 01",
       "categoryName": "armour",
       "craftTime": {
@@ -62681,7 +62681,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_qrt_specialist_medium_core_01_9tails_01",
-      "locKey": "@item_Nameqrt_specialist_medium_core_01_9tails_01",
+      "locKey": "@item_Name_qrt_specialist_medium_core_01_9tails_01",
       "blueprintName": "Qrt Specialist Medium Core 01 9Tails 01",
       "categoryName": "armour",
       "craftTime": {
@@ -62767,7 +62767,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_qrt_specialist_medium_core_02_01_01",
-      "locKey": "@item_Nameqrt_specialist_medium_core_02_01_01",
+      "locKey": "@item_Name_qrt_specialist_medium_core_02_01_01",
       "blueprintName": "Qrt Specialist Medium Core 02 01 01",
       "categoryName": "armour",
       "craftTime": {
@@ -64659,7 +64659,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_thp_light_core_01_01_01",
-      "locKey": "@item_Namethp_light_core_01_01_01",
+      "locKey": "@item_Name_thp_light_core_01_01_01",
       "blueprintName": "Thp Light Core 01 01 01",
       "categoryName": "armour",
       "craftTime": {
@@ -64745,7 +64745,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_thp_light_core_01_01_03",
-      "locKey": "@item_Namethp_light_core_01_01_03",
+      "locKey": "@item_Name_thp_light_core_01_01_03",
       "blueprintName": "Thp Light Core 01 01 03",
       "categoryName": "armour",
       "craftTime": {
@@ -64831,7 +64831,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_thp_light_core_01_01_12",
-      "locKey": "@item_Namethp_light_core_01_01_12",
+      "locKey": "@item_Name_thp_light_core_01_01_12",
       "blueprintName": "Thp Light Core 01 01 12",
       "categoryName": "armour",
       "craftTime": {
@@ -66105,7 +66105,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_behr_lmg_ballistic_01",
-      "locKey": "@item_Namebehr_lmg_ballistic_01",
+      "locKey": "@item_Name_behr_lmg_ballistic_01",
       "blueprintName": "Behr Lmg Ballistic 01",
       "categoryName": "Arme",
       "craftTime": {
@@ -66191,7 +66191,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_behr_lmg_ballistic_01_tint01",
-      "locKey": "@item_Namebehr_lmg_ballistic_01_tint01",
+      "locKey": "@item_Name_behr_lmg_ballistic_01_tint01",
       "blueprintName": "Behr Lmg Ballistic 01 Tint01",
       "categoryName": "Arme",
       "craftTime": {
@@ -66277,7 +66277,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_behr_lmg_ballistic_01_xenothreat01",
-      "locKey": "@item_Namebehr_lmg_ballistic_01_xenothreat01",
+      "locKey": "@item_Name_behr_lmg_ballistic_01_xenothreat01",
       "blueprintName": "Behr Lmg Ballistic 01 Xenothreat01",
       "categoryName": "Arme",
       "craftTime": {
@@ -66363,7 +66363,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_behr_lmg_ballistic_01_yellow_grey01",
-      "locKey": "@item_Namebehr_lmg_ballistic_01_yellow_grey01",
+      "locKey": "@item_Name_behr_lmg_ballistic_01_yellow_grey01",
       "blueprintName": "Behr Lmg Ballistic 01 Yellow Grey01",
       "categoryName": "Arme",
       "craftTime": {
@@ -66449,7 +66449,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_gmni_lmg_ballistic_01",
-      "locKey": "@item_Namegmni_lmg_ballistic_01",
+      "locKey": "@item_Name_gmni_lmg_ballistic_01",
       "blueprintName": "Gmni Lmg Ballistic 01",
       "categoryName": "Arme",
       "craftTime": {
@@ -66535,7 +66535,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_gmni_lmg_ballistic_01_blue_gold",
-      "locKey": "@item_Namegmni_lmg_ballistic_01_blue_gold",
+      "locKey": "@item_Name_gmni_lmg_ballistic_01_blue_gold",
       "blueprintName": "Gmni Lmg Ballistic 01 Blue Gold",
       "categoryName": "Arme",
       "craftTime": {
@@ -66621,7 +66621,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_gmni_lmg_ballistic_01_collector01",
-      "locKey": "@item_Namegmni_lmg_ballistic_01_collector01",
+      "locKey": "@item_Name_gmni_lmg_ballistic_01_collector01",
       "blueprintName": "Gmni Lmg Ballistic 01 Collector01",
       "categoryName": "Arme",
       "craftTime": {
@@ -66707,7 +66707,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_gmni_lmg_ballistic_01_firerats01",
-      "locKey": "@item_Namegmni_lmg_ballistic_01_firerats01",
+      "locKey": "@item_Name_gmni_lmg_ballistic_01_firerats01",
       "blueprintName": "Gmni Lmg Ballistic 01 Firerats01",
       "categoryName": "Arme",
       "craftTime": {
@@ -66793,7 +66793,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_klwe_lmg_energy_01",
-      "locKey": "@item_Nameklwe_lmg_energy_01",
+      "locKey": "@item_Name_klwe_lmg_energy_01",
       "blueprintName": "Klwe Lmg Energy 01",
       "categoryName": "Arme",
       "craftTime": {
@@ -66872,7 +66872,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_none_lmg_ballistic_01",
-      "locKey": "@item_Namenone_lmg_ballistic_01",
+      "locKey": "@item_Name_none_lmg_ballistic_01",
       "blueprintName": "None Lmg Ballistic 01",
       "categoryName": "Arme",
       "craftTime": {
@@ -66958,7 +66958,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_volt_lmg_energy_01",
-      "locKey": "@item_Namevolt_lmg_energy_01",
+      "locKey": "@item_Name_volt_lmg_energy_01",
       "blueprintName": "Volt Lmg Energy 01",
       "categoryName": "Arme",
       "craftTime": {
@@ -67037,7 +67037,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_volt_lmg_energy_01_tint01",
-      "locKey": "@item_Namevolt_lmg_energy_01_tint01",
+      "locKey": "@item_Name_volt_lmg_energy_01_tint01",
       "blueprintName": "Volt Lmg Energy 01 Tint01",
       "categoryName": "Arme",
       "craftTime": {
@@ -67116,7 +67116,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_volt_lmg_energy_01_tint02",
-      "locKey": "@item_Namevolt_lmg_energy_01_tint02",
+      "locKey": "@item_Name_volt_lmg_energy_01_tint02",
       "blueprintName": "Volt Lmg Energy 01 Tint02",
       "categoryName": "Arme",
       "craftTime": {
@@ -67195,7 +67195,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_volt_lmg_energy_01_tint03",
-      "locKey": "@item_Namevolt_lmg_energy_01_tint03",
+      "locKey": "@item_Name_volt_lmg_energy_01_tint03",
       "blueprintName": "Volt Lmg Energy 01 Tint03",
       "categoryName": "Arme",
       "craftTime": {
@@ -67274,7 +67274,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_behr_pistol_ballistic_01",
-      "locKey": "@item_Namebehr_pistol_ballistic_01",
+      "locKey": "@item_Name_behr_pistol_ballistic_01",
       "blueprintName": "Behr Pistol Ballistic 01",
       "categoryName": "Arme",
       "craftTime": {
@@ -67360,7 +67360,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_behr_pistol_ballistic_01_firerats01",
-      "locKey": "@item_Namebehr_pistol_ballistic_01_firerats01",
+      "locKey": "@item_Name_behr_pistol_ballistic_01_firerats01",
       "blueprintName": "Behr Pistol Ballistic 01 Firerats01",
       "categoryName": "Arme",
       "craftTime": {
@@ -67446,7 +67446,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_gmni_pistol_ballistic_01",
-      "locKey": "@item_Namegmni_pistol_ballistic_01",
+      "locKey": "@item_Name_gmni_pistol_ballistic_01",
       "blueprintName": "Gmni Pistol Ballistic 01",
       "categoryName": "Arme",
       "craftTime": {
@@ -67532,7 +67532,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_gmni_pistol_ballistic_01_black02",
-      "locKey": "@item_Namegmni_pistol_ballistic_01_black02",
+      "locKey": "@item_Name_gmni_pistol_ballistic_01_black02",
       "blueprintName": "Gmni Pistol Ballistic 01 Black02",
       "categoryName": "Arme",
       "craftTime": {
@@ -67618,7 +67618,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_gmni_pistol_ballistic_01_blue_white01",
-      "locKey": "@item_Namegmni_pistol_ballistic_01_blue_white01",
+      "locKey": "@item_Name_gmni_pistol_ballistic_01_blue_white01",
       "blueprintName": "Gmni Pistol Ballistic 01 Blue White01",
       "categoryName": "Arme",
       "craftTime": {
@@ -67704,7 +67704,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_gmni_pistol_ballistic_01_firerats01",
-      "locKey": "@item_Namegmni_pistol_ballistic_01_firerats01",
+      "locKey": "@item_Name_gmni_pistol_ballistic_01_firerats01",
       "blueprintName": "Gmni Pistol Ballistic 01 Firerats01",
       "categoryName": "Arme",
       "craftTime": {
@@ -67790,7 +67790,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_gmni_pistol_ballistic_01_green01",
-      "locKey": "@item_Namegmni_pistol_ballistic_01_green01",
+      "locKey": "@item_Name_gmni_pistol_ballistic_01_green01",
       "blueprintName": "Gmni Pistol Ballistic 01 Green01",
       "categoryName": "Arme",
       "craftTime": {
@@ -67876,7 +67876,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_gmni_pistol_ballistic_01_green_grey01",
-      "locKey": "@item_Namegmni_pistol_ballistic_01_green_grey01",
+      "locKey": "@item_Name_gmni_pistol_ballistic_01_green_grey01",
       "blueprintName": "Gmni Pistol Ballistic 01 Green Grey01",
       "categoryName": "Arme",
       "craftTime": {
@@ -67962,7 +67962,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_gmni_pistol_ballistic_01_imp01",
-      "locKey": "@item_Namegmni_pistol_ballistic_01_imp01",
+      "locKey": "@item_Name_gmni_pistol_ballistic_01_imp01",
       "blueprintName": "Gmni Pistol Ballistic 01 Imp01",
       "categoryName": "Arme",
       "craftTime": {
@@ -68048,7 +68048,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_gmni_pistol_ballistic_01_tan01",
-      "locKey": "@item_Namegmni_pistol_ballistic_01_tan01",
+      "locKey": "@item_Name_gmni_pistol_ballistic_01_tan01",
       "blueprintName": "Gmni Pistol Ballistic 01 Tan01",
       "categoryName": "Arme",
       "craftTime": {
@@ -68134,7 +68134,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_gmni_pistol_ballistic_01_white01",
-      "locKey": "@item_Namegmni_pistol_ballistic_01_white01",
+      "locKey": "@item_Name_gmni_pistol_ballistic_01_white01",
       "blueprintName": "Gmni Pistol Ballistic 01 White01",
       "categoryName": "Arme",
       "craftTime": {
@@ -68220,7 +68220,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_gmni_pistol_ballistic_01_white02",
-      "locKey": "@item_Namegmni_pistol_ballistic_01_white02",
+      "locKey": "@item_Name_gmni_pistol_ballistic_01_white02",
       "blueprintName": "Gmni Pistol Ballistic 01 White02",
       "categoryName": "Arme",
       "craftTime": {
@@ -68306,7 +68306,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_hdgw_pistol_ballistic_01",
-      "locKey": "@item_Namehdgw_pistol_ballistic_01",
+      "locKey": "@item_Name_hdgw_pistol_ballistic_01",
       "blueprintName": "Hdgw Pistol Ballistic 01",
       "categoryName": "Arme",
       "craftTime": {
@@ -68392,7 +68392,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_hdgw_pistol_ballistic_01_engraved02",
-      "locKey": "@item_Namehdgw_pistol_ballistic_01_engraved02",
+      "locKey": "@item_Name_hdgw_pistol_ballistic_01_engraved02",
       "blueprintName": "Hdgw Pistol Ballistic 01 Engraved02",
       "categoryName": "Arme",
       "craftTime": {
@@ -68478,7 +68478,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_klwe_pistol_energy_01",
-      "locKey": "@item_Nameklwe_pistol_energy_01",
+      "locKey": "@item_Name_klwe_pistol_energy_01",
       "blueprintName": "Klwe Pistol Energy 01",
       "categoryName": "Arme",
       "craftTime": {
@@ -68557,7 +68557,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_klwe_pistol_energy_01_black01",
-      "locKey": "@item_Nameklwe_pistol_energy_01_black01",
+      "locKey": "@item_Name_klwe_pistol_energy_01_black01",
       "blueprintName": "Klwe Pistol Energy 01 Black01",
       "categoryName": "Arme",
       "craftTime": {
@@ -68636,7 +68636,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_klwe_pistol_energy_01_black02",
-      "locKey": "@item_Nameklwe_pistol_energy_01_black02",
+      "locKey": "@item_Name_klwe_pistol_energy_01_black02",
       "blueprintName": "Klwe Pistol Energy 01 Black02",
       "categoryName": "Arme",
       "craftTime": {
@@ -68715,7 +68715,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_klwe_pistol_energy_01_engraved01",
-      "locKey": "@item_Nameklwe_pistol_energy_01_engraved01",
+      "locKey": "@item_Name_klwe_pistol_energy_01_engraved01",
       "blueprintName": "Klwe Pistol Energy 01 Engraved01",
       "categoryName": "Arme",
       "craftTime": {
@@ -68794,7 +68794,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_klwe_pistol_energy_01_gold01",
-      "locKey": "@item_Nameklwe_pistol_energy_01_gold01",
+      "locKey": "@item_Name_klwe_pistol_energy_01_gold01",
       "blueprintName": "Klwe Pistol Energy 01 Gold01",
       "categoryName": "Arme",
       "craftTime": {
@@ -68873,7 +68873,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_klwe_pistol_energy_01_green01",
-      "locKey": "@item_Nameklwe_pistol_energy_01_green01",
+      "locKey": "@item_Name_klwe_pistol_energy_01_green01",
       "blueprintName": "Klwe Pistol Energy 01 Green01",
       "categoryName": "Arme",
       "craftTime": {
@@ -68952,7 +68952,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_klwe_pistol_energy_01_tan01",
-      "locKey": "@item_Nameklwe_pistol_energy_01_tan01",
+      "locKey": "@item_Name_klwe_pistol_energy_01_tan01",
       "blueprintName": "Klwe Pistol Energy 01 Tan01",
       "categoryName": "Arme",
       "craftTime": {
@@ -69031,7 +69031,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_klwe_pistol_energy_01_white01",
-      "locKey": "@item_Nameklwe_pistol_energy_01_white01",
+      "locKey": "@item_Name_klwe_pistol_energy_01_white01",
       "blueprintName": "Klwe Pistol Energy 01 White01",
       "categoryName": "Arme",
       "craftTime": {
@@ -69110,7 +69110,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_ksar_pistol_ballistic_01",
-      "locKey": "@item_Nameksar_pistol_ballistic_01",
+      "locKey": "@item_Name_ksar_pistol_ballistic_01",
       "blueprintName": "Ksar Pistol Ballistic 01",
       "categoryName": "Arme",
       "craftTime": {
@@ -69196,7 +69196,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_ksar_pistol_ballistic_01_headhunters01",
-      "locKey": "@item_Nameksar_pistol_ballistic_01_headhunters01",
+      "locKey": "@item_Name_ksar_pistol_ballistic_01_headhunters01",
       "blueprintName": "Ksar Pistol Ballistic 01 Headhunters01",
       "categoryName": "Arme",
       "craftTime": {
@@ -69282,7 +69282,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_ksar_pistol_ballistic_01_purple_pink01",
-      "locKey": "@item_Nameksar_pistol_ballistic_01_purple_pink01",
+      "locKey": "@item_Name_ksar_pistol_ballistic_01_purple_pink01",
       "blueprintName": "Ksar Pistol Ballistic 01 Purple Pink01",
       "categoryName": "Arme",
       "craftTime": {
@@ -69368,7 +69368,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_ksar_pistol_ballistic_01_spc",
-      "locKey": "@item_Nameksar_pistol_ballistic_01_spc",
+      "locKey": "@item_Name_ksar_pistol_ballistic_01_spc",
       "blueprintName": "Ksar Pistol Ballistic 01 Spc",
       "categoryName": "Arme",
       "craftTime": {
@@ -69454,7 +69454,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_ksar_pistol_ballistic_01_yellow_black01",
-      "locKey": "@item_Nameksar_pistol_ballistic_01_yellow_black01",
+      "locKey": "@item_Name_ksar_pistol_ballistic_01_yellow_black01",
       "blueprintName": "Ksar Pistol Ballistic 01 Yellow Black01",
       "categoryName": "Arme",
       "craftTime": {
@@ -69540,7 +69540,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_lbco_pistol_energy_01",
-      "locKey": "@item_Namelbco_pistol_energy_01",
+      "locKey": "@item_Name_lbco_pistol_energy_01",
       "blueprintName": "Lbco Pistol Energy 01",
       "categoryName": "Arme",
       "craftTime": {
@@ -69619,7 +69619,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_lbco_pistol_energy_01_acid01",
-      "locKey": "@item_Namelbco_pistol_energy_01_acid01",
+      "locKey": "@item_Name_lbco_pistol_energy_01_acid01",
       "blueprintName": "Lbco Pistol Energy 01 Acid01",
       "categoryName": "Arme",
       "craftTime": {
@@ -69698,7 +69698,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_lbco_pistol_energy_01_chromic01",
-      "locKey": "@item_Namelbco_pistol_energy_01_chromic01",
+      "locKey": "@item_Name_lbco_pistol_energy_01_chromic01",
       "blueprintName": "Lbco Pistol Energy 01 Chromic01",
       "categoryName": "Arme",
       "craftTime": {
@@ -69777,7 +69777,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_lbco_pistol_energy_01_sunset01",
-      "locKey": "@item_Namelbco_pistol_energy_01_sunset01",
+      "locKey": "@item_Name_lbco_pistol_energy_01_sunset01",
       "blueprintName": "Lbco Pistol Energy 01 Sunset01",
       "categoryName": "Arme",
       "craftTime": {
@@ -69856,7 +69856,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_none_pistol_ballistic_01",
-      "locKey": "@item_Namenone_pistol_ballistic_01",
+      "locKey": "@item_Name_none_pistol_ballistic_01",
       "blueprintName": "None Pistol Ballistic 01",
       "categoryName": "Arme",
       "craftTime": {
@@ -69942,7 +69942,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_volt_pistol_energy_01",
-      "locKey": "@item_Namevolt_pistol_energy_01",
+      "locKey": "@item_Name_volt_pistol_energy_01",
       "blueprintName": "Volt Pistol Energy 01",
       "categoryName": "Arme",
       "craftTime": {
@@ -70021,7 +70021,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_volt_pistol_energy_01_tint01",
-      "locKey": "@item_Namevolt_pistol_energy_01_tint01",
+      "locKey": "@item_Name_volt_pistol_energy_01_tint01",
       "blueprintName": "Volt Pistol Energy 01 Tint01",
       "categoryName": "Arme",
       "craftTime": {
@@ -70100,7 +70100,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_volt_pistol_energy_01_tint02",
-      "locKey": "@item_Namevolt_pistol_energy_01_tint02",
+      "locKey": "@item_Name_volt_pistol_energy_01_tint02",
       "blueprintName": "Volt Pistol Energy 01 Tint02",
       "categoryName": "Arme",
       "craftTime": {
@@ -70179,7 +70179,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_behr_rifle_ballistic_01",
-      "locKey": "@item_Namebehr_rifle_ballistic_01",
+      "locKey": "@item_Name_behr_rifle_ballistic_01",
       "blueprintName": "Behr Rifle Ballistic 01",
       "categoryName": "Arme",
       "craftTime": {
@@ -70265,7 +70265,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_behr_rifle_ballistic_01_black02",
-      "locKey": "@item_Namebehr_rifle_ballistic_01_black02",
+      "locKey": "@item_Name_behr_rifle_ballistic_01_black02",
       "blueprintName": "Behr Rifle Ballistic 01 Black02",
       "categoryName": "Arme",
       "craftTime": {
@@ -70351,7 +70351,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_behr_rifle_ballistic_01_green01",
-      "locKey": "@item_Namebehr_rifle_ballistic_01_green01",
+      "locKey": "@item_Name_behr_rifle_ballistic_01_green01",
       "blueprintName": "Behr Rifle Ballistic 01 Green01",
       "categoryName": "Arme",
       "craftTime": {
@@ -70437,7 +70437,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_behr_rifle_ballistic_01_tan01",
-      "locKey": "@item_Namebehr_rifle_ballistic_01_tan01",
+      "locKey": "@item_Name_behr_rifle_ballistic_01_tan01",
       "blueprintName": "Behr Rifle Ballistic 01 Tan01",
       "categoryName": "Arme",
       "craftTime": {
@@ -70523,7 +70523,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_behr_rifle_ballistic_01_tint01",
-      "locKey": "@item_Namebehr_rifle_ballistic_01_tint01",
+      "locKey": "@item_Name_behr_rifle_ballistic_01_tint01",
       "blueprintName": "Behr Rifle Ballistic 01 Tint01",
       "categoryName": "Arme",
       "craftTime": {
@@ -70609,7 +70609,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_behr_rifle_ballistic_02_civilian",
-      "locKey": "@item_Namebehr_rifle_ballistic_02_civilian",
+      "locKey": "@item_Name_behr_rifle_ballistic_02_civilian",
       "blueprintName": "Behr Rifle Ballistic 02 Civilian",
       "categoryName": "Arme",
       "craftTime": {
@@ -70695,7 +70695,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_gmni_rifle_ballistic_01",
-      "locKey": "@item_Namegmni_rifle_ballistic_01",
+      "locKey": "@item_Name_gmni_rifle_ballistic_01",
       "blueprintName": "Gmni Rifle Ballistic 01",
       "categoryName": "Arme",
       "craftTime": {
@@ -70781,7 +70781,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_gmni_rifle_ballistic_01_firerats01",
-      "locKey": "@item_Namegmni_rifle_ballistic_01_firerats01",
+      "locKey": "@item_Name_gmni_rifle_ballistic_01_firerats01",
       "blueprintName": "Gmni Rifle Ballistic 01 Firerats01",
       "categoryName": "Arme",
       "craftTime": {
@@ -70867,7 +70867,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_gmni_rifle_ballistic_01_grey_red01",
-      "locKey": "@item_Namegmni_rifle_ballistic_01_grey_red01",
+      "locKey": "@item_Name_gmni_rifle_ballistic_01_grey_red01",
       "blueprintName": "Gmni Rifle Ballistic 01 Grey Red01",
       "categoryName": "Arme",
       "craftTime": {
@@ -70953,7 +70953,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_klwe_rifle_energy_01",
-      "locKey": "@item_Nameklwe_rifle_energy_01",
+      "locKey": "@item_Name_klwe_rifle_energy_01",
       "blueprintName": "Klwe Rifle Energy 01",
       "categoryName": "Arme",
       "craftTime": {
@@ -71032,7 +71032,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_klwe_rifle_energy_01_black01",
-      "locKey": "@item_Nameklwe_rifle_energy_01_black01",
+      "locKey": "@item_Name_klwe_rifle_energy_01_black01",
       "blueprintName": "Klwe Rifle Energy 01 Black01",
       "categoryName": "Arme",
       "craftTime": {
@@ -71111,7 +71111,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_klwe_rifle_energy_01_black02",
-      "locKey": "@item_Nameklwe_rifle_energy_01_black02",
+      "locKey": "@item_Name_klwe_rifle_energy_01_black02",
       "blueprintName": "Klwe Rifle Energy 01 Black02",
       "categoryName": "Arme",
       "craftTime": {
@@ -71190,7 +71190,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_klwe_rifle_energy_01_gold01",
-      "locKey": "@item_Nameklwe_rifle_energy_01_gold01",
+      "locKey": "@item_Name_klwe_rifle_energy_01_gold01",
       "blueprintName": "Klwe Rifle Energy 01 Gold01",
       "categoryName": "Arme",
       "craftTime": {
@@ -71269,7 +71269,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_klwe_rifle_energy_01_green01",
-      "locKey": "@item_Nameklwe_rifle_energy_01_green01",
+      "locKey": "@item_Name_klwe_rifle_energy_01_green01",
       "blueprintName": "Klwe Rifle Energy 01 Green01",
       "categoryName": "Arme",
       "craftTime": {
@@ -71348,7 +71348,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_klwe_rifle_energy_01_tan01",
-      "locKey": "@item_Nameklwe_rifle_energy_01_tan01",
+      "locKey": "@item_Name_klwe_rifle_energy_01_tan01",
       "blueprintName": "Klwe Rifle Energy 01 Tan01",
       "categoryName": "Arme",
       "craftTime": {
@@ -71427,7 +71427,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_klwe_rifle_energy_01_white01",
-      "locKey": "@item_Nameklwe_rifle_energy_01_white01",
+      "locKey": "@item_Name_klwe_rifle_energy_01_white01",
       "blueprintName": "Klwe Rifle Energy 01 White01",
       "categoryName": "Arme",
       "craftTime": {
@@ -71506,7 +71506,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_klwe_rifle_energy_01_white02",
-      "locKey": "@item_Nameklwe_rifle_energy_01_white02",
+      "locKey": "@item_Name_klwe_rifle_energy_01_white02",
       "blueprintName": "Klwe Rifle Energy 01 White02",
       "categoryName": "Arme",
       "craftTime": {
@@ -71585,7 +71585,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_ksar_rifle_energy_01",
-      "locKey": "@item_Nameksar_rifle_energy_01",
+      "locKey": "@item_Name_ksar_rifle_energy_01",
       "blueprintName": "Ksar Rifle Energy 01",
       "categoryName": "Arme",
       "craftTime": {
@@ -71664,7 +71664,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_ksar_rifle_energy_01_blue_gold",
-      "locKey": "@item_Nameksar_rifle_energy_01_blue_gold",
+      "locKey": "@item_Name_ksar_rifle_energy_01_blue_gold",
       "blueprintName": "Ksar Rifle Energy 01 Blue Gold",
       "categoryName": "Arme",
       "craftTime": {
@@ -71743,7 +71743,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_ksar_rifle_energy_01_cian_black01",
-      "locKey": "@item_Nameksar_rifle_energy_01_cian_black01",
+      "locKey": "@item_Name_ksar_rifle_energy_01_cian_black01",
       "blueprintName": "Ksar Rifle Energy 01 Cian Black01",
       "categoryName": "Arme",
       "craftTime": {
@@ -71822,7 +71822,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_ksar_rifle_energy_01_pink_red01",
-      "locKey": "@item_Nameksar_rifle_energy_01_pink_red01",
+      "locKey": "@item_Name_ksar_rifle_energy_01_pink_red01",
       "blueprintName": "Ksar Rifle Energy 01 Pink Red01",
       "categoryName": "Arme",
       "craftTime": {
@@ -71901,7 +71901,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_ksar_rifle_energy_01_red01",
-      "locKey": "@item_Nameksar_rifle_energy_01_red01",
+      "locKey": "@item_Name_ksar_rifle_energy_01_red01",
       "blueprintName": "Ksar Rifle Energy 01 Red01",
       "categoryName": "Arme",
       "craftTime": {
@@ -71980,7 +71980,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_ksar_rifle_energy_01_red_green01",
-      "locKey": "@item_Nameksar_rifle_energy_01_red_green01",
+      "locKey": "@item_Name_ksar_rifle_energy_01_red_green01",
       "blueprintName": "Ksar Rifle Energy 01 Red Green01",
       "categoryName": "Arme",
       "craftTime": {
@@ -72059,7 +72059,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_none_rifle_multi_01",
-      "locKey": "@item_Namenone_rifle_multi_01",
+      "locKey": "@item_Name_none_rifle_multi_01",
       "blueprintName": "None Rifle Multi 01",
       "categoryName": "Arme",
       "craftTime": {
@@ -72145,7 +72145,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_volt_rifle_energy_01",
-      "locKey": "@item_Namevolt_rifle_energy_01",
+      "locKey": "@item_Name_volt_rifle_energy_01",
       "blueprintName": "Volt Rifle Energy 01",
       "categoryName": "Arme",
       "craftTime": {
@@ -72233,7 +72233,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_volt_rifle_energy_01_camo01",
-      "locKey": "@item_Namevolt_rifle_energy_01_camo01",
+      "locKey": "@item_Name_volt_rifle_energy_01_camo01",
       "blueprintName": "Volt Rifle Energy 01 Camo01",
       "categoryName": "Arme",
       "craftTime": {
@@ -72321,7 +72321,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_volt_rifle_energy_01_tint01",
-      "locKey": "@item_Namevolt_rifle_energy_01_tint01",
+      "locKey": "@item_Name_volt_rifle_energy_01_tint01",
       "blueprintName": "Volt Rifle Energy 01 Tint01",
       "categoryName": "Arme",
       "craftTime": {
@@ -72409,7 +72409,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_volt_rifle_energy_01_tint02",
-      "locKey": "@item_Namevolt_rifle_energy_01_tint02",
+      "locKey": "@item_Name_volt_rifle_energy_01_tint02",
       "blueprintName": "Volt Rifle Energy 01 Tint02",
       "categoryName": "Arme",
       "craftTime": {
@@ -72497,7 +72497,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_behr_shotgun_ballistic_01",
-      "locKey": "@item_Namebehr_shotgun_ballistic_01",
+      "locKey": "@item_Name_behr_shotgun_ballistic_01",
       "blueprintName": "Behr Shotgun Ballistic 01",
       "categoryName": "Arme",
       "craftTime": {
@@ -72583,7 +72583,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_behr_shotgun_ballistic_01_blue_white01",
-      "locKey": "@item_Namebehr_shotgun_ballistic_01_blue_white01",
+      "locKey": "@item_Name_behr_shotgun_ballistic_01_blue_white01",
       "blueprintName": "Behr Shotgun Ballistic 01 Blue White01",
       "categoryName": "Arme",
       "craftTime": {
@@ -72669,7 +72669,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_gmni_shotgun_ballistic_01",
-      "locKey": "@item_Namegmni_shotgun_ballistic_01",
+      "locKey": "@item_Name_gmni_shotgun_ballistic_01",
       "blueprintName": "Gmni Shotgun Ballistic 01",
       "categoryName": "Arme",
       "craftTime": {
@@ -72755,7 +72755,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_gmni_shotgun_ballistic_01_firerats01",
-      "locKey": "@item_Namegmni_shotgun_ballistic_01_firerats01",
+      "locKey": "@item_Name_gmni_shotgun_ballistic_01_firerats01",
       "blueprintName": "Gmni Shotgun Ballistic 01 Firerats01",
       "categoryName": "Arme",
       "craftTime": {
@@ -72841,7 +72841,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_gmni_shotgun_ballistic_01_pink_red01",
-      "locKey": "@item_Namegmni_shotgun_ballistic_01_pink_red01",
+      "locKey": "@item_Name_gmni_shotgun_ballistic_01_pink_red01",
       "blueprintName": "Gmni Shotgun Ballistic 01 Pink Red01",
       "categoryName": "Arme",
       "craftTime": {
@@ -72927,7 +72927,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_gmni_shotgun_ballistic_01_red_black01",
-      "locKey": "@item_Namegmni_shotgun_ballistic_01_red_black01",
+      "locKey": "@item_Name_gmni_shotgun_ballistic_01_red_black01",
       "blueprintName": "Gmni Shotgun Ballistic 01 Red Black01",
       "categoryName": "Arme",
       "craftTime": {
@@ -73013,7 +73013,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_ksar_shotgun_ballistic_01",
-      "locKey": "@item_Nameksar_shotgun_ballistic_01",
+      "locKey": "@item_Name_ksar_shotgun_ballistic_01",
       "blueprintName": "Ksar Shotgun Ballistic 01",
       "categoryName": "Arme",
       "craftTime": {
@@ -73099,7 +73099,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_ksar_shotgun_ballistic_01_green01",
-      "locKey": "@item_Nameksar_shotgun_ballistic_01_green01",
+      "locKey": "@item_Name_ksar_shotgun_ballistic_01_green01",
       "blueprintName": "Ksar Shotgun Ballistic 01 Green01",
       "categoryName": "Arme",
       "craftTime": {
@@ -73185,7 +73185,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_ksar_shotgun_energy_01",
-      "locKey": "@item_Nameksar_shotgun_energy_01",
+      "locKey": "@item_Name_ksar_shotgun_energy_01",
       "blueprintName": "Ksar Shotgun Energy 01",
       "categoryName": "Arme",
       "craftTime": {
@@ -73264,7 +73264,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_ksar_shotgun_energy_01_black01",
-      "locKey": "@item_Nameksar_shotgun_energy_01_black01",
+      "locKey": "@item_Name_ksar_shotgun_energy_01_black01",
       "blueprintName": "Ksar Shotgun Energy 01 Black01",
       "categoryName": "Arme",
       "craftTime": {
@@ -73343,7 +73343,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_ksar_shotgun_energy_01_black02",
-      "locKey": "@item_Nameksar_shotgun_energy_01_black02",
+      "locKey": "@item_Name_ksar_shotgun_energy_01_black02",
       "blueprintName": "Ksar Shotgun Energy 01 Black02",
       "categoryName": "Arme",
       "craftTime": {
@@ -73422,7 +73422,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_ksar_shotgun_energy_01_black_purple01",
-      "locKey": "@item_Nameksar_shotgun_energy_01_black_purple01",
+      "locKey": "@item_Name_ksar_shotgun_energy_01_black_purple01",
       "blueprintName": "Ksar Shotgun Energy 01 Black Purple01",
       "categoryName": "Arme",
       "craftTime": {
@@ -73501,7 +73501,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_ksar_shotgun_energy_01_cen01",
-      "locKey": "@item_Nameksar_shotgun_energy_01_cen01",
+      "locKey": "@item_Name_ksar_shotgun_energy_01_cen01",
       "blueprintName": "Ksar Shotgun Energy 01 Cen01",
       "categoryName": "Arme",
       "craftTime": {
@@ -73580,7 +73580,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_ksar_shotgun_energy_01_gold01",
-      "locKey": "@item_Nameksar_shotgun_energy_01_gold01",
+      "locKey": "@item_Name_ksar_shotgun_energy_01_gold01",
       "blueprintName": "Ksar Shotgun Energy 01 Gold01",
       "categoryName": "Arme",
       "craftTime": {
@@ -73659,7 +73659,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_ksar_shotgun_energy_01_green01",
-      "locKey": "@item_Nameksar_shotgun_energy_01_green01",
+      "locKey": "@item_Name_ksar_shotgun_energy_01_green01",
       "blueprintName": "Ksar Shotgun Energy 01 Green01",
       "categoryName": "Arme",
       "craftTime": {
@@ -73738,7 +73738,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_ksar_shotgun_energy_01_imp01",
-      "locKey": "@item_Nameksar_shotgun_energy_01_imp01",
+      "locKey": "@item_Name_ksar_shotgun_energy_01_imp01",
       "blueprintName": "Ksar Shotgun Energy 01 Imp01",
       "categoryName": "Arme",
       "craftTime": {
@@ -73817,7 +73817,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_ksar_shotgun_energy_01_red01",
-      "locKey": "@item_Nameksar_shotgun_energy_01_red01",
+      "locKey": "@item_Name_ksar_shotgun_energy_01_red01",
       "blueprintName": "Ksar Shotgun Energy 01 Red01",
       "categoryName": "Arme",
       "craftTime": {
@@ -73896,7 +73896,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_ksar_shotgun_energy_01_tan01",
-      "locKey": "@item_Nameksar_shotgun_energy_01_tan01",
+      "locKey": "@item_Name_ksar_shotgun_energy_01_tan01",
       "blueprintName": "Ksar Shotgun Energy 01 Tan01",
       "categoryName": "Arme",
       "craftTime": {
@@ -73975,7 +73975,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_none_shotgun_ballistic_01",
-      "locKey": "@item_Namenone_shotgun_ballistic_01",
+      "locKey": "@item_Name_none_shotgun_ballistic_01",
       "blueprintName": "None Shotgun Ballistic 01",
       "categoryName": "Arme",
       "craftTime": {
@@ -74061,7 +74061,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_volt_shotgun_energy_01",
-      "locKey": "@item_Namevolt_shotgun_energy_01",
+      "locKey": "@item_Name_volt_shotgun_energy_01",
       "blueprintName": "Volt Shotgun Energy 01",
       "categoryName": "Arme",
       "craftTime": {
@@ -74140,7 +74140,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_volt_shotgun_energy_01_tint01",
-      "locKey": "@item_Namevolt_shotgun_energy_01_tint01",
+      "locKey": "@item_Name_volt_shotgun_energy_01_tint01",
       "blueprintName": "Volt Shotgun Energy 01 Tint01",
       "categoryName": "Arme",
       "craftTime": {
@@ -74219,7 +74219,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_volt_shotgun_energy_01_tint02",
-      "locKey": "@item_Namevolt_shotgun_energy_01_tint02",
+      "locKey": "@item_Name_volt_shotgun_energy_01_tint02",
       "blueprintName": "Volt Shotgun Energy 01 Tint02",
       "categoryName": "Arme",
       "craftTime": {
@@ -74298,7 +74298,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_volt_shotgun_energy_01_tint03",
-      "locKey": "@item_Namevolt_shotgun_energy_01_tint03",
+      "locKey": "@item_Name_volt_shotgun_energy_01_tint03",
       "blueprintName": "Volt Shotgun Energy 01 Tint03",
       "categoryName": "Arme",
       "craftTime": {
@@ -74377,7 +74377,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_behr_smg_ballistic_01",
-      "locKey": "@item_Namebehr_smg_ballistic_01",
+      "locKey": "@item_Name_behr_smg_ballistic_01",
       "blueprintName": "Behr Smg Ballistic 01",
       "categoryName": "Arme",
       "craftTime": {
@@ -74463,7 +74463,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_behr_smg_ballistic_01_black01",
-      "locKey": "@item_Namebehr_smg_ballistic_01_black01",
+      "locKey": "@item_Name_behr_smg_ballistic_01_black01",
       "blueprintName": "Behr Smg Ballistic 01 Black01",
       "categoryName": "Arme",
       "craftTime": {
@@ -74549,7 +74549,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_behr_smg_ballistic_01_black02",
-      "locKey": "@item_Namebehr_smg_ballistic_01_black02",
+      "locKey": "@item_Name_behr_smg_ballistic_01_black02",
       "blueprintName": "Behr Smg Ballistic 01 Black02",
       "categoryName": "Arme",
       "craftTime": {
@@ -74635,7 +74635,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_behr_smg_ballistic_01_gold01",
-      "locKey": "@item_Namebehr_smg_ballistic_01_gold01",
+      "locKey": "@item_Name_behr_smg_ballistic_01_gold01",
       "blueprintName": "Behr Smg Ballistic 01 Gold01",
       "categoryName": "Arme",
       "craftTime": {
@@ -74721,7 +74721,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_behr_smg_ballistic_01_green01",
-      "locKey": "@item_Namebehr_smg_ballistic_01_green01",
+      "locKey": "@item_Name_behr_smg_ballistic_01_green01",
       "blueprintName": "Behr Smg Ballistic 01 Green01",
       "categoryName": "Arme",
       "craftTime": {
@@ -74807,7 +74807,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_behr_smg_ballistic_01_tan01",
-      "locKey": "@item_Namebehr_smg_ballistic_01_tan01",
+      "locKey": "@item_Name_behr_smg_ballistic_01_tan01",
       "blueprintName": "Behr Smg Ballistic 01 Tan01",
       "categoryName": "Arme",
       "craftTime": {
@@ -74893,7 +74893,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_behr_smg_ballistic_01_white01",
-      "locKey": "@item_Namebehr_smg_ballistic_01_white01",
+      "locKey": "@item_Name_behr_smg_ballistic_01_white01",
       "blueprintName": "Behr Smg Ballistic 01 White01",
       "categoryName": "Arme",
       "craftTime": {
@@ -74979,7 +74979,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_behr_smg_ballistic_01_white02",
-      "locKey": "@item_Namebehr_smg_ballistic_01_white02",
+      "locKey": "@item_Name_behr_smg_ballistic_01_white02",
       "blueprintName": "Behr Smg Ballistic 01 White02",
       "categoryName": "Arme",
       "craftTime": {
@@ -75065,7 +75065,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_gmni_smg_ballistic_01",
-      "locKey": "@item_Namegmni_smg_ballistic_01",
+      "locKey": "@item_Name_gmni_smg_ballistic_01",
       "blueprintName": "Gmni Smg Ballistic 01",
       "categoryName": "Arme",
       "craftTime": {
@@ -75151,7 +75151,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_gmni_smg_ballistic_01_firerats01",
-      "locKey": "@item_Namegmni_smg_ballistic_01_firerats01",
+      "locKey": "@item_Name_gmni_smg_ballistic_01_firerats01",
       "blueprintName": "Gmni Smg Ballistic 01 Firerats01",
       "categoryName": "Arme",
       "craftTime": {
@@ -75237,7 +75237,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_gmni_smg_ballistic_01_green_grey01",
-      "locKey": "@item_Namegmni_smg_ballistic_01_green_grey01",
+      "locKey": "@item_Name_gmni_smg_ballistic_01_green_grey01",
       "blueprintName": "Gmni Smg Ballistic 01 Green Grey01",
       "categoryName": "Arme",
       "craftTime": {
@@ -75323,7 +75323,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_gmni_smg_ballistic_01_grey_red01",
-      "locKey": "@item_Namegmni_smg_ballistic_01_grey_red01",
+      "locKey": "@item_Name_gmni_smg_ballistic_01_grey_red01",
       "blueprintName": "Gmni Smg Ballistic 01 Grey Red01",
       "categoryName": "Arme",
       "craftTime": {
@@ -75409,7 +75409,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_klwe_smg_energy_01",
-      "locKey": "@item_Nameklwe_smg_energy_01",
+      "locKey": "@item_Name_klwe_smg_energy_01",
       "blueprintName": "Klwe Smg Energy 01",
       "categoryName": "Arme",
       "craftTime": {
@@ -75488,7 +75488,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_klwe_smg_energy_01_blue_gold",
-      "locKey": "@item_Nameklwe_smg_energy_01_blue_gold",
+      "locKey": "@item_Name_klwe_smg_energy_01_blue_gold",
       "blueprintName": "Klwe Smg Energy 01 Blue Gold",
       "categoryName": "Arme",
       "craftTime": {
@@ -75567,7 +75567,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_ksar_smg_energy_01",
-      "locKey": "@item_Nameksar_smg_energy_01",
+      "locKey": "@item_Name_ksar_smg_energy_01",
       "blueprintName": "Ksar Smg Energy 01",
       "categoryName": "Arme",
       "craftTime": {
@@ -75646,7 +75646,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_ksar_smg_energy_01_black01",
-      "locKey": "@item_Nameksar_smg_energy_01_black01",
+      "locKey": "@item_Name_ksar_smg_energy_01_black01",
       "blueprintName": "Ksar Smg Energy 01 Black01",
       "categoryName": "Arme",
       "craftTime": {
@@ -75725,7 +75725,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_ksar_smg_energy_01_black02",
-      "locKey": "@item_Nameksar_smg_energy_01_black02",
+      "locKey": "@item_Name_ksar_smg_energy_01_black02",
       "blueprintName": "Ksar Smg Energy 01 Black02",
       "categoryName": "Arme",
       "craftTime": {
@@ -75804,7 +75804,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_ksar_smg_energy_01_black_green01",
-      "locKey": "@item_Nameksar_smg_energy_01_black_green01",
+      "locKey": "@item_Name_ksar_smg_energy_01_black_green01",
       "blueprintName": "Ksar Smg Energy 01 Black Green01",
       "categoryName": "Arme",
       "craftTime": {
@@ -75883,7 +75883,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_ksar_smg_energy_01_firerats01",
-      "locKey": "@item_Nameksar_smg_energy_01_firerats01",
+      "locKey": "@item_Name_ksar_smg_energy_01_firerats01",
       "blueprintName": "Ksar Smg Energy 01 Firerats01",
       "categoryName": "Arme",
       "craftTime": {
@@ -75962,7 +75962,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_ksar_smg_energy_01_gold01",
-      "locKey": "@item_Nameksar_smg_energy_01_gold01",
+      "locKey": "@item_Name_ksar_smg_energy_01_gold01",
       "blueprintName": "Ksar Smg Energy 01 Gold01",
       "categoryName": "Arme",
       "craftTime": {
@@ -76041,7 +76041,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_ksar_smg_energy_01_green01",
-      "locKey": "@item_Nameksar_smg_energy_01_green01",
+      "locKey": "@item_Name_ksar_smg_energy_01_green01",
       "blueprintName": "Ksar Smg Energy 01 Green01",
       "categoryName": "Arme",
       "craftTime": {
@@ -76120,7 +76120,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_ksar_smg_energy_01_red01",
-      "locKey": "@item_Nameksar_smg_energy_01_red01",
+      "locKey": "@item_Name_ksar_smg_energy_01_red01",
       "blueprintName": "Ksar Smg Energy 01 Red01",
       "categoryName": "Arme",
       "craftTime": {
@@ -76199,7 +76199,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_ksar_smg_energy_01_tan01",
-      "locKey": "@item_Nameksar_smg_energy_01_tan01",
+      "locKey": "@item_Name_ksar_smg_energy_01_tan01",
       "blueprintName": "Ksar Smg Energy 01 Tan01",
       "categoryName": "Arme",
       "craftTime": {
@@ -76278,7 +76278,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_ksar_smg_energy_01_white02",
-      "locKey": "@item_Nameksar_smg_energy_01_white02",
+      "locKey": "@item_Name_ksar_smg_energy_01_white02",
       "blueprintName": "Ksar Smg Energy 01 White02",
       "categoryName": "Arme",
       "craftTime": {
@@ -76357,7 +76357,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_none_smg_energy_01",
-      "locKey": "@item_Namenone_smg_energy_01",
+      "locKey": "@item_Name_none_smg_energy_01",
       "blueprintName": "None Smg Energy 01",
       "categoryName": "Arme",
       "craftTime": {
@@ -76436,7 +76436,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_volt_smg_energy_01",
-      "locKey": "@item_Namevolt_smg_energy_01",
+      "locKey": "@item_Name_volt_smg_energy_01",
       "blueprintName": "Volt Smg Energy 01",
       "categoryName": "Arme",
       "craftTime": {
@@ -76515,7 +76515,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_volt_smg_energy_01_tint01",
-      "locKey": "@item_Namevolt_smg_energy_01_tint01",
+      "locKey": "@item_Name_volt_smg_energy_01_tint01",
       "blueprintName": "Volt Smg Energy 01 Tint01",
       "categoryName": "Arme",
       "craftTime": {
@@ -76594,7 +76594,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_volt_smg_energy_01_tint02",
-      "locKey": "@item_Namevolt_smg_energy_01_tint02",
+      "locKey": "@item_Name_volt_smg_energy_01_tint02",
       "blueprintName": "Volt Smg Energy 01 Tint02",
       "categoryName": "Arme",
       "craftTime": {
@@ -76673,7 +76673,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_volt_smg_energy_01_tint03",
-      "locKey": "@item_Namevolt_smg_energy_01_tint03",
+      "locKey": "@item_Name_volt_smg_energy_01_tint03",
       "blueprintName": "Volt Smg Energy 01 Tint03",
       "categoryName": "Arme",
       "craftTime": {
@@ -76752,7 +76752,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_behr_sniper_ballistic_01",
-      "locKey": "@item_Namebehr_sniper_ballistic_01",
+      "locKey": "@item_Name_behr_sniper_ballistic_01",
       "blueprintName": "Behr Sniper Ballistic 01",
       "categoryName": "Arme",
       "craftTime": {
@@ -76853,7 +76853,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_behr_sniper_ballistic_01_arctic01",
-      "locKey": "@item_Namebehr_sniper_ballistic_01_arctic01",
+      "locKey": "@item_Name_behr_sniper_ballistic_01_arctic01",
       "blueprintName": "Behr Sniper Ballistic 01 Arctic01",
       "categoryName": "Arme",
       "craftTime": {
@@ -76954,7 +76954,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_behr_sniper_ballistic_01_black01",
-      "locKey": "@item_Namebehr_sniper_ballistic_01_black01",
+      "locKey": "@item_Name_behr_sniper_ballistic_01_black01",
       "blueprintName": "Behr Sniper Ballistic 01 Black01",
       "categoryName": "Arme",
       "craftTime": {
@@ -77055,7 +77055,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_behr_sniper_ballistic_01_tint01",
-      "locKey": "@item_Namebehr_sniper_ballistic_01_tint01",
+      "locKey": "@item_Name_behr_sniper_ballistic_01_tint01",
       "blueprintName": "Behr Sniper Ballistic 01 Tint01",
       "categoryName": "Arme",
       "craftTime": {
@@ -77156,7 +77156,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_gmni_sniper_ballistic_01",
-      "locKey": "@item_Namegmni_sniper_ballistic_01",
+      "locKey": "@item_Name_gmni_sniper_ballistic_01",
       "blueprintName": "Gmni Sniper Ballistic 01",
       "categoryName": "Arme",
       "craftTime": {
@@ -77257,7 +77257,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_gmni_sniper_ballistic_01_arctic01",
-      "locKey": "@item_Namegmni_sniper_ballistic_01_arctic01",
+      "locKey": "@item_Name_gmni_sniper_ballistic_01_arctic01",
       "blueprintName": "Gmni Sniper Ballistic 01 Arctic01",
       "categoryName": "Arme",
       "craftTime": {
@@ -77358,7 +77358,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_gmni_sniper_ballistic_01_firerats01",
-      "locKey": "@item_Namegmni_sniper_ballistic_01_firerats01",
+      "locKey": "@item_Name_gmni_sniper_ballistic_01_firerats01",
       "blueprintName": "Gmni Sniper Ballistic 01 Firerats01",
       "categoryName": "Arme",
       "craftTime": {
@@ -77459,7 +77459,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_gmni_sniper_ballistic_01_green_grey01",
-      "locKey": "@item_Namegmni_sniper_ballistic_01_green_grey01",
+      "locKey": "@item_Name_gmni_sniper_ballistic_01_green_grey01",
       "blueprintName": "Gmni Sniper Ballistic 01 Green Grey01",
       "categoryName": "Arme",
       "craftTime": {
@@ -77560,7 +77560,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_gmni_sniper_ballistic_01_urban01",
-      "locKey": "@item_Namegmni_sniper_ballistic_01_urban01",
+      "locKey": "@item_Name_gmni_sniper_ballistic_01_urban01",
       "blueprintName": "Gmni Sniper Ballistic 01 Urban01",
       "categoryName": "Arme",
       "craftTime": {
@@ -77661,7 +77661,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_klwe_sniper_energy_01",
-      "locKey": "@item_Nameklwe_sniper_energy_01",
+      "locKey": "@item_Name_klwe_sniper_energy_01",
       "blueprintName": "Klwe Sniper Energy 01",
       "categoryName": "Arme",
       "craftTime": {
@@ -77755,7 +77755,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_klwe_sniper_energy_01_black01",
-      "locKey": "@item_Nameklwe_sniper_energy_01_black01",
+      "locKey": "@item_Name_klwe_sniper_energy_01_black01",
       "blueprintName": "Klwe Sniper Energy 01 Black01",
       "categoryName": "Arme",
       "craftTime": {
@@ -77849,7 +77849,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_klwe_sniper_energy_01_black02",
-      "locKey": "@item_Nameklwe_sniper_energy_01_black02",
+      "locKey": "@item_Name_klwe_sniper_energy_01_black02",
       "blueprintName": "Klwe Sniper Energy 01 Black02",
       "categoryName": "Arme",
       "craftTime": {
@@ -77943,7 +77943,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_klwe_sniper_energy_01_cen01",
-      "locKey": "@item_Nameklwe_sniper_energy_01_cen01",
+      "locKey": "@item_Name_klwe_sniper_energy_01_cen01",
       "blueprintName": "Klwe Sniper Energy 01 Cen01",
       "categoryName": "Arme",
       "craftTime": {
@@ -78037,7 +78037,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_klwe_sniper_energy_01_gold01",
-      "locKey": "@item_Nameklwe_sniper_energy_01_gold01",
+      "locKey": "@item_Name_klwe_sniper_energy_01_gold01",
       "blueprintName": "Klwe Sniper Energy 01 Gold01",
       "categoryName": "Arme",
       "craftTime": {
@@ -78131,7 +78131,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_klwe_sniper_energy_01_green01",
-      "locKey": "@item_Nameklwe_sniper_energy_01_green01",
+      "locKey": "@item_Name_klwe_sniper_energy_01_green01",
       "blueprintName": "Klwe Sniper Energy 01 Green01",
       "categoryName": "Arme",
       "craftTime": {
@@ -78225,7 +78225,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_klwe_sniper_energy_01_imp01",
-      "locKey": "@item_Nameklwe_sniper_energy_01_imp01",
+      "locKey": "@item_Name_klwe_sniper_energy_01_imp01",
       "blueprintName": "Klwe Sniper Energy 01 Imp01",
       "categoryName": "Arme",
       "craftTime": {
@@ -78319,7 +78319,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_klwe_sniper_energy_01_tan01",
-      "locKey": "@item_Nameklwe_sniper_energy_01_tan01",
+      "locKey": "@item_Name_klwe_sniper_energy_01_tan01",
       "blueprintName": "Klwe Sniper Energy 01 Tan01",
       "categoryName": "Arme",
       "craftTime": {
@@ -78413,7 +78413,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_klwe_sniper_energy_01_white01",
-      "locKey": "@item_Nameklwe_sniper_energy_01_white01",
+      "locKey": "@item_Name_klwe_sniper_energy_01_white01",
       "blueprintName": "Klwe Sniper Energy 01 White01",
       "categoryName": "Arme",
       "craftTime": {
@@ -78507,7 +78507,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_klwe_sniper_energy_01_white02",
-      "locKey": "@item_Nameklwe_sniper_energy_01_white02",
+      "locKey": "@item_Name_klwe_sniper_energy_01_white02",
       "blueprintName": "Klwe Sniper Energy 01 White02",
       "categoryName": "Arme",
       "craftTime": {
@@ -78601,7 +78601,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_ksar_sniper_ballistic_01",
-      "locKey": "@item_Nameksar_sniper_ballistic_01",
+      "locKey": "@item_Name_ksar_sniper_ballistic_01",
       "blueprintName": "Ksar Sniper Ballistic 01",
       "categoryName": "Arme",
       "craftTime": {
@@ -78702,7 +78702,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_ksar_sniper_ballistic_01_white_blue_01",
-      "locKey": "@item_Nameksar_sniper_ballistic_01_white_blue_01",
+      "locKey": "@item_Name_ksar_sniper_ballistic_01_white_blue_01",
       "blueprintName": "Ksar Sniper Ballistic 01 White Blue 01",
       "categoryName": "Arme",
       "craftTime": {
@@ -78803,7 +78803,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_lbco_sniper_energy_01",
-      "locKey": "@item_Namelbco_sniper_energy_01",
+      "locKey": "@item_Name_lbco_sniper_energy_01",
       "blueprintName": "Lbco Sniper Energy 01",
       "categoryName": "Arme",
       "craftTime": {
@@ -78897,7 +78897,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_lbco_sniper_energy_01_acid01",
-      "locKey": "@item_Namelbco_sniper_energy_01_acid01",
+      "locKey": "@item_Name_lbco_sniper_energy_01_acid01",
       "blueprintName": "Lbco Sniper Energy 01 Acid01",
       "categoryName": "Arme",
       "craftTime": {
@@ -78991,7 +78991,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_lbco_sniper_energy_01_chromic01",
-      "locKey": "@item_Namelbco_sniper_energy_01_chromic01",
+      "locKey": "@item_Name_lbco_sniper_energy_01_chromic01",
       "blueprintName": "Lbco Sniper Energy 01 Chromic01",
       "categoryName": "Arme",
       "craftTime": {
@@ -79085,7 +79085,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_lbco_sniper_energy_01_sunset01",
-      "locKey": "@item_Namelbco_sniper_energy_01_sunset01",
+      "locKey": "@item_Name_lbco_sniper_energy_01_sunset01",
       "blueprintName": "Lbco Sniper Energy 01 Sunset01",
       "categoryName": "Arme",
       "craftTime": {
@@ -79179,7 +79179,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_lbco_sniper_energy_imp01",
-      "locKey": "@item_Namelbco_sniper_energy_imp01",
+      "locKey": "@item_Name_lbco_sniper_energy_imp01",
       "blueprintName": "Lbco Sniper Energy Imp01",
       "categoryName": "Arme",
       "craftTime": {
@@ -79273,7 +79273,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_volt_sniper_energy_01",
-      "locKey": "@item_Namevolt_sniper_energy_01",
+      "locKey": "@item_Name_volt_sniper_energy_01",
       "blueprintName": "Volt Sniper Energy 01",
       "categoryName": "Arme",
       "craftTime": {
@@ -79367,7 +79367,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_volt_sniper_energy_01_collector01",
-      "locKey": "@item_Namevolt_sniper_energy_01_collector01",
+      "locKey": "@item_Name_volt_sniper_energy_01_collector01",
       "blueprintName": "Volt Sniper Energy 01 Collector01",
       "categoryName": "Arme",
       "craftTime": {
@@ -79461,7 +79461,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_volt_sniper_energy_01_tint01",
-      "locKey": "@item_Namevolt_sniper_energy_01_tint01",
+      "locKey": "@item_Name_volt_sniper_energy_01_tint01",
       "blueprintName": "Volt Sniper Energy 01 Tint01",
       "categoryName": "Arme",
       "craftTime": {
@@ -79555,7 +79555,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_volt_sniper_energy_01_tint02",
-      "locKey": "@item_Namevolt_sniper_energy_01_tint02",
+      "locKey": "@item_Name_volt_sniper_energy_01_tint02",
       "blueprintName": "Volt Sniper Energy 01 Tint02",
       "categoryName": "Arme",
       "craftTime": {
@@ -79649,7 +79649,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_volt_sniper_energy_01_tint03",
-      "locKey": "@item_Namevolt_sniper_energy_01_tint03",
+      "locKey": "@item_Name_volt_sniper_energy_01_tint03",
       "blueprintName": "Volt Sniper Energy 01 Tint03",
       "categoryName": "Arme",
       "craftTime": {
