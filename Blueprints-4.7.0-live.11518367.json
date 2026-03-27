@@ -4587,7 +4587,9 @@
           "titleKey": "shubin_rockcracker_solo_title_01",
           "titleEN": "QV Breaker Station Mining Rights (Exclusive)",
           "faction": "Shubin Interstellar",
-          "systems": [],
+          "systems": [
+            "Nyx"
+          ],
           "illegal": false
         },
         {
@@ -29145,7 +29147,9 @@
           "titleKey": "shubin_rockcracker_solo_title_01",
           "titleEN": "QV Breaker Station Mining Rights (Exclusive)",
           "faction": "Shubin Interstellar",
-          "systems": [],
+          "systems": [
+            "Nyx"
+          ],
           "illegal": false
         },
         {
@@ -29443,7 +29447,9 @@
           "titleKey": "shubin_rockcracker_solo_title_01",
           "titleEN": "QV Breaker Station Mining Rights (Exclusive)",
           "faction": "Shubin Interstellar",
-          "systems": [],
+          "systems": [
+            "Nyx"
+          ],
           "illegal": false
         },
         {
@@ -30205,7 +30211,9 @@
           "titleKey": "shubin_rockcracker_solo_title_01",
           "titleEN": "QV Breaker Station Mining Rights (Exclusive)",
           "faction": "Shubin Interstellar",
-          "systems": [],
+          "systems": [
+            "Nyx"
+          ],
           "illegal": false
         },
         {
@@ -30503,7 +30511,9 @@
           "titleKey": "shubin_rockcracker_solo_title_01",
           "titleEN": "QV Breaker Station Mining Rights (Exclusive)",
           "faction": "Shubin Interstellar",
-          "systems": [],
+          "systems": [
+            "Nyx"
+          ],
           "illegal": false
         },
         {
@@ -31351,7 +31361,9 @@
           "titleKey": "shubin_rockcracker_solo_title_01",
           "titleEN": "QV Breaker Station Mining Rights (Exclusive)",
           "faction": "Shubin Interstellar",
-          "systems": [],
+          "systems": [
+            "Nyx"
+          ],
           "illegal": false
         },
         {
@@ -31563,7 +31575,9 @@
           "titleKey": "shubin_rockcracker_solo_title_01",
           "titleEN": "QV Breaker Station Mining Rights (Exclusive)",
           "faction": "Shubin Interstellar",
-          "systems": [],
+          "systems": [
+            "Nyx"
+          ],
           "illegal": false
         },
         {
@@ -32325,7 +32339,9 @@
           "titleKey": "shubin_rockcracker_solo_title_01",
           "titleEN": "QV Breaker Station Mining Rights (Exclusive)",
           "faction": "Shubin Interstellar",
-          "systems": [],
+          "systems": [
+            "Nyx"
+          ],
           "illegal": false
         },
         {
@@ -32623,7 +32639,9 @@
           "titleKey": "shubin_rockcracker_solo_title_01",
           "titleEN": "QV Breaker Station Mining Rights (Exclusive)",
           "faction": "Shubin Interstellar",
-          "systems": [],
+          "systems": [
+            "Nyx"
+          ],
           "illegal": false
         },
         {
@@ -59557,7 +59575,9 @@
           "titleKey": "foxwell_eliminateall_paf_m_title_001",
           "titleEN": "Yellow Level Contract: Clear Out PAF",
           "faction": "Foxwell Enforcement",
-          "systems": [],
+          "systems": [
+            "Stanton"
+          ],
           "illegal": false
         },
         {
@@ -59582,7 +59602,9 @@
           "titleKey": "foxwell_eliminateall_olp_m_title_001",
           "titleEN": "Yellow Level Contract: Merc Work",
           "faction": "Foxwell Enforcement",
-          "systems": [],
+          "systems": [
+            "Stanton"
+          ],
           "illegal": false
         },
         {
@@ -60035,7 +60057,9 @@
           "titleKey": "foxwell_eliminateall_paf_m_title_001",
           "titleEN": "Yellow Level Contract: Clear Out PAF",
           "faction": "Foxwell Enforcement",
-          "systems": [],
+          "systems": [
+            "Stanton"
+          ],
           "illegal": false
         },
         {
@@ -60060,7 +60084,9 @@
           "titleKey": "foxwell_eliminateall_olp_m_title_001",
           "titleEN": "Yellow Level Contract: Merc Work",
           "faction": "Foxwell Enforcement",
-          "systems": [],
+          "systems": [
+            "Stanton"
+          ],
           "illegal": false
         },
         {
@@ -60881,7 +60907,9 @@
           "titleKey": "foxwell_eliminateall_paf_m_title_001",
           "titleEN": "Yellow Level Contract: Clear Out PAF",
           "faction": "Foxwell Enforcement",
-          "systems": [],
+          "systems": [
+            "Stanton"
+          ],
           "illegal": false
         },
         {
@@ -60906,7 +60934,9 @@
           "titleKey": "foxwell_eliminateall_olp_m_title_001",
           "titleEN": "Yellow Level Contract: Merc Work",
           "faction": "Foxwell Enforcement",
-          "systems": [],
+          "systems": [
+            "Stanton"
+          ],
           "illegal": false
         },
         {
@@ -61359,7 +61389,9 @@
           "titleKey": "foxwell_eliminateall_paf_m_title_001",
           "titleEN": "Yellow Level Contract: Clear Out PAF",
           "faction": "Foxwell Enforcement",
-          "systems": [],
+          "systems": [
+            "Stanton"
+          ],
           "illegal": false
         },
         {
@@ -61384,7 +61416,9 @@
           "titleKey": "foxwell_eliminateall_olp_m_title_001",
           "titleEN": "Yellow Level Contract: Merc Work",
           "faction": "Foxwell Enforcement",
-          "systems": [],
+          "systems": [
+            "Stanton"
+          ],
           "illegal": false
         },
         {
@@ -62205,7 +62239,9 @@
           "titleKey": "foxwell_eliminateall_paf_m_title_001",
           "titleEN": "Yellow Level Contract: Clear Out PAF",
           "faction": "Foxwell Enforcement",
-          "systems": [],
+          "systems": [
+            "Stanton"
+          ],
           "illegal": false
         },
         {
@@ -62230,7 +62266,9 @@
           "titleKey": "foxwell_eliminateall_olp_m_title_001",
           "titleEN": "Yellow Level Contract: Merc Work",
           "faction": "Foxwell Enforcement",
-          "systems": [],
+          "systems": [
+            "Stanton"
+          ],
           "illegal": false
         },
         {
@@ -62683,7 +62721,9 @@
           "titleKey": "foxwell_eliminateall_paf_m_title_001",
           "titleEN": "Yellow Level Contract: Clear Out PAF",
           "faction": "Foxwell Enforcement",
-          "systems": [],
+          "systems": [
+            "Stanton"
+          ],
           "illegal": false
         },
         {
@@ -62708,7 +62748,9 @@
           "titleKey": "foxwell_eliminateall_olp_m_title_001",
           "titleEN": "Yellow Level Contract: Merc Work",
           "faction": "Foxwell Enforcement",
-          "systems": [],
+          "systems": [
+            "Stanton"
+          ],
           "illegal": false
         },
         {
@@ -63529,7 +63571,9 @@
           "titleKey": "foxwell_eliminateall_paf_m_title_001",
           "titleEN": "Yellow Level Contract: Clear Out PAF",
           "faction": "Foxwell Enforcement",
-          "systems": [],
+          "systems": [
+            "Stanton"
+          ],
           "illegal": false
         },
         {
@@ -63554,7 +63598,9 @@
           "titleKey": "foxwell_eliminateall_olp_m_title_001",
           "titleEN": "Yellow Level Contract: Merc Work",
           "faction": "Foxwell Enforcement",
-          "systems": [],
+          "systems": [
+            "Stanton"
+          ],
           "illegal": false
         },
         {
@@ -64007,7 +64053,9 @@
           "titleKey": "foxwell_eliminateall_paf_m_title_001",
           "titleEN": "Yellow Level Contract: Clear Out PAF",
           "faction": "Foxwell Enforcement",
-          "systems": [],
+          "systems": [
+            "Stanton"
+          ],
           "illegal": false
         },
         {
@@ -64032,7 +64080,9 @@
           "titleKey": "foxwell_eliminateall_olp_m_title_001",
           "titleEN": "Yellow Level Contract: Merc Work",
           "faction": "Foxwell Enforcement",
-          "systems": [],
+          "systems": [
+            "Stanton"
+          ],
           "illegal": false
         },
         {
@@ -89729,7 +89779,9 @@
           "titleKey": "shubin_rockcracker_solo_title_01",
           "titleEN": "QV Breaker Station Mining Rights (Exclusive)",
           "faction": "Shubin Interstellar",
-          "systems": [],
+          "systems": [
+            "Nyx"
+          ],
           "illegal": false
         },
         {
@@ -89855,7 +89907,9 @@
           "titleKey": "shubin_rockcracker_solo_title_01",
           "titleEN": "QV Breaker Station Mining Rights (Exclusive)",
           "faction": "Shubin Interstellar",
-          "systems": [],
+          "systems": [
+            "Nyx"
+          ],
           "illegal": false
         },
         {
