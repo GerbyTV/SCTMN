@@ -1,5 +1,5 @@
 {
-  "version": "4.7.0-live.11518367-2",
+  "version": "test",
   "blueprints": [
     {
       "file": "crafting\\blueprints\\crafting\\fpsgear\\BP_CRAFT_gmni_sniper_ballistic_01_arctic01.xml",
@@ -6733,6 +6733,7 @@
           "titleEN": "Orange Level Contract: Destroy Outlaw Infrastructure",
           "faction": "Foxwell Enforcement",
           "systems": [
+            "Pyro",
             "Stanton"
           ],
           "illegal": false
@@ -6742,6 +6743,7 @@
           "titleEN": "Orange Level Contract: Take Out Fuel Supplies",
           "faction": "Foxwell Enforcement",
           "systems": [
+            "Pyro",
             "Stanton"
           ],
           "illegal": false
@@ -6778,6 +6780,7 @@
           "titleEN": "Red Level Contract: Destroy Outlaw Infrastructure",
           "faction": "Foxwell Enforcement",
           "systems": [
+            "Pyro",
             "Stanton"
           ],
           "illegal": false
@@ -6787,6 +6790,7 @@
           "titleEN": "Red Level Contract: Fuel Container Demolition",
           "faction": "Foxwell Enforcement",
           "systems": [
+            "Pyro",
             "Stanton"
           ],
           "illegal": false
@@ -6859,6 +6863,7 @@
           "titleEN": "Yellow Level Contract: Disrupt Operations",
           "faction": "Foxwell Enforcement",
           "systems": [
+            "Pyro",
             "Stanton"
           ],
           "illegal": false
@@ -6868,6 +6873,7 @@
           "titleEN": "Yellow Level Contract: Limiting Potential Threat",
           "faction": "Foxwell Enforcement",
           "systems": [
+            "Pyro",
             "Stanton"
           ],
           "illegal": false
@@ -7157,6 +7163,7 @@
           "titleEN": "Orange Level Contract: Destroy Outlaw Infrastructure",
           "faction": "Foxwell Enforcement",
           "systems": [
+            "Pyro",
             "Stanton"
           ],
           "illegal": false
@@ -7166,6 +7173,7 @@
           "titleEN": "Orange Level Contract: Take Out Fuel Supplies",
           "faction": "Foxwell Enforcement",
           "systems": [
+            "Pyro",
             "Stanton"
           ],
           "illegal": false
@@ -7202,6 +7210,7 @@
           "titleEN": "Red Level Contract: Destroy Outlaw Infrastructure",
           "faction": "Foxwell Enforcement",
           "systems": [
+            "Pyro",
             "Stanton"
           ],
           "illegal": false
@@ -7211,6 +7220,7 @@
           "titleEN": "Red Level Contract: Fuel Container Demolition",
           "faction": "Foxwell Enforcement",
           "systems": [
+            "Pyro",
             "Stanton"
           ],
           "illegal": false
@@ -7283,6 +7293,7 @@
           "titleEN": "Yellow Level Contract: Disrupt Operations",
           "faction": "Foxwell Enforcement",
           "systems": [
+            "Pyro",
             "Stanton"
           ],
           "illegal": false
@@ -7292,6 +7303,7 @@
           "titleEN": "Yellow Level Contract: Limiting Potential Threat",
           "faction": "Foxwell Enforcement",
           "systems": [
+            "Pyro",
             "Stanton"
           ],
           "illegal": false
@@ -8145,6 +8157,7 @@
           "titleEN": "Orange Level Contract: Destroy Outlaw Infrastructure",
           "faction": "Foxwell Enforcement",
           "systems": [
+            "Pyro",
             "Stanton"
           ],
           "illegal": false
@@ -8154,6 +8167,7 @@
           "titleEN": "Orange Level Contract: Take Out Fuel Supplies",
           "faction": "Foxwell Enforcement",
           "systems": [
+            "Pyro",
             "Stanton"
           ],
           "illegal": false
@@ -8190,6 +8204,7 @@
           "titleEN": "Red Level Contract: Destroy Outlaw Infrastructure",
           "faction": "Foxwell Enforcement",
           "systems": [
+            "Pyro",
             "Stanton"
           ],
           "illegal": false
@@ -8199,6 +8214,7 @@
           "titleEN": "Red Level Contract: Fuel Container Demolition",
           "faction": "Foxwell Enforcement",
           "systems": [
+            "Pyro",
             "Stanton"
           ],
           "illegal": false
@@ -8271,6 +8287,7 @@
           "titleEN": "Yellow Level Contract: Disrupt Operations",
           "faction": "Foxwell Enforcement",
           "systems": [
+            "Pyro",
             "Stanton"
           ],
           "illegal": false
@@ -8280,6 +8297,7 @@
           "titleEN": "Yellow Level Contract: Limiting Potential Threat",
           "faction": "Foxwell Enforcement",
           "systems": [
+            "Pyro",
             "Stanton"
           ],
           "illegal": false
@@ -8569,6 +8587,7 @@
           "titleEN": "Orange Level Contract: Destroy Outlaw Infrastructure",
           "faction": "Foxwell Enforcement",
           "systems": [
+            "Pyro",
             "Stanton"
           ],
           "illegal": false
@@ -8578,6 +8597,7 @@
           "titleEN": "Orange Level Contract: Take Out Fuel Supplies",
           "faction": "Foxwell Enforcement",
           "systems": [
+            "Pyro",
             "Stanton"
           ],
           "illegal": false
@@ -8614,6 +8634,7 @@
           "titleEN": "Red Level Contract: Destroy Outlaw Infrastructure",
           "faction": "Foxwell Enforcement",
           "systems": [
+            "Pyro",
             "Stanton"
           ],
           "illegal": false
@@ -8623,6 +8644,7 @@
           "titleEN": "Red Level Contract: Fuel Container Demolition",
           "faction": "Foxwell Enforcement",
           "systems": [
+            "Pyro",
             "Stanton"
           ],
           "illegal": false
@@ -8695,6 +8717,7 @@
           "titleEN": "Yellow Level Contract: Disrupt Operations",
           "faction": "Foxwell Enforcement",
           "systems": [
+            "Pyro",
             "Stanton"
           ],
           "illegal": false
@@ -8704,6 +8727,7 @@
           "titleEN": "Yellow Level Contract: Limiting Potential Threat",
           "faction": "Foxwell Enforcement",
           "systems": [
+            "Pyro",
             "Stanton"
           ],
           "illegal": false
@@ -9557,6 +9581,7 @@
           "titleEN": "Orange Level Contract: Destroy Outlaw Infrastructure",
           "faction": "Foxwell Enforcement",
           "systems": [
+            "Pyro",
             "Stanton"
           ],
           "illegal": false
@@ -9566,6 +9591,7 @@
           "titleEN": "Orange Level Contract: Take Out Fuel Supplies",
           "faction": "Foxwell Enforcement",
           "systems": [
+            "Pyro",
             "Stanton"
           ],
           "illegal": false
@@ -9602,6 +9628,7 @@
           "titleEN": "Red Level Contract: Destroy Outlaw Infrastructure",
           "faction": "Foxwell Enforcement",
           "systems": [
+            "Pyro",
             "Stanton"
           ],
           "illegal": false
@@ -9611,6 +9638,7 @@
           "titleEN": "Red Level Contract: Fuel Container Demolition",
           "faction": "Foxwell Enforcement",
           "systems": [
+            "Pyro",
             "Stanton"
           ],
           "illegal": false
@@ -9683,6 +9711,7 @@
           "titleEN": "Yellow Level Contract: Disrupt Operations",
           "faction": "Foxwell Enforcement",
           "systems": [
+            "Pyro",
             "Stanton"
           ],
           "illegal": false
@@ -9692,6 +9721,7 @@
           "titleEN": "Yellow Level Contract: Limiting Potential Threat",
           "faction": "Foxwell Enforcement",
           "systems": [
+            "Pyro",
             "Stanton"
           ],
           "illegal": false
@@ -9981,6 +10011,7 @@
           "titleEN": "Orange Level Contract: Destroy Outlaw Infrastructure",
           "faction": "Foxwell Enforcement",
           "systems": [
+            "Pyro",
             "Stanton"
           ],
           "illegal": false
@@ -9990,6 +10021,7 @@
           "titleEN": "Orange Level Contract: Take Out Fuel Supplies",
           "faction": "Foxwell Enforcement",
           "systems": [
+            "Pyro",
             "Stanton"
           ],
           "illegal": false
@@ -10026,6 +10058,7 @@
           "titleEN": "Red Level Contract: Destroy Outlaw Infrastructure",
           "faction": "Foxwell Enforcement",
           "systems": [
+            "Pyro",
             "Stanton"
           ],
           "illegal": false
@@ -10035,6 +10068,7 @@
           "titleEN": "Red Level Contract: Fuel Container Demolition",
           "faction": "Foxwell Enforcement",
           "systems": [
+            "Pyro",
             "Stanton"
           ],
           "illegal": false
@@ -10107,6 +10141,7 @@
           "titleEN": "Yellow Level Contract: Disrupt Operations",
           "faction": "Foxwell Enforcement",
           "systems": [
+            "Pyro",
             "Stanton"
           ],
           "illegal": false
@@ -10116,6 +10151,7 @@
           "titleEN": "Yellow Level Contract: Limiting Potential Threat",
           "faction": "Foxwell Enforcement",
           "systems": [
+            "Pyro",
             "Stanton"
           ],
           "illegal": false
@@ -10969,6 +11005,7 @@
           "titleEN": "Orange Level Contract: Destroy Outlaw Infrastructure",
           "faction": "Foxwell Enforcement",
           "systems": [
+            "Pyro",
             "Stanton"
           ],
           "illegal": false
@@ -10978,6 +11015,7 @@
           "titleEN": "Orange Level Contract: Take Out Fuel Supplies",
           "faction": "Foxwell Enforcement",
           "systems": [
+            "Pyro",
             "Stanton"
           ],
           "illegal": false
@@ -11014,6 +11052,7 @@
           "titleEN": "Red Level Contract: Destroy Outlaw Infrastructure",
           "faction": "Foxwell Enforcement",
           "systems": [
+            "Pyro",
             "Stanton"
           ],
           "illegal": false
@@ -11023,6 +11062,7 @@
           "titleEN": "Red Level Contract: Fuel Container Demolition",
           "faction": "Foxwell Enforcement",
           "systems": [
+            "Pyro",
             "Stanton"
           ],
           "illegal": false
@@ -11095,6 +11135,7 @@
           "titleEN": "Yellow Level Contract: Disrupt Operations",
           "faction": "Foxwell Enforcement",
           "systems": [
+            "Pyro",
             "Stanton"
           ],
           "illegal": false
@@ -11104,6 +11145,7 @@
           "titleEN": "Yellow Level Contract: Limiting Potential Threat",
           "faction": "Foxwell Enforcement",
           "systems": [
+            "Pyro",
             "Stanton"
           ],
           "illegal": false
@@ -11393,6 +11435,7 @@
           "titleEN": "Orange Level Contract: Destroy Outlaw Infrastructure",
           "faction": "Foxwell Enforcement",
           "systems": [
+            "Pyro",
             "Stanton"
           ],
           "illegal": false
@@ -11402,6 +11445,7 @@
           "titleEN": "Orange Level Contract: Take Out Fuel Supplies",
           "faction": "Foxwell Enforcement",
           "systems": [
+            "Pyro",
             "Stanton"
           ],
           "illegal": false
@@ -11438,6 +11482,7 @@
           "titleEN": "Red Level Contract: Destroy Outlaw Infrastructure",
           "faction": "Foxwell Enforcement",
           "systems": [
+            "Pyro",
             "Stanton"
           ],
           "illegal": false
@@ -11447,6 +11492,7 @@
           "titleEN": "Red Level Contract: Fuel Container Demolition",
           "faction": "Foxwell Enforcement",
           "systems": [
+            "Pyro",
             "Stanton"
           ],
           "illegal": false
@@ -11519,6 +11565,7 @@
           "titleEN": "Yellow Level Contract: Disrupt Operations",
           "faction": "Foxwell Enforcement",
           "systems": [
+            "Pyro",
             "Stanton"
           ],
           "illegal": false
@@ -11528,6 +11575,7 @@
           "titleEN": "Yellow Level Contract: Limiting Potential Threat",
           "faction": "Foxwell Enforcement",
           "systems": [
+            "Pyro",
             "Stanton"
           ],
           "illegal": false
@@ -12546,7 +12594,10 @@
           "titleKey": "shubin_industrial_shipmining_vh_org_title_001",
           "titleEN": "Special Purchase Order: Mined Materials",
           "faction": "Shubin Interstellar",
-          "systems": [],
+          "systems": [
+            "Pyro",
+            "Stanton"
+          ],
           "illegal": false
         },
         {
@@ -12787,7 +12838,10 @@
           "titleKey": "shubin_industrial_shipmining_vh_org_title_001",
           "titleEN": "Special Purchase Order: Mined Materials",
           "faction": "Shubin Interstellar",
-          "systems": [],
+          "systems": [
+            "Nyx",
+            "Pyro"
+          ],
           "illegal": false
         },
         {
@@ -12986,7 +13040,10 @@
           "titleKey": "shubin_industrial_shipmining_vh_org_title_001",
           "titleEN": "Special Purchase Order: Mined Materials",
           "faction": "Shubin Interstellar",
-          "systems": [],
+          "systems": [
+            "Pyro",
+            "Stanton"
+          ],
           "illegal": false
         },
         {
@@ -13227,7 +13284,10 @@
           "titleKey": "shubin_industrial_shipmining_vh_org_title_001",
           "titleEN": "Special Purchase Order: Mined Materials",
           "faction": "Shubin Interstellar",
-          "systems": [],
+          "systems": [
+            "Nyx",
+            "Pyro"
+          ],
           "illegal": false
         },
         {
@@ -13381,6 +13441,7 @@
         "Shubin Interstellar: Small Purchase Order: Ship Mined Ore",
         "Shubin Interstellar: Small Purchase Order: Ship Mined Ore",
         "Shubin Interstellar: Small Purchase Order: Ship Mined Ore",
+        "Shubin Interstellar: Special Purchase Order: Mined Materials",
         "Shubin Interstellar: Special Purchase Order: Mined Materials",
         "Shubin Interstellar: XL Purchase Order: Hand Mined Materials",
         "Shubin Interstellar: XL Purchase Order: Hand Mined Materials",
@@ -13645,7 +13706,20 @@
           "titleKey": "shubin_industrial_shipmining_vh_org_title_001",
           "titleEN": "Special Purchase Order: Mined Materials",
           "faction": "Shubin Interstellar",
-          "systems": [],
+          "systems": [
+            "Pyro",
+            "Stanton"
+          ],
+          "illegal": false
+        },
+        {
+          "titleKey": "shubin_industrial_shipmining_vh_org_title_001",
+          "titleEN": "Special Purchase Order: Mined Materials",
+          "faction": "Shubin Interstellar",
+          "systems": [
+            "Nyx",
+            "Pyro"
+          ],
           "illegal": false
         },
         {
@@ -13892,7 +13966,8 @@
           "titleEN": "~mission(Contractor|RecoverItemTitle)",
           "faction": "Bit Zeros",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": true
         }
@@ -13968,7 +14043,8 @@
           "titleEN": "~mission(Contractor|RecoverItemTitle)",
           "faction": "Bit Zeros",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": true
         }
@@ -14044,7 +14120,8 @@
           "titleEN": "~mission(Contractor|RecoverItemTitle)",
           "faction": "Bit Zeros",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": true
         }
@@ -14120,7 +14197,8 @@
           "titleEN": "~mission(Contractor|RecoverItemTitle)",
           "faction": "Bit Zeros",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": true
         }
@@ -15686,7 +15764,10 @@
           "titleKey": "shubin_industrial_shipmining_vh_org_title_001",
           "titleEN": "Special Purchase Order: Mined Materials",
           "faction": "Shubin Interstellar",
-          "systems": [],
+          "systems": [
+            "Pyro",
+            "Stanton"
+          ],
           "illegal": false
         },
         {
@@ -15947,7 +16028,10 @@
           "titleKey": "shubin_industrial_shipmining_vh_org_title_001",
           "titleEN": "Special Purchase Order: Mined Materials",
           "faction": "Shubin Interstellar",
-          "systems": [],
+          "systems": [
+            "Pyro",
+            "Stanton"
+          ],
           "illegal": false
         },
         {
@@ -16144,7 +16228,10 @@
           "titleKey": "shubin_industrial_shipmining_vh_org_title_001",
           "titleEN": "Special Purchase Order: Mined Materials",
           "faction": "Shubin Interstellar",
-          "systems": [],
+          "systems": [
+            "Pyro",
+            "Stanton"
+          ],
           "illegal": false
         },
         {
@@ -16341,7 +16428,10 @@
           "titleKey": "shubin_industrial_shipmining_vh_org_title_001",
           "titleEN": "Special Purchase Order: Mined Materials",
           "faction": "Shubin Interstellar",
-          "systems": [],
+          "systems": [
+            "Pyro",
+            "Stanton"
+          ],
           "illegal": false
         },
         {
@@ -17139,6 +17229,7 @@
           "faction": "Bit Zeros",
           "systems": [
             "Nyx",
+            "Pyro",
             "Stanton"
           ],
           "illegal": true
@@ -17149,6 +17240,7 @@
           "faction": "Bit Zeros",
           "systems": [
             "Nyx",
+            "Pyro",
             "Stanton"
           ],
           "illegal": true
@@ -17159,6 +17251,7 @@
           "faction": "Bit Zeros",
           "systems": [
             "Nyx",
+            "Pyro",
             "Stanton"
           ],
           "illegal": true
@@ -17169,6 +17262,7 @@
           "faction": "Bit Zeros",
           "systems": [
             "Nyx",
+            "Pyro",
             "Stanton"
           ],
           "illegal": true
@@ -17179,6 +17273,7 @@
           "faction": "Bit Zeros",
           "systems": [
             "Nyx",
+            "Pyro",
             "Stanton"
           ],
           "illegal": true
@@ -17189,6 +17284,7 @@
           "faction": "Bit Zeros",
           "systems": [
             "Nyx",
+            "Pyro",
             "Stanton"
           ],
           "illegal": true
@@ -17199,6 +17295,7 @@
           "faction": "Bit Zeros",
           "systems": [
             "Nyx",
+            "Pyro",
             "Stanton"
           ],
           "illegal": true
@@ -17312,6 +17409,7 @@
           "faction": "Bit Zeros",
           "systems": [
             "Nyx",
+            "Pyro",
             "Stanton"
           ],
           "illegal": true
@@ -17322,6 +17420,7 @@
           "faction": "Bit Zeros",
           "systems": [
             "Nyx",
+            "Pyro",
             "Stanton"
           ],
           "illegal": true
@@ -17332,6 +17431,7 @@
           "faction": "Bit Zeros",
           "systems": [
             "Nyx",
+            "Pyro",
             "Stanton"
           ],
           "illegal": true
@@ -17342,6 +17442,7 @@
           "faction": "Bit Zeros",
           "systems": [
             "Nyx",
+            "Pyro",
             "Stanton"
           ],
           "illegal": true
@@ -17352,6 +17453,7 @@
           "faction": "Bit Zeros",
           "systems": [
             "Nyx",
+            "Pyro",
             "Stanton"
           ],
           "illegal": true
@@ -17362,6 +17464,7 @@
           "faction": "Bit Zeros",
           "systems": [
             "Nyx",
+            "Pyro",
             "Stanton"
           ],
           "illegal": true
@@ -17372,6 +17475,7 @@
           "faction": "Bit Zeros",
           "systems": [
             "Nyx",
+            "Pyro",
             "Stanton"
           ],
           "illegal": true
@@ -23649,6 +23753,7 @@
           "faction": "Bit Zeros",
           "systems": [
             "Nyx",
+            "Pyro",
             "Stanton"
           ],
           "illegal": true
@@ -23659,6 +23764,7 @@
           "faction": "Bit Zeros",
           "systems": [
             "Nyx",
+            "Pyro",
             "Stanton"
           ],
           "illegal": true
@@ -23669,6 +23775,7 @@
           "faction": "Bit Zeros",
           "systems": [
             "Nyx",
+            "Pyro",
             "Stanton"
           ],
           "illegal": true
@@ -23679,6 +23786,7 @@
           "faction": "Bit Zeros",
           "systems": [
             "Nyx",
+            "Pyro",
             "Stanton"
           ],
           "illegal": true
@@ -23689,6 +23797,7 @@
           "faction": "Bit Zeros",
           "systems": [
             "Nyx",
+            "Pyro",
             "Stanton"
           ],
           "illegal": true
@@ -23699,6 +23808,7 @@
           "faction": "Bit Zeros",
           "systems": [
             "Nyx",
+            "Pyro",
             "Stanton"
           ],
           "illegal": true
@@ -23709,6 +23819,7 @@
           "faction": "Bit Zeros",
           "systems": [
             "Nyx",
+            "Pyro",
             "Stanton"
           ],
           "illegal": true
@@ -23814,6 +23925,7 @@
           "faction": "Bit Zeros",
           "systems": [
             "Nyx",
+            "Pyro",
             "Stanton"
           ],
           "illegal": true
@@ -23824,6 +23936,7 @@
           "faction": "Bit Zeros",
           "systems": [
             "Nyx",
+            "Pyro",
             "Stanton"
           ],
           "illegal": true
@@ -23834,6 +23947,7 @@
           "faction": "Bit Zeros",
           "systems": [
             "Nyx",
+            "Pyro",
             "Stanton"
           ],
           "illegal": true
@@ -23844,6 +23958,7 @@
           "faction": "Bit Zeros",
           "systems": [
             "Nyx",
+            "Pyro",
             "Stanton"
           ],
           "illegal": true
@@ -23854,6 +23969,7 @@
           "faction": "Bit Zeros",
           "systems": [
             "Nyx",
+            "Pyro",
             "Stanton"
           ],
           "illegal": true
@@ -23864,6 +23980,7 @@
           "faction": "Bit Zeros",
           "systems": [
             "Nyx",
+            "Pyro",
             "Stanton"
           ],
           "illegal": true
@@ -23874,6 +23991,7 @@
           "faction": "Bit Zeros",
           "systems": [
             "Nyx",
+            "Pyro",
             "Stanton"
           ],
           "illegal": true
@@ -23979,6 +24097,7 @@
           "faction": "Bit Zeros",
           "systems": [
             "Nyx",
+            "Pyro",
             "Stanton"
           ],
           "illegal": true
@@ -23989,6 +24108,7 @@
           "faction": "Bit Zeros",
           "systems": [
             "Nyx",
+            "Pyro",
             "Stanton"
           ],
           "illegal": true
@@ -23999,6 +24119,7 @@
           "faction": "Bit Zeros",
           "systems": [
             "Nyx",
+            "Pyro",
             "Stanton"
           ],
           "illegal": true
@@ -24009,6 +24130,7 @@
           "faction": "Bit Zeros",
           "systems": [
             "Nyx",
+            "Pyro",
             "Stanton"
           ],
           "illegal": true
@@ -24019,6 +24141,7 @@
           "faction": "Bit Zeros",
           "systems": [
             "Nyx",
+            "Pyro",
             "Stanton"
           ],
           "illegal": true
@@ -24029,6 +24152,7 @@
           "faction": "Bit Zeros",
           "systems": [
             "Nyx",
+            "Pyro",
             "Stanton"
           ],
           "illegal": true
@@ -24039,6 +24163,7 @@
           "faction": "Bit Zeros",
           "systems": [
             "Nyx",
+            "Pyro",
             "Stanton"
           ],
           "illegal": true
@@ -24144,6 +24269,7 @@
           "faction": "Bit Zeros",
           "systems": [
             "Nyx",
+            "Pyro",
             "Stanton"
           ],
           "illegal": true
@@ -24154,6 +24280,7 @@
           "faction": "Bit Zeros",
           "systems": [
             "Nyx",
+            "Pyro",
             "Stanton"
           ],
           "illegal": true
@@ -24164,6 +24291,7 @@
           "faction": "Bit Zeros",
           "systems": [
             "Nyx",
+            "Pyro",
             "Stanton"
           ],
           "illegal": true
@@ -24174,6 +24302,7 @@
           "faction": "Bit Zeros",
           "systems": [
             "Nyx",
+            "Pyro",
             "Stanton"
           ],
           "illegal": true
@@ -24184,6 +24313,7 @@
           "faction": "Bit Zeros",
           "systems": [
             "Nyx",
+            "Pyro",
             "Stanton"
           ],
           "illegal": true
@@ -24194,6 +24324,7 @@
           "faction": "Bit Zeros",
           "systems": [
             "Nyx",
+            "Pyro",
             "Stanton"
           ],
           "illegal": true
@@ -24204,6 +24335,7 @@
           "faction": "Bit Zeros",
           "systems": [
             "Nyx",
+            "Pyro",
             "Stanton"
           ],
           "illegal": true
@@ -24309,6 +24441,7 @@
           "faction": "Bit Zeros",
           "systems": [
             "Nyx",
+            "Pyro",
             "Stanton"
           ],
           "illegal": true
@@ -24319,6 +24452,7 @@
           "faction": "Bit Zeros",
           "systems": [
             "Nyx",
+            "Pyro",
             "Stanton"
           ],
           "illegal": true
@@ -24329,6 +24463,7 @@
           "faction": "Bit Zeros",
           "systems": [
             "Nyx",
+            "Pyro",
             "Stanton"
           ],
           "illegal": true
@@ -24339,6 +24474,7 @@
           "faction": "Bit Zeros",
           "systems": [
             "Nyx",
+            "Pyro",
             "Stanton"
           ],
           "illegal": true
@@ -24349,6 +24485,7 @@
           "faction": "Bit Zeros",
           "systems": [
             "Nyx",
+            "Pyro",
             "Stanton"
           ],
           "illegal": true
@@ -24359,6 +24496,7 @@
           "faction": "Bit Zeros",
           "systems": [
             "Nyx",
+            "Pyro",
             "Stanton"
           ],
           "illegal": true
@@ -24369,6 +24507,7 @@
           "faction": "Bit Zeros",
           "systems": [
             "Nyx",
+            "Pyro",
             "Stanton"
           ],
           "illegal": true
@@ -24474,6 +24613,7 @@
           "faction": "Bit Zeros",
           "systems": [
             "Nyx",
+            "Pyro",
             "Stanton"
           ],
           "illegal": true
@@ -24484,6 +24624,7 @@
           "faction": "Bit Zeros",
           "systems": [
             "Nyx",
+            "Pyro",
             "Stanton"
           ],
           "illegal": true
@@ -24494,6 +24635,7 @@
           "faction": "Bit Zeros",
           "systems": [
             "Nyx",
+            "Pyro",
             "Stanton"
           ],
           "illegal": true
@@ -24504,6 +24646,7 @@
           "faction": "Bit Zeros",
           "systems": [
             "Nyx",
+            "Pyro",
             "Stanton"
           ],
           "illegal": true
@@ -24514,6 +24657,7 @@
           "faction": "Bit Zeros",
           "systems": [
             "Nyx",
+            "Pyro",
             "Stanton"
           ],
           "illegal": true
@@ -24524,6 +24668,7 @@
           "faction": "Bit Zeros",
           "systems": [
             "Nyx",
+            "Pyro",
             "Stanton"
           ],
           "illegal": true
@@ -24534,6 +24679,7 @@
           "faction": "Bit Zeros",
           "systems": [
             "Nyx",
+            "Pyro",
             "Stanton"
           ],
           "illegal": true
@@ -24639,6 +24785,7 @@
           "faction": "Bit Zeros",
           "systems": [
             "Nyx",
+            "Pyro",
             "Stanton"
           ],
           "illegal": true
@@ -24649,6 +24796,7 @@
           "faction": "Bit Zeros",
           "systems": [
             "Nyx",
+            "Pyro",
             "Stanton"
           ],
           "illegal": true
@@ -24659,6 +24807,7 @@
           "faction": "Bit Zeros",
           "systems": [
             "Nyx",
+            "Pyro",
             "Stanton"
           ],
           "illegal": true
@@ -24669,6 +24818,7 @@
           "faction": "Bit Zeros",
           "systems": [
             "Nyx",
+            "Pyro",
             "Stanton"
           ],
           "illegal": true
@@ -24679,6 +24829,7 @@
           "faction": "Bit Zeros",
           "systems": [
             "Nyx",
+            "Pyro",
             "Stanton"
           ],
           "illegal": true
@@ -24689,6 +24840,7 @@
           "faction": "Bit Zeros",
           "systems": [
             "Nyx",
+            "Pyro",
             "Stanton"
           ],
           "illegal": true
@@ -24699,6 +24851,7 @@
           "faction": "Bit Zeros",
           "systems": [
             "Nyx",
+            "Pyro",
             "Stanton"
           ],
           "illegal": true
@@ -24804,6 +24957,7 @@
           "faction": "Bit Zeros",
           "systems": [
             "Nyx",
+            "Pyro",
             "Stanton"
           ],
           "illegal": true
@@ -24814,6 +24968,7 @@
           "faction": "Bit Zeros",
           "systems": [
             "Nyx",
+            "Pyro",
             "Stanton"
           ],
           "illegal": true
@@ -24824,6 +24979,7 @@
           "faction": "Bit Zeros",
           "systems": [
             "Nyx",
+            "Pyro",
             "Stanton"
           ],
           "illegal": true
@@ -24834,6 +24990,7 @@
           "faction": "Bit Zeros",
           "systems": [
             "Nyx",
+            "Pyro",
             "Stanton"
           ],
           "illegal": true
@@ -24844,6 +25001,7 @@
           "faction": "Bit Zeros",
           "systems": [
             "Nyx",
+            "Pyro",
             "Stanton"
           ],
           "illegal": true
@@ -24854,6 +25012,7 @@
           "faction": "Bit Zeros",
           "systems": [
             "Nyx",
+            "Pyro",
             "Stanton"
           ],
           "illegal": true
@@ -24864,6 +25023,7 @@
           "faction": "Bit Zeros",
           "systems": [
             "Nyx",
+            "Pyro",
             "Stanton"
           ],
           "illegal": true
@@ -26338,7 +26498,11 @@
           "titleKey": "vaughn_eliminatespecific_fps_storm_h_title_001",
           "titleEN": "A Challenging Contract",
           "faction": "Vaughn",
-          "systems": [],
+          "systems": [
+            "Nyx",
+            "Pyro",
+            "Stanton"
+          ],
           "illegal": true
         },
         {
@@ -37381,7 +37545,8 @@
           "titleEN": "~mission(Contractor|RecoverItemTitle)",
           "faction": "Bit Zeros",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": true
         }
@@ -37551,7 +37716,8 @@
           "titleEN": "~mission(Contractor|RecoverItemTitle)",
           "faction": "Bit Zeros",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": true
         }
@@ -37721,7 +37887,8 @@
           "titleEN": "~mission(Contractor|RecoverItemTitle)",
           "faction": "Bit Zeros",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": true
         }
@@ -37812,7 +37979,8 @@
           "titleEN": "~mission(Contractor|RecoverItemTitle)",
           "faction": "Bit Zeros",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": true
         }
@@ -37888,7 +38056,11 @@
           "titleKey": "vaughn_eliminatespecific_fps_storm_h_title_001",
           "titleEN": "A Challenging Contract",
           "faction": "Vaughn",
-          "systems": [],
+          "systems": [
+            "Nyx",
+            "Pyro",
+            "Stanton"
+          ],
           "illegal": true
         },
         {
@@ -37995,7 +38167,11 @@
           "titleKey": "vaughn_eliminatespecific_fps_storm_h_title_001",
           "titleEN": "A Challenging Contract",
           "faction": "Vaughn",
-          "systems": [],
+          "systems": [
+            "Nyx",
+            "Pyro",
+            "Stanton"
+          ],
           "illegal": true
         },
         {
@@ -50144,7 +50320,10 @@
           "titleKey": "shubin_industrial_shipmining_vh_org_title_001",
           "titleEN": "Special Purchase Order: Mined Materials",
           "faction": "Shubin Interstellar",
-          "systems": [],
+          "systems": [
+            "Nyx",
+            "Pyro"
+          ],
           "illegal": false
         },
         {
@@ -56728,7 +56907,11 @@
           "titleKey": "vaughn_eliminatespecific_fps_storm_h_title_001",
           "titleEN": "A Challenging Contract",
           "faction": "Vaughn",
-          "systems": [],
+          "systems": [
+            "Nyx",
+            "Pyro",
+            "Stanton"
+          ],
           "illegal": true
         },
         {
@@ -56834,7 +57017,11 @@
           "titleKey": "vaughn_eliminatespecific_fps_storm_h_title_001",
           "titleEN": "A Challenging Contract",
           "faction": "Vaughn",
-          "systems": [],
+          "systems": [
+            "Nyx",
+            "Pyro",
+            "Stanton"
+          ],
           "illegal": true
         },
         {
@@ -58025,6 +58212,7 @@
           "faction": "Bit Zeros",
           "systems": [
             "Nyx",
+            "Pyro",
             "Stanton"
           ],
           "illegal": true
@@ -58035,6 +58223,7 @@
           "faction": "Bit Zeros",
           "systems": [
             "Nyx",
+            "Pyro",
             "Stanton"
           ],
           "illegal": true
@@ -58045,6 +58234,7 @@
           "faction": "Bit Zeros",
           "systems": [
             "Nyx",
+            "Pyro",
             "Stanton"
           ],
           "illegal": true
@@ -58055,6 +58245,7 @@
           "faction": "Bit Zeros",
           "systems": [
             "Nyx",
+            "Pyro",
             "Stanton"
           ],
           "illegal": true
@@ -58065,6 +58256,7 @@
           "faction": "Bit Zeros",
           "systems": [
             "Nyx",
+            "Pyro",
             "Stanton"
           ],
           "illegal": true
@@ -58075,6 +58267,7 @@
           "faction": "Bit Zeros",
           "systems": [
             "Nyx",
+            "Pyro",
             "Stanton"
           ],
           "illegal": true
@@ -58085,6 +58278,7 @@
           "faction": "Bit Zeros",
           "systems": [
             "Nyx",
+            "Pyro",
             "Stanton"
           ],
           "illegal": true
@@ -58193,6 +58387,7 @@
           "faction": "Bit Zeros",
           "systems": [
             "Nyx",
+            "Pyro",
             "Stanton"
           ],
           "illegal": true
@@ -58203,6 +58398,7 @@
           "faction": "Bit Zeros",
           "systems": [
             "Nyx",
+            "Pyro",
             "Stanton"
           ],
           "illegal": true
@@ -58213,6 +58409,7 @@
           "faction": "Bit Zeros",
           "systems": [
             "Nyx",
+            "Pyro",
             "Stanton"
           ],
           "illegal": true
@@ -58223,6 +58420,7 @@
           "faction": "Bit Zeros",
           "systems": [
             "Nyx",
+            "Pyro",
             "Stanton"
           ],
           "illegal": true
@@ -58233,6 +58431,7 @@
           "faction": "Bit Zeros",
           "systems": [
             "Nyx",
+            "Pyro",
             "Stanton"
           ],
           "illegal": true
@@ -58243,6 +58442,7 @@
           "faction": "Bit Zeros",
           "systems": [
             "Nyx",
+            "Pyro",
             "Stanton"
           ],
           "illegal": true
@@ -58253,6 +58453,7 @@
           "faction": "Bit Zeros",
           "systems": [
             "Nyx",
+            "Pyro",
             "Stanton"
           ],
           "illegal": true
@@ -59501,7 +59702,8 @@
           "titleEN": "Come to Aid of Convoy",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -59510,7 +59712,8 @@
           "titleEN": "Convoy Caught in Brutal Attack",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -59519,7 +59722,8 @@
           "titleEN": "Eliminate Vanduul Ship",
           "faction": "InterSec Defense Solution",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -59528,7 +59732,8 @@
           "titleEN": "Extremely Dangerous Defense",
           "faction": "Eckhart Security",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -59537,7 +59742,8 @@
           "titleEN": "High-Risk Ship Encounter",
           "faction": "Eckhart Security",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -59546,7 +59752,8 @@
           "titleEN": "Neutralize UEE Threat: ~mission(TargetName)",
           "faction": "InterSec Defense Solution",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -59555,7 +59762,8 @@
           "titleEN": "Neutralize Vanduul Target",
           "faction": "InterSec Defense Solution",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -59564,7 +59772,8 @@
           "titleEN": "New Defense Contract: ~mission(TargetName) Elimination",
           "faction": "InterSec Defense Solution",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -59573,7 +59782,8 @@
           "titleEN": "Pilot Seeking Combat Support",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -59582,7 +59792,8 @@
           "titleEN": "Pilot in Distress",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -59591,7 +59802,8 @@
           "titleEN": "Preemptive Strike On ~mission(TargetName)",
           "faction": "InterSec Defense Solution",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -59600,7 +59812,8 @@
           "titleEN": "Reduce Valakkar Breaker Station Population",
           "faction": "Highpoint Wilderness Specialists",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -59609,7 +59822,8 @@
           "titleEN": "Respond to Distress Beacon",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -59618,7 +59832,8 @@
           "titleEN": "Save Ship",
           "faction": "Eckhart Security",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -59627,7 +59842,8 @@
           "titleEN": "Ship Needs Emergency Assistance",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -59636,7 +59852,8 @@
           "titleEN": "Stop Attack on High-Profile Client",
           "faction": "Eckhart Security",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -59645,7 +59862,8 @@
           "titleEN": "Stop Deadly Ship Attack",
           "faction": "Eckhart Security",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -59654,7 +59872,8 @@
           "titleEN": "Support Client Under Attack",
           "faction": "Eckhart Security",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -59663,7 +59882,8 @@
           "titleEN": "Terrorist ~mission(TargetName) to be Neutralized",
           "faction": "InterSec Defense Solution",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -59671,7 +59891,9 @@
           "titleKey": "bhg_bounty_title_rockcracker_001",
           "titleEN": "Verified Bounty: ~mission(TargetName) at QV Breaker Station",
           "faction": "Bounty Hunters Guild",
-          "systems": [],
+          "systems": [
+            "Pyro"
+          ],
           "illegal": false
         }
       ],
@@ -59777,7 +59999,11 @@
           "titleKey": "bhg_eliminateboss_fps_rockcracker_warehouse_name_001",
           "titleEN": "High-Risk Bounty: ~mission(TargetName) at QV Breaker Station",
           "faction": "Bounty Hunters Guild",
-          "systems": [],
+          "systems": [
+            "Nyx",
+            "Pyro",
+            "Stanton"
+          ],
           "illegal": false
         }
       ],
@@ -59883,7 +60109,11 @@
           "titleKey": "bhg_eliminateboss_fps_rockcracker_warehouse_name_001",
           "titleEN": "High-Risk Bounty: ~mission(TargetName) at QV Breaker Station",
           "faction": "Bounty Hunters Guild",
-          "systems": [],
+          "systems": [
+            "Nyx",
+            "Pyro",
+            "Stanton"
+          ],
           "illegal": false
         }
       ],
@@ -59982,7 +60212,9 @@
           "titleKey": "shubin_rockcracker_solo_title_01",
           "titleEN": "QV Breaker Station Mining Rights (Exclusive)",
           "faction": "Shubin Interstellar",
-          "systems": [],
+          "systems": [
+            "Pyro"
+          ],
           "illegal": false
         },
         {
@@ -59999,7 +60231,8 @@
           "titleEN": "~mission(Contractor|RecoverItemTitle)",
           "faction": "Bit Zeros",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": true
         },
@@ -60008,7 +60241,8 @@
           "titleEN": "~mission(Contractor|RecoverItemTitle)",
           "faction": "Dead Saints",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": true
         }
@@ -60108,7 +60342,9 @@
           "titleKey": "shubin_rockcracker_solo_title_01",
           "titleEN": "QV Breaker Station Mining Rights (Exclusive)",
           "faction": "Shubin Interstellar",
-          "systems": [],
+          "systems": [
+            "Pyro"
+          ],
           "illegal": false
         },
         {
@@ -60125,7 +60361,8 @@
           "titleEN": "~mission(Contractor|RecoverItemTitle)",
           "faction": "Bit Zeros",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": true
         },
@@ -60134,7 +60371,8 @@
           "titleEN": "~mission(Contractor|RecoverItemTitle)",
           "faction": "Dead Saints",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": true
         }
@@ -60261,7 +60499,8 @@
           "titleEN": "Come to Aid of Convoy",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -60270,7 +60509,8 @@
           "titleEN": "Convoy Caught in Brutal Attack",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -60279,7 +60519,8 @@
           "titleEN": "Eliminate Vanduul Ship",
           "faction": "InterSec Defense Solution",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -60288,7 +60529,8 @@
           "titleEN": "Extremely Dangerous Defense",
           "faction": "Eckhart Security",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -60297,7 +60539,8 @@
           "titleEN": "High-Risk Ship Encounter",
           "faction": "Eckhart Security",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -60306,7 +60549,8 @@
           "titleEN": "Neutralize UEE Threat: ~mission(TargetName)",
           "faction": "InterSec Defense Solution",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -60315,7 +60559,8 @@
           "titleEN": "Neutralize Vanduul Target",
           "faction": "InterSec Defense Solution",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -60324,7 +60569,8 @@
           "titleEN": "New Defense Contract: ~mission(TargetName) Elimination",
           "faction": "InterSec Defense Solution",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -60333,7 +60579,8 @@
           "titleEN": "Pilot Seeking Combat Support",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -60342,7 +60589,8 @@
           "titleEN": "Pilot in Distress",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -60351,7 +60599,8 @@
           "titleEN": "Preemptive Strike On ~mission(TargetName)",
           "faction": "InterSec Defense Solution",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -60360,7 +60609,8 @@
           "titleEN": "Reduce Valakkar Breaker Station Population",
           "faction": "Highpoint Wilderness Specialists",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -60369,7 +60619,8 @@
           "titleEN": "Respond to Distress Beacon",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -60378,7 +60629,8 @@
           "titleEN": "Save Ship",
           "faction": "Eckhart Security",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -60387,7 +60639,8 @@
           "titleEN": "Ship Needs Emergency Assistance",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -60396,7 +60649,8 @@
           "titleEN": "Stop Attack on High-Profile Client",
           "faction": "Eckhart Security",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -60405,7 +60659,8 @@
           "titleEN": "Stop Deadly Ship Attack",
           "faction": "Eckhart Security",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -60414,7 +60669,8 @@
           "titleEN": "Support Client Under Attack",
           "faction": "Eckhart Security",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -60423,7 +60679,8 @@
           "titleEN": "Terrorist ~mission(TargetName) to be Neutralized",
           "faction": "InterSec Defense Solution",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -60431,7 +60688,9 @@
           "titleKey": "bhg_bounty_title_rockcracker_001",
           "titleEN": "Verified Bounty: ~mission(TargetName) at QV Breaker Station",
           "faction": "Bounty Hunters Guild",
-          "systems": [],
+          "systems": [
+            "Pyro"
+          ],
           "illegal": false
         }
       ],
@@ -60557,7 +60816,8 @@
           "titleEN": "Come to Aid of Convoy",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -60566,7 +60826,8 @@
           "titleEN": "Convoy Caught in Brutal Attack",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -60575,7 +60836,8 @@
           "titleEN": "Eliminate Vanduul Ship",
           "faction": "InterSec Defense Solution",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -60584,7 +60846,8 @@
           "titleEN": "Extremely Dangerous Defense",
           "faction": "Eckhart Security",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -60593,7 +60856,8 @@
           "titleEN": "High-Risk Ship Encounter",
           "faction": "Eckhart Security",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -60602,7 +60866,8 @@
           "titleEN": "Neutralize UEE Threat: ~mission(TargetName)",
           "faction": "InterSec Defense Solution",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -60611,7 +60876,8 @@
           "titleEN": "Neutralize Vanduul Target",
           "faction": "InterSec Defense Solution",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -60620,7 +60886,8 @@
           "titleEN": "New Defense Contract: ~mission(TargetName) Elimination",
           "faction": "InterSec Defense Solution",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -60629,7 +60896,8 @@
           "titleEN": "Pilot Seeking Combat Support",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -60638,7 +60906,8 @@
           "titleEN": "Pilot in Distress",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -60647,7 +60916,8 @@
           "titleEN": "Preemptive Strike On ~mission(TargetName)",
           "faction": "InterSec Defense Solution",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -60656,7 +60926,8 @@
           "titleEN": "Reduce Valakkar Breaker Station Population",
           "faction": "Highpoint Wilderness Specialists",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -60665,7 +60936,8 @@
           "titleEN": "Respond to Distress Beacon",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -60674,7 +60946,8 @@
           "titleEN": "Save Ship",
           "faction": "Eckhart Security",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -60683,7 +60956,8 @@
           "titleEN": "Ship Needs Emergency Assistance",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -60692,7 +60966,8 @@
           "titleEN": "Stop Attack on High-Profile Client",
           "faction": "Eckhart Security",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -60701,7 +60976,8 @@
           "titleEN": "Stop Deadly Ship Attack",
           "faction": "Eckhart Security",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -60710,7 +60986,8 @@
           "titleEN": "Support Client Under Attack",
           "faction": "Eckhart Security",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -60719,7 +60996,8 @@
           "titleEN": "Terrorist ~mission(TargetName) to be Neutralized",
           "faction": "InterSec Defense Solution",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -60727,7 +61005,9 @@
           "titleKey": "bhg_bounty_title_rockcracker_001",
           "titleEN": "Verified Bounty: ~mission(TargetName) at QV Breaker Station",
           "faction": "Bounty Hunters Guild",
-          "systems": [],
+          "systems": [
+            "Pyro"
+          ],
           "illegal": false
         }
       ],
@@ -60833,7 +61113,11 @@
           "titleKey": "bhg_eliminateboss_fps_rockcracker_warehouse_name_001",
           "titleEN": "High-Risk Bounty: ~mission(TargetName) at QV Breaker Station",
           "faction": "Bounty Hunters Guild",
-          "systems": [],
+          "systems": [
+            "Nyx",
+            "Pyro",
+            "Stanton"
+          ],
           "illegal": false
         }
       ],
@@ -60939,7 +61223,11 @@
           "titleKey": "bhg_eliminateboss_fps_rockcracker_warehouse_name_001",
           "titleEN": "High-Risk Bounty: ~mission(TargetName) at QV Breaker Station",
           "faction": "Bounty Hunters Guild",
-          "systems": [],
+          "systems": [
+            "Nyx",
+            "Pyro",
+            "Stanton"
+          ],
           "illegal": false
         }
       ],
@@ -61038,7 +61326,9 @@
           "titleKey": "shubin_rockcracker_solo_title_01",
           "titleEN": "QV Breaker Station Mining Rights (Exclusive)",
           "faction": "Shubin Interstellar",
-          "systems": [],
+          "systems": [
+            "Pyro"
+          ],
           "illegal": false
         },
         {
@@ -61055,7 +61345,8 @@
           "titleEN": "~mission(Contractor|RecoverItemTitle)",
           "faction": "Bit Zeros",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": true
         },
@@ -61064,7 +61355,8 @@
           "titleEN": "~mission(Contractor|RecoverItemTitle)",
           "faction": "Dead Saints",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": true
         }
@@ -61164,7 +61456,9 @@
           "titleKey": "shubin_rockcracker_solo_title_01",
           "titleEN": "QV Breaker Station Mining Rights (Exclusive)",
           "faction": "Shubin Interstellar",
-          "systems": [],
+          "systems": [
+            "Pyro"
+          ],
           "illegal": false
         },
         {
@@ -61181,7 +61475,8 @@
           "titleEN": "~mission(Contractor|RecoverItemTitle)",
           "faction": "Bit Zeros",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": true
         },
@@ -61190,7 +61485,8 @@
           "titleEN": "~mission(Contractor|RecoverItemTitle)",
           "faction": "Dead Saints",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": true
         }
@@ -61317,7 +61613,8 @@
           "titleEN": "Come to Aid of Convoy",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -61326,7 +61623,8 @@
           "titleEN": "Convoy Caught in Brutal Attack",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -61335,7 +61633,8 @@
           "titleEN": "Eliminate Vanduul Ship",
           "faction": "InterSec Defense Solution",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -61344,7 +61643,8 @@
           "titleEN": "Extremely Dangerous Defense",
           "faction": "Eckhart Security",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -61353,7 +61653,8 @@
           "titleEN": "High-Risk Ship Encounter",
           "faction": "Eckhart Security",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -61362,7 +61663,8 @@
           "titleEN": "Neutralize UEE Threat: ~mission(TargetName)",
           "faction": "InterSec Defense Solution",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -61371,7 +61673,8 @@
           "titleEN": "Neutralize Vanduul Target",
           "faction": "InterSec Defense Solution",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -61380,7 +61683,8 @@
           "titleEN": "New Defense Contract: ~mission(TargetName) Elimination",
           "faction": "InterSec Defense Solution",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -61389,7 +61693,8 @@
           "titleEN": "Pilot Seeking Combat Support",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -61398,7 +61703,8 @@
           "titleEN": "Pilot in Distress",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -61407,7 +61713,8 @@
           "titleEN": "Preemptive Strike On ~mission(TargetName)",
           "faction": "InterSec Defense Solution",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -61416,7 +61723,8 @@
           "titleEN": "Reduce Valakkar Breaker Station Population",
           "faction": "Highpoint Wilderness Specialists",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -61425,7 +61733,8 @@
           "titleEN": "Respond to Distress Beacon",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -61434,7 +61743,8 @@
           "titleEN": "Save Ship",
           "faction": "Eckhart Security",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -61443,7 +61753,8 @@
           "titleEN": "Ship Needs Emergency Assistance",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -61452,7 +61763,8 @@
           "titleEN": "Stop Attack on High-Profile Client",
           "faction": "Eckhart Security",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -61461,7 +61773,8 @@
           "titleEN": "Stop Deadly Ship Attack",
           "faction": "Eckhart Security",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -61470,7 +61783,8 @@
           "titleEN": "Support Client Under Attack",
           "faction": "Eckhart Security",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -61479,7 +61793,8 @@
           "titleEN": "Terrorist ~mission(TargetName) to be Neutralized",
           "faction": "InterSec Defense Solution",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -61487,7 +61802,9 @@
           "titleKey": "bhg_bounty_title_rockcracker_001",
           "titleEN": "Verified Bounty: ~mission(TargetName) at QV Breaker Station",
           "faction": "Bounty Hunters Guild",
-          "systems": [],
+          "systems": [
+            "Pyro"
+          ],
           "illegal": false
         }
       ],
@@ -61613,7 +61930,8 @@
           "titleEN": "Come to Aid of Convoy",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -61622,7 +61940,8 @@
           "titleEN": "Convoy Caught in Brutal Attack",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -61631,7 +61950,8 @@
           "titleEN": "Eliminate Vanduul Ship",
           "faction": "InterSec Defense Solution",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -61640,7 +61960,8 @@
           "titleEN": "Extremely Dangerous Defense",
           "faction": "Eckhart Security",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -61649,7 +61970,8 @@
           "titleEN": "High-Risk Ship Encounter",
           "faction": "Eckhart Security",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -61658,7 +61980,8 @@
           "titleEN": "Neutralize UEE Threat: ~mission(TargetName)",
           "faction": "InterSec Defense Solution",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -61667,7 +61990,8 @@
           "titleEN": "Neutralize Vanduul Target",
           "faction": "InterSec Defense Solution",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -61676,7 +62000,8 @@
           "titleEN": "New Defense Contract: ~mission(TargetName) Elimination",
           "faction": "InterSec Defense Solution",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -61685,7 +62010,8 @@
           "titleEN": "Pilot Seeking Combat Support",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -61694,7 +62020,8 @@
           "titleEN": "Pilot in Distress",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -61703,7 +62030,8 @@
           "titleEN": "Preemptive Strike On ~mission(TargetName)",
           "faction": "InterSec Defense Solution",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -61712,7 +62040,8 @@
           "titleEN": "Reduce Valakkar Breaker Station Population",
           "faction": "Highpoint Wilderness Specialists",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -61721,7 +62050,8 @@
           "titleEN": "Respond to Distress Beacon",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -61730,7 +62060,8 @@
           "titleEN": "Save Ship",
           "faction": "Eckhart Security",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -61739,7 +62070,8 @@
           "titleEN": "Ship Needs Emergency Assistance",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -61748,7 +62080,8 @@
           "titleEN": "Stop Attack on High-Profile Client",
           "faction": "Eckhart Security",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -61757,7 +62090,8 @@
           "titleEN": "Stop Deadly Ship Attack",
           "faction": "Eckhart Security",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -61766,7 +62100,8 @@
           "titleEN": "Support Client Under Attack",
           "faction": "Eckhart Security",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -61775,7 +62110,8 @@
           "titleEN": "Terrorist ~mission(TargetName) to be Neutralized",
           "faction": "InterSec Defense Solution",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -61783,7 +62119,9 @@
           "titleKey": "bhg_bounty_title_rockcracker_001",
           "titleEN": "Verified Bounty: ~mission(TargetName) at QV Breaker Station",
           "faction": "Bounty Hunters Guild",
-          "systems": [],
+          "systems": [
+            "Pyro"
+          ],
           "illegal": false
         }
       ],
@@ -61889,7 +62227,11 @@
           "titleKey": "bhg_eliminateboss_fps_rockcracker_warehouse_name_001",
           "titleEN": "High-Risk Bounty: ~mission(TargetName) at QV Breaker Station",
           "faction": "Bounty Hunters Guild",
-          "systems": [],
+          "systems": [
+            "Nyx",
+            "Pyro",
+            "Stanton"
+          ],
           "illegal": false
         }
       ],
@@ -61988,7 +62330,9 @@
           "titleKey": "shubin_rockcracker_solo_title_01",
           "titleEN": "QV Breaker Station Mining Rights (Exclusive)",
           "faction": "Shubin Interstellar",
-          "systems": [],
+          "systems": [
+            "Pyro"
+          ],
           "illegal": false
         },
         {
@@ -62005,7 +62349,8 @@
           "titleEN": "~mission(Contractor|RecoverItemTitle)",
           "faction": "Bit Zeros",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": true
         },
@@ -62014,7 +62359,8 @@
           "titleEN": "~mission(Contractor|RecoverItemTitle)",
           "faction": "Dead Saints",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": true
         }
@@ -62121,7 +62467,11 @@
           "titleKey": "bhg_eliminateboss_fps_rockcracker_warehouse_name_001",
           "titleEN": "High-Risk Bounty: ~mission(TargetName) at QV Breaker Station",
           "faction": "Bounty Hunters Guild",
-          "systems": [],
+          "systems": [
+            "Nyx",
+            "Pyro",
+            "Stanton"
+          ],
           "illegal": false
         }
       ],
@@ -62220,7 +62570,9 @@
           "titleKey": "shubin_rockcracker_solo_title_01",
           "titleEN": "QV Breaker Station Mining Rights (Exclusive)",
           "faction": "Shubin Interstellar",
-          "systems": [],
+          "systems": [
+            "Pyro"
+          ],
           "illegal": false
         },
         {
@@ -62237,7 +62589,8 @@
           "titleEN": "~mission(Contractor|RecoverItemTitle)",
           "faction": "Bit Zeros",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": true
         },
@@ -62246,7 +62599,8 @@
           "titleEN": "~mission(Contractor|RecoverItemTitle)",
           "faction": "Dead Saints",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": true
         }
@@ -62373,7 +62727,8 @@
           "titleEN": "Come to Aid of Convoy",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -62382,7 +62737,8 @@
           "titleEN": "Convoy Caught in Brutal Attack",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -62391,7 +62747,8 @@
           "titleEN": "Eliminate Vanduul Ship",
           "faction": "InterSec Defense Solution",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -62400,7 +62757,8 @@
           "titleEN": "Extremely Dangerous Defense",
           "faction": "Eckhart Security",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -62409,7 +62767,8 @@
           "titleEN": "High-Risk Ship Encounter",
           "faction": "Eckhart Security",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -62418,7 +62777,8 @@
           "titleEN": "Neutralize UEE Threat: ~mission(TargetName)",
           "faction": "InterSec Defense Solution",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -62427,7 +62787,8 @@
           "titleEN": "Neutralize Vanduul Target",
           "faction": "InterSec Defense Solution",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -62436,7 +62797,8 @@
           "titleEN": "New Defense Contract: ~mission(TargetName) Elimination",
           "faction": "InterSec Defense Solution",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -62445,7 +62807,8 @@
           "titleEN": "Pilot Seeking Combat Support",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -62454,7 +62817,8 @@
           "titleEN": "Pilot in Distress",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -62463,7 +62827,8 @@
           "titleEN": "Preemptive Strike On ~mission(TargetName)",
           "faction": "InterSec Defense Solution",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -62472,7 +62837,8 @@
           "titleEN": "Reduce Valakkar Breaker Station Population",
           "faction": "Highpoint Wilderness Specialists",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -62481,7 +62847,8 @@
           "titleEN": "Respond to Distress Beacon",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -62490,7 +62857,8 @@
           "titleEN": "Save Ship",
           "faction": "Eckhart Security",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -62499,7 +62867,8 @@
           "titleEN": "Ship Needs Emergency Assistance",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -62508,7 +62877,8 @@
           "titleEN": "Stop Attack on High-Profile Client",
           "faction": "Eckhart Security",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -62517,7 +62887,8 @@
           "titleEN": "Stop Deadly Ship Attack",
           "faction": "Eckhart Security",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -62526,7 +62897,8 @@
           "titleEN": "Support Client Under Attack",
           "faction": "Eckhart Security",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -62535,7 +62907,8 @@
           "titleEN": "Terrorist ~mission(TargetName) to be Neutralized",
           "faction": "InterSec Defense Solution",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -62543,7 +62916,9 @@
           "titleKey": "bhg_bounty_title_rockcracker_001",
           "titleEN": "Verified Bounty: ~mission(TargetName) at QV Breaker Station",
           "faction": "Bounty Hunters Guild",
-          "systems": [],
+          "systems": [
+            "Pyro"
+          ],
           "illegal": false
         }
       ],
@@ -62669,7 +63044,8 @@
           "titleEN": "Come to Aid of Convoy",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -62678,7 +63054,8 @@
           "titleEN": "Convoy Caught in Brutal Attack",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -62687,7 +63064,8 @@
           "titleEN": "Eliminate Vanduul Ship",
           "faction": "InterSec Defense Solution",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -62696,7 +63074,8 @@
           "titleEN": "Extremely Dangerous Defense",
           "faction": "Eckhart Security",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -62705,7 +63084,8 @@
           "titleEN": "High-Risk Ship Encounter",
           "faction": "Eckhart Security",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -62714,7 +63094,8 @@
           "titleEN": "Neutralize UEE Threat: ~mission(TargetName)",
           "faction": "InterSec Defense Solution",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -62723,7 +63104,8 @@
           "titleEN": "Neutralize Vanduul Target",
           "faction": "InterSec Defense Solution",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -62732,7 +63114,8 @@
           "titleEN": "New Defense Contract: ~mission(TargetName) Elimination",
           "faction": "InterSec Defense Solution",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -62741,7 +63124,8 @@
           "titleEN": "Pilot Seeking Combat Support",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -62750,7 +63134,8 @@
           "titleEN": "Pilot in Distress",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -62759,7 +63144,8 @@
           "titleEN": "Preemptive Strike On ~mission(TargetName)",
           "faction": "InterSec Defense Solution",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -62768,7 +63154,8 @@
           "titleEN": "Reduce Valakkar Breaker Station Population",
           "faction": "Highpoint Wilderness Specialists",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -62777,7 +63164,8 @@
           "titleEN": "Respond to Distress Beacon",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -62786,7 +63174,8 @@
           "titleEN": "Save Ship",
           "faction": "Eckhart Security",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -62795,7 +63184,8 @@
           "titleEN": "Ship Needs Emergency Assistance",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -62804,7 +63194,8 @@
           "titleEN": "Stop Attack on High-Profile Client",
           "faction": "Eckhart Security",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -62813,7 +63204,8 @@
           "titleEN": "Stop Deadly Ship Attack",
           "faction": "Eckhart Security",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -62822,7 +63214,8 @@
           "titleEN": "Support Client Under Attack",
           "faction": "Eckhart Security",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -62831,7 +63224,8 @@
           "titleEN": "Terrorist ~mission(TargetName) to be Neutralized",
           "faction": "InterSec Defense Solution",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -62839,7 +63233,9 @@
           "titleKey": "bhg_bounty_title_rockcracker_001",
           "titleEN": "Verified Bounty: ~mission(TargetName) at QV Breaker Station",
           "faction": "Bounty Hunters Guild",
-          "systems": [],
+          "systems": [
+            "Pyro"
+          ],
           "illegal": false
         }
       ],
@@ -62945,7 +63341,11 @@
           "titleKey": "bhg_eliminateboss_fps_rockcracker_warehouse_name_001",
           "titleEN": "High-Risk Bounty: ~mission(TargetName) at QV Breaker Station",
           "faction": "Bounty Hunters Guild",
-          "systems": [],
+          "systems": [
+            "Nyx",
+            "Pyro",
+            "Stanton"
+          ],
           "illegal": false
         }
       ],
@@ -63051,7 +63451,11 @@
           "titleKey": "bhg_eliminateboss_fps_rockcracker_warehouse_name_001",
           "titleEN": "High-Risk Bounty: ~mission(TargetName) at QV Breaker Station",
           "faction": "Bounty Hunters Guild",
-          "systems": [],
+          "systems": [
+            "Nyx",
+            "Pyro",
+            "Stanton"
+          ],
           "illegal": false
         }
       ],
@@ -63150,7 +63554,9 @@
           "titleKey": "shubin_rockcracker_solo_title_01",
           "titleEN": "QV Breaker Station Mining Rights (Exclusive)",
           "faction": "Shubin Interstellar",
-          "systems": [],
+          "systems": [
+            "Pyro"
+          ],
           "illegal": false
         },
         {
@@ -63167,7 +63573,8 @@
           "titleEN": "~mission(Contractor|RecoverItemTitle)",
           "faction": "Bit Zeros",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": true
         },
@@ -63176,7 +63583,8 @@
           "titleEN": "~mission(Contractor|RecoverItemTitle)",
           "faction": "Dead Saints",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": true
         }
@@ -63276,7 +63684,9 @@
           "titleKey": "shubin_rockcracker_solo_title_01",
           "titleEN": "QV Breaker Station Mining Rights (Exclusive)",
           "faction": "Shubin Interstellar",
-          "systems": [],
+          "systems": [
+            "Pyro"
+          ],
           "illegal": false
         },
         {
@@ -63293,7 +63703,8 @@
           "titleEN": "~mission(Contractor|RecoverItemTitle)",
           "faction": "Bit Zeros",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": true
         },
@@ -63302,7 +63713,8 @@
           "titleEN": "~mission(Contractor|RecoverItemTitle)",
           "faction": "Dead Saints",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": true
         }
@@ -63429,7 +63841,8 @@
           "titleEN": "Come to Aid of Convoy",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -63438,7 +63851,8 @@
           "titleEN": "Convoy Caught in Brutal Attack",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -63447,7 +63861,8 @@
           "titleEN": "Eliminate Vanduul Ship",
           "faction": "InterSec Defense Solution",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -63456,7 +63871,8 @@
           "titleEN": "Extremely Dangerous Defense",
           "faction": "Eckhart Security",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -63465,7 +63881,8 @@
           "titleEN": "High-Risk Ship Encounter",
           "faction": "Eckhart Security",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -63474,7 +63891,8 @@
           "titleEN": "Neutralize UEE Threat: ~mission(TargetName)",
           "faction": "InterSec Defense Solution",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -63483,7 +63901,8 @@
           "titleEN": "Neutralize Vanduul Target",
           "faction": "InterSec Defense Solution",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -63492,7 +63911,8 @@
           "titleEN": "New Defense Contract: ~mission(TargetName) Elimination",
           "faction": "InterSec Defense Solution",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -63501,7 +63921,8 @@
           "titleEN": "Pilot Seeking Combat Support",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -63510,7 +63931,8 @@
           "titleEN": "Pilot in Distress",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -63519,7 +63941,8 @@
           "titleEN": "Preemptive Strike On ~mission(TargetName)",
           "faction": "InterSec Defense Solution",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -63528,7 +63951,8 @@
           "titleEN": "Reduce Valakkar Breaker Station Population",
           "faction": "Highpoint Wilderness Specialists",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -63537,7 +63961,8 @@
           "titleEN": "Respond to Distress Beacon",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -63546,7 +63971,8 @@
           "titleEN": "Save Ship",
           "faction": "Eckhart Security",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -63555,7 +63981,8 @@
           "titleEN": "Ship Needs Emergency Assistance",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -63564,7 +63991,8 @@
           "titleEN": "Stop Attack on High-Profile Client",
           "faction": "Eckhart Security",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -63573,7 +64001,8 @@
           "titleEN": "Stop Deadly Ship Attack",
           "faction": "Eckhart Security",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -63582,7 +64011,8 @@
           "titleEN": "Support Client Under Attack",
           "faction": "Eckhart Security",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -63591,7 +64021,8 @@
           "titleEN": "Terrorist ~mission(TargetName) to be Neutralized",
           "faction": "InterSec Defense Solution",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -63599,7 +64030,9 @@
           "titleKey": "bhg_bounty_title_rockcracker_001",
           "titleEN": "Verified Bounty: ~mission(TargetName) at QV Breaker Station",
           "faction": "Bounty Hunters Guild",
-          "systems": [],
+          "systems": [
+            "Pyro"
+          ],
           "illegal": false
         }
       ],
@@ -74510,7 +74943,11 @@
           "titleKey": "vaughn_eliminatespecific_fps_storm_h_title_001",
           "titleEN": "A Challenging Contract",
           "faction": "Vaughn",
-          "systems": [],
+          "systems": [
+            "Nyx",
+            "Pyro",
+            "Stanton"
+          ],
           "illegal": true
         },
         {
@@ -74594,7 +75031,11 @@
           "titleKey": "vaughn_eliminatespecific_fps_storm_h_title_001",
           "titleEN": "A Challenging Contract",
           "faction": "Vaughn",
-          "systems": [],
+          "systems": [
+            "Nyx",
+            "Pyro",
+            "Stanton"
+          ],
           "illegal": true
         },
         {
@@ -74678,7 +75119,11 @@
           "titleKey": "vaughn_eliminatespecific_fps_storm_h_title_001",
           "titleEN": "A Challenging Contract",
           "faction": "Vaughn",
-          "systems": [],
+          "systems": [
+            "Nyx",
+            "Pyro",
+            "Stanton"
+          ],
           "illegal": true
         },
         {
@@ -74762,7 +75207,11 @@
           "titleKey": "vaughn_eliminatespecific_fps_storm_h_title_001",
           "titleEN": "A Challenging Contract",
           "faction": "Vaughn",
-          "systems": [],
+          "systems": [
+            "Nyx",
+            "Pyro",
+            "Stanton"
+          ],
           "illegal": true
         },
         {
@@ -75972,7 +76421,9 @@
           "titleKey": "rain_collectresources_multiple_gen_name_01",
           "titleEN": "Additional Resources For Research",
           "faction": "Rayari Inc.",
-          "systems": [],
+          "systems": [
+            "Pyro"
+          ],
           "illegal": false
         },
         {
@@ -76078,7 +76529,9 @@
           "titleKey": "rain_collectresources_multiple_gen_name_01",
           "titleEN": "Additional Resources For Research",
           "faction": "Rayari Inc.",
-          "systems": [],
+          "systems": [
+            "Pyro"
+          ],
           "illegal": false
         },
         {
@@ -82424,7 +82877,9 @@
           "titleKey": "rain_collectresources_multiple_gen_name_01",
           "titleEN": "Additional Resources For Research",
           "faction": "Rayari Inc.",
-          "systems": [],
+          "systems": [
+            "Pyro"
+          ],
           "illegal": false
         },
         {
@@ -82726,7 +83181,9 @@
           "titleKey": "rain_collectresources_multiple_gen_name_01",
           "titleEN": "Additional Resources For Research",
           "faction": "Rayari Inc.",
-          "systems": [],
+          "systems": [
+            "Pyro"
+          ],
           "illegal": false
         },
         {
@@ -83016,7 +83473,9 @@
           "titleKey": "rain_collectresources_multiple_gen_name_01",
           "titleEN": "Additional Resources For Research",
           "faction": "Rayari Inc.",
-          "systems": [],
+          "systems": [
+            "Pyro"
+          ],
           "illegal": false
         },
         {
@@ -83318,7 +83777,9 @@
           "titleKey": "rain_collectresources_multiple_gen_name_01",
           "titleEN": "Additional Resources For Research",
           "faction": "Rayari Inc.",
-          "systems": [],
+          "systems": [
+            "Pyro"
+          ],
           "illegal": false
         },
         {
@@ -83608,7 +84069,9 @@
           "titleKey": "rain_collectresources_multiple_gen_name_01",
           "titleEN": "Additional Resources For Research",
           "faction": "Rayari Inc.",
-          "systems": [],
+          "systems": [
+            "Pyro"
+          ],
           "illegal": false
         },
         {
@@ -83910,7 +84373,9 @@
           "titleKey": "rain_collectresources_multiple_gen_name_01",
           "titleEN": "Additional Resources For Research",
           "faction": "Rayari Inc.",
-          "systems": [],
+          "systems": [
+            "Pyro"
+          ],
           "illegal": false
         },
         {
@@ -84114,7 +84579,9 @@
           "titleKey": "rain_collectresources_multiple_gen_name_01",
           "titleEN": "Additional Resources For Research",
           "faction": "Rayari Inc.",
-          "systems": [],
+          "systems": [
+            "Pyro"
+          ],
           "illegal": false
         },
         {
@@ -84318,7 +84785,9 @@
           "titleKey": "rain_collectresources_multiple_gen_name_01",
           "titleEN": "Additional Resources For Research",
           "faction": "Rayari Inc.",
-          "systems": [],
+          "systems": [
+            "Pyro"
+          ],
           "illegal": false
         },
         {
@@ -86008,7 +86477,11 @@
           "titleKey": "vaughn_eliminatespecific_fps_storm_h_title_001",
           "titleEN": "A Challenging Contract",
           "faction": "Vaughn",
-          "systems": [],
+          "systems": [
+            "Nyx",
+            "Pyro",
+            "Stanton"
+          ],
           "illegal": true
         },
         {
@@ -86092,7 +86565,11 @@
           "titleKey": "vaughn_eliminatespecific_fps_storm_h_title_001",
           "titleEN": "A Challenging Contract",
           "faction": "Vaughn",
-          "systems": [],
+          "systems": [
+            "Nyx",
+            "Pyro",
+            "Stanton"
+          ],
           "illegal": true
         },
         {
@@ -86176,7 +86653,11 @@
           "titleKey": "vaughn_eliminatespecific_fps_storm_h_title_001",
           "titleEN": "A Challenging Contract",
           "faction": "Vaughn",
-          "systems": [],
+          "systems": [
+            "Nyx",
+            "Pyro",
+            "Stanton"
+          ],
           "illegal": true
         },
         {
@@ -86259,7 +86740,9 @@
           "titleKey": "rain_collectresources_multiple_gen_name_01",
           "titleEN": "Additional Resources For Research",
           "faction": "Rayari Inc.",
-          "systems": [],
+          "systems": [
+            "Pyro"
+          ],
           "illegal": false
         }
       ],
@@ -86348,7 +86831,9 @@
           "titleKey": "rain_collectresources_multiple_gen_name_01",
           "titleEN": "Additional Resources For Research",
           "faction": "Rayari Inc.",
-          "systems": [],
+          "systems": [
+            "Pyro"
+          ],
           "illegal": false
         }
       ],
@@ -86437,7 +86922,9 @@
           "titleKey": "rain_collectresources_multiple_gen_name_01",
           "titleEN": "Additional Resources For Research",
           "faction": "Rayari Inc.",
-          "systems": [],
+          "systems": [
+            "Pyro"
+          ],
           "illegal": false
         }
       ],
@@ -86526,7 +87013,9 @@
           "titleKey": "rain_collectresources_multiple_gen_name_01",
           "titleEN": "Additional Resources For Research",
           "faction": "Rayari Inc.",
-          "systems": [],
+          "systems": [
+            "Pyro"
+          ],
           "illegal": false
         }
       ],
@@ -86615,7 +87104,9 @@
           "titleKey": "rain_collectresources_multiple_gen_name_01",
           "titleEN": "Additional Resources For Research",
           "faction": "Rayari Inc.",
-          "systems": [],
+          "systems": [
+            "Pyro"
+          ],
           "illegal": false
         }
       ],
@@ -86691,21 +87182,27 @@
           "titleKey": "rain_collectresources_single_olp_name_01",
           "titleEN": "Need Resource for Research\\n",
           "faction": "Rayari Inc.",
-          "systems": [],
+          "systems": [
+            "Pyro"
+          ],
           "illegal": false
         },
         {
           "titleKey": "kaboos_mission_title",
           "titleEN": "Retrieve Additional Smuggler Intel",
           "faction": "InterSec Defense Solution",
-          "systems": [],
+          "systems": [
+            "Pyro"
+          ],
           "illegal": false
         },
         {
           "titleKey": "rain_collectresources_multiple_olp_name_01",
           "titleEN": "Vital Resources Needed For Research",
           "faction": "Rayari Inc.",
-          "systems": [],
+          "systems": [
+            "Pyro"
+          ],
           "illegal": false
         }
       ],
@@ -86801,7 +87298,8 @@
           "titleEN": "Defend InterSec Operative",
           "faction": "InterSec Defense Solution",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -86810,7 +87308,8 @@
           "titleEN": "Handle Vanduul Attack on Ship",
           "faction": "InterSec Defense Solution",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -86818,7 +87317,9 @@
           "titleKey": "rain_collectresources_single_olp_name_01",
           "titleEN": "Need Resource for Research\\n",
           "faction": "Rayari Inc.",
-          "systems": [],
+          "systems": [
+            "Pyro"
+          ],
           "illegal": false
         },
         {
@@ -86826,7 +87327,8 @@
           "titleEN": "Operative Extraction",
           "faction": "InterSec Defense Solution",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -86835,7 +87337,8 @@
           "titleEN": "Pilot Under Fire From Vanduul",
           "faction": "InterSec Defense Solution",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -86844,7 +87347,8 @@
           "titleEN": "Protect Vital Asset",
           "faction": "InterSec Defense Solution",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -86852,7 +87356,9 @@
           "titleKey": "rain_collectresources_multiple_olp_name_01",
           "titleEN": "Vital Resources Needed For Research",
           "faction": "Rayari Inc.",
-          "systems": [],
+          "systems": [
+            "Pyro"
+          ],
           "illegal": false
         }
       ],
@@ -86944,28 +87450,36 @@
           "titleKey": "rain_collectresources_single_olp_name_01",
           "titleEN": "Need Resource for Research\\n",
           "faction": "Rayari Inc.",
-          "systems": [],
+          "systems": [
+            "Pyro"
+          ],
           "illegal": false
         },
         {
           "titleKey": "intersec_resourcegathering_cryopods_title",
           "titleEN": "Recover Vanduul Corpses",
           "faction": "InterSec Defense Solution",
-          "systems": [],
+          "systems": [
+            "Nyx"
+          ],
           "illegal": false
         },
         {
           "titleKey": "intersec_resourcegathering_tech_title",
           "titleEN": "Recover Vanduul Tech",
           "faction": "InterSec Defense Solution",
-          "systems": [],
+          "systems": [
+            "Nyx"
+          ],
           "illegal": false
         },
         {
           "titleKey": "rain_collectresources_multiple_olp_name_01",
           "titleEN": "Vital Resources Needed For Research",
           "faction": "Rayari Inc.",
-          "systems": [],
+          "systems": [
+            "Pyro"
+          ],
           "illegal": false
         }
       ],
@@ -87064,7 +87578,8 @@
           "titleEN": "Defend InterSec Operative",
           "faction": "InterSec Defense Solution",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -87073,7 +87588,8 @@
           "titleEN": "Handle Vanduul Attack on Ship",
           "faction": "InterSec Defense Solution",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -87081,7 +87597,9 @@
           "titleKey": "rain_collectresources_single_olp_name_01",
           "titleEN": "Need Resource for Research\\n",
           "faction": "Rayari Inc.",
-          "systems": [],
+          "systems": [
+            "Pyro"
+          ],
           "illegal": false
         },
         {
@@ -87089,7 +87607,8 @@
           "titleEN": "Operative Extraction",
           "faction": "InterSec Defense Solution",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -87098,7 +87617,8 @@
           "titleEN": "Pilot Under Fire From Vanduul",
           "faction": "InterSec Defense Solution",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -87107,7 +87627,8 @@
           "titleEN": "Protect Vital Asset",
           "faction": "InterSec Defense Solution",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -87115,28 +87636,36 @@
           "titleKey": "intersec_resourcegathering_cryopods_title",
           "titleEN": "Recover Vanduul Corpses",
           "faction": "InterSec Defense Solution",
-          "systems": [],
+          "systems": [
+            "Nyx"
+          ],
           "illegal": false
         },
         {
           "titleKey": "intersec_resourcegathering_tech_title",
           "titleEN": "Recover Vanduul Tech",
           "faction": "InterSec Defense Solution",
-          "systems": [],
+          "systems": [
+            "Nyx"
+          ],
           "illegal": false
         },
         {
           "titleKey": "kaboos_mission_title",
           "titleEN": "Retrieve Additional Smuggler Intel",
           "faction": "InterSec Defense Solution",
-          "systems": [],
+          "systems": [
+            "Pyro"
+          ],
           "illegal": false
         },
         {
           "titleKey": "rain_collectresources_multiple_olp_name_01",
           "titleEN": "Vital Resources Needed For Research",
           "faction": "Rayari Inc.",
-          "systems": [],
+          "systems": [
+            "Pyro"
+          ],
           "illegal": false
         }
       ],
@@ -87406,21 +87935,27 @@
           "titleKey": "rain_collectresources_single_olp_name_01",
           "titleEN": "Need Resource for Research\\n",
           "faction": "Rayari Inc.",
-          "systems": [],
+          "systems": [
+            "Pyro"
+          ],
           "illegal": false
         },
         {
           "titleKey": "kaboos_mission_title",
           "titleEN": "Retrieve Additional Smuggler Intel",
           "faction": "InterSec Defense Solution",
-          "systems": [],
+          "systems": [
+            "Pyro"
+          ],
           "illegal": false
         },
         {
           "titleKey": "rain_collectresources_multiple_olp_name_01",
           "titleEN": "Vital Resources Needed For Research",
           "faction": "Rayari Inc.",
-          "systems": [],
+          "systems": [
+            "Pyro"
+          ],
           "illegal": false
         }
       ],
@@ -87513,7 +88048,9 @@
           "titleKey": "rain_collectresources_single_olp_name_01",
           "titleEN": "Need Resource for Research\\n",
           "faction": "Rayari Inc.",
-          "systems": [],
+          "systems": [
+            "Pyro"
+          ],
           "illegal": false
         },
         {
@@ -87521,7 +88058,8 @@
           "titleEN": "Patrol Dangerous Sector",
           "faction": "InterSec Defense Solution",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -87530,7 +88068,8 @@
           "titleEN": "Patrol Vanduul Hunting Ground",
           "faction": "InterSec Defense Solution",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -87539,7 +88078,8 @@
           "titleEN": "Patrol to Prevent Possible Attack",
           "faction": "InterSec Defense Solution",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -87547,7 +88087,9 @@
           "titleKey": "rain_collectresources_multiple_olp_name_01",
           "titleEN": "Vital Resources Needed For Research",
           "faction": "Rayari Inc.",
-          "systems": [],
+          "systems": [
+            "Pyro"
+          ],
           "illegal": false
         }
       ],
@@ -87640,7 +88182,9 @@
           "titleKey": "rain_collectresources_single_olp_name_01",
           "titleEN": "Need Resource for Research\\n",
           "faction": "Rayari Inc.",
-          "systems": [],
+          "systems": [
+            "Pyro"
+          ],
           "illegal": false
         },
         {
@@ -87648,7 +88192,8 @@
           "titleEN": "Patrol Dangerous Sector",
           "faction": "InterSec Defense Solution",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -87657,7 +88202,8 @@
           "titleEN": "Patrol Vanduul Hunting Ground",
           "faction": "InterSec Defense Solution",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -87666,7 +88212,8 @@
           "titleEN": "Patrol to Prevent Possible Attack",
           "faction": "InterSec Defense Solution",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -87674,7 +88221,9 @@
           "titleKey": "rain_collectresources_multiple_olp_name_01",
           "titleEN": "Vital Resources Needed For Research",
           "faction": "Rayari Inc.",
-          "systems": [],
+          "systems": [
+            "Pyro"
+          ],
           "illegal": false
         }
       ],
@@ -87765,21 +88314,27 @@
           "titleKey": "rain_collectresources_single_olp_name_01",
           "titleEN": "Need Resource for Research\\n",
           "faction": "Rayari Inc.",
-          "systems": [],
+          "systems": [
+            "Pyro"
+          ],
           "illegal": false
         },
         {
           "titleKey": "kaboos_mission_title",
           "titleEN": "Retrieve Additional Smuggler Intel",
           "faction": "InterSec Defense Solution",
-          "systems": [],
+          "systems": [
+            "Pyro"
+          ],
           "illegal": false
         },
         {
           "titleKey": "rain_collectresources_multiple_olp_name_01",
           "titleEN": "Vital Resources Needed For Research",
           "faction": "Rayari Inc.",
-          "systems": [],
+          "systems": [
+            "Pyro"
+          ],
           "illegal": false
         }
       ],
@@ -87873,7 +88428,9 @@
           "titleKey": "rain_collectresources_single_olp_name_01",
           "titleEN": "Need Resource for Research\\n",
           "faction": "Rayari Inc.",
-          "systems": [],
+          "systems": [
+            "Pyro"
+          ],
           "illegal": false
         },
         {
@@ -87881,7 +88438,8 @@
           "titleEN": "Patrol Dangerous Sector",
           "faction": "InterSec Defense Solution",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -87890,7 +88448,8 @@
           "titleEN": "Patrol Vanduul Hunting Ground",
           "faction": "InterSec Defense Solution",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -87899,7 +88458,8 @@
           "titleEN": "Patrol to Prevent Possible Attack",
           "faction": "InterSec Defense Solution",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -87907,14 +88467,18 @@
           "titleKey": "kaboos_mission_title",
           "titleEN": "Retrieve Additional Smuggler Intel",
           "faction": "InterSec Defense Solution",
-          "systems": [],
+          "systems": [
+            "Pyro"
+          ],
           "illegal": false
         },
         {
           "titleKey": "rain_collectresources_multiple_olp_name_01",
           "titleEN": "Vital Resources Needed For Research",
           "faction": "Rayari Inc.",
-          "systems": [],
+          "systems": [
+            "Pyro"
+          ],
           "illegal": false
         }
       ],
@@ -87991,7 +88555,9 @@
           "titleKey": "shubin_rockcracker_solo_title_01",
           "titleEN": "QV Breaker Station Mining Rights (Exclusive)",
           "faction": "Shubin Interstellar",
-          "systems": [],
+          "systems": [
+            "Pyro"
+          ],
           "illegal": false
         },
         {
@@ -88008,7 +88574,8 @@
           "titleEN": "~mission(Contractor|RecoverItemTitle)",
           "faction": "Bit Zeros",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": true
         },
@@ -88017,7 +88584,8 @@
           "titleEN": "~mission(Contractor|RecoverItemTitle)",
           "faction": "Dead Saints",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": true
         }
@@ -88117,7 +88685,9 @@
           "titleKey": "shubin_rockcracker_solo_title_01",
           "titleEN": "QV Breaker Station Mining Rights (Exclusive)",
           "faction": "Shubin Interstellar",
-          "systems": [],
+          "systems": [
+            "Pyro"
+          ],
           "illegal": false
         },
         {
@@ -88134,7 +88704,8 @@
           "titleEN": "~mission(Contractor|RecoverItemTitle)",
           "faction": "Bit Zeros",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": true
         },
@@ -88143,7 +88714,8 @@
           "titleEN": "~mission(Contractor|RecoverItemTitle)",
           "faction": "Dead Saints",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": true
         }
@@ -88250,7 +88822,11 @@
           "titleKey": "bhg_eliminateboss_fps_rockcracker_warehouse_name_001",
           "titleEN": "High-Risk Bounty: ~mission(TargetName) at QV Breaker Station",
           "faction": "Bounty Hunters Guild",
-          "systems": [],
+          "systems": [
+            "Nyx",
+            "Pyro",
+            "Stanton"
+          ],
           "illegal": false
         }
       ],
@@ -88378,7 +88954,8 @@
           "titleEN": "Come to Aid of Convoy",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -88387,7 +88964,8 @@
           "titleEN": "Convoy Caught in Brutal Attack",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -88396,7 +88974,8 @@
           "titleEN": "Eliminate Vanduul Ship",
           "faction": "InterSec Defense Solution",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -88414,7 +88993,8 @@
           "titleEN": "Extremely Dangerous Defense",
           "faction": "Eckhart Security",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -88422,7 +89002,11 @@
           "titleKey": "bhg_eliminateboss_fps_rockcracker_warehouse_name_001",
           "titleEN": "High-Risk Bounty: ~mission(TargetName) at QV Breaker Station",
           "faction": "Bounty Hunters Guild",
-          "systems": [],
+          "systems": [
+            "Nyx",
+            "Pyro",
+            "Stanton"
+          ],
           "illegal": false
         },
         {
@@ -88430,7 +89014,8 @@
           "titleEN": "High-Risk Ship Encounter",
           "faction": "Eckhart Security",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -88439,7 +89024,8 @@
           "titleEN": "Neutralize UEE Threat: ~mission(TargetName)",
           "faction": "InterSec Defense Solution",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -88448,7 +89034,8 @@
           "titleEN": "Neutralize Vanduul Target",
           "faction": "InterSec Defense Solution",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -88457,7 +89044,8 @@
           "titleEN": "New Defense Contract: ~mission(TargetName) Elimination",
           "faction": "InterSec Defense Solution",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -88466,7 +89054,8 @@
           "titleEN": "Pilot Seeking Combat Support",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -88475,7 +89064,8 @@
           "titleEN": "Pilot in Distress",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -88484,7 +89074,8 @@
           "titleEN": "Preemptive Strike On ~mission(TargetName)",
           "faction": "InterSec Defense Solution",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -88493,7 +89084,8 @@
           "titleEN": "Reduce Valakkar Breaker Station Population",
           "faction": "Highpoint Wilderness Specialists",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -88502,7 +89094,8 @@
           "titleEN": "Respond to Distress Beacon",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -88511,7 +89104,8 @@
           "titleEN": "Save Ship",
           "faction": "Eckhart Security",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -88520,7 +89114,8 @@
           "titleEN": "Ship Needs Emergency Assistance",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -88529,7 +89124,8 @@
           "titleEN": "Stop Attack on High-Profile Client",
           "faction": "Eckhart Security",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -88538,7 +89134,8 @@
           "titleEN": "Stop Deadly Ship Attack",
           "faction": "Eckhart Security",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -88547,7 +89144,8 @@
           "titleEN": "Support Client Under Attack",
           "faction": "Eckhart Security",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -88556,7 +89154,8 @@
           "titleEN": "Terrorist ~mission(TargetName) to be Neutralized",
           "faction": "InterSec Defense Solution",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -88564,7 +89163,9 @@
           "titleKey": "bhg_bounty_title_rockcracker_001",
           "titleEN": "Verified Bounty: ~mission(TargetName) at QV Breaker Station",
           "faction": "Bounty Hunters Guild",
-          "systems": [],
+          "systems": [
+            "Pyro"
+          ],
           "illegal": false
         }
       ],
@@ -88696,7 +89297,8 @@
           "titleEN": "Come to Aid of Convoy",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -88705,7 +89307,8 @@
           "titleEN": "Convoy Caught in Brutal Attack",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -88714,7 +89317,8 @@
           "titleEN": "Eliminate Vanduul Ship",
           "faction": "InterSec Defense Solution",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -88732,7 +89336,8 @@
           "titleEN": "Extremely Dangerous Defense",
           "faction": "Eckhart Security",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -88740,7 +89345,11 @@
           "titleKey": "bhg_eliminateboss_fps_rockcracker_warehouse_name_001",
           "titleEN": "High-Risk Bounty: ~mission(TargetName) at QV Breaker Station",
           "faction": "Bounty Hunters Guild",
-          "systems": [],
+          "systems": [
+            "Nyx",
+            "Pyro",
+            "Stanton"
+          ],
           "illegal": false
         },
         {
@@ -88748,7 +89357,8 @@
           "titleEN": "High-Risk Ship Encounter",
           "faction": "Eckhart Security",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -88757,7 +89367,8 @@
           "titleEN": "Neutralize UEE Threat: ~mission(TargetName)",
           "faction": "InterSec Defense Solution",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -88766,7 +89377,8 @@
           "titleEN": "Neutralize Vanduul Target",
           "faction": "InterSec Defense Solution",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -88775,7 +89387,8 @@
           "titleEN": "New Defense Contract: ~mission(TargetName) Elimination",
           "faction": "InterSec Defense Solution",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -88784,7 +89397,8 @@
           "titleEN": "Pilot Seeking Combat Support",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -88793,7 +89407,8 @@
           "titleEN": "Pilot in Distress",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -88802,7 +89417,8 @@
           "titleEN": "Preemptive Strike On ~mission(TargetName)",
           "faction": "InterSec Defense Solution",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -88810,7 +89426,9 @@
           "titleKey": "shubin_rockcracker_solo_title_01",
           "titleEN": "QV Breaker Station Mining Rights (Exclusive)",
           "faction": "Shubin Interstellar",
-          "systems": [],
+          "systems": [
+            "Pyro"
+          ],
           "illegal": false
         },
         {
@@ -88827,7 +89445,8 @@
           "titleEN": "Reduce Valakkar Breaker Station Population",
           "faction": "Highpoint Wilderness Specialists",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -88836,7 +89455,8 @@
           "titleEN": "Respond to Distress Beacon",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -88845,7 +89465,8 @@
           "titleEN": "Save Ship",
           "faction": "Eckhart Security",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -88854,7 +89475,8 @@
           "titleEN": "Ship Needs Emergency Assistance",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -88863,7 +89485,8 @@
           "titleEN": "Stop Attack on High-Profile Client",
           "faction": "Eckhart Security",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -88872,7 +89495,8 @@
           "titleEN": "Stop Deadly Ship Attack",
           "faction": "Eckhart Security",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -88881,7 +89505,8 @@
           "titleEN": "Support Client Under Attack",
           "faction": "Eckhart Security",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -88890,7 +89515,8 @@
           "titleEN": "Terrorist ~mission(TargetName) to be Neutralized",
           "faction": "InterSec Defense Solution",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -88898,7 +89524,9 @@
           "titleKey": "bhg_bounty_title_rockcracker_001",
           "titleEN": "Verified Bounty: ~mission(TargetName) at QV Breaker Station",
           "faction": "Bounty Hunters Guild",
-          "systems": [],
+          "systems": [
+            "Pyro"
+          ],
           "illegal": false
         },
         {
@@ -88906,7 +89534,8 @@
           "titleEN": "~mission(Contractor|RecoverItemTitle)",
           "faction": "Bit Zeros",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": true
         },
@@ -88915,7 +89544,8 @@
           "titleEN": "~mission(Contractor|RecoverItemTitle)",
           "faction": "Dead Saints",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": true
         }
@@ -90811,7 +91441,9 @@
           "titleKey": "rain_collectresources_multiple_gen_name_01",
           "titleEN": "Additional Resources For Research",
           "faction": "Rayari Inc.",
-          "systems": [],
+          "systems": [
+            "Pyro"
+          ],
           "illegal": false
         }
       ],
@@ -91107,7 +91739,9 @@
           "titleKey": "rain_collectresources_multiple_gen_name_01",
           "titleEN": "Additional Resources For Research",
           "faction": "Rayari Inc.",
-          "systems": [],
+          "systems": [
+            "Pyro"
+          ],
           "illegal": false
         }
       ],
@@ -93654,7 +94288,9 @@
           "titleKey": "kaboos_mission_title",
           "titleEN": "Retrieve Additional Smuggler Intel",
           "faction": "InterSec Defense Solution",
-          "systems": [],
+          "systems": [
+            "Pyro"
+          ],
           "illegal": false
         }
       ],
@@ -93750,7 +94386,9 @@
           "titleKey": "kaboos_mission_title",
           "titleEN": "Retrieve Additional Smuggler Intel",
           "faction": "InterSec Defense Solution",
-          "systems": [],
+          "systems": [
+            "Pyro"
+          ],
           "illegal": false
         }
       ],
@@ -93851,7 +94489,8 @@
           "titleEN": "Defend InterSec Operative",
           "faction": "InterSec Defense Solution",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -93860,7 +94499,8 @@
           "titleEN": "Handle Vanduul Attack on Ship",
           "faction": "InterSec Defense Solution",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -93869,7 +94509,8 @@
           "titleEN": "Operative Extraction",
           "faction": "InterSec Defense Solution",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -93878,7 +94519,8 @@
           "titleEN": "Pilot Under Fire From Vanduul",
           "faction": "InterSec Defense Solution",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -93887,7 +94529,8 @@
           "titleEN": "Protect Vital Asset",
           "faction": "InterSec Defense Solution",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         }
@@ -93985,14 +94628,18 @@
           "titleKey": "intersec_resourcegathering_cryopods_title",
           "titleEN": "Recover Vanduul Corpses",
           "faction": "InterSec Defense Solution",
-          "systems": [],
+          "systems": [
+            "Nyx"
+          ],
           "illegal": false
         },
         {
           "titleKey": "intersec_resourcegathering_tech_title",
           "titleEN": "Recover Vanduul Tech",
           "faction": "InterSec Defense Solution",
-          "systems": [],
+          "systems": [
+            "Nyx"
+          ],
           "illegal": false
         }
       ],
@@ -94091,7 +94738,8 @@
           "titleEN": "Patrol Dangerous Sector",
           "faction": "InterSec Defense Solution",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -94100,7 +94748,8 @@
           "titleEN": "Patrol Vanduul Hunting Ground",
           "faction": "InterSec Defense Solution",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -94109,7 +94758,8 @@
           "titleEN": "Patrol to Prevent Possible Attack",
           "faction": "InterSec Defense Solution",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         }
@@ -94209,7 +94859,8 @@
           "titleEN": "Patrol Dangerous Sector",
           "faction": "InterSec Defense Solution",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -94218,7 +94869,8 @@
           "titleEN": "Patrol Vanduul Hunting Ground",
           "faction": "InterSec Defense Solution",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -94227,7 +94879,8 @@
           "titleEN": "Patrol to Prevent Possible Attack",
           "faction": "InterSec Defense Solution",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         }
@@ -94403,7 +95056,9 @@
           "titleKey": "kaboos_mission_title",
           "titleEN": "Retrieve Additional Smuggler Intel",
           "faction": "InterSec Defense Solution",
-          "systems": [],
+          "systems": [
+            "Pyro"
+          ],
           "illegal": false
         }
       ],
@@ -94499,7 +95154,9 @@
           "titleKey": "kaboos_mission_title",
           "titleEN": "Retrieve Additional Smuggler Intel",
           "faction": "InterSec Defense Solution",
-          "systems": [],
+          "systems": [
+            "Pyro"
+          ],
           "illegal": false
         }
       ],
@@ -94600,7 +95257,8 @@
           "titleEN": "Defend InterSec Operative",
           "faction": "InterSec Defense Solution",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -94609,7 +95267,8 @@
           "titleEN": "Handle Vanduul Attack on Ship",
           "faction": "InterSec Defense Solution",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -94618,7 +95277,8 @@
           "titleEN": "Operative Extraction",
           "faction": "InterSec Defense Solution",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -94627,7 +95287,8 @@
           "titleEN": "Pilot Under Fire From Vanduul",
           "faction": "InterSec Defense Solution",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -94636,7 +95297,8 @@
           "titleEN": "Protect Vital Asset",
           "faction": "InterSec Defense Solution",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         }
@@ -94734,14 +95396,18 @@
           "titleKey": "intersec_resourcegathering_cryopods_title",
           "titleEN": "Recover Vanduul Corpses",
           "faction": "InterSec Defense Solution",
-          "systems": [],
+          "systems": [
+            "Nyx"
+          ],
           "illegal": false
         },
         {
           "titleKey": "intersec_resourcegathering_tech_title",
           "titleEN": "Recover Vanduul Tech",
           "faction": "InterSec Defense Solution",
-          "systems": [],
+          "systems": [
+            "Nyx"
+          ],
           "illegal": false
         }
       ],
@@ -94840,7 +95506,8 @@
           "titleEN": "Patrol Dangerous Sector",
           "faction": "InterSec Defense Solution",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -94849,7 +95516,8 @@
           "titleEN": "Patrol Vanduul Hunting Ground",
           "faction": "InterSec Defense Solution",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -94858,7 +95526,8 @@
           "titleEN": "Patrol to Prevent Possible Attack",
           "faction": "InterSec Defense Solution",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         }
@@ -94958,7 +95627,8 @@
           "titleEN": "Patrol Dangerous Sector",
           "faction": "InterSec Defense Solution",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -94967,7 +95637,8 @@
           "titleEN": "Patrol Vanduul Hunting Ground",
           "faction": "InterSec Defense Solution",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -94976,7 +95647,8 @@
           "titleEN": "Patrol to Prevent Possible Attack",
           "faction": "InterSec Defense Solution",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         }
@@ -95073,7 +95745,9 @@
           "titleKey": "kaboos_mission_title",
           "titleEN": "Retrieve Additional Smuggler Intel",
           "faction": "InterSec Defense Solution",
-          "systems": [],
+          "systems": [
+            "Pyro"
+          ],
           "illegal": false
         }
       ],
@@ -95169,7 +95843,9 @@
           "titleKey": "kaboos_mission_title",
           "titleEN": "Retrieve Additional Smuggler Intel",
           "faction": "InterSec Defense Solution",
-          "systems": [],
+          "systems": [
+            "Pyro"
+          ],
           "illegal": false
         }
       ],
@@ -95270,7 +95946,8 @@
           "titleEN": "Defend InterSec Operative",
           "faction": "InterSec Defense Solution",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -95279,7 +95956,8 @@
           "titleEN": "Handle Vanduul Attack on Ship",
           "faction": "InterSec Defense Solution",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -95288,7 +95966,8 @@
           "titleEN": "Operative Extraction",
           "faction": "InterSec Defense Solution",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -95297,7 +95976,8 @@
           "titleEN": "Pilot Under Fire From Vanduul",
           "faction": "InterSec Defense Solution",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -95306,7 +95986,8 @@
           "titleEN": "Protect Vital Asset",
           "faction": "InterSec Defense Solution",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         }
@@ -95404,14 +96085,18 @@
           "titleKey": "intersec_resourcegathering_cryopods_title",
           "titleEN": "Recover Vanduul Corpses",
           "faction": "InterSec Defense Solution",
-          "systems": [],
+          "systems": [
+            "Nyx"
+          ],
           "illegal": false
         },
         {
           "titleKey": "intersec_resourcegathering_tech_title",
           "titleEN": "Recover Vanduul Tech",
           "faction": "InterSec Defense Solution",
-          "systems": [],
+          "systems": [
+            "Nyx"
+          ],
           "illegal": false
         }
       ],
@@ -95510,7 +96195,8 @@
           "titleEN": "Patrol Dangerous Sector",
           "faction": "InterSec Defense Solution",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -95519,7 +96205,8 @@
           "titleEN": "Patrol Vanduul Hunting Ground",
           "faction": "InterSec Defense Solution",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -95528,7 +96215,8 @@
           "titleEN": "Patrol to Prevent Possible Attack",
           "faction": "InterSec Defense Solution",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         }
@@ -95628,7 +96316,8 @@
           "titleEN": "Patrol Dangerous Sector",
           "faction": "InterSec Defense Solution",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -95637,7 +96326,8 @@
           "titleEN": "Patrol Vanduul Hunting Ground",
           "faction": "InterSec Defense Solution",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -95646,7 +96336,8 @@
           "titleEN": "Patrol to Prevent Possible Attack",
           "faction": "InterSec Defense Solution",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         }
@@ -95743,7 +96434,9 @@
           "titleKey": "kaboos_mission_title",
           "titleEN": "Retrieve Additional Smuggler Intel",
           "faction": "InterSec Defense Solution",
-          "systems": [],
+          "systems": [
+            "Pyro"
+          ],
           "illegal": false
         }
       ],
@@ -95839,7 +96532,9 @@
           "titleKey": "kaboos_mission_title",
           "titleEN": "Retrieve Additional Smuggler Intel",
           "faction": "InterSec Defense Solution",
-          "systems": [],
+          "systems": [
+            "Pyro"
+          ],
           "illegal": false
         }
       ],
@@ -95940,7 +96635,8 @@
           "titleEN": "Defend InterSec Operative",
           "faction": "InterSec Defense Solution",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -95949,7 +96645,8 @@
           "titleEN": "Handle Vanduul Attack on Ship",
           "faction": "InterSec Defense Solution",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -95958,7 +96655,8 @@
           "titleEN": "Operative Extraction",
           "faction": "InterSec Defense Solution",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -95967,7 +96665,8 @@
           "titleEN": "Pilot Under Fire From Vanduul",
           "faction": "InterSec Defense Solution",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -95976,7 +96675,8 @@
           "titleEN": "Protect Vital Asset",
           "faction": "InterSec Defense Solution",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         }
@@ -96074,14 +96774,18 @@
           "titleKey": "intersec_resourcegathering_cryopods_title",
           "titleEN": "Recover Vanduul Corpses",
           "faction": "InterSec Defense Solution",
-          "systems": [],
+          "systems": [
+            "Nyx"
+          ],
           "illegal": false
         },
         {
           "titleKey": "intersec_resourcegathering_tech_title",
           "titleEN": "Recover Vanduul Tech",
           "faction": "InterSec Defense Solution",
-          "systems": [],
+          "systems": [
+            "Nyx"
+          ],
           "illegal": false
         }
       ],
@@ -96180,7 +96884,8 @@
           "titleEN": "Patrol Dangerous Sector",
           "faction": "InterSec Defense Solution",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -96189,7 +96894,8 @@
           "titleEN": "Patrol Vanduul Hunting Ground",
           "faction": "InterSec Defense Solution",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -96198,7 +96904,8 @@
           "titleEN": "Patrol to Prevent Possible Attack",
           "faction": "InterSec Defense Solution",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         }
@@ -96298,7 +97005,8 @@
           "titleEN": "Patrol Dangerous Sector",
           "faction": "InterSec Defense Solution",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -96307,7 +97015,8 @@
           "titleEN": "Patrol Vanduul Hunting Ground",
           "faction": "InterSec Defense Solution",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         },
@@ -96316,7 +97025,8 @@
           "titleEN": "Patrol to Prevent Possible Attack",
           "faction": "InterSec Defense Solution",
           "systems": [
-            "Nyx"
+            "Nyx",
+            "Pyro"
           ],
           "illegal": false
         }
@@ -100809,7 +101519,10 @@
           "titleKey": "shubin_industrial_shipmining_vh_org_title_001",
           "titleEN": "Special Purchase Order: Mined Materials",
           "faction": "Shubin Interstellar",
-          "systems": [],
+          "systems": [
+            "Nyx",
+            "Pyro"
+          ],
           "illegal": false
         },
         {
@@ -101044,7 +101757,10 @@
           "titleKey": "shubin_industrial_shipmining_vh_org_title_001",
           "titleEN": "Special Purchase Order: Mined Materials",
           "faction": "Shubin Interstellar",
-          "systems": [],
+          "systems": [
+            "Nyx",
+            "Pyro"
+          ],
           "illegal": false
         },
         {
@@ -101343,7 +102059,10 @@
           "titleKey": "shubin_industrial_shipmining_vh_org_title_001",
           "titleEN": "Special Purchase Order: Mined Materials",
           "faction": "Shubin Interstellar",
-          "systems": [],
+          "systems": [
+            "Nyx",
+            "Pyro"
+          ],
           "illegal": false
         },
         {
