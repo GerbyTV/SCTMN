@@ -2395,8 +2395,6 @@
         "Shubin Interstellar: Small Purchase Order: Ship Mined Ore",
         "Shubin Interstellar: Special Purchase Order: Mined Materials",
         "Shubin Interstellar: Special Purchase Order: Mined Materials⁠",
-        "Shubin Interstellar: Special Purchase Order: Mined Materials⁠⁠",
-        "Shubin Interstellar: Special Purchase Order: Mined Materials⁠⁠⁠",
         "Shubin Interstellar: XL Purchase Order: Ship Mined Ore",
         "Shubin Interstellar: XL Purchase Order: Ship Mined Ore⁠",
         "Shubin Interstellar: XL Purchase Order: Ship Mined Ore⁠⁠",
@@ -2420,9 +2418,9 @@
         "Shubin Interstellar: Med. Purchase Order: Ship Mined Ore⁠⁠⁠⁠⁠",
         "Shubin Interstellar: Mjr. Purchase Order: Ship Mined Ore⁠⁠",
         "Shubin Interstellar: Mjr. Purchase Order: Ship Mined Ore⁠⁠⁠",
+        "Shubin Interstellar: Mjr. Purchase Order: Ship Mined Ore⁠⁠⁠⁠",
         "Shubin Interstellar: Small Purchase Order: Ship Mined Ore⁠",
         "Shubin Interstellar: Small Purchase Order: Ship Mined Ore⁠⁠",
-        "Shubin Interstellar: Special Purchase Order: Mined Materials⁠⁠⁠⁠",
         "Shubin Interstellar: XL Purchase Order: Ship Mined Ore⁠⁠⁠",
         "Shubin Interstellar: XL Purchase Order: Ship Mined Ore⁠⁠⁠⁠",
         "Shubin Interstellar: XL Purchase Order: Ship Mined Ore⁠⁠⁠⁠⁠",
@@ -2525,52 +2523,7 @@
           "titleKey": "shubin_industrial_shipmining_vh_org_title_001",
           "titleEN": "Special Purchase Order: Mined Materials",
           "faction": "Shubin Interstellar",
-          "systems": [
-            "Staging Point",
-            "HDPC-Cassillo",
-            "Riker Memorial Spaceport",
-            "Sakura Sun Goldenrod Workcenter",
-            "Teasa Spaceport",
-            "Lobby",
-            "August Dunlow Spaceport",
-            "Greycat Stanton IV Production Complex-A",
-            "NB Int. Spaceport"
-          ],
-          "illegal": false
-        },
-        {
-          "titleKey": "shubin_industrial_shipmining_vh_org_title_001",
-          "titleEN": "Special Purchase Order: Mined Materials",
-          "faction": "Shubin Interstellar",
-          "systems": [
-            "HDPC-Cassillo",
-            "Riker Memorial Spaceport",
-            "microTech Logistics Depot S4LD13",
-            "Sakura Sun Goldenrod Workcenter",
-            "August Dunlow Spaceport",
-            "NB Int. Spaceport"
-          ],
-          "illegal": false
-        },
-        {
-          "titleKey": "shubin_industrial_shipmining_vh_org_title_001",
-          "titleEN": "Special Purchase Order: Mined Materials",
-          "faction": "Shubin Interstellar",
-          "systems": [
-            "Staging Point",
-            "Riker Memorial Spaceport",
-            "Exterior Zone 2",
-            "Storehouse",
-            "Security Checkpoint",
-            "Teasa Spaceport",
-            "Lobby",
-            "Shipping Area",
-            "August Dunlow Spaceport",
-            "Inventory Center",
-            "Greycat Stanton IV Production Complex-A",
-            "NB Int. Spaceport",
-            "Security Compound"
-          ],
+          "systems": [],
           "illegal": false
         },
         {
@@ -2779,6 +2732,13 @@
           "illegal": false
         },
         {
+          "titleKey": "shubin_industrial_shipmining_stanton_s_secondary_title_001",
+          "titleEN": "Mjr. Purchase Order: Ship Mined Ore",
+          "faction": "Shubin Interstellar",
+          "systems": [],
+          "illegal": false
+        },
+        {
           "titleKey": "shubin_industrial_shipmining_pyro_s_secondary_title_001",
           "titleEN": "Mjr. Purchase Order: Ship Mined Ore",
           "faction": "Shubin Interstellar",
@@ -2802,48 +2762,6 @@
           "faction": "Shubin Interstellar",
           "systems": [
             "Pyro"
-          ],
-          "illegal": false
-        },
-        {
-          "titleKey": "shubin_industrial_shipmining_vh_org_title_001",
-          "titleEN": "Special Purchase Order: Mined Materials",
-          "faction": "Shubin Interstellar",
-          "systems": [
-            "JumpPoint_Stanton_Terra",
-            "ARC-L3 Modern Express Station",
-            "Staging Point",
-            "HDPC-Cassillo",
-            "Riker Memorial Spaceport",
-            "Covalex Distribution Center S1DC06",
-            "CRU-L4 Shallow Fields Station",
-            "HUR-L4 Melodic Fields Station",
-            "ARC-L5 Yellow Core Station",
-            "Seraphim Station",
-            "HUR-L3 Thundering Express Station",
-            "Sakura Sun Goldenrod Workcenter",
-            "JumpPoint_Stanton_Pyro",
-            "Port Tressler",
-            "Teasa Spaceport",
-            "MIC-L4 Red Crossroads Station",
-            "August Dunlow Spaceport",
-            "HUR-L5 High Course Station",
-            "ARC-L4 Faint Glen Station",
-            "JumpPoint_Stanton_Magnus",
-            "MIC-L2 Long Forest Station",
-            "Greycat Stanton IV Production Complex-A",
-            "ARC-L2 Lively Pathway Station",
-            "NB Int. Spaceport",
-            "MIC-L3 Endless Odyssey Station",
-            "MIC-L5 Modern Icarus Station",
-            "ARC-L1 Wide Forest Station",
-            "CRU-L5 Beautiful Glen Station",
-            "MIC-L1 Shallow Frontier Station",
-            "Baijini Point",
-            "CRU-L1 Ambitious Dream Station",
-            "Everus Harbor",
-            "HUR-L2 Faithful Dream Station",
-            "HUR-L1 Green Glade Station"
           ],
           "illegal": false
         },
@@ -70655,8 +70573,6 @@
         "Shubin Interstellar: Small Purchase Order: Ship Mined Ore",
         "Shubin Interstellar: Special Purchase Order: Mined Materials",
         "Shubin Interstellar: Special Purchase Order: Mined Materials⁠",
-        "Shubin Interstellar: Special Purchase Order: Mined Materials⁠⁠",
-        "Shubin Interstellar: Special Purchase Order: Mined Materials⁠⁠⁠",
         "Shubin Interstellar: XL Purchase Order: Ship Mined Ore",
         "Shubin Interstellar: XL Purchase Order: Ship Mined Ore⁠",
         "Shubin Interstellar: XL Purchase Order: Ship Mined Ore⁠⁠",
@@ -70749,52 +70665,7 @@
           "titleKey": "shubin_industrial_shipmining_vh_org_title_001",
           "titleEN": "Special Purchase Order: Mined Materials",
           "faction": "Shubin Interstellar",
-          "systems": [
-            "Staging Point",
-            "HDPC-Cassillo",
-            "Riker Memorial Spaceport",
-            "Sakura Sun Goldenrod Workcenter",
-            "Teasa Spaceport",
-            "Lobby",
-            "August Dunlow Spaceport",
-            "Greycat Stanton IV Production Complex-A",
-            "NB Int. Spaceport"
-          ],
-          "illegal": false
-        },
-        {
-          "titleKey": "shubin_industrial_shipmining_vh_org_title_001",
-          "titleEN": "Special Purchase Order: Mined Materials",
-          "faction": "Shubin Interstellar",
-          "systems": [
-            "HDPC-Cassillo",
-            "Riker Memorial Spaceport",
-            "microTech Logistics Depot S4LD13",
-            "Sakura Sun Goldenrod Workcenter",
-            "August Dunlow Spaceport",
-            "NB Int. Spaceport"
-          ],
-          "illegal": false
-        },
-        {
-          "titleKey": "shubin_industrial_shipmining_vh_org_title_001",
-          "titleEN": "Special Purchase Order: Mined Materials",
-          "faction": "Shubin Interstellar",
-          "systems": [
-            "Staging Point",
-            "Riker Memorial Spaceport",
-            "Exterior Zone 2",
-            "Storehouse",
-            "Security Checkpoint",
-            "Teasa Spaceport",
-            "Lobby",
-            "Shipping Area",
-            "August Dunlow Spaceport",
-            "Inventory Center",
-            "Greycat Stanton IV Production Complex-A",
-            "NB Int. Spaceport",
-            "Security Compound"
-          ],
+          "systems": [],
           "illegal": false
         },
         {
@@ -70993,8 +70864,6 @@
         "Shubin Interstellar: Small Purchase Order: Ship Mined Ore",
         "Shubin Interstellar: Special Purchase Order: Mined Materials",
         "Shubin Interstellar: Special Purchase Order: Mined Materials⁠",
-        "Shubin Interstellar: Special Purchase Order: Mined Materials⁠⁠",
-        "Shubin Interstellar: Special Purchase Order: Mined Materials⁠⁠⁠",
         "Shubin Interstellar: XL Purchase Order: Ship Mined Ore",
         "Shubin Interstellar: XL Purchase Order: Ship Mined Ore⁠",
         "Shubin Interstellar: XL Purchase Order: Ship Mined Ore⁠⁠",
@@ -71087,52 +70956,7 @@
           "titleKey": "shubin_industrial_shipmining_vh_org_title_001",
           "titleEN": "Special Purchase Order: Mined Materials",
           "faction": "Shubin Interstellar",
-          "systems": [
-            "Staging Point",
-            "HDPC-Cassillo",
-            "Riker Memorial Spaceport",
-            "Sakura Sun Goldenrod Workcenter",
-            "Teasa Spaceport",
-            "Lobby",
-            "August Dunlow Spaceport",
-            "Greycat Stanton IV Production Complex-A",
-            "NB Int. Spaceport"
-          ],
-          "illegal": false
-        },
-        {
-          "titleKey": "shubin_industrial_shipmining_vh_org_title_001",
-          "titleEN": "Special Purchase Order: Mined Materials",
-          "faction": "Shubin Interstellar",
-          "systems": [
-            "HDPC-Cassillo",
-            "Riker Memorial Spaceport",
-            "microTech Logistics Depot S4LD13",
-            "Sakura Sun Goldenrod Workcenter",
-            "August Dunlow Spaceport",
-            "NB Int. Spaceport"
-          ],
-          "illegal": false
-        },
-        {
-          "titleKey": "shubin_industrial_shipmining_vh_org_title_001",
-          "titleEN": "Special Purchase Order: Mined Materials",
-          "faction": "Shubin Interstellar",
-          "systems": [
-            "Staging Point",
-            "Riker Memorial Spaceport",
-            "Exterior Zone 2",
-            "Storehouse",
-            "Security Checkpoint",
-            "Teasa Spaceport",
-            "Lobby",
-            "Shipping Area",
-            "August Dunlow Spaceport",
-            "Inventory Center",
-            "Greycat Stanton IV Production Complex-A",
-            "NB Int. Spaceport",
-            "Security Compound"
-          ],
+          "systems": [],
           "illegal": false
         },
         {
@@ -71267,8 +71091,6 @@
         "Shubin Interstellar: Small Purchase Order: Ship Mined Ore",
         "Shubin Interstellar: Special Purchase Order: Mined Materials",
         "Shubin Interstellar: Special Purchase Order: Mined Materials⁠",
-        "Shubin Interstellar: Special Purchase Order: Mined Materials⁠⁠",
-        "Shubin Interstellar: Special Purchase Order: Mined Materials⁠⁠⁠",
         "Shubin Interstellar: XL Purchase Order: Ship Mined Ore",
         "Shubin Interstellar: XL Purchase Order: Ship Mined Ore⁠",
         "Shubin Interstellar: XL Purchase Order: Ship Mined Ore⁠⁠",
@@ -71361,52 +71183,7 @@
           "titleKey": "shubin_industrial_shipmining_vh_org_title_001",
           "titleEN": "Special Purchase Order: Mined Materials",
           "faction": "Shubin Interstellar",
-          "systems": [
-            "Staging Point",
-            "HDPC-Cassillo",
-            "Riker Memorial Spaceport",
-            "Sakura Sun Goldenrod Workcenter",
-            "Teasa Spaceport",
-            "Lobby",
-            "August Dunlow Spaceport",
-            "Greycat Stanton IV Production Complex-A",
-            "NB Int. Spaceport"
-          ],
-          "illegal": false
-        },
-        {
-          "titleKey": "shubin_industrial_shipmining_vh_org_title_001",
-          "titleEN": "Special Purchase Order: Mined Materials",
-          "faction": "Shubin Interstellar",
-          "systems": [
-            "HDPC-Cassillo",
-            "Riker Memorial Spaceport",
-            "microTech Logistics Depot S4LD13",
-            "Sakura Sun Goldenrod Workcenter",
-            "August Dunlow Spaceport",
-            "NB Int. Spaceport"
-          ],
-          "illegal": false
-        },
-        {
-          "titleKey": "shubin_industrial_shipmining_vh_org_title_001",
-          "titleEN": "Special Purchase Order: Mined Materials",
-          "faction": "Shubin Interstellar",
-          "systems": [
-            "Staging Point",
-            "Riker Memorial Spaceport",
-            "Exterior Zone 2",
-            "Storehouse",
-            "Security Checkpoint",
-            "Teasa Spaceport",
-            "Lobby",
-            "Shipping Area",
-            "August Dunlow Spaceport",
-            "Inventory Center",
-            "Greycat Stanton IV Production Complex-A",
-            "NB Int. Spaceport",
-            "Security Compound"
-          ],
+          "systems": [],
           "illegal": false
         },
         {
@@ -71541,8 +71318,6 @@
         "Shubin Interstellar: Small Purchase Order: Ship Mined Ore",
         "Shubin Interstellar: Special Purchase Order: Mined Materials",
         "Shubin Interstellar: Special Purchase Order: Mined Materials⁠",
-        "Shubin Interstellar: Special Purchase Order: Mined Materials⁠⁠",
-        "Shubin Interstellar: Special Purchase Order: Mined Materials⁠⁠⁠",
         "Shubin Interstellar: XL Purchase Order: Ship Mined Ore",
         "Shubin Interstellar: XL Purchase Order: Ship Mined Ore⁠",
         "Shubin Interstellar: XL Purchase Order: Ship Mined Ore⁠⁠",
@@ -71635,52 +71410,7 @@
           "titleKey": "shubin_industrial_shipmining_vh_org_title_001",
           "titleEN": "Special Purchase Order: Mined Materials",
           "faction": "Shubin Interstellar",
-          "systems": [
-            "Staging Point",
-            "HDPC-Cassillo",
-            "Riker Memorial Spaceport",
-            "Sakura Sun Goldenrod Workcenter",
-            "Teasa Spaceport",
-            "Lobby",
-            "August Dunlow Spaceport",
-            "Greycat Stanton IV Production Complex-A",
-            "NB Int. Spaceport"
-          ],
-          "illegal": false
-        },
-        {
-          "titleKey": "shubin_industrial_shipmining_vh_org_title_001",
-          "titleEN": "Special Purchase Order: Mined Materials",
-          "faction": "Shubin Interstellar",
-          "systems": [
-            "HDPC-Cassillo",
-            "Riker Memorial Spaceport",
-            "microTech Logistics Depot S4LD13",
-            "Sakura Sun Goldenrod Workcenter",
-            "August Dunlow Spaceport",
-            "NB Int. Spaceport"
-          ],
-          "illegal": false
-        },
-        {
-          "titleKey": "shubin_industrial_shipmining_vh_org_title_001",
-          "titleEN": "Special Purchase Order: Mined Materials",
-          "faction": "Shubin Interstellar",
-          "systems": [
-            "Staging Point",
-            "Riker Memorial Spaceport",
-            "Exterior Zone 2",
-            "Storehouse",
-            "Security Checkpoint",
-            "Teasa Spaceport",
-            "Lobby",
-            "Shipping Area",
-            "August Dunlow Spaceport",
-            "Inventory Center",
-            "Greycat Stanton IV Production Complex-A",
-            "NB Int. Spaceport",
-            "Security Compound"
-          ],
+          "systems": [],
           "illegal": false
         },
         {
@@ -83146,9 +82876,7 @@
           "titleKey": "shubin_industrial_shipmining_stanton_s_secondary_title_001",
           "titleEN": "Mjr. Purchase Order: Ship Mined Ore",
           "faction": "Shubin Interstellar",
-          "systems": [
-            "Stanton"
-          ],
+          "systems": [],
           "illegal": false
         },
         {
@@ -83182,42 +82910,7 @@
           "titleKey": "shubin_industrial_shipmining_vh_org_title_001",
           "titleEN": "Special Purchase Order: Mined Materials",
           "faction": "Shubin Interstellar",
-          "systems": [
-            "JumpPoint_Stanton_Terra",
-            "ARC-L3 Modern Express Station",
-            "Staging Point",
-            "HDPC-Cassillo",
-            "Riker Memorial Spaceport",
-            "Covalex Distribution Center S1DC06",
-            "CRU-L4 Shallow Fields Station",
-            "HUR-L4 Melodic Fields Station",
-            "ARC-L5 Yellow Core Station",
-            "Seraphim Station",
-            "HUR-L3 Thundering Express Station",
-            "Sakura Sun Goldenrod Workcenter",
-            "JumpPoint_Stanton_Pyro",
-            "Port Tressler",
-            "Teasa Spaceport",
-            "MIC-L4 Red Crossroads Station",
-            "August Dunlow Spaceport",
-            "HUR-L5 High Course Station",
-            "ARC-L4 Faint Glen Station",
-            "JumpPoint_Stanton_Magnus",
-            "MIC-L2 Long Forest Station",
-            "Greycat Stanton IV Production Complex-A",
-            "ARC-L2 Lively Pathway Station",
-            "NB Int. Spaceport",
-            "MIC-L3 Endless Odyssey Station",
-            "MIC-L5 Modern Icarus Station",
-            "ARC-L1 Wide Forest Station",
-            "CRU-L5 Beautiful Glen Station",
-            "MIC-L1 Shallow Frontier Station",
-            "Baijini Point",
-            "CRU-L1 Ambitious Dream Station",
-            "Everus Harbor",
-            "HUR-L2 Faithful Dream Station",
-            "HUR-L1 Green Glade Station"
-          ],
+          "systems": [],
           "illegal": false
         },
         {
@@ -83535,8 +83228,6 @@
         "Shubin Interstellar: Small Purchase Order: Ship Mined Ore",
         "Shubin Interstellar: Special Purchase Order: Mined Materials",
         "Shubin Interstellar: Special Purchase Order: Mined Materials⁠",
-        "Shubin Interstellar: Special Purchase Order: Mined Materials⁠⁠",
-        "Shubin Interstellar: Special Purchase Order: Mined Materials⁠⁠⁠",
         "Shubin Interstellar: XL Purchase Order: Ship Mined Ore",
         "Shubin Interstellar: XL Purchase Order: Ship Mined Ore⁠",
         "Shubin Interstellar: XL Purchase Order: Ship Mined Ore⁠⁠",
@@ -83629,52 +83320,7 @@
           "titleKey": "shubin_industrial_shipmining_vh_org_title_001",
           "titleEN": "Special Purchase Order: Mined Materials",
           "faction": "Shubin Interstellar",
-          "systems": [
-            "Staging Point",
-            "HDPC-Cassillo",
-            "Riker Memorial Spaceport",
-            "Sakura Sun Goldenrod Workcenter",
-            "Teasa Spaceport",
-            "Lobby",
-            "August Dunlow Spaceport",
-            "Greycat Stanton IV Production Complex-A",
-            "NB Int. Spaceport"
-          ],
-          "illegal": false
-        },
-        {
-          "titleKey": "shubin_industrial_shipmining_vh_org_title_001",
-          "titleEN": "Special Purchase Order: Mined Materials",
-          "faction": "Shubin Interstellar",
-          "systems": [
-            "HDPC-Cassillo",
-            "Riker Memorial Spaceport",
-            "microTech Logistics Depot S4LD13",
-            "Sakura Sun Goldenrod Workcenter",
-            "August Dunlow Spaceport",
-            "NB Int. Spaceport"
-          ],
-          "illegal": false
-        },
-        {
-          "titleKey": "shubin_industrial_shipmining_vh_org_title_001",
-          "titleEN": "Special Purchase Order: Mined Materials",
-          "faction": "Shubin Interstellar",
-          "systems": [
-            "Staging Point",
-            "Riker Memorial Spaceport",
-            "Exterior Zone 2",
-            "Storehouse",
-            "Security Checkpoint",
-            "Teasa Spaceport",
-            "Lobby",
-            "Shipping Area",
-            "August Dunlow Spaceport",
-            "Inventory Center",
-            "Greycat Stanton IV Production Complex-A",
-            "NB Int. Spaceport",
-            "Security Compound"
-          ],
+          "systems": [],
           "illegal": false
         },
         {
@@ -84022,8 +83668,6 @@
         "Shubin Interstellar: Small Purchase Order: Ship Mined Ore",
         "Shubin Interstellar: Special Purchase Order: Mined Materials",
         "Shubin Interstellar: Special Purchase Order: Mined Materials⁠",
-        "Shubin Interstellar: Special Purchase Order: Mined Materials⁠⁠",
-        "Shubin Interstellar: Special Purchase Order: Mined Materials⁠⁠⁠",
         "Shubin Interstellar: XL Purchase Order: Ship Mined Ore",
         "Shubin Interstellar: XL Purchase Order: Ship Mined Ore⁠",
         "Shubin Interstellar: XL Purchase Order: Ship Mined Ore⁠⁠",
@@ -84116,52 +83760,7 @@
           "titleKey": "shubin_industrial_shipmining_vh_org_title_001",
           "titleEN": "Special Purchase Order: Mined Materials",
           "faction": "Shubin Interstellar",
-          "systems": [
-            "Staging Point",
-            "HDPC-Cassillo",
-            "Riker Memorial Spaceport",
-            "Sakura Sun Goldenrod Workcenter",
-            "Teasa Spaceport",
-            "Lobby",
-            "August Dunlow Spaceport",
-            "Greycat Stanton IV Production Complex-A",
-            "NB Int. Spaceport"
-          ],
-          "illegal": false
-        },
-        {
-          "titleKey": "shubin_industrial_shipmining_vh_org_title_001",
-          "titleEN": "Special Purchase Order: Mined Materials",
-          "faction": "Shubin Interstellar",
-          "systems": [
-            "HDPC-Cassillo",
-            "Riker Memorial Spaceport",
-            "microTech Logistics Depot S4LD13",
-            "Sakura Sun Goldenrod Workcenter",
-            "August Dunlow Spaceport",
-            "NB Int. Spaceport"
-          ],
-          "illegal": false
-        },
-        {
-          "titleKey": "shubin_industrial_shipmining_vh_org_title_001",
-          "titleEN": "Special Purchase Order: Mined Materials",
-          "faction": "Shubin Interstellar",
-          "systems": [
-            "Staging Point",
-            "Riker Memorial Spaceport",
-            "Exterior Zone 2",
-            "Storehouse",
-            "Security Checkpoint",
-            "Teasa Spaceport",
-            "Lobby",
-            "Shipping Area",
-            "August Dunlow Spaceport",
-            "Inventory Center",
-            "Greycat Stanton IV Production Complex-A",
-            "NB Int. Spaceport",
-            "Security Compound"
-          ],
+          "systems": [],
           "illegal": false
         },
         {
@@ -84566,9 +84165,7 @@
           "titleKey": "shubin_industrial_shipmining_stanton_s_secondary_title_001",
           "titleEN": "Mjr. Purchase Order: Ship Mined Ore",
           "faction": "Shubin Interstellar",
-          "systems": [
-            "Stanton"
-          ],
+          "systems": [],
           "illegal": false
         },
         {
@@ -84602,42 +84199,7 @@
           "titleKey": "shubin_industrial_shipmining_vh_org_title_001",
           "titleEN": "Special Purchase Order: Mined Materials",
           "faction": "Shubin Interstellar",
-          "systems": [
-            "JumpPoint_Stanton_Terra",
-            "ARC-L3 Modern Express Station",
-            "Staging Point",
-            "HDPC-Cassillo",
-            "Riker Memorial Spaceport",
-            "Covalex Distribution Center S1DC06",
-            "CRU-L4 Shallow Fields Station",
-            "HUR-L4 Melodic Fields Station",
-            "ARC-L5 Yellow Core Station",
-            "Seraphim Station",
-            "HUR-L3 Thundering Express Station",
-            "Sakura Sun Goldenrod Workcenter",
-            "JumpPoint_Stanton_Pyro",
-            "Port Tressler",
-            "Teasa Spaceport",
-            "MIC-L4 Red Crossroads Station",
-            "August Dunlow Spaceport",
-            "HUR-L5 High Course Station",
-            "ARC-L4 Faint Glen Station",
-            "JumpPoint_Stanton_Magnus",
-            "MIC-L2 Long Forest Station",
-            "Greycat Stanton IV Production Complex-A",
-            "ARC-L2 Lively Pathway Station",
-            "NB Int. Spaceport",
-            "MIC-L3 Endless Odyssey Station",
-            "MIC-L5 Modern Icarus Station",
-            "ARC-L1 Wide Forest Station",
-            "CRU-L5 Beautiful Glen Station",
-            "MIC-L1 Shallow Frontier Station",
-            "Baijini Point",
-            "CRU-L1 Ambitious Dream Station",
-            "Everus Harbor",
-            "HUR-L2 Faithful Dream Station",
-            "HUR-L1 Green Glade Station"
-          ],
+          "systems": [],
           "illegal": false
         },
         {
