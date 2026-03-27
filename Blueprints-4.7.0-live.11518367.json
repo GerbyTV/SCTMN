@@ -2395,6 +2395,7 @@
         "Shubin Interstellar: Small Purchase Order: Ship Mined Ore",
         "Shubin Interstellar: Special Purchase Order: Mined Materials",
         "Shubin Interstellar: Special Purchase Order: Mined Materials⁠",
+        "Shubin Interstellar: Special Purchase Order: Mined Materials⁠⁠",
         "Shubin Interstellar: XL Purchase Order: Ship Mined Ore",
         "Shubin Interstellar: XL Purchase Order: Ship Mined Ore⁠",
         "Shubin Interstellar: XL Purchase Order: Ship Mined Ore⁠⁠",
@@ -2418,7 +2419,6 @@
         "Shubin Interstellar: Med. Purchase Order: Ship Mined Ore⁠⁠⁠⁠⁠",
         "Shubin Interstellar: Mjr. Purchase Order: Ship Mined Ore⁠⁠",
         "Shubin Interstellar: Mjr. Purchase Order: Ship Mined Ore⁠⁠⁠",
-        "Shubin Interstellar: Mjr. Purchase Order: Ship Mined Ore⁠⁠⁠⁠",
         "Shubin Interstellar: Small Purchase Order: Ship Mined Ore⁠",
         "Shubin Interstellar: Small Purchase Order: Ship Mined Ore⁠⁠",
         "Shubin Interstellar: XL Purchase Order: Ship Mined Ore⁠⁠⁠",
@@ -2523,7 +2523,18 @@
           "titleKey": "shubin_industrial_shipmining_vh_org_title_001",
           "titleEN": "Special Purchase Order: Mined Materials",
           "faction": "Shubin Interstellar",
-          "systems": [],
+          "systems": [
+            "Stanton"
+          ],
+          "illegal": false
+        },
+        {
+          "titleKey": "shubin_industrial_shipmining_vh_org_title_001",
+          "titleEN": "Special Purchase Order: Mined Materials",
+          "faction": "Shubin Interstellar",
+          "systems": [
+            "Stanton"
+          ],
           "illegal": false
         },
         {
@@ -2729,13 +2740,6 @@
           "systems": [
             "Nyx"
           ],
-          "illegal": false
-        },
-        {
-          "titleKey": "shubin_industrial_shipmining_stanton_s_secondary_title_001",
-          "titleEN": "Mjr. Purchase Order: Ship Mined Ore",
-          "faction": "Shubin Interstellar",
-          "systems": [],
           "illegal": false
         },
         {
@@ -3931,7 +3935,9 @@
           "titleKey": "cfp_defend-criminals_title_001",
           "titleEN": "Defend ~mission(Location) from Outlaws",
           "faction": "Citizens for Prosperity",
-          "systems": [],
+          "systems": [
+            "Pyro"
+          ],
           "illegal": false
         },
         {
@@ -70665,7 +70671,9 @@
           "titleKey": "shubin_industrial_shipmining_vh_org_title_001",
           "titleEN": "Special Purchase Order: Mined Materials",
           "faction": "Shubin Interstellar",
-          "systems": [],
+          "systems": [
+            "Stanton"
+          ],
           "illegal": false
         },
         {
@@ -70956,7 +70964,9 @@
           "titleKey": "shubin_industrial_shipmining_vh_org_title_001",
           "titleEN": "Special Purchase Order: Mined Materials",
           "faction": "Shubin Interstellar",
-          "systems": [],
+          "systems": [
+            "Stanton"
+          ],
           "illegal": false
         },
         {
@@ -71183,7 +71193,9 @@
           "titleKey": "shubin_industrial_shipmining_vh_org_title_001",
           "titleEN": "Special Purchase Order: Mined Materials",
           "faction": "Shubin Interstellar",
-          "systems": [],
+          "systems": [
+            "Stanton"
+          ],
           "illegal": false
         },
         {
@@ -71410,7 +71422,9 @@
           "titleKey": "shubin_industrial_shipmining_vh_org_title_001",
           "titleEN": "Special Purchase Order: Mined Materials",
           "faction": "Shubin Interstellar",
-          "systems": [],
+          "systems": [
+            "Stanton"
+          ],
           "illegal": false
         },
         {
@@ -74376,7 +74390,9 @@
           "titleKey": "cfp_defend-criminals_title_001",
           "titleEN": "Defend ~mission(Location) from Outlaws",
           "faction": "Citizens for Prosperity",
-          "systems": [],
+          "systems": [
+            "Pyro"
+          ],
           "illegal": false
         },
         {
@@ -75452,7 +75468,9 @@
           "titleKey": "cfp_defend-criminals_title_001",
           "titleEN": "Defend ~mission(Location) from Outlaws",
           "faction": "Citizens for Prosperity",
-          "systems": [],
+          "systems": [
+            "Pyro"
+          ],
           "illegal": false
         },
         {
@@ -76528,7 +76546,9 @@
           "titleKey": "cfp_defend-criminals_title_001",
           "titleEN": "Defend ~mission(Location) from Outlaws",
           "faction": "Citizens for Prosperity",
-          "systems": [],
+          "systems": [
+            "Pyro"
+          ],
           "illegal": false
         },
         {
@@ -77518,7 +77538,9 @@
           "titleKey": "cfp_defend-criminals_title_001",
           "titleEN": "Defend ~mission(Location) from Outlaws",
           "faction": "Citizens for Prosperity",
-          "systems": [],
+          "systems": [
+            "Pyro"
+          ],
           "illegal": false
         },
         {
@@ -82876,7 +82898,9 @@
           "titleKey": "shubin_industrial_shipmining_stanton_s_secondary_title_001",
           "titleEN": "Mjr. Purchase Order: Ship Mined Ore",
           "faction": "Shubin Interstellar",
-          "systems": [],
+          "systems": [
+            "Stanton"
+          ],
           "illegal": false
         },
         {
@@ -82910,7 +82934,9 @@
           "titleKey": "shubin_industrial_shipmining_vh_org_title_001",
           "titleEN": "Special Purchase Order: Mined Materials",
           "faction": "Shubin Interstellar",
-          "systems": [],
+          "systems": [
+            "Stanton"
+          ],
           "illegal": false
         },
         {
@@ -83320,7 +83346,9 @@
           "titleKey": "shubin_industrial_shipmining_vh_org_title_001",
           "titleEN": "Special Purchase Order: Mined Materials",
           "faction": "Shubin Interstellar",
-          "systems": [],
+          "systems": [
+            "Stanton"
+          ],
           "illegal": false
         },
         {
@@ -83760,7 +83788,9 @@
           "titleKey": "shubin_industrial_shipmining_vh_org_title_001",
           "titleEN": "Special Purchase Order: Mined Materials",
           "faction": "Shubin Interstellar",
-          "systems": [],
+          "systems": [
+            "Stanton"
+          ],
           "illegal": false
         },
         {
@@ -84165,7 +84195,9 @@
           "titleKey": "shubin_industrial_shipmining_stanton_s_secondary_title_001",
           "titleEN": "Mjr. Purchase Order: Ship Mined Ore",
           "faction": "Shubin Interstellar",
-          "systems": [],
+          "systems": [
+            "Stanton"
+          ],
           "illegal": false
         },
         {
@@ -84199,7 +84231,9 @@
           "titleKey": "shubin_industrial_shipmining_vh_org_title_001",
           "titleEN": "Special Purchase Order: Mined Materials",
           "faction": "Shubin Interstellar",
-          "systems": [],
+          "systems": [
+            "Stanton"
+          ],
           "illegal": false
         },
         {
@@ -87693,7 +87727,9 @@
           "titleKey": "cfp_defend-criminals_title_001",
           "titleEN": "Defend ~mission(Location) from Outlaws",
           "faction": "Citizens for Prosperity",
-          "systems": [],
+          "systems": [
+            "Pyro"
+          ],
           "illegal": false
         },
         {
