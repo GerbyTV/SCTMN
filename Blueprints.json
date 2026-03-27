@@ -1,5 +1,5 @@
 {
-  "version": "test",
+  "version": "GERBY",
   "blueprints": [
     {
       "file": "crafting\\blueprints\\crafting\\fpsgear\\BP_CRAFT_gmni_sniper_ballistic_01_arctic01.xml",
@@ -7431,7 +7431,8 @@
           "titleEN": "Orange Level Contract: Potential Security Threat",
           "faction": "Foxwell Enforcement",
           "systems": [
-            "Pyro"
+            "Pyro",
+            "Stanton"
           ],
           "illegal": false
         },
@@ -7440,7 +7441,8 @@
           "titleEN": "Orange Level Contract: Security Patrol",
           "faction": "Foxwell Enforcement",
           "systems": [
-            "Pyro"
+            "Pyro",
+            "Stanton"
           ],
           "illegal": false
         },
@@ -7449,7 +7451,8 @@
           "titleEN": "Red Level Contract: High-Risk Security Patrol",
           "faction": "Foxwell Enforcement",
           "systems": [
-            "Pyro"
+            "Pyro",
+            "Stanton"
           ],
           "illegal": false
         },
@@ -7458,7 +7461,8 @@
           "titleEN": "Red Level Contract: Secure Threatened Space",
           "faction": "Foxwell Enforcement",
           "systems": [
-            "Pyro"
+            "Pyro",
+            "Stanton"
           ],
           "illegal": false
         },
@@ -7467,7 +7471,8 @@
           "titleEN": "Yellow Level Contract: Routine Patrol",
           "faction": "Foxwell Enforcement",
           "systems": [
-            "Pyro"
+            "Pyro",
+            "Stanton"
           ],
           "illegal": false
         },
@@ -7476,7 +7481,8 @@
           "titleEN": "Yellow Level Contract: Security Sweep",
           "faction": "Foxwell Enforcement",
           "systems": [
-            "Pyro"
+            "Pyro",
+            "Stanton"
           ],
           "illegal": false
         }
@@ -8837,7 +8843,8 @@
           "titleEN": "Orange Level Contract: Potential Security Threat",
           "faction": "Foxwell Enforcement",
           "systems": [
-            "Pyro"
+            "Pyro",
+            "Stanton"
           ],
           "illegal": false
         },
@@ -8846,7 +8853,8 @@
           "titleEN": "Orange Level Contract: Security Patrol",
           "faction": "Foxwell Enforcement",
           "systems": [
-            "Pyro"
+            "Pyro",
+            "Stanton"
           ],
           "illegal": false
         },
@@ -8855,7 +8863,8 @@
           "titleEN": "Red Level Contract: High-Risk Security Patrol",
           "faction": "Foxwell Enforcement",
           "systems": [
-            "Pyro"
+            "Pyro",
+            "Stanton"
           ],
           "illegal": false
         },
@@ -8864,7 +8873,8 @@
           "titleEN": "Red Level Contract: Secure Threatened Space",
           "faction": "Foxwell Enforcement",
           "systems": [
-            "Pyro"
+            "Pyro",
+            "Stanton"
           ],
           "illegal": false
         },
@@ -8873,7 +8883,8 @@
           "titleEN": "Yellow Level Contract: Routine Patrol",
           "faction": "Foxwell Enforcement",
           "systems": [
-            "Pyro"
+            "Pyro",
+            "Stanton"
           ],
           "illegal": false
         },
@@ -8882,7 +8893,8 @@
           "titleEN": "Yellow Level Contract: Security Sweep",
           "faction": "Foxwell Enforcement",
           "systems": [
-            "Pyro"
+            "Pyro",
+            "Stanton"
           ],
           "illegal": false
         }
@@ -10243,7 +10255,8 @@
           "titleEN": "Orange Level Contract: Potential Security Threat",
           "faction": "Foxwell Enforcement",
           "systems": [
-            "Pyro"
+            "Pyro",
+            "Stanton"
           ],
           "illegal": false
         },
@@ -10252,7 +10265,8 @@
           "titleEN": "Orange Level Contract: Security Patrol",
           "faction": "Foxwell Enforcement",
           "systems": [
-            "Pyro"
+            "Pyro",
+            "Stanton"
           ],
           "illegal": false
         },
@@ -10261,7 +10275,8 @@
           "titleEN": "Red Level Contract: High-Risk Security Patrol",
           "faction": "Foxwell Enforcement",
           "systems": [
-            "Pyro"
+            "Pyro",
+            "Stanton"
           ],
           "illegal": false
         },
@@ -10270,7 +10285,8 @@
           "titleEN": "Red Level Contract: Secure Threatened Space",
           "faction": "Foxwell Enforcement",
           "systems": [
-            "Pyro"
+            "Pyro",
+            "Stanton"
           ],
           "illegal": false
         },
@@ -10279,7 +10295,8 @@
           "titleEN": "Yellow Level Contract: Routine Patrol",
           "faction": "Foxwell Enforcement",
           "systems": [
-            "Pyro"
+            "Pyro",
+            "Stanton"
           ],
           "illegal": false
         },
@@ -10288,7 +10305,8 @@
           "titleEN": "Yellow Level Contract: Security Sweep",
           "faction": "Foxwell Enforcement",
           "systems": [
-            "Pyro"
+            "Pyro",
+            "Stanton"
           ],
           "illegal": false
         }
@@ -11649,7 +11667,8 @@
           "titleEN": "Orange Level Contract: Potential Security Threat",
           "faction": "Foxwell Enforcement",
           "systems": [
-            "Pyro"
+            "Pyro",
+            "Stanton"
           ],
           "illegal": false
         },
@@ -11658,7 +11677,8 @@
           "titleEN": "Orange Level Contract: Security Patrol",
           "faction": "Foxwell Enforcement",
           "systems": [
-            "Pyro"
+            "Pyro",
+            "Stanton"
           ],
           "illegal": false
         },
@@ -11667,7 +11687,8 @@
           "titleEN": "Red Level Contract: High-Risk Security Patrol",
           "faction": "Foxwell Enforcement",
           "systems": [
-            "Pyro"
+            "Pyro",
+            "Stanton"
           ],
           "illegal": false
         },
@@ -11676,7 +11697,8 @@
           "titleEN": "Red Level Contract: Secure Threatened Space",
           "faction": "Foxwell Enforcement",
           "systems": [
-            "Pyro"
+            "Pyro",
+            "Stanton"
           ],
           "illegal": false
         },
@@ -11685,7 +11707,8 @@
           "titleEN": "Yellow Level Contract: Routine Patrol",
           "faction": "Foxwell Enforcement",
           "systems": [
-            "Pyro"
+            "Pyro",
+            "Stanton"
           ],
           "illegal": false
         },
@@ -11694,7 +11717,8 @@
           "titleEN": "Yellow Level Contract: Security Sweep",
           "faction": "Foxwell Enforcement",
           "systems": [
-            "Pyro"
+            "Pyro",
+            "Stanton"
           ],
           "illegal": false
         }
@@ -12522,10 +12546,7 @@
           "titleKey": "shubin_industrial_shipmining_vh_org_title_001",
           "titleEN": "Special Purchase Order: Mined Materials",
           "faction": "Shubin Interstellar",
-          "systems": [
-            "Nyx",
-            "Pyro"
-          ],
+          "systems": [],
           "illegal": false
         },
         {
@@ -12766,10 +12787,7 @@
           "titleKey": "shubin_industrial_shipmining_vh_org_title_001",
           "titleEN": "Special Purchase Order: Mined Materials",
           "faction": "Shubin Interstellar",
-          "systems": [
-            "Nyx",
-            "Pyro"
-          ],
+          "systems": [],
           "illegal": false
         },
         {
@@ -12968,10 +12986,7 @@
           "titleKey": "shubin_industrial_shipmining_vh_org_title_001",
           "titleEN": "Special Purchase Order: Mined Materials",
           "faction": "Shubin Interstellar",
-          "systems": [
-            "Nyx",
-            "Pyro"
-          ],
+          "systems": [],
           "illegal": false
         },
         {
@@ -13212,10 +13227,7 @@
           "titleKey": "shubin_industrial_shipmining_vh_org_title_001",
           "titleEN": "Special Purchase Order: Mined Materials",
           "faction": "Shubin Interstellar",
-          "systems": [
-            "Nyx",
-            "Pyro"
-          ],
+          "systems": [],
           "illegal": false
         },
         {
@@ -13633,10 +13645,7 @@
           "titleKey": "shubin_industrial_shipmining_vh_org_title_001",
           "titleEN": "Special Purchase Order: Mined Materials",
           "faction": "Shubin Interstellar",
-          "systems": [
-            "Nyx",
-            "Pyro"
-          ],
+          "systems": [],
           "illegal": false
         },
         {
@@ -15677,10 +15686,7 @@
           "titleKey": "shubin_industrial_shipmining_vh_org_title_001",
           "titleEN": "Special Purchase Order: Mined Materials",
           "faction": "Shubin Interstellar",
-          "systems": [
-            "Nyx",
-            "Pyro"
-          ],
+          "systems": [],
           "illegal": false
         },
         {
@@ -15941,10 +15947,7 @@
           "titleKey": "shubin_industrial_shipmining_vh_org_title_001",
           "titleEN": "Special Purchase Order: Mined Materials",
           "faction": "Shubin Interstellar",
-          "systems": [
-            "Nyx",
-            "Pyro"
-          ],
+          "systems": [],
           "illegal": false
         },
         {
@@ -16141,10 +16144,7 @@
           "titleKey": "shubin_industrial_shipmining_vh_org_title_001",
           "titleEN": "Special Purchase Order: Mined Materials",
           "faction": "Shubin Interstellar",
-          "systems": [
-            "Nyx",
-            "Pyro"
-          ],
+          "systems": [],
           "illegal": false
         },
         {
@@ -16341,10 +16341,7 @@
           "titleKey": "shubin_industrial_shipmining_vh_org_title_001",
           "titleEN": "Special Purchase Order: Mined Materials",
           "faction": "Shubin Interstellar",
-          "systems": [
-            "Nyx",
-            "Pyro"
-          ],
+          "systems": [],
           "illegal": false
         },
         {
@@ -17646,7 +17643,6 @@
           "titleEN": "Assistance needed at ~mission(Location)",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -17656,7 +17652,6 @@
           "titleEN": "Call for Help: ~mission(Location)",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -17666,7 +17661,6 @@
           "titleEN": "Defend ~mission(Location) from Outlaws",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -17676,7 +17670,6 @@
           "titleEN": "Headhunter attack on ~mission(Location)",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -17686,7 +17679,6 @@
           "titleEN": "Protect ~mission(Location) from XenoThreat Incursion",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -17696,7 +17688,6 @@
           "titleEN": "Protect ~mission(Location) from XenoThreat Raid",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -17706,7 +17697,6 @@
           "titleEN": "Reclaim Headhunter Outpost",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -17716,7 +17706,6 @@
           "titleEN": "~mission(Location) needs assistance",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -17820,7 +17809,6 @@
           "titleEN": "Campaign to reclaim XenoThreat outposts",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -17830,7 +17818,6 @@
           "titleEN": "Defend ~mission(Location) from Outlaws",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -17840,7 +17827,6 @@
           "titleEN": "Help defend ~mission(Location) from Headhunters",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -17850,7 +17836,6 @@
           "titleEN": "Need multiple CFP outposts retaken",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -17860,7 +17845,6 @@
           "titleEN": "Protect ~mission(Location) from XenoThreat Attack",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -17870,7 +17854,6 @@
           "titleEN": "Reclaiming Clusters from Headhunters",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -17974,7 +17957,6 @@
           "titleEN": "Attack on CFP outpost",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -17984,7 +17966,6 @@
           "titleEN": "Call for Help: ~mission(Location)",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -17994,7 +17975,6 @@
           "titleEN": "Defenders needed against Headhunters",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -18004,7 +17984,6 @@
           "titleEN": "Protecting outpost from XenoThreat",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -18014,7 +17993,6 @@
           "titleEN": "Reclaim XenoThreat Outpost",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -18024,7 +18002,6 @@
           "titleEN": "~mission(Location|Address) needs help",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -18386,7 +18363,6 @@
           "titleEN": "Alert: ~mission(Location) under attack",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -18396,7 +18372,6 @@
           "titleEN": "Call for Help: ~mission(Location)",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -18406,7 +18381,6 @@
           "titleEN": "Outlaw attack at ~mission(Location)",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -18416,7 +18390,6 @@
           "titleEN": "Reclaiming Outposts from XenoThreat",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -18426,7 +18399,6 @@
           "titleEN": "Retaking Outposts from Headhunters",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -18436,7 +18408,6 @@
           "titleEN": "Taking back from the Headhunters",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -18708,7 +18679,6 @@
           "titleEN": "Defenders needed against Headhunters",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -18718,7 +18688,6 @@
           "titleEN": "Reclaim Headhunter Outpost",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -18824,7 +18793,6 @@
           "titleEN": "Assistance needed at ~mission(Location)",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -18834,7 +18802,6 @@
           "titleEN": "Call for Help: ~mission(Location)",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -18844,7 +18811,6 @@
           "titleEN": "Defend ~mission(Location) from Outlaws",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -18854,7 +18820,6 @@
           "titleEN": "Headhunter attack on ~mission(Location)",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -18864,7 +18829,6 @@
           "titleEN": "Protect ~mission(Location) from XenoThreat Incursion",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -18874,7 +18838,6 @@
           "titleEN": "Protect ~mission(Location) from XenoThreat Raid",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -18884,7 +18847,6 @@
           "titleEN": "Reclaim Headhunter Outpost",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -18894,7 +18856,6 @@
           "titleEN": "~mission(Location) needs assistance",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -18998,7 +18959,6 @@
           "titleEN": "Campaign to reclaim XenoThreat outposts",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -19008,7 +18968,6 @@
           "titleEN": "Defend ~mission(Location) from Outlaws",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -19018,7 +18977,6 @@
           "titleEN": "Help defend ~mission(Location) from Headhunters",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -19028,7 +18986,6 @@
           "titleEN": "Need multiple CFP outposts retaken",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -19038,7 +18995,6 @@
           "titleEN": "Protect ~mission(Location) from XenoThreat Attack",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -19048,7 +19004,6 @@
           "titleEN": "Reclaiming Clusters from Headhunters",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -19152,7 +19107,6 @@
           "titleEN": "Attack on CFP outpost",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -19162,7 +19116,6 @@
           "titleEN": "Call for Help: ~mission(Location)",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -19172,7 +19125,6 @@
           "titleEN": "Defenders needed against Headhunters",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -19182,7 +19134,6 @@
           "titleEN": "Protecting outpost from XenoThreat",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -19192,7 +19143,6 @@
           "titleEN": "Reclaim XenoThreat Outpost",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -19202,7 +19152,6 @@
           "titleEN": "~mission(Location|Address) needs help",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -19564,7 +19513,6 @@
           "titleEN": "Alert: ~mission(Location) under attack",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -19574,7 +19522,6 @@
           "titleEN": "Call for Help: ~mission(Location)",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -19584,7 +19531,6 @@
           "titleEN": "Outlaw attack at ~mission(Location)",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -19594,7 +19540,6 @@
           "titleEN": "Reclaiming Outposts from XenoThreat",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -19604,7 +19549,6 @@
           "titleEN": "Retaking Outposts from Headhunters",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -19614,7 +19558,6 @@
           "titleEN": "Taking back from the Headhunters",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -19886,7 +19829,6 @@
           "titleEN": "Defenders needed against Headhunters",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -19896,7 +19838,6 @@
           "titleEN": "Reclaim Headhunter Outpost",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -20002,7 +19943,6 @@
           "titleEN": "Assistance needed at ~mission(Location)",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -20012,7 +19952,6 @@
           "titleEN": "Call for Help: ~mission(Location)",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -20022,7 +19961,6 @@
           "titleEN": "Defend ~mission(Location) from Outlaws",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -20032,7 +19970,6 @@
           "titleEN": "Headhunter attack on ~mission(Location)",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -20042,7 +19979,6 @@
           "titleEN": "Protect ~mission(Location) from XenoThreat Incursion",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -20052,7 +19988,6 @@
           "titleEN": "Protect ~mission(Location) from XenoThreat Raid",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -20062,7 +19997,6 @@
           "titleEN": "Reclaim Headhunter Outpost",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -20072,7 +20006,6 @@
           "titleEN": "~mission(Location) needs assistance",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -20176,7 +20109,6 @@
           "titleEN": "Attack on CFP outpost",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -20186,7 +20118,6 @@
           "titleEN": "Call for Help: ~mission(Location)",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -20196,7 +20127,6 @@
           "titleEN": "Defenders needed against Headhunters",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -20206,7 +20136,6 @@
           "titleEN": "Protecting outpost from XenoThreat",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -20216,7 +20145,6 @@
           "titleEN": "Reclaim XenoThreat Outpost",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -20226,7 +20154,6 @@
           "titleEN": "~mission(Location|Address) needs help",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -20588,7 +20515,6 @@
           "titleEN": "Alert: ~mission(Location) under attack",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -20598,7 +20524,6 @@
           "titleEN": "Call for Help: ~mission(Location)",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -20608,7 +20533,6 @@
           "titleEN": "Outlaw attack at ~mission(Location)",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -20618,7 +20542,6 @@
           "titleEN": "Reclaiming Outposts from XenoThreat",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -20628,7 +20551,6 @@
           "titleEN": "Retaking Outposts from Headhunters",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -20638,7 +20560,6 @@
           "titleEN": "Taking back from the Headhunters",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -20910,7 +20831,6 @@
           "titleEN": "Defenders needed against Headhunters",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -20920,7 +20840,6 @@
           "titleEN": "Reclaim Headhunter Outpost",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -21026,7 +20945,6 @@
           "titleEN": "Assistance needed at ~mission(Location)",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -21036,7 +20954,6 @@
           "titleEN": "Call for Help: ~mission(Location)",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -21046,7 +20963,6 @@
           "titleEN": "Defend ~mission(Location) from Outlaws",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -21056,7 +20972,6 @@
           "titleEN": "Headhunter attack on ~mission(Location)",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -21066,7 +20981,6 @@
           "titleEN": "Protect ~mission(Location) from XenoThreat Incursion",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -21076,7 +20990,6 @@
           "titleEN": "Protect ~mission(Location) from XenoThreat Raid",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -21086,7 +20999,6 @@
           "titleEN": "Reclaim Headhunter Outpost",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -21096,7 +21008,6 @@
           "titleEN": "~mission(Location) needs assistance",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -21200,7 +21111,6 @@
           "titleEN": "Attack on CFP outpost",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -21210,7 +21120,6 @@
           "titleEN": "Call for Help: ~mission(Location)",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -21220,7 +21129,6 @@
           "titleEN": "Defenders needed against Headhunters",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -21230,7 +21138,6 @@
           "titleEN": "Protecting outpost from XenoThreat",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -21240,7 +21147,6 @@
           "titleEN": "Reclaim XenoThreat Outpost",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -21250,7 +21156,6 @@
           "titleEN": "~mission(Location|Address) needs help",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -21612,7 +21517,6 @@
           "titleEN": "Alert: ~mission(Location) under attack",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -21622,7 +21526,6 @@
           "titleEN": "Call for Help: ~mission(Location)",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -21632,7 +21535,6 @@
           "titleEN": "Outlaw attack at ~mission(Location)",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -21642,7 +21544,6 @@
           "titleEN": "Reclaiming Outposts from XenoThreat",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -21652,7 +21553,6 @@
           "titleEN": "Retaking Outposts from Headhunters",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -21662,7 +21562,6 @@
           "titleEN": "Taking back from the Headhunters",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -21934,7 +21833,6 @@
           "titleEN": "Defenders needed against Headhunters",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -21944,7 +21842,6 @@
           "titleEN": "Reclaim Headhunter Outpost",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -22165,7 +22062,6 @@
           "titleEN": "A Swift Reprisal",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -22175,7 +22071,6 @@
           "titleEN": "A little retaliation",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -22185,7 +22080,6 @@
           "titleEN": "A tricky tricky task",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -22195,7 +22089,6 @@
           "titleEN": "Block XenoThreat Expansion",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -22205,7 +22098,6 @@
           "titleEN": "Butcher Kopion Pack at ~mission(Location)",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -22215,7 +22107,6 @@
           "titleEN": "Deal with Kopions at ~mission(Location)",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -22225,7 +22116,6 @@
           "titleEN": "Death and cargo",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -22235,7 +22125,6 @@
           "titleEN": "Don't let Windfall Fall",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -22245,7 +22134,6 @@
           "titleEN": "Driving CFP out",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -22255,7 +22143,6 @@
           "titleEN": "Halt XenoThreat Expansion",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -22265,7 +22152,6 @@
           "titleEN": "Headhunters_EliminateAllFF_Title_001",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -22275,7 +22161,6 @@
           "titleEN": "Hit XenoThreat at ~mission(Location)",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -22285,7 +22170,6 @@
           "titleEN": "Hit a CFP Complex",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -22295,7 +22179,6 @@
           "titleEN": "Hit on XenoThreat command",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -22305,7 +22188,6 @@
           "titleEN": "Hitting a CFP site",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -22315,7 +22197,6 @@
           "titleEN": "Kill Kopions at ~mission(Location)",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -22325,7 +22206,6 @@
           "titleEN": "Need a hitter",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -22335,7 +22215,6 @@
           "titleEN": "Rally at ~mission(Location)",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -22345,7 +22224,6 @@
           "titleEN": "Reputation Management",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -22355,7 +22233,6 @@
           "titleEN": "Sweep and clear some CFP haunts",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -22365,7 +22242,6 @@
           "titleEN": "Take back Carvers Ridge",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -22375,7 +22251,6 @@
           "titleEN": "Taking XenoThreat Turf",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -22385,7 +22260,6 @@
           "titleEN": "Taking down a XenoThreat Hideout",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -22395,7 +22269,6 @@
           "titleEN": "Taking out some XenoThreat trash",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -22405,7 +22278,6 @@
           "titleEN": "The Yard's under attack",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -22415,7 +22287,6 @@
           "titleEN": "Turf War",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -22425,7 +22296,6 @@
           "titleEN": "Wipe ~mission(Location) out",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -22435,7 +22305,6 @@
           "titleEN": "~mission(Location) has been greenlit",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -22445,7 +22314,6 @@
           "titleEN": "~mission(Location|Address) under attack",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -22580,7 +22448,6 @@
           "titleEN": "A Swift Reprisal",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -22590,7 +22457,6 @@
           "titleEN": "A little retaliation",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -22600,7 +22466,6 @@
           "titleEN": "A tricky tricky task",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -22610,7 +22475,6 @@
           "titleEN": "Block XenoThreat Expansion",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -22620,7 +22484,6 @@
           "titleEN": "Butcher Kopion Pack at ~mission(Location)",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -22630,7 +22493,6 @@
           "titleEN": "Deal with Kopions at ~mission(Location)",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -22640,7 +22502,6 @@
           "titleEN": "Death and cargo",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -22650,7 +22511,6 @@
           "titleEN": "Don't let Windfall Fall",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -22660,7 +22520,6 @@
           "titleEN": "Driving CFP out",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -22670,7 +22529,6 @@
           "titleEN": "Halt XenoThreat Expansion",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -22680,7 +22538,6 @@
           "titleEN": "Headhunters_EliminateAllFF_Title_001",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -22690,7 +22547,6 @@
           "titleEN": "Hit XenoThreat at ~mission(Location)",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -22700,7 +22556,6 @@
           "titleEN": "Hit a CFP Complex",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -22710,7 +22565,6 @@
           "titleEN": "Hit on XenoThreat command",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -22720,7 +22574,6 @@
           "titleEN": "Hitting a CFP site",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -22730,7 +22583,6 @@
           "titleEN": "Kill Kopions at ~mission(Location)",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -22740,7 +22592,6 @@
           "titleEN": "Need a hitter",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -22750,7 +22601,6 @@
           "titleEN": "Rally at ~mission(Location)",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -22760,7 +22610,6 @@
           "titleEN": "Reputation Management",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -22770,7 +22619,6 @@
           "titleEN": "Sweep and clear some CFP haunts",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -22780,7 +22628,6 @@
           "titleEN": "Take back Carvers Ridge",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -22790,7 +22637,6 @@
           "titleEN": "Taking XenoThreat Turf",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -22800,7 +22646,6 @@
           "titleEN": "Taking down a XenoThreat Hideout",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -22810,7 +22655,6 @@
           "titleEN": "Taking out some XenoThreat trash",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -22820,7 +22664,6 @@
           "titleEN": "The Yard's under attack",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -22830,7 +22673,6 @@
           "titleEN": "Turf War",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -22840,7 +22682,6 @@
           "titleEN": "Wipe ~mission(Location) out",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -22850,7 +22691,6 @@
           "titleEN": "~mission(Location) has been greenlit",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -22860,7 +22700,6 @@
           "titleEN": "~mission(Location|Address) under attack",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -23089,7 +22928,6 @@
           "titleEN": "A Swift Reprisal",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -23099,7 +22937,6 @@
           "titleEN": "A little retaliation",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -23109,7 +22946,6 @@
           "titleEN": "A tricky tricky task",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -23119,7 +22955,6 @@
           "titleEN": "Block XenoThreat Expansion",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -23129,7 +22964,6 @@
           "titleEN": "Butcher Kopion Pack at ~mission(Location)",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -23139,7 +22973,6 @@
           "titleEN": "Deal with Kopions at ~mission(Location)",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -23149,7 +22982,6 @@
           "titleEN": "Death and cargo",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -23159,7 +22991,6 @@
           "titleEN": "Don't let Windfall Fall",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -23169,7 +23000,6 @@
           "titleEN": "Driving CFP out",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -23179,7 +23009,6 @@
           "titleEN": "Halt XenoThreat Expansion",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -23189,7 +23018,6 @@
           "titleEN": "Headhunters_EliminateAllFF_Title_001",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -23199,7 +23027,6 @@
           "titleEN": "Hit XenoThreat at ~mission(Location)",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -23209,7 +23036,6 @@
           "titleEN": "Hit a CFP Complex",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -23219,7 +23045,6 @@
           "titleEN": "Hit on XenoThreat command",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -23229,7 +23054,6 @@
           "titleEN": "Hitting a CFP site",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -23239,7 +23063,6 @@
           "titleEN": "Kill Kopions at ~mission(Location)",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -23249,7 +23072,6 @@
           "titleEN": "Need a hitter",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -23259,7 +23081,6 @@
           "titleEN": "Rally at ~mission(Location)",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -23269,7 +23090,6 @@
           "titleEN": "Reputation Management",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -23279,7 +23099,6 @@
           "titleEN": "Sweep and clear some CFP haunts",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -23289,7 +23108,6 @@
           "titleEN": "Take back Carvers Ridge",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -23299,7 +23117,6 @@
           "titleEN": "Taking XenoThreat Turf",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -23309,7 +23126,6 @@
           "titleEN": "Taking down a XenoThreat Hideout",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -23319,7 +23135,6 @@
           "titleEN": "Taking out some XenoThreat trash",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -23329,7 +23144,6 @@
           "titleEN": "The Yard's under attack",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -23339,7 +23153,6 @@
           "titleEN": "Turf War",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -23349,7 +23162,6 @@
           "titleEN": "Wipe ~mission(Location) out",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -23359,7 +23171,6 @@
           "titleEN": "~mission(Location) has been greenlit",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -23369,7 +23180,6 @@
           "titleEN": "~mission(Location|Address) under attack",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -23504,7 +23314,6 @@
           "titleEN": "A Swift Reprisal",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -23514,7 +23323,6 @@
           "titleEN": "A little retaliation",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -23524,7 +23332,6 @@
           "titleEN": "A tricky tricky task",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -23534,7 +23341,6 @@
           "titleEN": "Block XenoThreat Expansion",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -23544,7 +23350,6 @@
           "titleEN": "Butcher Kopion Pack at ~mission(Location)",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -23554,7 +23359,6 @@
           "titleEN": "Deal with Kopions at ~mission(Location)",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -23564,7 +23368,6 @@
           "titleEN": "Death and cargo",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -23574,7 +23377,6 @@
           "titleEN": "Don't let Windfall Fall",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -23584,7 +23386,6 @@
           "titleEN": "Driving CFP out",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -23594,7 +23395,6 @@
           "titleEN": "Halt XenoThreat Expansion",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -23604,7 +23404,6 @@
           "titleEN": "Headhunters_EliminateAllFF_Title_001",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -23614,7 +23413,6 @@
           "titleEN": "Hit XenoThreat at ~mission(Location)",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -23624,7 +23422,6 @@
           "titleEN": "Hit a CFP Complex",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -23634,7 +23431,6 @@
           "titleEN": "Hit on XenoThreat command",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -23644,7 +23440,6 @@
           "titleEN": "Hitting a CFP site",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -23654,7 +23449,6 @@
           "titleEN": "Kill Kopions at ~mission(Location)",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -23664,7 +23458,6 @@
           "titleEN": "Need a hitter",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -23674,7 +23467,6 @@
           "titleEN": "Rally at ~mission(Location)",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -23684,7 +23476,6 @@
           "titleEN": "Reputation Management",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -23694,7 +23485,6 @@
           "titleEN": "Sweep and clear some CFP haunts",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -23704,7 +23494,6 @@
           "titleEN": "Take back Carvers Ridge",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -23714,7 +23503,6 @@
           "titleEN": "Taking XenoThreat Turf",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -23724,7 +23512,6 @@
           "titleEN": "Taking down a XenoThreat Hideout",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -23734,7 +23521,6 @@
           "titleEN": "Taking out some XenoThreat trash",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -23744,7 +23530,6 @@
           "titleEN": "The Yard's under attack",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -23754,7 +23539,6 @@
           "titleEN": "Turf War",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -23764,7 +23548,6 @@
           "titleEN": "Wipe ~mission(Location) out",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -23774,7 +23557,6 @@
           "titleEN": "~mission(Location) has been greenlit",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -23784,7 +23566,6 @@
           "titleEN": "~mission(Location|Address) under attack",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -26557,9 +26338,7 @@
           "titleKey": "vaughn_eliminatespecific_fps_storm_h_title_001",
           "titleEN": "A Challenging Contract",
           "faction": "Vaughn",
-          "systems": [
-            "Nyx"
-          ],
+          "systems": [],
           "illegal": true
         },
         {
@@ -26567,7 +26346,7 @@
           "titleEN": "All Things Come To An End",
           "faction": "Vaughn",
           "systems": [
-            "Nyx"
+            "Stanton"
           ],
           "illegal": true
         }
@@ -29351,7 +29130,6 @@
           "titleEN": "A Swift Reprisal",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -29361,7 +29139,6 @@
           "titleEN": "A little retaliation",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -29371,7 +29148,6 @@
           "titleEN": "A tricky tricky task",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -29381,7 +29157,6 @@
           "titleEN": "Block XenoThreat Expansion",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -29391,7 +29166,6 @@
           "titleEN": "Butcher Kopion Pack at ~mission(Location)",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -29401,7 +29175,6 @@
           "titleEN": "Deal with Kopions at ~mission(Location)",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -29411,7 +29184,6 @@
           "titleEN": "Death and cargo",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -29421,7 +29193,6 @@
           "titleEN": "Don't let Windfall Fall",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -29431,7 +29202,6 @@
           "titleEN": "Driving CFP out",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -29441,7 +29211,6 @@
           "titleEN": "Halt XenoThreat Expansion",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -29451,7 +29220,6 @@
           "titleEN": "Headhunters_EliminateAllFF_Title_001",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -29461,7 +29229,6 @@
           "titleEN": "Hit XenoThreat at ~mission(Location)",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -29471,7 +29238,6 @@
           "titleEN": "Hit a CFP Complex",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -29481,7 +29247,6 @@
           "titleEN": "Hit on XenoThreat command",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -29491,7 +29256,6 @@
           "titleEN": "Hitting a CFP site",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -29501,7 +29265,6 @@
           "titleEN": "Kill Kopions at ~mission(Location)",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -29511,7 +29274,6 @@
           "titleEN": "Need a hitter",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -29521,7 +29283,6 @@
           "titleEN": "Rally at ~mission(Location)",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -29531,7 +29292,6 @@
           "titleEN": "Reputation Management",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -29541,7 +29301,6 @@
           "titleEN": "Sweep and clear some CFP haunts",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -29551,7 +29310,6 @@
           "titleEN": "Take back Carvers Ridge",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -29561,7 +29319,6 @@
           "titleEN": "Taking XenoThreat Turf",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -29571,7 +29328,6 @@
           "titleEN": "Taking down a XenoThreat Hideout",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -29581,7 +29337,6 @@
           "titleEN": "Taking out some XenoThreat trash",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -29591,7 +29346,6 @@
           "titleEN": "The Yard's under attack",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -29601,7 +29355,6 @@
           "titleEN": "Turf War",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -29611,7 +29364,6 @@
           "titleEN": "Wipe ~mission(Location) out",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -29621,7 +29373,6 @@
           "titleEN": "~mission(Location) has been greenlit",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -29631,7 +29382,6 @@
           "titleEN": "~mission(Location|Address) under attack",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -29844,7 +29594,6 @@
           "titleEN": "A Swift Reprisal",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -29854,7 +29603,6 @@
           "titleEN": "A little retaliation",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -29864,7 +29612,6 @@
           "titleEN": "A tricky tricky task",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -29874,7 +29621,6 @@
           "titleEN": "Block XenoThreat Expansion",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -29884,7 +29630,6 @@
           "titleEN": "Butcher Kopion Pack at ~mission(Location)",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -29894,7 +29639,6 @@
           "titleEN": "Deal with Kopions at ~mission(Location)",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -29904,7 +29648,6 @@
           "titleEN": "Death and cargo",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -29914,7 +29657,6 @@
           "titleEN": "Don't let Windfall Fall",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -29924,7 +29666,6 @@
           "titleEN": "Driving CFP out",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -29934,7 +29675,6 @@
           "titleEN": "Halt XenoThreat Expansion",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -29944,7 +29684,6 @@
           "titleEN": "Headhunters_EliminateAllFF_Title_001",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -29954,7 +29693,6 @@
           "titleEN": "Hit XenoThreat at ~mission(Location)",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -29964,7 +29702,6 @@
           "titleEN": "Hit a CFP Complex",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -29974,7 +29711,6 @@
           "titleEN": "Hit on XenoThreat command",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -29984,7 +29720,6 @@
           "titleEN": "Hitting a CFP site",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -29994,7 +29729,6 @@
           "titleEN": "Kill Kopions at ~mission(Location)",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -30004,7 +29738,6 @@
           "titleEN": "Need a hitter",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -30014,7 +29747,6 @@
           "titleEN": "Rally at ~mission(Location)",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -30024,7 +29756,6 @@
           "titleEN": "Reputation Management",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -30034,7 +29765,6 @@
           "titleEN": "Sweep and clear some CFP haunts",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -30044,7 +29774,6 @@
           "titleEN": "Take back Carvers Ridge",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -30054,7 +29783,6 @@
           "titleEN": "Taking XenoThreat Turf",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -30064,7 +29792,6 @@
           "titleEN": "Taking down a XenoThreat Hideout",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -30074,7 +29801,6 @@
           "titleEN": "Taking out some XenoThreat trash",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -30084,7 +29810,6 @@
           "titleEN": "The Yard's under attack",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -30094,7 +29819,6 @@
           "titleEN": "Turf War",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -30104,7 +29828,6 @@
           "titleEN": "Wipe ~mission(Location) out",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -30114,7 +29837,6 @@
           "titleEN": "~mission(Location) has been greenlit",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -30124,7 +29846,6 @@
           "titleEN": "~mission(Location|Address) under attack",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -30337,7 +30058,6 @@
           "titleEN": "A Swift Reprisal",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -30347,7 +30067,6 @@
           "titleEN": "A little retaliation",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -30357,7 +30076,6 @@
           "titleEN": "A tricky tricky task",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -30367,7 +30085,6 @@
           "titleEN": "Block XenoThreat Expansion",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -30377,7 +30094,6 @@
           "titleEN": "Butcher Kopion Pack at ~mission(Location)",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -30387,7 +30103,6 @@
           "titleEN": "Deal with Kopions at ~mission(Location)",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -30397,7 +30112,6 @@
           "titleEN": "Death and cargo",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -30407,7 +30121,6 @@
           "titleEN": "Don't let Windfall Fall",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -30417,7 +30130,6 @@
           "titleEN": "Driving CFP out",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -30427,7 +30139,6 @@
           "titleEN": "Halt XenoThreat Expansion",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -30437,7 +30148,6 @@
           "titleEN": "Headhunters_EliminateAllFF_Title_001",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -30447,7 +30157,6 @@
           "titleEN": "Hit XenoThreat at ~mission(Location)",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -30457,7 +30166,6 @@
           "titleEN": "Hit a CFP Complex",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -30467,7 +30175,6 @@
           "titleEN": "Hit on XenoThreat command",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -30477,7 +30184,6 @@
           "titleEN": "Hitting a CFP site",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -30487,7 +30193,6 @@
           "titleEN": "Kill Kopions at ~mission(Location)",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -30497,7 +30202,6 @@
           "titleEN": "Need a hitter",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -30507,7 +30211,6 @@
           "titleEN": "Rally at ~mission(Location)",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -30517,7 +30220,6 @@
           "titleEN": "Reputation Management",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -30527,7 +30229,6 @@
           "titleEN": "Sweep and clear some CFP haunts",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -30537,7 +30238,6 @@
           "titleEN": "Take back Carvers Ridge",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -30547,7 +30247,6 @@
           "titleEN": "Taking XenoThreat Turf",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -30557,7 +30256,6 @@
           "titleEN": "Taking down a XenoThreat Hideout",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -30567,7 +30265,6 @@
           "titleEN": "Taking out some XenoThreat trash",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -30577,7 +30274,6 @@
           "titleEN": "The Yard's under attack",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -30587,7 +30283,6 @@
           "titleEN": "Turf War",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -30597,7 +30292,6 @@
           "titleEN": "Wipe ~mission(Location) out",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -30607,7 +30301,6 @@
           "titleEN": "~mission(Location) has been greenlit",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -30617,7 +30310,6 @@
           "titleEN": "~mission(Location|Address) under attack",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -30830,7 +30522,6 @@
           "titleEN": "A Swift Reprisal",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -30840,7 +30531,6 @@
           "titleEN": "A little retaliation",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -30850,7 +30540,6 @@
           "titleEN": "A tricky tricky task",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -30860,7 +30549,6 @@
           "titleEN": "Block XenoThreat Expansion",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -30870,7 +30558,6 @@
           "titleEN": "Butcher Kopion Pack at ~mission(Location)",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -30880,7 +30567,6 @@
           "titleEN": "Deal with Kopions at ~mission(Location)",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -30890,7 +30576,6 @@
           "titleEN": "Death and cargo",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -30900,7 +30585,6 @@
           "titleEN": "Don't let Windfall Fall",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -30910,7 +30594,6 @@
           "titleEN": "Driving CFP out",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -30920,7 +30603,6 @@
           "titleEN": "Halt XenoThreat Expansion",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -30930,7 +30612,6 @@
           "titleEN": "Headhunters_EliminateAllFF_Title_001",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -30940,7 +30621,6 @@
           "titleEN": "Hit XenoThreat at ~mission(Location)",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -30950,7 +30630,6 @@
           "titleEN": "Hit a CFP Complex",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -30960,7 +30639,6 @@
           "titleEN": "Hit on XenoThreat command",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -30970,7 +30648,6 @@
           "titleEN": "Hitting a CFP site",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -30980,7 +30657,6 @@
           "titleEN": "Kill Kopions at ~mission(Location)",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -30990,7 +30666,6 @@
           "titleEN": "Need a hitter",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -31000,7 +30675,6 @@
           "titleEN": "Rally at ~mission(Location)",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -31010,7 +30684,6 @@
           "titleEN": "Reputation Management",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -31020,7 +30693,6 @@
           "titleEN": "Sweep and clear some CFP haunts",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -31030,7 +30702,6 @@
           "titleEN": "Take back Carvers Ridge",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -31040,7 +30711,6 @@
           "titleEN": "Taking XenoThreat Turf",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -31050,7 +30720,6 @@
           "titleEN": "Taking down a XenoThreat Hideout",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -31060,7 +30729,6 @@
           "titleEN": "Taking out some XenoThreat trash",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -31070,7 +30738,6 @@
           "titleEN": "The Yard's under attack",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -31080,7 +30747,6 @@
           "titleEN": "Turf War",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -31090,7 +30756,6 @@
           "titleEN": "Wipe ~mission(Location) out",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -31100,7 +30765,6 @@
           "titleEN": "~mission(Location) has been greenlit",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -31110,7 +30774,6 @@
           "titleEN": "~mission(Location|Address) under attack",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -31252,7 +30915,7 @@
           "titleEN": "All Things Come To An End",
           "faction": "Vaughn",
           "systems": [
-            "Nyx"
+            "Stanton"
           ],
           "illegal": true
         },
@@ -31261,7 +30924,7 @@
           "titleEN": "They Will Be Missed",
           "faction": "Vaughn",
           "systems": [
-            "Nyx"
+            "Stanton"
           ],
           "illegal": true
         }
@@ -31338,7 +31001,7 @@
           "titleEN": "All Things Come To An End",
           "faction": "Vaughn",
           "systems": [
-            "Nyx"
+            "Stanton"
           ],
           "illegal": true
         },
@@ -31347,7 +31010,7 @@
           "titleEN": "They Will Be Missed",
           "faction": "Vaughn",
           "systems": [
-            "Nyx"
+            "Stanton"
           ],
           "illegal": true
         }
@@ -33570,7 +33233,7 @@
           "titleEN": "All Things Come To An End",
           "faction": "Vaughn",
           "systems": [
-            "Nyx"
+            "Stanton"
           ],
           "illegal": true
         },
@@ -33579,7 +33242,7 @@
           "titleEN": "They Will Be Missed",
           "faction": "Vaughn",
           "systems": [
-            "Nyx"
+            "Stanton"
           ],
           "illegal": true
         }
@@ -33850,7 +33513,7 @@
           "titleEN": "All Things Come To An End",
           "faction": "Vaughn",
           "systems": [
-            "Nyx"
+            "Stanton"
           ],
           "illegal": true
         },
@@ -33859,7 +33522,7 @@
           "titleEN": "They Will Be Missed",
           "faction": "Vaughn",
           "systems": [
-            "Nyx"
+            "Stanton"
           ],
           "illegal": true
         }
@@ -34044,7 +33707,7 @@
           "titleEN": "All Things Come To An End",
           "faction": "Vaughn",
           "systems": [
-            "Nyx"
+            "Stanton"
           ],
           "illegal": true
         },
@@ -34053,7 +33716,7 @@
           "titleEN": "They Will Be Missed",
           "faction": "Vaughn",
           "systems": [
-            "Nyx"
+            "Stanton"
           ],
           "illegal": true
         }
@@ -34248,7 +33911,6 @@
           "titleEN": "Deep space hit",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -34258,7 +33920,6 @@
           "titleEN": "Green light on ~mission(TargetName|Last)",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -34268,7 +33929,6 @@
           "titleEN": "Head of the snake",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -34278,7 +33938,6 @@
           "titleEN": "Hit on XenoThreat at the Yard",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -34288,7 +33947,6 @@
           "titleEN": "Kill the king",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -34298,7 +33956,6 @@
           "titleEN": "Need a CFP taken down",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -34308,7 +33965,6 @@
           "titleEN": "Need a hit on the Riviera",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -34318,7 +33974,6 @@
           "titleEN": "Need a scalpel at Carver's",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -34328,7 +33983,6 @@
           "titleEN": "Need someone taken out",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -34338,7 +33992,6 @@
           "titleEN": "Shot in the chaos",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -34348,7 +34001,6 @@
           "titleEN": "Wanted: ~mission(TargetName)",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -34358,7 +34010,6 @@
           "titleEN": "XenoThreat Lieutenant needs some killing",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -34468,7 +34119,6 @@
           "titleEN": "Deep space hit",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -34478,7 +34128,6 @@
           "titleEN": "Green light on ~mission(TargetName|Last)",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -34488,7 +34137,6 @@
           "titleEN": "Head of the snake",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -34498,7 +34146,6 @@
           "titleEN": "Hit on XenoThreat at the Yard",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -34508,7 +34155,6 @@
           "titleEN": "Kill the king",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -34518,7 +34164,6 @@
           "titleEN": "Need a CFP taken down",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -34528,7 +34173,6 @@
           "titleEN": "Need a hit on the Riviera",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -34538,7 +34182,6 @@
           "titleEN": "Need a scalpel at Carver's",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -34548,7 +34191,6 @@
           "titleEN": "Need someone taken out",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -34558,7 +34200,6 @@
           "titleEN": "Shot in the chaos",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -34568,7 +34209,6 @@
           "titleEN": "Wanted: ~mission(TargetName)",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -34578,7 +34218,6 @@
           "titleEN": "XenoThreat Lieutenant needs some killing",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -34774,7 +34413,6 @@
           "titleEN": "Deep space hit",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -34784,7 +34422,6 @@
           "titleEN": "Green light on ~mission(TargetName|Last)",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -34794,7 +34431,6 @@
           "titleEN": "Head of the snake",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -34804,7 +34440,6 @@
           "titleEN": "Hit on XenoThreat at the Yard",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -34814,7 +34449,6 @@
           "titleEN": "Kill the king",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -34824,7 +34458,6 @@
           "titleEN": "Need a CFP taken down",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -34834,7 +34467,6 @@
           "titleEN": "Need a hit on the Riviera",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -34844,7 +34476,6 @@
           "titleEN": "Need a scalpel at Carver's",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -34854,7 +34485,6 @@
           "titleEN": "Need someone taken out",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -34864,7 +34494,6 @@
           "titleEN": "Shot in the chaos",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -34874,7 +34503,6 @@
           "titleEN": "Wanted: ~mission(TargetName)",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -34884,7 +34512,6 @@
           "titleEN": "XenoThreat Lieutenant needs some killing",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -35080,7 +34707,6 @@
           "titleEN": "Deep space hit",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -35090,7 +34716,6 @@
           "titleEN": "Green light on ~mission(TargetName|Last)",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -35100,7 +34725,6 @@
           "titleEN": "Head of the snake",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -35110,7 +34734,6 @@
           "titleEN": "Hit on XenoThreat at the Yard",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -35120,7 +34743,6 @@
           "titleEN": "Kill the king",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -35130,7 +34752,6 @@
           "titleEN": "Need a CFP taken down",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -35140,7 +34761,6 @@
           "titleEN": "Need a hit on the Riviera",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -35150,7 +34770,6 @@
           "titleEN": "Need a scalpel at Carver's",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -35160,7 +34779,6 @@
           "titleEN": "Need someone taken out",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -35170,7 +34788,6 @@
           "titleEN": "Shot in the chaos",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -35180,7 +34797,6 @@
           "titleEN": "Wanted: ~mission(TargetName)",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -35190,7 +34806,6 @@
           "titleEN": "XenoThreat Lieutenant needs some killing",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -38273,9 +37888,7 @@
           "titleKey": "vaughn_eliminatespecific_fps_storm_h_title_001",
           "titleEN": "A Challenging Contract",
           "faction": "Vaughn",
-          "systems": [
-            "Nyx"
-          ],
+          "systems": [],
           "illegal": true
         },
         {
@@ -38283,7 +37896,7 @@
           "titleEN": "All Things Come To An End",
           "faction": "Vaughn",
           "systems": [
-            "Nyx"
+            "Stanton"
           ],
           "illegal": true
         }
@@ -38382,9 +37995,7 @@
           "titleKey": "vaughn_eliminatespecific_fps_storm_h_title_001",
           "titleEN": "A Challenging Contract",
           "faction": "Vaughn",
-          "systems": [
-            "Nyx"
-          ],
+          "systems": [],
           "illegal": true
         },
         {
@@ -38392,7 +38003,7 @@
           "titleEN": "All Things Come To An End",
           "faction": "Vaughn",
           "systems": [
-            "Nyx"
+            "Stanton"
           ],
           "illegal": true
         },
@@ -38401,7 +38012,6 @@
           "titleEN": "Need a death at ~mission(Location)",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": true
@@ -40809,7 +40419,6 @@
           "titleEN": "Deep space hit",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -40819,7 +40428,6 @@
           "titleEN": "Drop a XenoThreat",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -40829,7 +40437,6 @@
           "titleEN": "Kill the king",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -40839,7 +40446,6 @@
           "titleEN": "Need a CFP taken down",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -40849,7 +40455,6 @@
           "titleEN": "Paid Target in CFP",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -40859,7 +40464,6 @@
           "titleEN": "Plug a traitor",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -41272,7 +40876,6 @@
           "titleEN": "Deep space hit",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -41282,7 +40885,6 @@
           "titleEN": "Drop a XenoThreat",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -41292,7 +40894,6 @@
           "titleEN": "Kill the king",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -41302,7 +40903,6 @@
           "titleEN": "Need a CFP taken down",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -41312,7 +40912,6 @@
           "titleEN": "Paid Target in CFP",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -41322,7 +40921,6 @@
           "titleEN": "Plug a traitor",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -41419,7 +41017,6 @@
           "titleEN": "Deep space hit",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -41429,7 +41026,6 @@
           "titleEN": "Drop a XenoThreat",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -41439,7 +41035,6 @@
           "titleEN": "Kill the king",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -41449,7 +41044,6 @@
           "titleEN": "Need a CFP taken down",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -41459,7 +41053,6 @@
           "titleEN": "Paid Target in CFP",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -41469,7 +41062,6 @@
           "titleEN": "Plug a traitor",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -41566,7 +41158,6 @@
           "titleEN": "Deep space hit",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -41576,7 +41167,6 @@
           "titleEN": "Drop a XenoThreat",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -41586,7 +41176,6 @@
           "titleEN": "Kill the king",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -41596,7 +41185,6 @@
           "titleEN": "Need a CFP taken down",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -41606,7 +41194,6 @@
           "titleEN": "Paid Target in CFP",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -41616,7 +41203,6 @@
           "titleEN": "Plug a traitor",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -41693,7 +41279,6 @@
           "titleEN": "Need a death at ~mission(Location)",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": true
@@ -41792,7 +41377,6 @@
           "titleEN": "Need a death at ~mission(Location)",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": true
@@ -41891,7 +41475,6 @@
           "titleEN": "Need a death at ~mission(Location)",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": true
@@ -42127,7 +41710,6 @@
           "titleEN": "A tricky tricky task",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -42137,7 +41719,6 @@
           "titleEN": "Back up needed at outpost",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -42147,7 +41728,6 @@
           "titleEN": "Death and cargo",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -42157,7 +41737,6 @@
           "titleEN": "Go on the warpath",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -42167,7 +41746,6 @@
           "titleEN": "Green light on ~mission(Location)",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -42177,7 +41755,6 @@
           "titleEN": "Hit on XenoThreat command",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -42187,7 +41764,6 @@
           "titleEN": "Looking for a little revenge",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -42197,7 +41773,6 @@
           "titleEN": "Need a hitter",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -42207,7 +41782,6 @@
           "titleEN": "Reputation Management",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -42217,7 +41791,6 @@
           "titleEN": "Time to roll on CFP",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -42431,7 +42004,6 @@
           "titleEN": "A tricky tricky task",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -42441,7 +42013,6 @@
           "titleEN": "Back up needed at outpost",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -42451,7 +42022,6 @@
           "titleEN": "Death and cargo",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -42461,7 +42031,6 @@
           "titleEN": "Go on the warpath",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -42471,7 +42040,6 @@
           "titleEN": "Green light on ~mission(Location)",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -42481,7 +42049,6 @@
           "titleEN": "Hit on XenoThreat command",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -42491,7 +42058,6 @@
           "titleEN": "Looking for a little revenge",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -42501,7 +42067,6 @@
           "titleEN": "Need a hitter",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -42511,7 +42076,6 @@
           "titleEN": "Reputation Management",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -42521,7 +42085,6 @@
           "titleEN": "Time to roll on CFP",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -42735,7 +42298,6 @@
           "titleEN": "A tricky tricky task",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -42745,7 +42307,6 @@
           "titleEN": "Back up needed at outpost",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -42755,7 +42316,6 @@
           "titleEN": "Death and cargo",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -42765,7 +42325,6 @@
           "titleEN": "Go on the warpath",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -42775,7 +42334,6 @@
           "titleEN": "Green light on ~mission(Location)",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -42785,7 +42343,6 @@
           "titleEN": "Hit on XenoThreat command",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -42795,7 +42352,6 @@
           "titleEN": "Looking for a little revenge",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -42805,7 +42361,6 @@
           "titleEN": "Need a hitter",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -42815,7 +42370,6 @@
           "titleEN": "Reputation Management",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -42825,7 +42379,6 @@
           "titleEN": "Time to roll on CFP",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -43039,7 +42592,6 @@
           "titleEN": "A tricky tricky task",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -43049,7 +42601,6 @@
           "titleEN": "Back up needed at outpost",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -43059,7 +42610,6 @@
           "titleEN": "Death and cargo",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -43069,7 +42619,6 @@
           "titleEN": "Go on the warpath",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -43079,7 +42628,6 @@
           "titleEN": "Green light on ~mission(Location)",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -43089,7 +42637,6 @@
           "titleEN": "Hit on XenoThreat command",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -43099,7 +42646,6 @@
           "titleEN": "Looking for a little revenge",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -43109,7 +42655,6 @@
           "titleEN": "Need a hitter",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -43119,7 +42664,6 @@
           "titleEN": "Reputation Management",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -43129,7 +42673,6 @@
           "titleEN": "Time to roll on CFP",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -43937,7 +43480,7 @@
           "titleEN": "All Things Come To An End",
           "faction": "Vaughn",
           "systems": [
-            "Nyx"
+            "Stanton"
           ],
           "illegal": true
         },
@@ -43946,7 +43489,7 @@
           "titleEN": "They Will Be Missed",
           "faction": "Vaughn",
           "systems": [
-            "Nyx"
+            "Stanton"
           ],
           "illegal": true
         }
@@ -50601,10 +50144,7 @@
           "titleKey": "shubin_industrial_shipmining_vh_org_title_001",
           "titleEN": "Special Purchase Order: Mined Materials",
           "faction": "Shubin Interstellar",
-          "systems": [
-            "Nyx",
-            "Pyro"
-          ],
+          "systems": [],
           "illegal": false
         },
         {
@@ -56212,7 +55752,6 @@
           "titleEN": "Alert: ~mission(Location) under attack",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -56222,7 +55761,6 @@
           "titleEN": "Call for Help: ~mission(Location)",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -56232,7 +55770,6 @@
           "titleEN": "Outlaw attack at ~mission(Location)",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -56242,7 +55779,6 @@
           "titleEN": "Reclaiming Outposts from XenoThreat",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -56252,7 +55788,6 @@
           "titleEN": "Retaking Outposts from Headhunters",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -56262,7 +55797,6 @@
           "titleEN": "Taking back from the Headhunters",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -56359,7 +55893,6 @@
           "titleEN": "Campaign to reclaim XenoThreat outposts",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -56369,7 +55902,6 @@
           "titleEN": "Defend ~mission(Location) from Outlaws",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -56379,7 +55911,6 @@
           "titleEN": "Help defend ~mission(Location) from Headhunters",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -56389,7 +55920,6 @@
           "titleEN": "Need multiple CFP outposts retaken",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -56399,7 +55929,6 @@
           "titleEN": "Protect ~mission(Location) from XenoThreat Attack",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -56409,7 +55938,6 @@
           "titleEN": "Reclaiming Clusters from Headhunters",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -56502,7 +56030,6 @@
           "titleEN": "Defenders needed against Headhunters",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -56512,7 +56039,6 @@
           "titleEN": "Reclaim Headhunter Outpost",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -56611,7 +56137,6 @@
           "titleEN": "Assistance needed at ~mission(Location)",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -56621,7 +56146,6 @@
           "titleEN": "Call for Help: ~mission(Location)",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -56631,7 +56155,6 @@
           "titleEN": "Defend ~mission(Location) from Outlaws",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -56641,7 +56164,6 @@
           "titleEN": "Headhunter attack on ~mission(Location)",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -56651,7 +56173,6 @@
           "titleEN": "Protect ~mission(Location) from XenoThreat Incursion",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -56661,7 +56182,6 @@
           "titleEN": "Protect ~mission(Location) from XenoThreat Raid",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -56671,7 +56191,6 @@
           "titleEN": "Reclaim Headhunter Outpost",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -56681,7 +56200,6 @@
           "titleEN": "~mission(Location) needs assistance",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -56778,7 +56296,6 @@
           "titleEN": "Attack on CFP outpost",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -56788,7 +56305,6 @@
           "titleEN": "Call for Help: ~mission(Location)",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -56798,7 +56314,6 @@
           "titleEN": "Defenders needed against Headhunters",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -56808,7 +56323,6 @@
           "titleEN": "Protecting outpost from XenoThreat",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -56818,7 +56332,6 @@
           "titleEN": "Reclaim XenoThreat Outpost",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -56828,7 +56341,6 @@
           "titleEN": "~mission(Location|Address) needs help",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -56942,7 +56454,6 @@
           "titleEN": "Alert: ~mission(Location) under attack",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -56952,7 +56463,6 @@
           "titleEN": "Assistance needed at ~mission(Location)",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -56962,7 +56472,6 @@
           "titleEN": "Attack on CFP outpost",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -56972,7 +56481,6 @@
           "titleEN": "Call for Help: ~mission(Location)",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -56982,7 +56490,6 @@
           "titleEN": "Campaign to reclaim XenoThreat outposts",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -56992,7 +56499,6 @@
           "titleEN": "Defend ~mission(Location) from Outlaws",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -57002,7 +56508,6 @@
           "titleEN": "Defenders needed against Headhunters",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -57012,7 +56517,6 @@
           "titleEN": "Headhunter attack on ~mission(Location)",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -57022,7 +56526,6 @@
           "titleEN": "Help defend ~mission(Location) from Headhunters",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -57032,7 +56535,6 @@
           "titleEN": "Need multiple CFP outposts retaken",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -57042,7 +56544,6 @@
           "titleEN": "Outlaw attack at ~mission(Location)",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -57052,7 +56553,6 @@
           "titleEN": "Protect ~mission(Location) from XenoThreat Attack",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -57062,7 +56562,6 @@
           "titleEN": "Protect ~mission(Location) from XenoThreat Incursion",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -57072,7 +56571,6 @@
           "titleEN": "Protect ~mission(Location) from XenoThreat Raid",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -57082,7 +56580,6 @@
           "titleEN": "Protecting outpost from XenoThreat",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -57092,7 +56589,6 @@
           "titleEN": "Reclaim Headhunter Outpost",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -57102,7 +56598,6 @@
           "titleEN": "Reclaim XenoThreat Outpost",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -57112,7 +56607,6 @@
           "titleEN": "Reclaiming Clusters from Headhunters",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -57122,7 +56616,6 @@
           "titleEN": "Reclaiming Outposts from XenoThreat",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -57132,7 +56625,6 @@
           "titleEN": "Retaking Outposts from Headhunters",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -57142,7 +56634,6 @@
           "titleEN": "Taking back from the Headhunters",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -57152,7 +56643,6 @@
           "titleEN": "~mission(Location) needs assistance",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -57162,7 +56652,6 @@
           "titleEN": "~mission(Location|Address) needs help",
           "faction": "Citizens for Prosperity",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -57239,9 +56728,7 @@
           "titleKey": "vaughn_eliminatespecific_fps_storm_h_title_001",
           "titleEN": "A Challenging Contract",
           "faction": "Vaughn",
-          "systems": [
-            "Nyx"
-          ],
+          "systems": [],
           "illegal": true
         },
         {
@@ -57249,7 +56736,7 @@
           "titleEN": "All Things Come To An End",
           "faction": "Vaughn",
           "systems": [
-            "Nyx"
+            "Stanton"
           ],
           "illegal": true
         }
@@ -57347,9 +56834,7 @@
           "titleKey": "vaughn_eliminatespecific_fps_storm_h_title_001",
           "titleEN": "A Challenging Contract",
           "faction": "Vaughn",
-          "systems": [
-            "Nyx"
-          ],
+          "systems": [],
           "illegal": true
         },
         {
@@ -57357,7 +56842,7 @@
           "titleEN": "All Things Come To An End",
           "faction": "Vaughn",
           "systems": [
-            "Nyx"
+            "Stanton"
           ],
           "illegal": true
         }
@@ -59529,7 +59014,6 @@
           "titleEN": "Need a death at ~mission(Location)",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": true
@@ -60187,9 +59671,7 @@
           "titleKey": "bhg_bounty_title_rockcracker_001",
           "titleEN": "Verified Bounty: ~mission(TargetName) at QV Breaker Station",
           "faction": "Bounty Hunters Guild",
-          "systems": [
-            "Nyx"
-          ],
+          "systems": [],
           "illegal": false
         }
       ],
@@ -60295,9 +59777,7 @@
           "titleKey": "bhg_eliminateboss_fps_rockcracker_warehouse_name_001",
           "titleEN": "High-Risk Bounty: ~mission(TargetName) at QV Breaker Station",
           "faction": "Bounty Hunters Guild",
-          "systems": [
-            "Nyx"
-          ],
+          "systems": [],
           "illegal": false
         }
       ],
@@ -60403,9 +59883,7 @@
           "titleKey": "bhg_eliminateboss_fps_rockcracker_warehouse_name_001",
           "titleEN": "High-Risk Bounty: ~mission(TargetName) at QV Breaker Station",
           "faction": "Bounty Hunters Guild",
-          "systems": [
-            "Nyx"
-          ],
+          "systems": [],
           "illegal": false
         }
       ],
@@ -60504,9 +59982,7 @@
           "titleKey": "shubin_rockcracker_solo_title_01",
           "titleEN": "QV Breaker Station Mining Rights (Exclusive)",
           "faction": "Shubin Interstellar",
-          "systems": [
-            "Nyx"
-          ],
+          "systems": [],
           "illegal": false
         },
         {
@@ -60632,9 +60108,7 @@
           "titleKey": "shubin_rockcracker_solo_title_01",
           "titleEN": "QV Breaker Station Mining Rights (Exclusive)",
           "faction": "Shubin Interstellar",
-          "systems": [
-            "Nyx"
-          ],
+          "systems": [],
           "illegal": false
         },
         {
@@ -60957,9 +60431,7 @@
           "titleKey": "bhg_bounty_title_rockcracker_001",
           "titleEN": "Verified Bounty: ~mission(TargetName) at QV Breaker Station",
           "faction": "Bounty Hunters Guild",
-          "systems": [
-            "Nyx"
-          ],
+          "systems": [],
           "illegal": false
         }
       ],
@@ -61255,9 +60727,7 @@
           "titleKey": "bhg_bounty_title_rockcracker_001",
           "titleEN": "Verified Bounty: ~mission(TargetName) at QV Breaker Station",
           "faction": "Bounty Hunters Guild",
-          "systems": [
-            "Nyx"
-          ],
+          "systems": [],
           "illegal": false
         }
       ],
@@ -61363,9 +60833,7 @@
           "titleKey": "bhg_eliminateboss_fps_rockcracker_warehouse_name_001",
           "titleEN": "High-Risk Bounty: ~mission(TargetName) at QV Breaker Station",
           "faction": "Bounty Hunters Guild",
-          "systems": [
-            "Nyx"
-          ],
+          "systems": [],
           "illegal": false
         }
       ],
@@ -61471,9 +60939,7 @@
           "titleKey": "bhg_eliminateboss_fps_rockcracker_warehouse_name_001",
           "titleEN": "High-Risk Bounty: ~mission(TargetName) at QV Breaker Station",
           "faction": "Bounty Hunters Guild",
-          "systems": [
-            "Nyx"
-          ],
+          "systems": [],
           "illegal": false
         }
       ],
@@ -61572,9 +61038,7 @@
           "titleKey": "shubin_rockcracker_solo_title_01",
           "titleEN": "QV Breaker Station Mining Rights (Exclusive)",
           "faction": "Shubin Interstellar",
-          "systems": [
-            "Nyx"
-          ],
+          "systems": [],
           "illegal": false
         },
         {
@@ -61700,9 +61164,7 @@
           "titleKey": "shubin_rockcracker_solo_title_01",
           "titleEN": "QV Breaker Station Mining Rights (Exclusive)",
           "faction": "Shubin Interstellar",
-          "systems": [
-            "Nyx"
-          ],
+          "systems": [],
           "illegal": false
         },
         {
@@ -62025,9 +61487,7 @@
           "titleKey": "bhg_bounty_title_rockcracker_001",
           "titleEN": "Verified Bounty: ~mission(TargetName) at QV Breaker Station",
           "faction": "Bounty Hunters Guild",
-          "systems": [
-            "Nyx"
-          ],
+          "systems": [],
           "illegal": false
         }
       ],
@@ -62323,9 +61783,7 @@
           "titleKey": "bhg_bounty_title_rockcracker_001",
           "titleEN": "Verified Bounty: ~mission(TargetName) at QV Breaker Station",
           "faction": "Bounty Hunters Guild",
-          "systems": [
-            "Nyx"
-          ],
+          "systems": [],
           "illegal": false
         }
       ],
@@ -62431,9 +61889,7 @@
           "titleKey": "bhg_eliminateboss_fps_rockcracker_warehouse_name_001",
           "titleEN": "High-Risk Bounty: ~mission(TargetName) at QV Breaker Station",
           "faction": "Bounty Hunters Guild",
-          "systems": [
-            "Nyx"
-          ],
+          "systems": [],
           "illegal": false
         }
       ],
@@ -62532,9 +61988,7 @@
           "titleKey": "shubin_rockcracker_solo_title_01",
           "titleEN": "QV Breaker Station Mining Rights (Exclusive)",
           "faction": "Shubin Interstellar",
-          "systems": [
-            "Nyx"
-          ],
+          "systems": [],
           "illegal": false
         },
         {
@@ -62667,9 +62121,7 @@
           "titleKey": "bhg_eliminateboss_fps_rockcracker_warehouse_name_001",
           "titleEN": "High-Risk Bounty: ~mission(TargetName) at QV Breaker Station",
           "faction": "Bounty Hunters Guild",
-          "systems": [
-            "Nyx"
-          ],
+          "systems": [],
           "illegal": false
         }
       ],
@@ -62768,9 +62220,7 @@
           "titleKey": "shubin_rockcracker_solo_title_01",
           "titleEN": "QV Breaker Station Mining Rights (Exclusive)",
           "faction": "Shubin Interstellar",
-          "systems": [
-            "Nyx"
-          ],
+          "systems": [],
           "illegal": false
         },
         {
@@ -63093,9 +62543,7 @@
           "titleKey": "bhg_bounty_title_rockcracker_001",
           "titleEN": "Verified Bounty: ~mission(TargetName) at QV Breaker Station",
           "faction": "Bounty Hunters Guild",
-          "systems": [
-            "Nyx"
-          ],
+          "systems": [],
           "illegal": false
         }
       ],
@@ -63391,9 +62839,7 @@
           "titleKey": "bhg_bounty_title_rockcracker_001",
           "titleEN": "Verified Bounty: ~mission(TargetName) at QV Breaker Station",
           "faction": "Bounty Hunters Guild",
-          "systems": [
-            "Nyx"
-          ],
+          "systems": [],
           "illegal": false
         }
       ],
@@ -63499,9 +62945,7 @@
           "titleKey": "bhg_eliminateboss_fps_rockcracker_warehouse_name_001",
           "titleEN": "High-Risk Bounty: ~mission(TargetName) at QV Breaker Station",
           "faction": "Bounty Hunters Guild",
-          "systems": [
-            "Nyx"
-          ],
+          "systems": [],
           "illegal": false
         }
       ],
@@ -63607,9 +63051,7 @@
           "titleKey": "bhg_eliminateboss_fps_rockcracker_warehouse_name_001",
           "titleEN": "High-Risk Bounty: ~mission(TargetName) at QV Breaker Station",
           "faction": "Bounty Hunters Guild",
-          "systems": [
-            "Nyx"
-          ],
+          "systems": [],
           "illegal": false
         }
       ],
@@ -63708,9 +63150,7 @@
           "titleKey": "shubin_rockcracker_solo_title_01",
           "titleEN": "QV Breaker Station Mining Rights (Exclusive)",
           "faction": "Shubin Interstellar",
-          "systems": [
-            "Nyx"
-          ],
+          "systems": [],
           "illegal": false
         },
         {
@@ -63836,9 +63276,7 @@
           "titleKey": "shubin_rockcracker_solo_title_01",
           "titleEN": "QV Breaker Station Mining Rights (Exclusive)",
           "faction": "Shubin Interstellar",
-          "systems": [
-            "Nyx"
-          ],
+          "systems": [],
           "illegal": false
         },
         {
@@ -64161,9 +63599,7 @@
           "titleKey": "bhg_bounty_title_rockcracker_001",
           "titleEN": "Verified Bounty: ~mission(TargetName) at QV Breaker Station",
           "faction": "Bounty Hunters Guild",
-          "systems": [
-            "Nyx"
-          ],
+          "systems": [],
           "illegal": false
         }
       ],
@@ -64411,7 +63847,6 @@
           "titleEN": "Deep space hit",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -64421,7 +63856,6 @@
           "titleEN": "Green light on ~mission(TargetName|Last)",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -64431,7 +63865,6 @@
           "titleEN": "Head of the snake",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -64441,7 +63874,6 @@
           "titleEN": "Hit on XenoThreat at the Yard",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -64451,7 +63883,6 @@
           "titleEN": "Kill the king",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -64461,7 +63892,6 @@
           "titleEN": "Need a CFP taken down",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -64471,7 +63901,6 @@
           "titleEN": "Need a hit on the Riviera",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -64481,7 +63910,6 @@
           "titleEN": "Need a scalpel at Carver's",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -64491,7 +63919,6 @@
           "titleEN": "Need someone taken out",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -64501,7 +63928,6 @@
           "titleEN": "Shot in the chaos",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -64511,7 +63937,6 @@
           "titleEN": "Wanted: ~mission(TargetName)",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -64521,7 +63946,6 @@
           "titleEN": "XenoThreat Lieutenant needs some killing",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -64969,7 +64393,6 @@
           "titleEN": "Deep space hit",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -64979,7 +64402,6 @@
           "titleEN": "Drop a XenoThreat",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -64989,7 +64411,6 @@
           "titleEN": "Kill the king",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -64999,7 +64420,6 @@
           "titleEN": "Need a CFP taken down",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -65009,7 +64429,6 @@
           "titleEN": "Paid Target in CFP",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -65019,7 +64438,6 @@
           "titleEN": "Plug a traitor",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -65129,7 +64547,6 @@
           "titleEN": "Deep space hit",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -65139,7 +64556,6 @@
           "titleEN": "Green light on ~mission(TargetName|Last)",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -65149,7 +64565,6 @@
           "titleEN": "Head of the snake",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -65159,7 +64574,6 @@
           "titleEN": "Hit on XenoThreat at the Yard",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -65169,7 +64583,6 @@
           "titleEN": "Kill the king",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -65179,7 +64592,6 @@
           "titleEN": "Need a CFP taken down",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -65189,7 +64601,6 @@
           "titleEN": "Need a hit on the Riviera",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -65199,7 +64610,6 @@
           "titleEN": "Need a scalpel at Carver's",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -65209,7 +64619,6 @@
           "titleEN": "Need someone taken out",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -65219,7 +64628,6 @@
           "titleEN": "Shot in the chaos",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -65229,7 +64637,6 @@
           "titleEN": "Wanted: ~mission(TargetName)",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -65239,7 +64646,6 @@
           "titleEN": "XenoThreat Lieutenant needs some killing",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -65687,7 +65093,6 @@
           "titleEN": "Deep space hit",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -65697,7 +65102,6 @@
           "titleEN": "Drop a XenoThreat",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -65707,7 +65111,6 @@
           "titleEN": "Kill the king",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -65717,7 +65120,6 @@
           "titleEN": "Need a CFP taken down",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -65727,7 +65129,6 @@
           "titleEN": "Paid Target in CFP",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -65737,7 +65138,6 @@
           "titleEN": "Plug a traitor",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -65847,7 +65247,6 @@
           "titleEN": "Deep space hit",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -65857,7 +65256,6 @@
           "titleEN": "Green light on ~mission(TargetName|Last)",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -65867,7 +65265,6 @@
           "titleEN": "Head of the snake",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -65877,7 +65274,6 @@
           "titleEN": "Hit on XenoThreat at the Yard",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -65887,7 +65283,6 @@
           "titleEN": "Kill the king",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -65897,7 +65292,6 @@
           "titleEN": "Need a CFP taken down",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -65907,7 +65301,6 @@
           "titleEN": "Need a hit on the Riviera",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -65917,7 +65310,6 @@
           "titleEN": "Need a scalpel at Carver's",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -65927,7 +65319,6 @@
           "titleEN": "Need someone taken out",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -65937,7 +65328,6 @@
           "titleEN": "Shot in the chaos",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -65947,7 +65337,6 @@
           "titleEN": "Wanted: ~mission(TargetName)",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -65957,7 +65346,6 @@
           "titleEN": "XenoThreat Lieutenant needs some killing",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -66491,7 +65879,6 @@
           "titleEN": "Deep space hit",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -66501,7 +65888,6 @@
           "titleEN": "Drop a XenoThreat",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -66511,7 +65897,6 @@
           "titleEN": "Kill the king",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -66521,7 +65906,6 @@
           "titleEN": "Need a CFP taken down",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -66531,7 +65915,6 @@
           "titleEN": "Paid Target in CFP",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -66541,7 +65924,6 @@
           "titleEN": "Plug a traitor",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -66651,7 +66033,6 @@
           "titleEN": "Deep space hit",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -66661,7 +66042,6 @@
           "titleEN": "Green light on ~mission(TargetName|Last)",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -66671,7 +66051,6 @@
           "titleEN": "Head of the snake",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -66681,7 +66060,6 @@
           "titleEN": "Hit on XenoThreat at the Yard",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -66691,7 +66069,6 @@
           "titleEN": "Kill the king",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -66701,7 +66078,6 @@
           "titleEN": "Need a CFP taken down",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -66711,7 +66087,6 @@
           "titleEN": "Need a hit on the Riviera",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -66721,7 +66096,6 @@
           "titleEN": "Need a scalpel at Carver's",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -66731,7 +66105,6 @@
           "titleEN": "Need someone taken out",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -66741,7 +66114,6 @@
           "titleEN": "Shot in the chaos",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -66751,7 +66123,6 @@
           "titleEN": "Wanted: ~mission(TargetName)",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -66761,7 +66132,6 @@
           "titleEN": "XenoThreat Lieutenant needs some killing",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -67295,7 +66665,6 @@
           "titleEN": "Deep space hit",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -67305,7 +66674,6 @@
           "titleEN": "Drop a XenoThreat",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -67315,7 +66683,6 @@
           "titleEN": "Kill the king",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -67325,7 +66692,6 @@
           "titleEN": "Need a CFP taken down",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -67335,7 +66701,6 @@
           "titleEN": "Paid Target in CFP",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -67345,7 +66710,6 @@
           "titleEN": "Plug a traitor",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -75146,9 +74510,7 @@
           "titleKey": "vaughn_eliminatespecific_fps_storm_h_title_001",
           "titleEN": "A Challenging Contract",
           "faction": "Vaughn",
-          "systems": [
-            "Nyx"
-          ],
+          "systems": [],
           "illegal": true
         },
         {
@@ -75156,7 +74518,7 @@
           "titleEN": "All Things Come To An End",
           "faction": "Vaughn",
           "systems": [
-            "Nyx"
+            "Stanton"
           ],
           "illegal": true
         }
@@ -75232,9 +74594,7 @@
           "titleKey": "vaughn_eliminatespecific_fps_storm_h_title_001",
           "titleEN": "A Challenging Contract",
           "faction": "Vaughn",
-          "systems": [
-            "Nyx"
-          ],
+          "systems": [],
           "illegal": true
         },
         {
@@ -75242,7 +74602,7 @@
           "titleEN": "All Things Come To An End",
           "faction": "Vaughn",
           "systems": [
-            "Nyx"
+            "Stanton"
           ],
           "illegal": true
         }
@@ -75318,9 +74678,7 @@
           "titleKey": "vaughn_eliminatespecific_fps_storm_h_title_001",
           "titleEN": "A Challenging Contract",
           "faction": "Vaughn",
-          "systems": [
-            "Nyx"
-          ],
+          "systems": [],
           "illegal": true
         },
         {
@@ -75328,7 +74686,7 @@
           "titleEN": "All Things Come To An End",
           "faction": "Vaughn",
           "systems": [
-            "Nyx"
+            "Stanton"
           ],
           "illegal": true
         }
@@ -75404,9 +74762,7 @@
           "titleKey": "vaughn_eliminatespecific_fps_storm_h_title_001",
           "titleEN": "A Challenging Contract",
           "faction": "Vaughn",
-          "systems": [
-            "Nyx"
-          ],
+          "systems": [],
           "illegal": true
         },
         {
@@ -75414,7 +74770,7 @@
           "titleEN": "All Things Come To An End",
           "faction": "Vaughn",
           "systems": [
-            "Nyx"
+            "Stanton"
           ],
           "illegal": true
         }
@@ -85355,7 +84711,8 @@
           "titleEN": "Orange Level Contract: Potential Security Threat",
           "faction": "Foxwell Enforcement",
           "systems": [
-            "Pyro"
+            "Pyro",
+            "Stanton"
           ],
           "illegal": false
         },
@@ -85364,7 +84721,8 @@
           "titleEN": "Orange Level Contract: Security Patrol",
           "faction": "Foxwell Enforcement",
           "systems": [
-            "Pyro"
+            "Pyro",
+            "Stanton"
           ],
           "illegal": false
         },
@@ -85373,7 +84731,8 @@
           "titleEN": "Red Level Contract: High-Risk Security Patrol",
           "faction": "Foxwell Enforcement",
           "systems": [
-            "Pyro"
+            "Pyro",
+            "Stanton"
           ],
           "illegal": false
         },
@@ -85382,7 +84741,8 @@
           "titleEN": "Red Level Contract: Secure Threatened Space",
           "faction": "Foxwell Enforcement",
           "systems": [
-            "Pyro"
+            "Pyro",
+            "Stanton"
           ],
           "illegal": false
         },
@@ -85391,7 +84751,8 @@
           "titleEN": "Yellow Level Contract: Routine Patrol",
           "faction": "Foxwell Enforcement",
           "systems": [
-            "Pyro"
+            "Pyro",
+            "Stanton"
           ],
           "illegal": false
         },
@@ -85400,7 +84761,8 @@
           "titleEN": "Yellow Level Contract: Security Sweep",
           "faction": "Foxwell Enforcement",
           "systems": [
-            "Pyro"
+            "Pyro",
+            "Stanton"
           ],
           "illegal": false
         }
@@ -86056,7 +85418,8 @@
           "titleEN": "Orange Level Contract: Potential Security Threat",
           "faction": "Foxwell Enforcement",
           "systems": [
-            "Pyro"
+            "Pyro",
+            "Stanton"
           ],
           "illegal": false
         },
@@ -86085,7 +85448,8 @@
           "titleEN": "Orange Level Contract: Security Patrol",
           "faction": "Foxwell Enforcement",
           "systems": [
-            "Pyro"
+            "Pyro",
+            "Stanton"
           ],
           "illegal": false
         },
@@ -86133,7 +85497,8 @@
           "titleEN": "Red Level Contract: High-Risk Security Patrol",
           "faction": "Foxwell Enforcement",
           "systems": [
-            "Pyro"
+            "Pyro",
+            "Stanton"
           ],
           "illegal": false
         },
@@ -86152,7 +85517,8 @@
           "titleEN": "Red Level Contract: Secure Threatened Space",
           "faction": "Foxwell Enforcement",
           "systems": [
-            "Pyro"
+            "Pyro",
+            "Stanton"
           ],
           "illegal": false
         },
@@ -86219,7 +85585,8 @@
           "titleEN": "Yellow Level Contract: Routine Patrol",
           "faction": "Foxwell Enforcement",
           "systems": [
-            "Pyro"
+            "Pyro",
+            "Stanton"
           ],
           "illegal": false
         },
@@ -86228,7 +85595,8 @@
           "titleEN": "Yellow Level Contract: Security Sweep",
           "faction": "Foxwell Enforcement",
           "systems": [
-            "Pyro"
+            "Pyro",
+            "Stanton"
           ],
           "illegal": false
         },
@@ -86640,9 +86008,7 @@
           "titleKey": "vaughn_eliminatespecific_fps_storm_h_title_001",
           "titleEN": "A Challenging Contract",
           "faction": "Vaughn",
-          "systems": [
-            "Nyx"
-          ],
+          "systems": [],
           "illegal": true
         },
         {
@@ -86650,7 +86016,7 @@
           "titleEN": "All Things Come To An End",
           "faction": "Vaughn",
           "systems": [
-            "Nyx"
+            "Stanton"
           ],
           "illegal": true
         }
@@ -86726,9 +86092,7 @@
           "titleKey": "vaughn_eliminatespecific_fps_storm_h_title_001",
           "titleEN": "A Challenging Contract",
           "faction": "Vaughn",
-          "systems": [
-            "Nyx"
-          ],
+          "systems": [],
           "illegal": true
         },
         {
@@ -86736,7 +86100,7 @@
           "titleEN": "All Things Come To An End",
           "faction": "Vaughn",
           "systems": [
-            "Nyx"
+            "Stanton"
           ],
           "illegal": true
         }
@@ -86812,9 +86176,7 @@
           "titleKey": "vaughn_eliminatespecific_fps_storm_h_title_001",
           "titleEN": "A Challenging Contract",
           "faction": "Vaughn",
-          "systems": [
-            "Nyx"
-          ],
+          "systems": [],
           "illegal": true
         },
         {
@@ -86822,7 +86184,7 @@
           "titleEN": "All Things Come To An End",
           "faction": "Vaughn",
           "systems": [
-            "Nyx"
+            "Stanton"
           ],
           "illegal": true
         }
@@ -87336,9 +86698,7 @@
           "titleKey": "kaboos_mission_title",
           "titleEN": "Retrieve Additional Smuggler Intel",
           "faction": "InterSec Defense Solution",
-          "systems": [
-            "Nyx"
-          ],
+          "systems": [],
           "illegal": false
         },
         {
@@ -87591,18 +86951,14 @@
           "titleKey": "intersec_resourcegathering_cryopods_title",
           "titleEN": "Recover Vanduul Corpses",
           "faction": "InterSec Defense Solution",
-          "systems": [
-            "Nyx"
-          ],
+          "systems": [],
           "illegal": false
         },
         {
           "titleKey": "intersec_resourcegathering_tech_title",
           "titleEN": "Recover Vanduul Tech",
           "faction": "InterSec Defense Solution",
-          "systems": [
-            "Nyx"
-          ],
+          "systems": [],
           "illegal": false
         },
         {
@@ -87759,27 +87115,21 @@
           "titleKey": "intersec_resourcegathering_cryopods_title",
           "titleEN": "Recover Vanduul Corpses",
           "faction": "InterSec Defense Solution",
-          "systems": [
-            "Nyx"
-          ],
+          "systems": [],
           "illegal": false
         },
         {
           "titleKey": "intersec_resourcegathering_tech_title",
           "titleEN": "Recover Vanduul Tech",
           "faction": "InterSec Defense Solution",
-          "systems": [
-            "Nyx"
-          ],
+          "systems": [],
           "illegal": false
         },
         {
           "titleKey": "kaboos_mission_title",
           "titleEN": "Retrieve Additional Smuggler Intel",
           "faction": "InterSec Defense Solution",
-          "systems": [
-            "Nyx"
-          ],
+          "systems": [],
           "illegal": false
         },
         {
@@ -87862,7 +87212,7 @@
           "titleEN": "All Things Come To An End",
           "faction": "Vaughn",
           "systems": [
-            "Nyx"
+            "Stanton"
           ],
           "illegal": true
         },
@@ -87871,7 +87221,7 @@
           "titleEN": "They Will Be Missed",
           "faction": "Vaughn",
           "systems": [
-            "Nyx"
+            "Stanton"
           ],
           "illegal": true
         }
@@ -87970,7 +87320,7 @@
           "titleEN": "All Things Come To An End",
           "faction": "Vaughn",
           "systems": [
-            "Nyx"
+            "Stanton"
           ],
           "illegal": true
         },
@@ -87979,7 +87329,7 @@
           "titleEN": "They Will Be Missed",
           "faction": "Vaughn",
           "systems": [
-            "Nyx"
+            "Stanton"
           ],
           "illegal": true
         }
@@ -88063,9 +87413,7 @@
           "titleKey": "kaboos_mission_title",
           "titleEN": "Retrieve Additional Smuggler Intel",
           "faction": "InterSec Defense Solution",
-          "systems": [
-            "Nyx"
-          ],
+          "systems": [],
           "illegal": false
         },
         {
@@ -88424,9 +87772,7 @@
           "titleKey": "kaboos_mission_title",
           "titleEN": "Retrieve Additional Smuggler Intel",
           "faction": "InterSec Defense Solution",
-          "systems": [
-            "Nyx"
-          ],
+          "systems": [],
           "illegal": false
         },
         {
@@ -88561,9 +87907,7 @@
           "titleKey": "kaboos_mission_title",
           "titleEN": "Retrieve Additional Smuggler Intel",
           "faction": "InterSec Defense Solution",
-          "systems": [
-            "Nyx"
-          ],
+          "systems": [],
           "illegal": false
         },
         {
@@ -88647,9 +87991,7 @@
           "titleKey": "shubin_rockcracker_solo_title_01",
           "titleEN": "QV Breaker Station Mining Rights (Exclusive)",
           "faction": "Shubin Interstellar",
-          "systems": [
-            "Nyx"
-          ],
+          "systems": [],
           "illegal": false
         },
         {
@@ -88775,9 +88117,7 @@
           "titleKey": "shubin_rockcracker_solo_title_01",
           "titleEN": "QV Breaker Station Mining Rights (Exclusive)",
           "faction": "Shubin Interstellar",
-          "systems": [
-            "Nyx"
-          ],
+          "systems": [],
           "illegal": false
         },
         {
@@ -88910,9 +88250,7 @@
           "titleKey": "bhg_eliminateboss_fps_rockcracker_warehouse_name_001",
           "titleEN": "High-Risk Bounty: ~mission(TargetName) at QV Breaker Station",
           "faction": "Bounty Hunters Guild",
-          "systems": [
-            "Nyx"
-          ],
+          "systems": [],
           "illegal": false
         }
       ],
@@ -89084,9 +88422,7 @@
           "titleKey": "bhg_eliminateboss_fps_rockcracker_warehouse_name_001",
           "titleEN": "High-Risk Bounty: ~mission(TargetName) at QV Breaker Station",
           "faction": "Bounty Hunters Guild",
-          "systems": [
-            "Nyx"
-          ],
+          "systems": [],
           "illegal": false
         },
         {
@@ -89228,9 +88564,7 @@
           "titleKey": "bhg_bounty_title_rockcracker_001",
           "titleEN": "Verified Bounty: ~mission(TargetName) at QV Breaker Station",
           "faction": "Bounty Hunters Guild",
-          "systems": [
-            "Nyx"
-          ],
+          "systems": [],
           "illegal": false
         }
       ],
@@ -89406,9 +88740,7 @@
           "titleKey": "bhg_eliminateboss_fps_rockcracker_warehouse_name_001",
           "titleEN": "High-Risk Bounty: ~mission(TargetName) at QV Breaker Station",
           "faction": "Bounty Hunters Guild",
-          "systems": [
-            "Nyx"
-          ],
+          "systems": [],
           "illegal": false
         },
         {
@@ -89478,9 +88810,7 @@
           "titleKey": "shubin_rockcracker_solo_title_01",
           "titleEN": "QV Breaker Station Mining Rights (Exclusive)",
           "faction": "Shubin Interstellar",
-          "systems": [
-            "Nyx"
-          ],
+          "systems": [],
           "illegal": false
         },
         {
@@ -89568,9 +88898,7 @@
           "titleKey": "bhg_bounty_title_rockcracker_001",
           "titleEN": "Verified Bounty: ~mission(TargetName) at QV Breaker Station",
           "faction": "Bounty Hunters Guild",
-          "systems": [
-            "Nyx"
-          ],
+          "systems": [],
           "illegal": false
         },
         {
@@ -89749,7 +89077,6 @@
           "titleEN": "Need a death at ~mission(Location)",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": true
@@ -89848,7 +89175,6 @@
           "titleEN": "Need a death at ~mission(Location)",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": true
@@ -89925,7 +89251,6 @@
           "titleEN": "Need a death at ~mission(Location)",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": true
@@ -91047,7 +90372,6 @@
           "titleEN": "Deep space hit",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -91057,7 +90381,6 @@
           "titleEN": "Green light on ~mission(TargetName|Last)",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -91067,7 +90390,6 @@
           "titleEN": "Head of the snake",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -91077,7 +90399,6 @@
           "titleEN": "Hit on XenoThreat at the Yard",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -91087,7 +90408,6 @@
           "titleEN": "Kill the king",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -91097,7 +90417,6 @@
           "titleEN": "Need a CFP taken down",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -91107,7 +90426,6 @@
           "titleEN": "Need a hit on the Riviera",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -91117,7 +90435,6 @@
           "titleEN": "Need a scalpel at Carver's",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -91127,7 +90444,6 @@
           "titleEN": "Need someone taken out",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -91137,7 +90453,6 @@
           "titleEN": "Shot in the chaos",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -91147,7 +90462,6 @@
           "titleEN": "Wanted: ~mission(TargetName)",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -91157,7 +90471,6 @@
           "titleEN": "XenoThreat Lieutenant needs some killing",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -91282,7 +90595,6 @@
           "titleEN": "Deep space hit",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -91292,7 +90604,6 @@
           "titleEN": "Green light on ~mission(TargetName|Last)",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -91302,7 +90613,6 @@
           "titleEN": "Head of the snake",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -91312,7 +90622,6 @@
           "titleEN": "Hit on XenoThreat at the Yard",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -91322,7 +90631,6 @@
           "titleEN": "Kill the king",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -91332,7 +90640,6 @@
           "titleEN": "Need a CFP taken down",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -91342,7 +90649,6 @@
           "titleEN": "Need a hit on the Riviera",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -91352,7 +90658,6 @@
           "titleEN": "Need a scalpel at Carver's",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -91362,7 +90667,6 @@
           "titleEN": "Need someone taken out",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -91372,7 +90676,6 @@
           "titleEN": "Shot in the chaos",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -91382,7 +90685,6 @@
           "titleEN": "Wanted: ~mission(TargetName)",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -91392,7 +90694,6 @@
           "titleEN": "XenoThreat Lieutenant needs some killing",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -94353,9 +93654,7 @@
           "titleKey": "kaboos_mission_title",
           "titleEN": "Retrieve Additional Smuggler Intel",
           "faction": "InterSec Defense Solution",
-          "systems": [
-            "Nyx"
-          ],
+          "systems": [],
           "illegal": false
         }
       ],
@@ -94451,9 +93750,7 @@
           "titleKey": "kaboos_mission_title",
           "titleEN": "Retrieve Additional Smuggler Intel",
           "faction": "InterSec Defense Solution",
-          "systems": [
-            "Nyx"
-          ],
+          "systems": [],
           "illegal": false
         }
       ],
@@ -94688,18 +93985,14 @@
           "titleKey": "intersec_resourcegathering_cryopods_title",
           "titleEN": "Recover Vanduul Corpses",
           "faction": "InterSec Defense Solution",
-          "systems": [
-            "Nyx"
-          ],
+          "systems": [],
           "illegal": false
         },
         {
           "titleKey": "intersec_resourcegathering_tech_title",
           "titleEN": "Recover Vanduul Tech",
           "faction": "InterSec Defense Solution",
-          "systems": [
-            "Nyx"
-          ],
+          "systems": [],
           "illegal": false
         }
       ],
@@ -95110,9 +94403,7 @@
           "titleKey": "kaboos_mission_title",
           "titleEN": "Retrieve Additional Smuggler Intel",
           "faction": "InterSec Defense Solution",
-          "systems": [
-            "Nyx"
-          ],
+          "systems": [],
           "illegal": false
         }
       ],
@@ -95208,9 +94499,7 @@
           "titleKey": "kaboos_mission_title",
           "titleEN": "Retrieve Additional Smuggler Intel",
           "faction": "InterSec Defense Solution",
-          "systems": [
-            "Nyx"
-          ],
+          "systems": [],
           "illegal": false
         }
       ],
@@ -95445,18 +94734,14 @@
           "titleKey": "intersec_resourcegathering_cryopods_title",
           "titleEN": "Recover Vanduul Corpses",
           "faction": "InterSec Defense Solution",
-          "systems": [
-            "Nyx"
-          ],
+          "systems": [],
           "illegal": false
         },
         {
           "titleKey": "intersec_resourcegathering_tech_title",
           "titleEN": "Recover Vanduul Tech",
           "faction": "InterSec Defense Solution",
-          "systems": [
-            "Nyx"
-          ],
+          "systems": [],
           "illegal": false
         }
       ],
@@ -95788,9 +95073,7 @@
           "titleKey": "kaboos_mission_title",
           "titleEN": "Retrieve Additional Smuggler Intel",
           "faction": "InterSec Defense Solution",
-          "systems": [
-            "Nyx"
-          ],
+          "systems": [],
           "illegal": false
         }
       ],
@@ -95886,9 +95169,7 @@
           "titleKey": "kaboos_mission_title",
           "titleEN": "Retrieve Additional Smuggler Intel",
           "faction": "InterSec Defense Solution",
-          "systems": [
-            "Nyx"
-          ],
+          "systems": [],
           "illegal": false
         }
       ],
@@ -96123,18 +95404,14 @@
           "titleKey": "intersec_resourcegathering_cryopods_title",
           "titleEN": "Recover Vanduul Corpses",
           "faction": "InterSec Defense Solution",
-          "systems": [
-            "Nyx"
-          ],
+          "systems": [],
           "illegal": false
         },
         {
           "titleKey": "intersec_resourcegathering_tech_title",
           "titleEN": "Recover Vanduul Tech",
           "faction": "InterSec Defense Solution",
-          "systems": [
-            "Nyx"
-          ],
+          "systems": [],
           "illegal": false
         }
       ],
@@ -96466,9 +95743,7 @@
           "titleKey": "kaboos_mission_title",
           "titleEN": "Retrieve Additional Smuggler Intel",
           "faction": "InterSec Defense Solution",
-          "systems": [
-            "Nyx"
-          ],
+          "systems": [],
           "illegal": false
         }
       ],
@@ -96564,9 +95839,7 @@
           "titleKey": "kaboos_mission_title",
           "titleEN": "Retrieve Additional Smuggler Intel",
           "faction": "InterSec Defense Solution",
-          "systems": [
-            "Nyx"
-          ],
+          "systems": [],
           "illegal": false
         }
       ],
@@ -96801,18 +96074,14 @@
           "titleKey": "intersec_resourcegathering_cryopods_title",
           "titleEN": "Recover Vanduul Corpses",
           "faction": "InterSec Defense Solution",
-          "systems": [
-            "Nyx"
-          ],
+          "systems": [],
           "illegal": false
         },
         {
           "titleKey": "intersec_resourcegathering_tech_title",
           "titleEN": "Recover Vanduul Tech",
           "faction": "InterSec Defense Solution",
-          "systems": [
-            "Nyx"
-          ],
+          "systems": [],
           "illegal": false
         }
       ],
@@ -97210,7 +96479,7 @@
           "titleEN": "All Things Come To An End",
           "faction": "Vaughn",
           "systems": [
-            "Nyx"
+            "Stanton"
           ],
           "illegal": true
         },
@@ -97219,7 +96488,7 @@
           "titleEN": "They Will Be Missed",
           "faction": "Vaughn",
           "systems": [
-            "Nyx"
+            "Stanton"
           ],
           "illegal": true
         }
@@ -97318,7 +96587,7 @@
           "titleEN": "All Things Come To An End",
           "faction": "Vaughn",
           "systems": [
-            "Nyx"
+            "Stanton"
           ],
           "illegal": true
         },
@@ -97327,7 +96596,7 @@
           "titleEN": "They Will Be Missed",
           "faction": "Vaughn",
           "systems": [
-            "Nyx"
+            "Stanton"
           ],
           "illegal": true
         }
@@ -101540,10 +100809,7 @@
           "titleKey": "shubin_industrial_shipmining_vh_org_title_001",
           "titleEN": "Special Purchase Order: Mined Materials",
           "faction": "Shubin Interstellar",
-          "systems": [
-            "Nyx",
-            "Pyro"
-          ],
+          "systems": [],
           "illegal": false
         },
         {
@@ -101778,10 +101044,7 @@
           "titleKey": "shubin_industrial_shipmining_vh_org_title_001",
           "titleEN": "Special Purchase Order: Mined Materials",
           "faction": "Shubin Interstellar",
-          "systems": [
-            "Nyx",
-            "Pyro"
-          ],
+          "systems": [],
           "illegal": false
         },
         {
@@ -102080,10 +101343,7 @@
           "titleKey": "shubin_industrial_shipmining_vh_org_title_001",
           "titleEN": "Special Purchase Order: Mined Materials",
           "faction": "Shubin Interstellar",
-          "systems": [
-            "Nyx",
-            "Pyro"
-          ],
+          "systems": [],
           "illegal": false
         },
         {
@@ -102380,7 +101640,6 @@
           "titleEN": "A tricky tricky task",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -102390,7 +101649,6 @@
           "titleEN": "Back up needed at outpost",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -102400,7 +101658,6 @@
           "titleEN": "Death and cargo",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -102410,7 +101667,6 @@
           "titleEN": "Go on the warpath",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -102420,7 +101676,6 @@
           "titleEN": "Green light on ~mission(Location)",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -102430,7 +101685,6 @@
           "titleEN": "Hit on XenoThreat command",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -102440,7 +101694,6 @@
           "titleEN": "Looking for a little revenge",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -102450,7 +101703,6 @@
           "titleEN": "Need a hitter",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -102460,7 +101712,6 @@
           "titleEN": "Reputation Management",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -102470,7 +101721,6 @@
           "titleEN": "Time to roll on CFP",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -102571,7 +101821,6 @@
           "titleEN": "A tricky tricky task",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -102581,7 +101830,6 @@
           "titleEN": "Back up needed at outpost",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -102591,7 +101839,6 @@
           "titleEN": "Death and cargo",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -102601,7 +101848,6 @@
           "titleEN": "Go on the warpath",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -102611,7 +101857,6 @@
           "titleEN": "Green light on ~mission(Location)",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -102621,7 +101866,6 @@
           "titleEN": "Hit on XenoThreat command",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -102631,7 +101875,6 @@
           "titleEN": "Looking for a little revenge",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -102641,7 +101884,6 @@
           "titleEN": "Need a hitter",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -102651,7 +101893,6 @@
           "titleEN": "Reputation Management",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -102661,7 +101902,6 @@
           "titleEN": "Time to roll on CFP",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -102841,7 +102081,6 @@
           "titleEN": "A tricky tricky task",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -102851,7 +102090,6 @@
           "titleEN": "Back up needed at outpost",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -102861,7 +102099,6 @@
           "titleEN": "Death and cargo",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -102871,7 +102108,6 @@
           "titleEN": "Go on the warpath",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -102881,7 +102117,6 @@
           "titleEN": "Green light on ~mission(Location)",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -102891,7 +102126,6 @@
           "titleEN": "Hit on XenoThreat command",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -102901,7 +102135,6 @@
           "titleEN": "Looking for a little revenge",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -102911,7 +102144,6 @@
           "titleEN": "Need a hitter",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -102921,7 +102153,6 @@
           "titleEN": "Reputation Management",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -102931,7 +102162,6 @@
           "titleEN": "Time to roll on CFP",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -103032,7 +102262,6 @@
           "titleEN": "A tricky tricky task",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -103042,7 +102271,6 @@
           "titleEN": "Back up needed at outpost",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -103052,7 +102280,6 @@
           "titleEN": "Death and cargo",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -103062,7 +102289,6 @@
           "titleEN": "Go on the warpath",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -103072,7 +102298,6 @@
           "titleEN": "Green light on ~mission(Location)",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -103082,7 +102307,6 @@
           "titleEN": "Hit on XenoThreat command",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -103092,7 +102316,6 @@
           "titleEN": "Looking for a little revenge",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -103102,7 +102325,6 @@
           "titleEN": "Need a hitter",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -103112,7 +102334,6 @@
           "titleEN": "Reputation Management",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
@@ -103122,7 +102343,6 @@
           "titleEN": "Time to roll on CFP",
           "faction": "Headhunters",
           "systems": [
-            "Nyx",
             "Pyro"
           ],
           "illegal": false
