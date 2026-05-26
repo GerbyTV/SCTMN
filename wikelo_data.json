@@ -1,0 +1,801 @@
+{
+  "version": 1,
+  "translations_fr": {
+    "Agricium": "Agricium",
+    "Aluminum": "Aluminium",
+    "Aslarite": "Aslarite",
+    "Beryl": "Béryl",
+    "Bexalite": "Bexalite",
+    "Borase": "Borase",
+    "Copper": "Cuivre",
+    "Corundum": "Corindon",
+    "Gold": "Or",
+    "Hephaestanite": "Héphaestanite",
+    "Iron": "Fer",
+    "Laranite": "Laranite",
+    "Lindinium": "Lindinium",
+    "Ouratite": "Ouratite",
+    "Pressurized_Ice": "Glace sous pression",
+    "Quantanium": "Quantanium",
+    "Quartz": "Quartz",
+    "Riccite": "Riccite",
+    "Savrilium": "Savrilium",
+    "Silicon": "Silicium",
+    "Stileron": "Stileron",
+    "Taranite": "Taranite",
+    "Tin": "Étain",
+    "Titanium": "Titane",
+    "Torite": "Torite",
+    "Tungsten": "Tungstène",
+    "Carinite": "Carinite",
+    "Carinite (Pure)": "Carinite (pure)",
+    "Carinite (Ore)": "Carinite (minerai)",
+    "Saldynium (Ore)": "Saldynium (minerai)",
+    "Jaclium (Ore)": "Jaclium (minerai)",
+    "Sadaryx": "Sadaryx",
+    "Aphorite": "Aphorite",
+    "Beradom": "Beradom",
+    "Dolivine": "Dolivine",
+    "Feynmaline": "Feynmaline",
+    "Glacosite": "Glacosite",
+    "Hadanite": "Hadanite",
+    "Janalite": "Janalite",
+    "Yormandi Eye": "Œil de Yormandi",
+    "Yormandi Tongue": "Langue de Yormandi",
+    "Tundra Kopion Horn": "Corne de kopion des toundras",
+    "Irr. Kopion Horn": "Corne de kopion irradiée",
+    "Irr. Valakkar Pearl (AAA)": "Perle de valakkar irradiée (grade AAA)",
+    "Irr. Valakkar Pearl (AA)": "Perle de valakkar irradiée (grade AA)",
+    "Irr. Valakkar Fang (Apex)": "Croc de valakkar irradié (apex)",
+    "Irr. Valakkar Fang (Adult)": "Croc de valakkar irradié (adulte)",
+    "Irr. Valakkar Fang (Juvenile)": "Croc de valakkar irradié (juvénile)",
+    "Bluemoon Fungus": "Champignon Pleine lune",
+    "Wikelo Favor": "Faveur de Wikelo",
+    "Polaris Bit": "Bit Polaris",
+    "ASD Secure Drive": "Disque sécurisé ASD",
+    "MG Scrip": "Jeton MG",
+    "SCU Savrilium": "SCU Savrilium",
+    "DCHS-05 Orbital Board": "Carte DCHS-05 de positionnement orbital",
+    "DCHS-05 Comp-Board": "Carte DCHS-05",
+    "RCMBNT-PWL-1": "RCMBNT-PWL-1",
+    "RCMBNT-PWL-2": "RCMBNT-PWL-2",
+    "RCMBNT-PWL-3": "RCMBNT-PWL-3",
+    "RCMBNT-RGL-1": "RCMBNT-RGL-1",
+    "RCMBNT-RGL-2": "RCMBNT-RGL-2",
+    "RCMBNT-RGL-3": "RCMBNT-RGL-3",
+    "RCMBNT-XTL-1": "RCMBNT-XTL-1",
+    "RCMBNT-XTL-2": "RCMBNT-XTL-2",
+    "RCMBNT-XTL-3": "RCMBNT-XTL-3",
+    "Vanduul Plating": "Blindage Vanduul",
+    "Vanduul Metal": "Métal Vanduul",
+    "Large Artifact Fragment": "Grand fragment d'artefact (Pristine)",
+    "UEE 6th Platoon Medal": "Médaille du 6e Peloton UEE (Pristine)",
+    "Tevarin War Marker": "Marqueur de guerre Tevarin (Pristine)",
+    "Govt Cartography Medal": "Médaille de l'Agence de cartographie (Pristine)",
+    "Ace Interceptor Helmet": "Casque As intercepteur",
+    "Argo ATLS": "Argo ATLS",
+    "Argo ATLS GEO": "Argo ATLS GEO",
+    "Argo ATLS IKTI": "Argo ATLS IKTI",
+    "NN-13 Cannon": "Canon NN-13",
+    "Testudo Helmet Turfwar": "Casque Testudo Turfwar",
+    "Testudo Arms Turfwar": "Bras Testudo Turfwar",
+    "Testudo Core Turfwar": "Corps Testudo Turfwar",
+    "Testudo Legs Turfwar": "Jambes Testudo Turfwar",
+    "Testudo Backpack Turfwar": "Sac à dos Testudo Turfwar",
+    "Palatino Helmet": "Casque Palatino",
+    "Palatino Arms": "Bras Palatino",
+    "Palatino Core": "Corps Palatino",
+    "Palatino Legs": "Jambes Palatino",
+    "Palatino Backpack": "Sac à dos Palatino",
+    "Geist Armor Arms ASD Edition": "Bras Geist Édition ASD",
+    "Geist Armor Core ASD Edition": "Corps Geist Édition ASD",
+    "Geist Armor Helmet ASD Edition": "Casque Geist Édition ASD",
+    "Geist Armor Legs ASD Edition": "Jambes Geist Édition ASD",
+    "Geist Armor Backpack ASD Edition": "Sac à dos Geist Édition ASD",
+    "Antium Arms": "Bras Antium",
+    "Antium Legs": "Jambes Antium",
+    "Antium Core": "Corps Antium",
+    "Antium Helmet": "Casque Antium",
+    "Corbel Mire Helmet": "Casque Corbel Mire",
+    "Corbel Mire Core": "Corps Corbel Mire",
+    "Corbel Mire Legs": "Jambes Corbel Mire",
+    "Corbel Mire Arms": "Bras Corbel Mire",
+    "Novikov Backpack Mire": "Sac à dos Novikov Mire",
+    "Strata Arms": "Bras Strata",
+    "Strata Legs": "Jambes Strata",
+    "Strata Helmet": "Casque Strata",
+    "Strata Backpack": "Sac à dos Strata",
+    "Strata Core": "Corps Strata",
+    "Monde Helmet": "Casque Monde",
+    "Monde Core": "Corps Monde",
+    "Monde Arms": "Bras Monde",
+    "Monde Legs": "Jambes Monde",
+    "Warden Backpack Epoque": "Sac à dos Warden Époque",
+    "Fresnel Energy LMG": "Fresnel LMG à énergie",
+    "Tripledown Pistol": "Pistolet Tripledown",
+    "Zenith Laser Sniper Rifle": "Fusil de précision laser Zenith",
+    "Prism Laser Shotgun": "Fusil à pompe laser Prism",
+    "Parallax Energy Assault Rifle": "Fusil d'assaut à énergie Parallax",
+    "Boomtube Rocket Launcher": "Lance-roquettes Boomtube",
+    "Polaris Wikelo Special": "Polaris Édition spéciale Wikelo",
+    "A2 Hercules": "A2 Hercules",
+    "Prowler Utility": "Prowler Utilitaire",
+    "F8C Lightning Military": "F8C Lightning Militaire",
+    "F8C Lightning Stealth": "F8C Lightning Furtif",
+    "Starlancer MAX": "Starlancer MAX",
+    "Starlancer TAC": "Starlancer TAC",
+    "Constellation Taurus": "Constellation Taurus",
+    "Super Hornet Mk II": "Super Hornet Mk II",
+    "Terrapin Medic": "Terrapin Médical",
+    "Sabre Firebird": "Sabre Firebird",
+    "Mirai Guardian MX": "Mirai Guardian MX",
+    "L-21 Wolf Military": "L-21 Wolf Militaire",
+    "L-21 Wolf Stealth": "L-21 Wolf Furtif",
+    "Apollo Triage 'Red Fight'": "Apollo Triage 'Combat Rouge'",
+    "ATLS IKTI GEO": "ATLS IKTI GEO",
+    "Testudo Set Clanguard": "Set Testudo Clanguard",
+    "Palatino Mark I": "Palatino Mark I",
+    "Geist \"Snow Camo\" Armor Set": "Set Armure Geist \"Camouflage Neige\"",
+    "Bokto Armor \"Glowy\"": "Armure Bokto \"Lumineuse\"",
+    "Ana Endro Armor": "Armure Ana Endro",
+    "Corbel Crush": "Corbel Crush",
+    "Strata \"Heatwave\" Armor": "Armure Strata \"Vague de chaleur\"",
+    "Monde \"Crimson Camo\" Armor": "Armure Monde \"Camouflage Cramoisi\"",
+    "Tripledown 'Heatwave' Pistol": "Pistolet Tripledown 'Vague de chaleur'",
+    "Fresnel Deepwater": "Fresnel Deepwater",
+    "R97 'Crimson Camo' Shotgun": "Fusil R97 'Camouflage Cramoisi'",
+    "Boomtube \"Clanguard\" Rocket Launcher": "Lance-roquettes Boomtube \"Clanguard\"",
+    "Fresnel \"Yormandi\" Energy LMG": "Fresnel LMG Énergie \"Yormandi\"",
+    "Zenith \"Snow Camo\" Laser Sniper Rifle": "Zenith Fusil laser \"Camouflage Neige\"",
+    "Prism \"Irradiated\" Laser Shotgun": "Prism Fusil laser \"Irradié\"",
+    "Parallax \"Fun Kopion Skull\" Energy Assault Rifle": "Parallax Fusil \"Crâne de Kopion\"",
+    "Parallax \"Fun Military Skull\" Energy Assault Rifle": "Parallax Fusil \"Crâne Militaire\""
+  },
+  "ships": [
+    {
+      "name": "Idris-P",
+      "maker": "Aegis Dynamics",
+      "mats": {
+        "Wikelo Favor": 50,
+        "Polaris Bit": 50,
+        "DCHS-05 Orbital Board": 50,
+        "Carinite": 50,
+        "Irr. Valakkar Fang (Apex)": 50,
+        "MG Scrip": 50,
+        "Ace Interceptor Helmet": 50,
+        "Irr. Valakkar Pearl (AAA)": 30,
+        "UEE 6th Platoon Medal": 30,
+        "Carinite (Pure)": 30,
+        "ASD Secure Drive": 30,
+        "RCMBNT-PWL-1": 5,
+        "RCMBNT-PWL-2": 5,
+        "RCMBNT-PWL-3": 5,
+        "RCMBNT-RGL-1": 5,
+        "RCMBNT-RGL-2": 5,
+        "RCMBNT-RGL-3": 5,
+        "RCMBNT-XTL-1": 5,
+        "RCMBNT-XTL-2": 5,
+        "RCMBNT-XTL-3": 5
+      }
+    },
+    {
+      "name": "Polaris Wikelo Special",
+      "maker": "RSI",
+      "mats": {
+        "Wikelo Favor": 50,
+        "Polaris Bit": 15,
+        "DCHS-05 Orbital Board": 10,
+        "Carinite": 20,
+        "Irr. Valakkar Fang (Apex)": 20,
+        "MG Scrip": 20,
+        "Ace Interceptor Helmet": 15,
+        "Irr. Valakkar Pearl (AAA)": 15,
+        "UEE 6th Platoon Medal": 15,
+        "Carinite (Pure)": 15,
+        "ASD Secure Drive": 15,
+        "RCMBNT-PWL-1": 1,
+        "RCMBNT-PWL-2": 1,
+        "RCMBNT-PWL-3": 1,
+        "RCMBNT-RGL-1": 1,
+        "RCMBNT-RGL-2": 1,
+        "RCMBNT-RGL-3": 1,
+        "RCMBNT-XTL-1": 1,
+        "RCMBNT-XTL-2": 1,
+        "RCMBNT-XTL-3": 1
+      }
+    },
+    {
+      "name": "Asgard",
+      "maker": "Anvil Aerospace",
+      "mats": {
+        "Wikelo Favor": 50,
+        "RCMBNT-PWL-1": 5,
+        "RCMBNT-PWL-2": 5,
+        "RCMBNT-PWL-3": 5,
+        "RCMBNT-RGL-1": 5,
+        "RCMBNT-RGL-2": 5,
+        "RCMBNT-RGL-3": 5,
+        "RCMBNT-XTL-1": 5,
+        "RCMBNT-XTL-2": 5,
+        "RCMBNT-XTL-3": 5,
+        "ASD Secure Drive": 3
+      }
+    },
+    {
+      "name": "Starlancer TAC",
+      "maker": "MISC",
+      "mats": {
+        "Wikelo Favor": 50,
+        "ASD Secure Drive": 30,
+        "Ace Interceptor Helmet": 15,
+        "Irr. Valakkar Pearl (AAA)": 3,
+        "Tevarin War Marker": 3,
+        "Carinite (Pure)": 3,
+        "DCHS-05 Comp-Board": 3
+      }
+    },
+    {
+      "name": "A2 Hercules",
+      "maker": "Crusader Industries",
+      "mats": {
+        "Wikelo Favor": 50,
+        "Polaris Bit": 20,
+        "MG Scrip": 20,
+        "ASD Secure Drive": 6,
+        "Irr. Valakkar Pearl (AAA)": 6,
+        "Tevarin War Marker": 6,
+        "DCHS-05 Comp-Board": 6,
+        "Carinite (Pure)": 6
+      }
+    },
+    {
+      "name": "Prowler Utility",
+      "maker": "Esperia",
+      "mats": {
+        "Wikelo Favor": 40,
+        "Yormandi Tongue": 10,
+        "Yormandi Eye": 20,
+        "Irr. Valakkar Pearl (AAA)": 3,
+        "Carinite (Pure)": 3
+      }
+    },
+    {
+      "name": "F8C Lightning Military",
+      "maker": "Anvil Aerospace",
+      "mats": {
+        "Wikelo Favor": 40,
+        "Carinite (Pure)": 4,
+        "Irr. Valakkar Pearl (AAA)": 4,
+        "Tevarin War Marker": 4
+      }
+    },
+    {
+      "name": "F8C Lightning Stealth",
+      "maker": "Anvil Aerospace",
+      "mats": {
+        "Wikelo Favor": 40,
+        "DCHS-05 Comp-Board": 15,
+        "Carinite (Pure)": 3,
+        "Irr. Valakkar Pearl (AAA)": 3
+      }
+    },
+    {
+      "name": "Guardian QI",
+      "maker": "Mirai",
+      "mats": {
+        "Wikelo Favor": 25,
+        "DCHS-05 Comp-Board": 15,
+        "Irr. Valakkar Pearl (AA)": 15,
+        "UEE 6th Platoon Medal": 2
+      }
+    },
+    {
+      "name": "Starlancer MAX",
+      "maker": "MISC",
+      "mats": {
+        "Wikelo Favor": 30,
+        "Ace Interceptor Helmet": 10,
+        "Carinite (Pure)": 3,
+        "Irr. Valakkar Pearl (AAA)": 3
+      }
+    },
+    {
+      "name": "Constellation Taurus",
+      "maker": "RSI",
+      "mats": {
+        "Wikelo Favor": 30,
+        "Carinite (Pure)": 3,
+        "Irr. Valakkar Pearl (AAA)": 3,
+        "Govt Cartography Medal": 3
+      }
+    },
+    {
+      "name": "Apollo Triage 'Red Fight'",
+      "maker": "RSI",
+      "mats": {
+        "Wikelo Favor": 30,
+        "SCU Savrilium": 48
+      }
+    },
+    {
+      "name": "Zeus CL",
+      "maker": "RSI",
+      "mats": {
+        "Wikelo Favor": 20,
+        "Carinite (Pure)": 17,
+        "Ace Interceptor Helmet": 10
+      }
+    },
+    {
+      "name": "Guardian",
+      "maker": "Mirai",
+      "mats": {
+        "Wikelo Favor": 20,
+        "Irr. Valakkar Pearl (AA)": 15,
+        "Ace Interceptor Helmet": 10,
+        "Tevarin War Marker": 1
+      }
+    },
+    {
+      "name": "Super Hornet Mk II",
+      "maker": "Anvil Aerospace",
+      "mats": {
+        "Wikelo Favor": 16,
+        "Ace Interceptor Helmet": 5,
+        "DCHS-05 Comp-Board": 3,
+        "Govt Cartography Medal": 1
+      }
+    },
+    {
+      "name": "Terrapin Medic",
+      "maker": "Anvil Aerospace",
+      "mats": {
+        "Wikelo Favor": 15,
+        "ASD Secure Drive": 10,
+        "Tevarin War Marker": 1
+      }
+    },
+    {
+      "name": "Sabre Firebird",
+      "maker": "Aegis Dynamics",
+      "mats": {
+        "Wikelo Favor": 15,
+        "DCHS-05 Comp-Board": 4,
+        "Ace Interceptor Helmet": 3,
+        "Govt Cartography Medal": 1
+      }
+    },
+    {
+      "name": "Scorpius",
+      "maker": "RSI",
+      "mats": {
+        "Wikelo Favor": 15,
+        "Tevarin War Marker": 1,
+        "DCHS-05 Comp-Board": 4
+      }
+    },
+    {
+      "name": "Mirai Guardian MX",
+      "maker": "Mirai",
+      "mats": {
+        "Wikelo Favor": 25,
+        "Large Artifact Fragment": 2,
+        "Vanduul Plating": 30,
+        "Vanduul Metal": 30,
+        "Ace Interceptor Helmet": 15
+      }
+    },
+    {
+      "name": "RSI Meteor",
+      "maker": "RSI",
+      "mats": {
+        "Wikelo Favor": 10,
+        "Large Artifact Fragment": 1,
+        "Vanduul Plating": 10,
+        "Vanduul Metal": 10,
+        "Ace Interceptor Helmet": 5
+      }
+    },
+    {
+      "name": "Zeus ES",
+      "maker": "RSI",
+      "mats": {
+        "Wikelo Favor": 10,
+        "UEE 6th Platoon Medal": 1
+      }
+    },
+    {
+      "name": "Ares Ion",
+      "maker": "Crusader Industries",
+      "mats": {
+        "Wikelo Favor": 10,
+        "Yormandi Eye": 10,
+        "Ace Interceptor Helmet": 5,
+        "Tevarin War Marker": 1
+      }
+    },
+    {
+      "name": "Ares Inferno",
+      "maker": "Crusader Industries",
+      "mats": {
+        "Wikelo Favor": 10,
+        "Yormandi Tongue": 5,
+        "Ace Interceptor Helmet": 5,
+        "UEE 6th Platoon Medal": 1
+      }
+    },
+    {
+      "name": "L-21 Wolf Stealth",
+      "maker": "Kruger",
+      "mats": {
+        "Wikelo Favor": 10,
+        "Vanduul Plating": 10,
+        "Vanduul Metal": 10,
+        "Large Artifact Fragment": 1
+      }
+    },
+    {
+      "name": "L-21 Wolf Military",
+      "maker": "Kruger",
+      "mats": {
+        "Wikelo Favor": 5
+      }
+    },
+    {
+      "name": "C1 Spirit",
+      "maker": "Crusader Industries",
+      "mats": {
+        "Wikelo Favor": 8,
+        "Tevarin War Marker": 1
+      }
+    },
+    {
+      "name": "RAFT",
+      "maker": "Argo",
+      "mats": {
+        "Wikelo Favor": 8,
+        "Irr. Valakkar Fang (Adult)": 10,
+        "Irr. Valakkar Fang (Juvenile)": 20,
+        "Irr. Kopion Horn": 5,
+        "Irr. Valakkar Pearl (AAA)": 1
+      }
+    },
+    {
+      "name": "Prospector",
+      "maker": "MISC",
+      "mats": {
+        "Wikelo Favor": 6,
+        "Carinite": 20,
+        "Saldynium (Ore)": 30,
+        "Jaclium (Ore)": 40,
+        "Carinite (Pure)": 1
+      }
+    },
+    {
+      "name": "Nox",
+      "maker": "Aopoa",
+      "mats": {
+        "Wikelo Favor": 4
+      }
+    },
+    {
+      "name": "Pulse",
+      "maker": "Mirai",
+      "mats": {
+        "Wikelo Favor": 4
+      }
+    },
+    {
+      "name": "Sabre Peregrine",
+      "maker": "Aegis Dynamics",
+      "mats": {
+        "Wikelo Favor": 4,
+        "DCHS-05 Comp-Board": 1
+      }
+    },
+    {
+      "name": "Ursa Medivac",
+      "maker": "RSI",
+      "mats": {
+        "Wikelo Favor": 4,
+        "Saldynium (Ore)": 20,
+        "Jaclium (Ore)": 20
+      }
+    },
+    {
+      "name": "Fortune",
+      "maker": "MISC",
+      "mats": {
+        "Wikelo Favor": 3,
+        "Carinite (Pure)": 1
+      }
+    },
+    {
+      "name": "Intrepid",
+      "maker": "Crusader Industries",
+      "mats": {
+        "Wikelo Favor": 3,
+        "Govt Cartography Medal": 1
+      }
+    },
+    {
+      "name": "Golem",
+      "maker": "Drake",
+      "mats": {
+        "Wikelo Favor": 2,
+        "ASD Secure Drive": 15
+      }
+    },
+    {
+      "name": "ATLS IKTI",
+      "maker": "Argo",
+      "mats": {
+        "Wikelo Favor": 2,
+        "Argo ATLS": 1,
+        "NN-13 Cannon": 2,
+        "Irr. Valakkar Fang (Apex)": 5
+      }
+    },
+    {
+      "name": "ATLS IKTI GEO",
+      "maker": "Argo",
+      "mats": {
+        "Wikelo Favor": 1,
+        "Argo ATLS GEO": 1,
+        "Argo ATLS IKTI": 1,
+        "NN-13 Cannon": 2
+      }
+    }
+  ],
+  "armors": [
+    {
+      "name": "Testudo Set Clanguard",
+      "maker": "Armor · Vanduul",
+      "mats": {
+        "Vanduul Plating": 15,
+        "Vanduul Metal": 15,
+        "Testudo Helmet Turfwar": 1,
+        "Testudo Arms Turfwar": 1,
+        "Testudo Legs Turfwar": 1,
+        "Testudo Core Turfwar": 1,
+        "Testudo Backpack Turfwar": 1
+      }
+    },
+    {
+      "name": "Palatino Mark I",
+      "maker": "Armor",
+      "mats": {
+        "Yormandi Eye": 14,
+        "Yormandi Tongue": 7,
+        "Palatino Helmet": 1,
+        "Palatino Arms": 1,
+        "Palatino Legs": 1,
+        "Palatino Core": 1,
+        "Palatino Backpack": 1
+      }
+    },
+    {
+      "name": "Geist \"Snow Camo\" Armor Set",
+      "maker": "Armor",
+      "mats": {
+        "ASD Secure Drive": 4,
+        "Geist Armor Arms ASD Edition": 1,
+        "Geist Armor Core ASD Edition": 1,
+        "Geist Armor Helmet ASD Edition": 1,
+        "Geist Armor Legs ASD Edition": 1,
+        "Geist Armor Backpack ASD Edition": 1
+      }
+    },
+    {
+      "name": "Bokto Armor \"Glowy\"",
+      "maker": "Armor",
+      "mats": {
+        "Irr. Valakkar Pearl (AAA)": 1,
+        "Antium Arms": 1,
+        "Antium Legs": 1,
+        "Antium Core": 1,
+        "Antium Helmet": 1
+      }
+    },
+    {
+      "name": "Ana Endro Armor",
+      "maker": "Armor",
+      "mats": {
+        "Carinite (Pure)": 1,
+        "Antium Arms": 1,
+        "Antium Legs": 1,
+        "Antium Core": 1,
+        "Antium Helmet": 1
+      }
+    },
+    {
+      "name": "Corbel Crush",
+      "maker": "Armor",
+      "mats": {
+        "ASD Secure Drive": 10,
+        "Corbel Mire Helmet": 1,
+        "Corbel Mire Core": 1,
+        "Corbel Mire Legs": 1,
+        "Corbel Mire Arms": 1,
+        "Novikov Backpack Mire": 1,
+        "RCMBNT-RGL-1": 3,
+        "RCMBNT-RGL-2": 3,
+        "RCMBNT-RGL-3": 3
+      }
+    },
+    {
+      "name": "Strata \"Heatwave\" Armor",
+      "maker": "Armor",
+      "mats": {
+        "Carinite": 30,
+        "RCMBNT-PWL-1": 4,
+        "RCMBNT-PWL-2": 4,
+        "RCMBNT-PWL-3": 4,
+        "Strata Arms": 1,
+        "Strata Legs": 1,
+        "Strata Helmet": 1,
+        "Strata Backpack": 1,
+        "Strata Core": 1
+      }
+    },
+    {
+      "name": "Monde \"Crimson Camo\" Armor",
+      "maker": "Armor",
+      "mats": {
+        "Wikelo Favor": 3,
+        "Sadaryx": 10,
+        "Monde Helmet": 1,
+        "Monde Core": 1,
+        "Monde Arms": 1,
+        "Monde Legs": 1,
+        "Warden Backpack Epoque": 1
+      }
+    }
+  ],
+  "weapons": [
+    {
+      "name": "Tripledown 'Heatwave' Pistol",
+      "maker": "Arme",
+      "mats": {
+        "Carinite": 15,
+        "RCMBNT-PWL-1": 2,
+        "RCMBNT-PWL-2": 2,
+        "RCMBNT-PWL-3": 2
+      }
+    },
+    {
+      "name": "Fresnel Deepwater",
+      "maker": "Arme",
+      "mats": {
+        "ASD Secure Drive": 5,
+        "Fresnel Energy LMG": 1,
+        "RCMBNT-XTL-1": 5,
+        "RCMBNT-XTL-2": 5,
+        "RCMBNT-XTL-3": 5
+      }
+    },
+    {
+      "name": "R97 'Crimson Camo' Shotgun",
+      "maker": "Arme",
+      "mats": {
+        "Carinite": 20,
+        "Bluemoon Fungus": 20,
+        "Tripledown Pistol": 1
+      }
+    },
+    {
+      "name": "Boomtube \"Clanguard\" Rocket Launcher",
+      "maker": "Arme",
+      "mats": {
+        "Boomtube Rocket Launcher": 1,
+        "Vanduul Plating": 2,
+        "Vanduul Metal": 2
+      }
+    },
+    {
+      "name": "Fresnel \"Yormandi\" Energy LMG",
+      "maker": "Arme",
+      "mats": {
+        "Fresnel Energy LMG": 1,
+        "Yormandi Eye": 6,
+        "Yormandi Tongue": 3
+      }
+    },
+    {
+      "name": "Zenith \"Snow Camo\" Laser Sniper Rifle",
+      "maker": "Arme",
+      "mats": {
+        "ASD Secure Drive": 7,
+        "Zenith Laser Sniper Rifle": 1
+      }
+    },
+    {
+      "name": "Prism \"Irradiated\" Laser Shotgun",
+      "maker": "Arme",
+      "mats": {
+        "Irr. Valakkar Fang (Adult)": 10,
+        "Irr. Valakkar Fang (Juvenile)": 5,
+        "Prism Laser Shotgun": 1
+      }
+    },
+    {
+      "name": "Parallax \"Fun Kopion Skull\" Energy Assault Rifle",
+      "maker": "Arme",
+      "mats": {
+        "Jaclium (Ore)": 20,
+        "Parallax Energy Assault Rifle": 1,
+        "Tundra Kopion Horn": 20,
+        "Saldynium (Ore)": 15,
+        "Carinite (Ore)": 10
+      }
+    },
+    {
+      "name": "Parallax \"Fun Military Skull\" Energy Assault Rifle",
+      "maker": "Arme",
+      "mats": {
+        "Jaclium (Ore)": 20,
+        "Parallax Energy Assault Rifle": 1,
+        "Irr. Valakkar Fang (Juvenile)": 20,
+        "Saldynium (Ore)": 15,
+        "Carinite (Ore)": 10
+      }
+    }
+  ],
+  "bp_resources": [
+    "Agricium",
+    "Aluminum",
+    "Aslarite",
+    "Beryl",
+    "Bexalite",
+    "Borase",
+    "Copper",
+    "Corundum",
+    "Gold",
+    "Hephaestanite",
+    "Iron",
+    "Laranite",
+    "Lindinium",
+    "Ouratite",
+    "Pressurized_Ice",
+    "Quantanium",
+    "Quartz",
+    "Riccite",
+    "Savrilium",
+    "Silicon",
+    "Stileron",
+    "Taranite",
+    "Tin",
+    "Titanium",
+    "Torite",
+    "Tungsten"
+  ],
+  "bp_items": [
+    "Aphorite",
+    "Beradom",
+    "Carinite",
+    "Dolivine",
+    "Feynmaline",
+    "Glacosite",
+    "Hadanite",
+    "Janalite",
+    "Sadaryx",
+    "Saldynium (Ore)",
+    "Yormandi Eye"
+  ],
+  "bp_cats": [
+    "Tous",
+    "Arme",
+    "Armure",
+    "Bouclier",
+    "Chargeur",
+    "Laser minier",
+    "Module de recyclage",
+    "Moteur Quantum",
+    "Objet",
+    "Radar",
+    "Rayon tracteur",
+    "Réacteur",
+    "Refroidisseur",
+    "Refuelling"
+  ]
+}
