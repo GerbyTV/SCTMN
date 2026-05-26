@@ -128,7 +128,7 @@
     "Super Hornet Mk II": "Super Hornet Mk II",
     "Terrapin Medic": "Terrapin Médical",
     "Sabre Firebird": "Sabre Firebird",
-    "Mirai Guardian MX": "Mirai Guardian MX",
+    "Guardian MX": "Guardian MX",
     "L-21 Wolf Military": "L-21 Wolf Militaire",
     "L-21 Wolf Stealth": "L-21 Wolf Furtif",
     "Apollo Triage 'Red Fight'": "Apollo Triage 'Combat Rouge'",
@@ -375,7 +375,7 @@
       }
     },
     {
-      "name": "Mirai Guardian MX",
+      "name": "Guardian MX",
       "maker": "Mirai",
       "mats": {
         "Wikelo Favor": 25,
