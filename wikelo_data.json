@@ -40,6 +40,7 @@
     "DCHS-05 Comp-Board": "Carte DCHS-05",
     "DCHS-05 Orbital Board": "Carte DCHS-05 de positionnement orbital",
     "Dolivine": "Dolivine",
+    "Expired Quantanium Fuel Canister": "Conteneur de carburant quantanium périmé",
     "F8C Lightning Military": "F8C Lightning Militaire",
     "F8C Lightning Stealth": "F8C Lightning Furtif",
     "Feynmaline": "Feynmaline",
@@ -115,6 +116,7 @@
     "Saldynium (Ore)": "Saldynium (minerai)",
     "Savrilium": "Savrilium",
     "SCU Savrilium": "SCU Savrilium",
+    "Set Tailwind Dominion Camo": "Ensemblee Tailwind Dominion",
     "Silicon": "Silicium",
     "Starlancer MAX": "Starlancer MAX",
     "Starlancer TAC": "Starlancer TAC",
@@ -126,6 +128,8 @@
     "Strata Helmet": "Casque Strata",
     "Strata Legs": "Jambières Strata",
     "Super Hornet Mk II": "Super Hornet Mk II",
+    "Tailwind Flight Helmet": "Casque de vol Tailwind",
+    "Tailwind Flight Suit": "Combinaison de vol Tailwind",
     "Taranite": "Taranite",
     "Terrapin Medic": "Terrapin Médical",
     "Testudo Arms Turfwar": "Brassards Testudo Turfwar",
@@ -629,6 +633,16 @@
         "RCMBNT-RGL-1": 3,
         "RCMBNT-RGL-2": 3,
         "RCMBNT-RGL-3": 3
+      }
+    },
+    {
+      "name": "Set Tailwind Dominion Camo",
+      "maker": "Armor",
+      "mats": {
+        "Wikelo Favor": 10,
+        "Tailwind Flight Suit": 1,
+        "Tailwind Flight Helmet": 1,
+        "Expired Quantanium Fuel Canister": 1
       }
     },
     {
