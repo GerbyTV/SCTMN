@@ -37,6 +37,7 @@
     "Corbel Mire Helmet": "Casque Corbel Mire",
     "Corbel Mire Legs": "Jambières Corbel Mire",
     "Corundum": "Corindon",
+    "Council Scrip": "lingot du Conseil",
     "DCHS-05 Comp-Board": "Carte DCHS-05",
     "DCHS-05 Orbital Board": "Carte DCHS-05 de positionnement orbital",
     "Dolivine": "Dolivine",
@@ -74,7 +75,7 @@
     "Large Artifact Fragment": "Grand fragment d'artefact (Pristine)",
     "Lindinium": "Lindinium",
     "Metamaterial Test #146": "Métamatériau de test n°146",
-    "MG Scrip": "Jeton MG",
+    "MG Scrip": "lingot de la Guilde des Mercenaires",
     "Monde \"Crimson Camo\" Armor": "Armure Monde \"Camouflage Cramoisi\"",
     "Monde Arms": "Brassards Monde",
     "Monde Core": "Plastron Monde",
@@ -557,6 +558,27 @@
         "Argo ATLS IKTI": 1,
         "NN-13 Cannon": 2
       }
+    },
+    {
+      "name": "Faveur de Wikelo",
+      "maker": "Wikelo",
+      "mats": {
+        "MG Scrip": 50
+      }
+    },
+    {
+      "name": "Faveur de Wikelo",
+      "maker": "Wikelo",
+      "mats": {
+        "Council Scrip": 50
+      }
+    },
+    {
+      "name": "Polaris Bits",
+      "maker": "Wikelo",
+      "mats": {
+        "Quantanium": 24
+      }
     }
   ],
   "armors": [
@@ -596,6 +618,20 @@
         "Geist Armor Helmet ASD Edition": 1,
         "Geist Armor Legs ASD Edition": 1,
         "Geist Armor Backpack ASD Edition": 1
+      }
+    },
+    {
+      "name": "Faveur de Wikelo",
+      "maker": "Wikelo",
+      "mats": {
+        "MG Scrip": 50
+      }
+    },
+    {
+      "name": "Faveur de Wikelo",
+      "maker": "Wikelo",
+      "mats": {
+        "Council Scrip": 50
       }
     },
     {
@@ -683,6 +719,20 @@
         "RCMBNT-PWL-1": 2,
         "RCMBNT-PWL-2": 2,
         "RCMBNT-PWL-3": 2
+      }
+    },
+    {
+      "name": "Faveur de Wikelo",
+      "maker": "Wikelo",
+      "mats": {
+        "MG Scrip": 50
+      }
+    },
+    {
+      "name": "Faveur de Wikelo",
+      "maker": "Wikelo",
+      "mats": {
+        "Council Scrip": 50
       }
     },
     {
