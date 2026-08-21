@@ -7,7 +7,7 @@
       "recordGUID": "b04aff42-d892-4ca9-991e-101c869a7caa",
       "isReward": true,
       "rewardMissions": [
-        "Headhunters: [TARGET] needs stomping",
+        "Headhunters: [TARGET] needs stomping 250 exp.",
         "Headhunters: Crash some ships",
         "Headhunters: Ghost some XenoTrash",
         "Headhunters: Hit a CFP Ship",
@@ -26,7 +26,7 @@
           "titleEN": "[TARGET] needs stomping",
           "faction": "Headhunters",
           "systems": [
-            "Pyro"
+            "Pyro-Checkmate"
           ],
           "illegal": true,
           "descKeys": [
