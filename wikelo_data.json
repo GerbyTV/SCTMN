@@ -26,9 +26,13 @@
     "Boomtube \"Clanguard\" Rocket Launcher": "Lance-roquettes Boomtube \"Clanguard\"",
     "Boomtube Rocket Launcher": "Lance-roquettes Boomtube",
     "Borase": "Borase",
+    "BUL-H4 Armor": "Combinaison BUL-H4",
+    "BUL-H4 Helmet": "Casque BUL-H4",
+    "BUL-H4 Snow Camo": "BUL-H4 Snow Camo",
     "Carinite (Ore)": "Carinite (minerai)",
     "Carinite (Pure)": "Carinite (pure)",
     "Carinite": "Carinite",
+    "Clipper Fight Now": "Clipper combat maintenant",
     "Constellation Taurus": "Constellation Taurus",
     "Copper": "Cuivre",
     "Corbel Crush": "Corbel Crush",
@@ -58,6 +62,7 @@
     "Gold": "Or",
     "Govt Cartography Medal": "Médaille de l'Agence de cartographie (Pristine)",
     "Guardian MX": "Guardian MX",
+    "H4-PBF Ammo Carrier": "Porte-munitions H4-PBF",
     "Hadanite": "Hadanite",
     "Hephaestanite": "Héphaestanite",
     "Iron": "Fer",
@@ -75,6 +80,7 @@
     "Large Artifact Fragment": "Grand fragment d'artefact (Pristine)",
     "Lindinium": "Lindinium",
     "Metamaterial Test #146": "Métamatériau de test n°146",
+    "Metamaterial Test #152": "Métamatériau de test n°152",
     "MG Scrip": "Lingot de la Guilde des Mercenaires",
     "Monde \"Crimson Camo\" Armor": "Armure Monde \"Camouflage Cramoisi\"",
     "Monde Arms": "Brassards Monde",
@@ -150,6 +156,8 @@
     "UEE 6th Platoon Medal": "Médaille du 6e Peloton UEE (Pristine)",
     "Vanduul Metal": "Métal Vanduul",
     "Vanduul Plating": "Blindage Vanduul",
+    "Vendetta \"Snow Camo\" HMG": "HMG Vendetta Snow Camo",
+    "Vendetta HMG": "HMG Vendetta",
     "Warden Backpack Epoque": "Sac à dos Warden Époque",
     "Wikelo Favor": "Faveur de Wikelo",
     "Yormandi Eye": "Œil de Yormandi",
@@ -455,6 +463,13 @@
       }
     },
     {
+      "name": "Clipper Fight Now",
+      "maker": "Kruger",
+      "mats": {
+        "Metamaterial Test #152": 1
+      }
+    },
+    {
       "name": "C1 Spirit",
       "maker": "Crusader Industries",
       "mats": {
@@ -697,6 +712,16 @@
       }
     },
     {
+      "name": "BUL-H4 Snow Camo",
+      "maker": "Armor",
+      "mats": {
+        "Wikelo Favor": 1,
+        "BUL-H4 Helmet": 1,
+        "BUL-H4 Armor": 1,
+        "H4-PBF Ammo Carrier": 1
+      }
+    },
+    {
       "name": "Monde \"Crimson Camo\" Armor",
       "maker": "Armor",
       "mats": {
@@ -799,6 +824,14 @@
         "Tundra Kopion Horn": 20,
         "Saldynium (Ore)": 15,
         "Carinite (Ore)": 10
+      }
+    },
+    {
+      "name": "Vendetta \"Snow Camo\" HMG",
+      "maker": "Arme",
+      "mats": {
+        "Wikelo Favor": 1,
+        "Vendetta HMG": 1
       }
     },
     {
