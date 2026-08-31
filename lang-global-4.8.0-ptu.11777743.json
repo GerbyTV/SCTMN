@@ -401,7 +401,7 @@
     },
     "headhunters_eliminateall_cfp_M_title_001": {
       "en": "[LOCATION] has been greenlit",
-      "tr": "<EM4>[BP]</EM4> [LOCATION] a été mise en ligne <EM4>150 exp.</EM4>"
+      "tr": "[BP] [LOCATION] a été mise en ligne <EM4>150 exp.</EM4>"
     },
     "headhunters_maintenance_M_title_001": {
       "en": "[LOCATION] needs a bunch of repairs",
@@ -409,11 +409,11 @@
     },
     "cfp_defend_headhunters_M_title_001": {
       "en": "[LOCATION] needs assistance",
-      "tr": "<EM4>[BP]</EM4> [LOCATION] a besoin d'aide <EM4>100 exp.</EM4>"
+      "tr": "[BP] [LOCATION] a besoin d'aide <EM4>100 exp.</EM4>"
     },
     "cfp_defend_boss_Generic_title_001": {
       "en": "[LOCATION] needs help",
-      "tr": "<EM4>[BP]</EM4> [LOCATION] a besoin d'aide <EM4>800 exp.</EM4>"
+      "tr": "[BP] [LOCATION] a besoin d'aide <EM4>800 exp.</EM4>"
     },
     "headhunters_maintenance_H_title_001": {
       "en": "[LOCATION] needs massive repairs",
@@ -425,7 +425,7 @@
     },
     "headhunters_killship_gen_vlrt_title_001": {
       "en": "[TARGET] needs stomping",
-      "tr": "<EM4>[BP]</EM4> [TARGET] a besoin d'être battu <EM4>50 exp.</EM4>"
+      "tr": "[BP] [TARGET] a besoin d'être battu <EM4>50 exp.</EM4>"
     },
     "vaughn_assassination_title_E": {
       "en": "A Basic Task",
@@ -473,7 +473,7 @@
     },
     "headhunters_ChainElimAll_1C_AttackCFP_E_title_001": {
       "en": "A little retaliation",
-      "tr": "<EM4>[BP]</EM4> De petites représailles <EM4>300 exp.</EM4>"
+      "tr": "[BP] De petites représailles <EM4>300 exp.</EM4>"
     },
     "vaughn_assassination_title_VE": {
       "en": "A Simple Task",
@@ -485,7 +485,7 @@
     },
     "Headhunters_eliminateall_caves_title_01": {
       "en": "A Swift Reprisal",
-      "tr": "<EM4>[BP]</EM4> Une riposte rapide <EM4>50 exp.</EM4>"
+      "tr": "[BP] Une riposte rapide <EM4>50 exp.</EM4>"
     },
     "vaughn_assassination_title_S": {
       "en": "A Troublesome Task",
@@ -505,15 +505,15 @@
     },
     "Vaughn_EliminateSpecific_FPS_Rockcracker_title_001": {
       "en": "A Well Deserved Break",
-      "tr": "<EM4>[BP]</EM4> Une pause bien méritée <EM4>150 exp.</EM4>"
+      "tr": "[BP] Une pause bien méritée <EM4>150 exp.</EM4>"
     },
     "Adagio_Industrial_Salvage_Universal_Intro_Title_001": {
       "en": "Adagio Holdings in Need of Salvagers",
-      "tr": "<EM4>[BP]</EM4> Adagio Holdings recherche des recycleurs <EM4>100 exp.</EM4>"
+      "tr": "[BP] Adagio Holdings recherche des recycleurs <EM4>100 exp.</EM4>"
     },
     "RAIN_collectresources_multiple_GEN_name_01": {
       "en": "Additional Resources For Research",
-      "tr": "<EM4>[BP]</EM4> Ressources supplémentaires pour la recherche <EM4>100 / 200 exp.</EM4>"
+      "tr": "[BP] Ressources supplémentaires pour la recherche <EM4>100 / 200 exp.</EM4>"
     },
     "BHG_Certification_VeryHard_Title": {
       "en": "Advanced Tracker License Certification",
@@ -521,11 +521,11 @@
     },
     "cfp_ChainElimAll_1C_ElimSpec_GenAttack_E_title_001": {
       "en": "Alert: [LOCATION] under attack",
-      "tr": "<EM4>[BP]</EM4> Alerte : [LOCATION] attaqué <EM4>300 exp.</EM4>"
+      "tr": "[BP] Alerte : [LOCATION] attaqué <EM4>300 exp.</EM4>"
     },
     "vaughn_assassination_FPS_UGF_illegal_title_001": {
       "en": "All Things Come To An End",
-      "tr": "<EM4>[BP]</EM4> Toute chose a une fin <EM4>100 / 300 exp.</EM4>"
+      "tr": "[BP] Toute chose a une fin <EM4>100 / 300 exp.</EM4>"
     },
     "CleanAir_RecoverCargo_Easy_title": {
       "en": "Alliance Aid: Attempted Cargo Theft",
@@ -713,7 +713,7 @@
     },
     "Intersec_TSG_Assist_Solo_Title_001": {
       "en": "Assist People's Alliance Vessel Tranquility",
-      "tr": "<EM4>[BP]</EM4> Assister le vaisseau Tranquility de la People’s Alliance <EM4>200 exp.</EM4>"
+      "tr": "[BP] Assister le vaisseau Tranquility de la People’s Alliance <EM4>200 exp.</EM4>"
     },
     "cfp_defendship_MRT_bombingrun_title_001": {
       "en": "Assist Retreating Ship",
@@ -721,7 +721,7 @@
     },
     "cfp_defend_cave_Generic_title_001": {
       "en": "Assistance needed at [LOCATION]",
-      "tr": "<EM4>[BP]</EM4> Besoin d'assistance pour [LOCATION] <EM4>25 exp.</EM4>"
+      "tr": "[BP] Besoin d'assistance pour [LOCATION] <EM4>25 exp.</EM4>"
     },
     "TheCollector_Mod_ATLS_Geo_Grad3_Name": {
       "en": "ATLS Cool Metal Color",
@@ -737,11 +737,11 @@
     },
     "cfp_eliminateall_fromCFP_Gen_E_title_001": {
       "en": "Attack on CFP outpost",
-      "tr": "<EM4>[BP]</EM4> Attaque de l'avant-poste CFP <EM4>25 exp.</EM4>"
+      "tr": "[BP] Attaque de l'avant-poste CFP <EM4>25 exp.</EM4>"
     },
     "headhunters_defend_xt_title_001": {
       "en": "Back up needed at outpost",
-      "tr": "<EM4>[BP]</EM4> Besoin de renfort à l'avant-poste <EM4>200 exp.</EM4>"
+      "tr": "[BP] Besoin de renfort à l'avant-poste <EM4>200 exp.</EM4>"
     },
     "headhunters_defendship_MRT_PA_title_001": {
       "en": "Backup Needed Now",
@@ -749,7 +749,7 @@
     },
     "blackbox_recover_title_S_001": {
       "en": "Blackbox Recovery Request: Special Investigator Level",
-      "tr": "<EM4>[BP]</EM4> [CONTRACTOR] <EM4>300 exp.</EM4>"
+      "tr": "[BP] [CONTRACTOR] <EM4>300 exp.</EM4>"
     },
     "BitZeros_blackbox_S_Title_001": {
       "en": "Bad at Goodbyes",
@@ -761,7 +761,7 @@
     },
     "blackbox_recover_title_M_001": {
       "en": "Too Smart For Our Own Good",
-      "tr": "<EM4>[BP]</EM4> [CONTRACTOR] <EM4>150 exp.</EM4>"
+      "tr": "[BP] [CONTRACTOR] <EM4>150 exp.</EM4>"
     },
     "Hockrow_BlackBox_space_M_Title_001": {
       "en": "Blackbox Recovery Request: Investigator Level",
@@ -773,7 +773,7 @@
     },
     "blackbox_recover_title_E_001": {
       "en": "Getting To the Bottom of It",
-      "tr": "<EM4>[BP]</EM4> [CONTRACTOR] <EM4>100 exp.</EM4>"
+      "tr": "[BP] [CONTRACTOR] <EM4>100 exp.</EM4>"
     },
     "Hockrow_BlackBox_space_E_Title_001": {
       "en": "Blackbox Recovery Request: Junior Level",
@@ -785,7 +785,7 @@
     },
     "blackbox_recover_title_VH_001": {
       "en": "Our Version of The Truth",
-      "tr": "<EM4>[BP]</EM4> [CONTRACTOR] <EM4>250 exp.</EM4>"
+      "tr": "[BP] [CONTRACTOR] <EM4>250 exp.</EM4>"
     },
     "Hockrow_BlackBox_space_VH_Title_001": {
       "en": "Blackbox Recovery Request: Lead Investigator Level",
@@ -797,7 +797,7 @@
     },
     "blackbox_recover_title_VE_001": {
       "en": "Pick Up, Put Down",
-      "tr": "<EM4>[BP]</EM4> [CONTRACTOR] <EM4>100 exp.</EM4>"
+      "tr": "[BP] [CONTRACTOR] <EM4>100 exp.</EM4>"
     },
     "Hockrow_BlackBox_space_VE_Title_001": {
       "en": "Blackbox Recovery Request: Probationary Level",
@@ -809,7 +809,7 @@
     },
     "blackbox_recover_title_H_001": {
       "en": "Legendary Info?",
-      "tr": "<EM4>[BP]</EM4> [CONTRACTOR] <EM4>200 exp.</EM4>"
+      "tr": "[BP] [CONTRACTOR] <EM4>200 exp.</EM4>"
     },
     "Hockrow_BlackBox_space_H_Title_001": {
       "en": "Blackbox Recovery Request: Senior Investigator Level",
@@ -821,19 +821,19 @@
     },
     "Battaglia_RPT_RecoverItem_VE_01_title": {
       "en": "Blackbox Retrieval",
-      "tr": "<EM4>[BP]</EM4> Récupération de boîte noire <EM4>240 exp.</EM4>"
+      "tr": "[BP] Récupération de boîte noire <EM4>240 exp.</EM4>"
     },
     "Battaglia_RPT_RecoverItem_VH_01_title": {
       "en": "Blackbox Retrieval Very Dangerous",
-      "tr": "<EM4>[BP]</EM4> Récupération de boîte noire - Très dangereux <EM4>360 exp.</EM4>"
+      "tr": "[BP] Récupération de boîte noire - Très dangereux <EM4>360 exp.</EM4>"
     },
     "Battaglia_RPT_RecoverItem_M_01_title": {
       "en": "Blackbox Retrieval w/Danger",
-      "tr": "<EM4>[BP]</EM4> Récupération d’une boîte noire à haut risque <EM4>260 exp.</EM4>"
+      "tr": "[BP] Récupération d’une boîte noire à haut risque <EM4>260 exp.</EM4>"
     },
     "recovery_title": {
       "en": "Getting Our Gear Back",
-      "tr": "<EM4>[BP]</EM4> [CONTRACTOR] <EM4>100 exp.</EM4>"
+      "tr": "[BP] [CONTRACTOR] <EM4>100 exp.</EM4>"
     },
     "BitZeros_RecoverItem_Generic_Title_001": {
       "en": "Bleeding Edge Tech",
@@ -861,7 +861,7 @@
     },
     "Headhunters_defend_XT_VH_title_001": {
       "en": "Block XenoThreat Expansion",
-      "tr": "<EM4>[BP]</EM4> Bloquer l'expansion XenoThreat <EM4>200 exp.</EM4>"
+      "tr": "[BP] Bloquer l'expansion XenoThreat <EM4>200 exp.</EM4>"
     },
     "headhunters_bombingrun_M_CFP_title_001": {
       "en": "Blow Up Citizens for Prosperity Fuel Reserves",
@@ -873,7 +873,7 @@
     },
     "northrock_bounty_fps_title_001": {
       "en": "Bounty Assignment: [TARGET] (HRT)",
-      "tr": "<EM4>[BP]</EM4> Mission de prime : [TARGET] (HRT) <EM4>4000 / 8000 exp.</EM4>"
+      "tr": "[BP] Mission de prime : [TARGET] (HRT) <EM4>4000 / 8000 exp.</EM4>"
     },
     "headhunters_defendship_multi_HRT_PA_title_001": {
       "en": "Bring Down the Hammer",
@@ -889,11 +889,11 @@
     },
     "cfp_defend_regionshift_title_001": {
       "en": "Call for Help: [LOCATION]",
-      "tr": "<EM4>[BP]</EM4> Appel à l'aide : [LOCATION] <EM4>100 exp.</EM4>"
+      "tr": "[BP] Appel à l'aide : [LOCATION] <EM4>100 exp.</EM4>"
     },
     "cfp_ChainElimAll_3C_ElimSpec_XTAttack_VH_title_001": {
       "en": "Campaign to reclaim XenoThreat outposts",
-      "tr": "<EM4>[BP]</EM4> Campagne de reconquête des avant-postes de la XenoThreat <EM4>400 exp.</EM4>"
+      "tr": "[BP] Campagne de reconquête des avant-postes de la XenoThreat <EM4>400 exp.</EM4>"
     },
     "mg_miles_capturegang_title_006": {
       "en": "Capture Arlington Gang Leader Maltrox Arlington",
@@ -921,11 +921,11 @@
     },
     "Foxwell_EliminateAll_NonHostiles_title_001": {
       "en": "Carefully Clear Site",
-      "tr": "<EM4>[BP]</EM4> Nettoyer le site avec soin <EM4>200 exp.</EM4>"
+      "tr": "[BP] Nettoyer le site avec soin <EM4>200 exp.</EM4>"
     },
     "LingFamily_HaulCargo_AToB_Intro_title": {
       "en": "Cargo Hauling Opportunity with Ling Hauling",
-      "tr": "<EM4>[BP]</EM4> Opportunité de transport avec Ling Hauling <EM4>100 exp.</EM4>"
+      "tr": "[BP] Opportunité de transport avec Ling Hauling <EM4>100 exp.</EM4>"
     },
     "Headhunters_HaulCargo_AToB_OLP_title_01": {
       "en": "Cargo Retrieval",
@@ -933,7 +933,7 @@
     },
     "CFP_RecoverCargo_VeryHard_Title": {
       "en": "Cargo Shipment Must Be Completed",
-      "tr": "<EM4>[BP]</EM4> Livraison de cargaison à terminer <EM4>250 exp.</EM4>"
+      "tr": "[BP] Livraison de cargaison à terminer <EM4>250 exp.</EM4>"
     },
     "RedWind_HaulCargo_AToB_ASD_title": {
       "en": "Cargo Transfer from Shuttered Facility",
@@ -981,7 +981,7 @@
     },
     "eckhart_defendship_multi_VHRT_SB_title_001": {
       "en": "Client Needs Combat Support",
-      "tr": "<EM4>[BP]</EM4> Le client a besoin d’un coup de main en combat"
+      "tr": "[BP] Le client a besoin d’un coup de main en combat"
     },
     "EckhartSecurity_RecoverCargo_Easy_Title": {
       "en": "Client's Cargo Needs Recovering",
@@ -989,7 +989,7 @@
     },
     "TheCollector_Recipes_Title_DrakeClipper": {
       "en": "Clipper Fight Now",
-      "tr": "<EM4>[BP]</EM4> Clipper combat maintenant"
+      "tr": "[BP] Clipper combat maintenant"
     },
     "RAIN_CollectResources_storm_title_001": {
       "en": "Collect Irradiated Kopion Horns",
@@ -1037,7 +1037,7 @@
     },
     "cfp_defendship_multi_SRT_title_001": {
       "en": "Come to Aid of Convoy",
-      "tr": "<EM4>[BP]</EM4> Venez en aide au convoi <EM4>300 exp.</EM4>"
+      "tr": "[BP] Venez en aide au convoi <EM4>300 exp.</EM4>"
     },
     "LingFamily_RecoverCargo_Hard_Title": {
       "en": "Complete Stranded Ling Shipment",
@@ -1049,11 +1049,11 @@
     },
     "cfp_defendship_multi_HRT_title_001": {
       "en": "Convoy Caught in Brutal Attack",
-      "tr": "<EM4>[BP]</EM4> Un convoi victime d'une attaque brutale <EM4>200 / 300 exp.</EM4>"
+      "tr": "[BP] Un convoi victime d'une attaque brutale <EM4>200 / 300 exp.</EM4>"
     },
     "cfp_defendship_multi_VHRT_SB_title_001": {
       "en": "Convoy Under Attack",
-      "tr": "<EM4>[BP]</EM4> Convoi sous attaque"
+      "tr": "[BP] Convoi sous attaque"
     },
     "spacecollect_cargo_title_VE_01": {
       "en": "Red Wind Package Recovery",
@@ -1149,11 +1149,11 @@
     },
     "headhunters_multikillship_base_Generic_M_title_001": {
       "en": "Crash some ships",
-      "tr": "<EM4>[BP]</EM4> Abattre des vaisseaux <EM4>300 exp.</EM4>"
+      "tr": "[BP] Abattre des vaisseaux <EM4>300 exp.</EM4>"
     },
     "Battaglia_RPT_MissCrew_01_title": {
       "en": "Crew Hasn’t Checked In",
-      "tr": "<EM4>[BP]</EM4> L’équipage n’a pas donné de nouvelles <EM4>160 exp.</EM4>"
+      "tr": "[BP] L’équipage n’a pas donné de nouvelles <EM4>160 exp.</EM4>"
     },
     "EckhartSecurity_RecoverCargo_VeryHard_Title": {
       "en": "Critical Cargo Extraction",
@@ -1161,15 +1161,15 @@
     },
     "UWC_Refueling_multiple_hard_title_001": {
       "en": "CRITICAL FLEET REFUEL",
-      "tr": "<EM4>[BP]</EM4> RAVITAILLEMENT CRITIQUE DE FLOTTE <EM4>200 exp.</EM4>"
+      "tr": "[BP] RAVITAILLEMENT CRITIQUE DE FLOTTE <EM4>200 exp.</EM4>"
     },
     "UWC_Refueling_high_title_001": {
       "en": "CRITICAL REFUEL REQUEST: [SHIP]",
-      "tr": "<EM4>[BP]</EM4> DEMANDE DE RAVITAILLEMENT CRITIQUE : [SHIP] <EM4>100 / 200 exp.</EM4>"
+      "tr": "[BP] DEMANDE DE RAVITAILLEMENT CRITIQUE : [SHIP] <EM4>100 / 200 exp.</EM4>"
     },
     "CFP_RecoverCargo_Hard_Title": {
       "en": "Crucial Supplies Need Retrieving",
-      "tr": "<EM4>[BP]</EM4> Fournitures cruciales à récupérer <EM4>200 exp.</EM4>"
+      "tr": "[BP] Fournitures cruciales à récupérer <EM4>200 exp.</EM4>"
     },
     "Highpoint_KillAnimals_MultiType_M_title": {
       "en": "Cull Invasive Creatures",
@@ -1193,11 +1193,11 @@
     },
     "Eckhart_ShipAmbush_VH_title": {
       "en": "Dangerous Ambush",
-      "tr": "<EM4>[BP]</EM4> Ambuscade dangereuse <EM4>250 exp.</EM4>"
+      "tr": "[BP] Ambuscade dangereuse <EM4>250 exp.</EM4>"
     },
     "blackbox_recover_title_intro_001": {
       "en": "Data Transfer",
-      "tr": "<EM4>[BP]</EM4> [CONTRACTOR] <EM4>100 exp.</EM4>"
+      "tr": "[BP] [CONTRACTOR] <EM4>100 exp.</EM4>"
     },
     "BitZeros_blackbox_Intro_Title_001": {
       "en": "Data Transfer",
@@ -1237,23 +1237,23 @@
     },
     "EckhartSecurity_MultiEliminateAllAndBoss_DC_Title_001": {
       "en": "Deal with [TARGET] and Support Forces",
-      "tr": "<EM4>[BP]</EM4> Traitez avec [TARGET] et les forces de soutien <EM4>500 exp.</EM4>"
+      "tr": "[BP] Traitez avec [TARGET] et les forces de soutien <EM4>500 exp.</EM4>"
     },
     "headhunters_eliminateall_retrievestolen_base_Generic_M_title_001": {
       "en": "Death and cargo",
-      "tr": "<EM4>[BP]</EM4> Mort et cargaison <EM4>150 exp.</EM4>"
+      "tr": "[BP] Mort et cargaison <EM4>150 exp.</EM4>"
     },
     "headhunters_EliminateSpecific_Asteroid_Generic_VE_title_001": {
       "en": "Deep space hit",
-      "tr": "<EM4>[BP]</EM4> Contrat en espace profond <EM4>50 exp.</EM4>"
+      "tr": "[BP] Contrat en espace profond <EM4>50 exp.</EM4>"
     },
     "HeadHunters_DefendEntitesAndEscort_VH_Title": {
       "en": "Defend [LOCATION] From Mercs",
-      "tr": "<EM4>[BP]</EM4> Défendre [LOCATION] contre des mercenaires <EM4>250 exp.</EM4>"
+      "tr": "[BP] Défendre [LOCATION] contre des mercenaires <EM4>250 exp.</EM4>"
     },
     "cfp_defend-criminals_title_001": {
       "en": "Defend [LOCATION] from Outlaws",
-      "tr": "<EM4>[BP]</EM4> Défendre [LOCATION] contre les hors-la-loi <EM4>75 / 200 exp.</EM4>"
+      "tr": "[BP] Défendre [LOCATION] contre les hors-la-loi <EM4>75 / 200 exp.</EM4>"
     },
     "Headhunters_DefendDestructibleEntites_VH_Title_001": {
       "en": "Defend Fuel Tanks From Mercs",
@@ -1261,11 +1261,11 @@
     },
     "Intersec_DefendShip_Title_Easy_001": {
       "en": "Defend InterSec Operative",
-      "tr": "<EM4>[BP]</EM4> Défends l'opérateur InterSec <EM4>100 exp.</EM4>"
+      "tr": "[BP] Défends l'opérateur InterSec <EM4>100 exp.</EM4>"
     },
     "cfp_eliminateall_fromCFP_hh_M_title_001": {
       "en": "Defenders needed against Headhunters",
-      "tr": "<EM4>[BP]</EM4> Besoin de défenseurs contre les HeadHunters <EM4>100 / 200 exp.</EM4>"
+      "tr": "[BP] Besoin de défenseurs contre les HeadHunters <EM4>100 / 200 exp.</EM4>"
     },
     "Headhunters_EliminateAll_OLP_H_title_001": {
       "en": "Deliver a Message",
@@ -1277,15 +1277,15 @@
     },
     "cfp_sabotage_servers_M_HH_title_001": {
       "en": "Destroy Headhunter Stolen Data",
-      "tr": "<EM4>[BP]</EM4> Destruction des données volées des Headhunters <EM4>75 / 125 / 200 exp.</EM4>"
+      "tr": "[BP] Destruction des données volées des Headhunters <EM4>75 / 125 / 200 exp.</EM4>"
     },
     "cfp_sabotage_VH_title_001": {
       "en": "Destroy Outlaw Data Servers",
-      "tr": "<EM4>[BP]</EM4> Détruire les serveurs de données illégaux <EM4>150 exp.</EM4>"
+      "tr": "[BP] Détruire les serveurs de données illégaux <EM4>150 exp.</EM4>"
     },
     "cfp_sabotage_servers_VH_XT_title_001": {
       "en": "Destroy XenoThreat Data Servers",
-      "tr": "<EM4>[BP]</EM4> Détruire les serveurs de données de XenoThreat <EM4>300 exp.</EM4>"
+      "tr": "[BP] Détruire les serveurs de données de XenoThreat <EM4>300 exp.</EM4>"
     },
     "headhunters_bombingrun_VH_XT_title_001": {
       "en": "Destroy XenoThreat Fuel Reserves",
@@ -1293,7 +1293,7 @@
     },
     "cfp_sabotage_servers_H_XT_title_001": {
       "en": "Destroy XenoThreat Logistic Data",
-      "tr": "<EM4>[BP]</EM4> Détruire les données logistiques de XenoThreat <EM4>75 exp.</EM4>"
+      "tr": "[BP] Détruire les données logistiques de XenoThreat <EM4>75 exp.</EM4>"
     },
     "vaughn_assassination_PA_VH_title": {
       "en": "Destroying the Alliance",
@@ -1305,7 +1305,7 @@
     },
     "cfp_sabotage_generators_VE_title_001": {
       "en": "Disable Outlaw Stronghold at [LOCATION]",
-      "tr": "<EM4>[BP]</EM4> Neutraliser le repaire des hors-la-loi à [LOCATION] <EM4>25 exp.</EM4>"
+      "tr": "[BP] Neutraliser le repaire des hors-la-loi à [LOCATION] <EM4>25 exp.</EM4>"
     },
     "TheCollector_Recipes_Title_Molten": {
       "en": "Do Lava Suit",
@@ -1321,11 +1321,11 @@
     },
     "headhunters_ChainElimAll_1C_ElimSpec_AttackCFP_M_title_001": {
       "en": "Driving CFP out",
-      "tr": "<EM4>[BP]</EM4> Conduire CFP à l'extérieur <EM4>150 exp.</EM4>"
+      "tr": "[BP] Conduire CFP à l'extérieur <EM4>150 exp.</EM4>"
     },
     "headhunters_EliminateSpecific_XenoThreat_title_001": {
       "en": "Drop a XenoThreat",
-      "tr": "<EM4>[BP]</EM4> Lâcher un XenoThreat <EM4>400 exp.</EM4>"
+      "tr": "[BP] Lâcher un XenoThreat <EM4>400 exp.</EM4>"
     },
     "spacecollect_cargo_title_intro_01": {
       "en": "Red Wind Seeking New Couriers",
@@ -1349,7 +1349,7 @@
     },
     "Battaglia_RPT_ScanMine_05_title": {
       "en": "Efficient Miners Wanted",
-      "tr": "<EM4>[BP]</EM4> Mineurs efficaces recherchés <EM4>400 exp.</EM4>"
+      "tr": "[BP] Mineurs efficaces recherchés <EM4>400 exp.</EM4>"
     },
     "Headhunters_DefendLocation_VE_Title_001": {
       "en": "Eliminate Annoyance",
@@ -1357,11 +1357,11 @@
     },
     "cfp_bombingrun_E_title_001": {
       "en": "Eliminate Fuel Stores",
-      "tr": "<EM4>[BP]</EM4> Éliminer les dépôts de carburant <EM4>200 exp.</EM4>"
+      "tr": "[BP] Éliminer les dépôts de carburant <EM4>200 exp.</EM4>"
     },
     "InterSec_KillShip_Vanduul_Title_Super_001": {
       "en": "Eliminate Vanduul Ship",
-      "tr": "<EM4>[BP]</EM4> Éliminer le vaisseau vanduul <EM4>300 exp.</EM4>"
+      "tr": "[BP] Éliminer le vaisseau vanduul <EM4>300 exp.</EM4>"
     },
     "Foxwell_X2_DrawOutBoss_Title": {
       "en": "Eliminate XenoThreat Enforcer",
@@ -1373,19 +1373,19 @@
     },
     "Battaglia_Story02_title": {
       "en": "Emergency: Blinding Hope in Trouble",
-      "tr": "<EM4>[BP]</EM4> Urgence: Blinding Hope en difficulté <EM4>800 exp.</EM4>"
+      "tr": "[BP] Urgence: Blinding Hope en difficulté <EM4>800 exp.</EM4>"
     },
     "FTL_Courier_Nyx_Easy_Title_001": {
       "en": "ENTRY LVL. COURIER NEEDED IN NYX",
-      "tr": "<EM4>[BP]</EM4> COURSIER DÉBUTANT REQUIS À NYX <EM4>100 exp.</EM4>"
+      "tr": "[BP] COURSIER DÉBUTANT REQUIS À NYX <EM4>100 exp.</EM4>"
     },
     "FTL_Courier_Stanton_Easy_Title_001": {
       "en": "ENTRY LVL. COURIER NEEDED IN STANTON",
-      "tr": "<EM4>[BP]</EM4> COURSIER DÉBUTANT REQUIS DANS STANTON <EM4>100 / 500 exp.</EM4>"
+      "tr": "[BP] COURSIER DÉBUTANT REQUIS DANS STANTON <EM4>100 / 500 exp.</EM4>"
     },
     "cfp_sabotage_server_elimiatespecific_HH_title_001": {
       "en": "Eradicate All Traces of Headhunter Data",
-      "tr": "<EM4>[BP]</EM4> Éliminer toute trace de données relatives aux HeadHunters <EM4>1500 exp.</EM4>"
+      "tr": "[BP] Éliminer toute trace de données relatives aux HeadHunters <EM4>1500 exp.</EM4>"
     },
     "Intersec_ShipWaveAttack_DrawOutBoss_S_Title_001": {
       "en": "Eradicate UEE Threat: [TARGET]",
@@ -1405,7 +1405,7 @@
     },
     "Eckhart_EscortShips_E_title": {
       "en": "Executive Protection Detail",
-      "tr": "<EM4>[BP]</EM4> Mission de protection VIP <EM4>100 exp.</EM4>"
+      "tr": "[BP] Mission de protection VIP <EM4>100 exp.</EM4>"
     },
     "EckhartSecurity_EliminateAll_DC_Title_001": {
       "en": "Expel Outlaws",
@@ -1425,7 +1425,7 @@
     },
     "Eckhart_EscortShips_M_title": {
       "en": "Experienced Protection Detail Needed",
-      "tr": "<EM4>[BP]</EM4> Recherche escorte expérimentée <EM4>150 exp.</EM4>"
+      "tr": "[BP] Recherche escorte expérimentée <EM4>150 exp.</EM4>"
     },
     "cfp_maintenance_H_title_001": {
       "en": "Extensive Repairs Needed: Yang's Place",
@@ -1441,7 +1441,7 @@
     },
     "TheCollector_Recipes_Title_L22Wolf": {
       "en": "Extra Special Wolf",
-      "tr": "<EM4>[BP]</EM4> Wolf très spécial"
+      "tr": "[BP] Wolf très spécial"
     },
     "EckhartSecurity_RecoverCargo_Super_Title": {
       "en": "Extreme Risk Cargo Retrieval",
@@ -1449,7 +1449,7 @@
     },
     "eckhart_defendship_multi_SRT_title_001": {
       "en": "Extremely Dangerous Defense",
-      "tr": "<EM4>[BP]</EM4> Défense extrêmement dangereuse <EM4>300 exp.</EM4>"
+      "tr": "[BP] Défense extrêmement dangereuse <EM4>300 exp.</EM4>"
     },
     "TheCollector_Ships_F8C_Milt_TItle": {
       "en": "F8 War Mod",
@@ -1513,11 +1513,11 @@
     },
     "headhunters_killship_xenothreat_ert_title_001": {
       "en": "Ghost some XenoTrash",
-      "tr": "<EM4>[BP]</EM4> Tuer quelques XenoTrash <EM4>3200 exp.</EM4>"
+      "tr": "[BP] Tuer quelques XenoTrash <EM4>3200 exp.</EM4>"
     },
     "headhunters_ChainElimAll_AttackGen_E_title_001": {
       "en": "Go on the warpath",
-      "tr": "<EM4>[BP]</EM4> Sur le sentier de la guerre <EM4>400 exp.</EM4>"
+      "tr": "[BP] Sur le sentier de la guerre <EM4>400 exp.</EM4>"
     },
     "TheCollector_Ships_Drake_Golem_Title": {
       "en": "Golem Rocks",
@@ -1533,11 +1533,11 @@
     },
     "headhunters_eliminateall_xt_title_001": {
       "en": "Green light on [LOCATION]",
-      "tr": "<EM4>[BP]</EM4> Feu vert allumé [LOCATION] <EM4>100 exp.</EM4>"
+      "tr": "[BP] Feu vert allumé [LOCATION] <EM4>100 exp.</EM4>"
     },
     "headhunters_EliminateSpecific_Generic_VH_title_001": {
       "en": "Green light on [TARGET]",
-      "tr": "<EM4>[BP]</EM4> Feu vert sur [TARGET] <EM4>1200 exp.</EM4>"
+      "tr": "[BP] Feu vert sur [TARGET] <EM4>1200 exp.</EM4>"
     },
     "headhunters_bombingrun_VE_title_001": {
       "en": "Ground The Upstarts",
@@ -1545,7 +1545,7 @@
     },
     "HeadHunters_DefendEntitesAndEscort_S_Title": {
       "en": "Guard [LOCATION] From Rivals",
-      "tr": "<EM4>[BP]</EM4> Protéger [LOCATION] contre les rivaux <EM4>300 exp.</EM4>"
+      "tr": "[BP] Protéger [LOCATION] contre les rivaux <EM4>300 exp.</EM4>"
     },
     "Headhunters_DefendDestructibleEntites_S_Title_001": {
       "en": "Guard Fuel Tanks At All Costs",
@@ -1565,7 +1565,7 @@
     },
     "Intersec_DefendShip_Vanduul_Title_Super_001": {
       "en": "Handle Vanduul Attack on Ship",
-      "tr": "<EM4>[BP]</EM4> Gérer l’attaque vanduul sur le vaisseau <EM4>300 exp.</EM4>"
+      "tr": "[BP] Gérer l’attaque vanduul sur le vaisseau <EM4>300 exp.</EM4>"
     },
     "headhunters_HaulCargo_RegionLink_title_001": {
       "en": "Hauling ask.",
@@ -1573,7 +1573,7 @@
     },
     "cfp_defend_headhunters_H_title_001": {
       "en": "Headhunter attack on [LOCATION]",
-      "tr": "<EM4>[BP]</EM4> Attaque Headhunter sur [LOCATION] <EM4>200 exp.</EM4>"
+      "tr": "[BP] Attaque Headhunter sur [LOCATION] <EM4>200 exp.</EM4>"
     },
     "headhunters_defendship_LRT_PA_title_001": {
       "en": "Headhunter Needs Help",
@@ -1593,11 +1593,11 @@
     },
     "TheCollector_Recipes_Title_SuperHeavyCombat": {
       "en": "Heavy and Bright",
-      "tr": "<EM4>[BP]</EM4> Lourde et brillante <EM4>10 exp.</EM4>"
+      "tr": "[BP] Lourde et brillante <EM4>10 exp.</EM4>"
     },
     "cfp_defendship_multi_HRT_SB_title_001": {
       "en": "Help Ambushed Convoy",
-      "tr": "<EM4>[BP]</EM4> Aidez le convoi attaqué"
+      "tr": "[BP] Aidez le convoi attaqué"
     },
     "CFP_ShipWaveAttack_ClearHostiles_Title_VE_001": {
       "en": "Help Deal with Outlaw Hunting Party",
@@ -1605,7 +1605,7 @@
     },
     "cfp_ChainElimAll_1C_HHAttack_M_title_001": {
       "en": "Help defend [LOCATION] from Headhunters",
-      "tr": "<EM4>[BP]</EM4> Aidez-nous à défendre [LOCATION] contre les HeadHunters <EM4>300 exp.</EM4>"
+      "tr": "[BP] Aidez-nous à défendre [LOCATION] contre les HeadHunters <EM4>300 exp.</EM4>"
     },
     "Headhunters_DefendLocation_H_Title_001": {
       "en": "Help Headhunters at [LOCATION]",
@@ -1617,7 +1617,7 @@
     },
     "Foxwell_EliminateAll_Allies_title_001": {
       "en": "Help Protect Site",
-      "tr": "<EM4>[BP]</EM4> Aidez à protéger le site <EM4>100 exp.</EM4>"
+      "tr": "[BP] Aidez à protéger le site <EM4>100 exp.</EM4>"
     },
     "TheCollector_Recipes_Title_Hush": {
       "en": "Hide Snow Suit",
@@ -1629,35 +1629,35 @@
     },
     "EckhartSecurity_EliminateBoss_DC_Title_001": {
       "en": "High-Risk Bounty: [TARGET]",
-      "tr": "<EM4>[BP]</EM4> Prime à haut risque : [TARGET] <EM4>500 exp.</EM4>"
+      "tr": "[BP] Prime à haut risque : [TARGET] <EM4>500 exp.</EM4>"
     },
     "eckhart_defendship_multi_HRT_title_001": {
       "en": "High-Risk Ship Encounter",
-      "tr": "<EM4>[BP]</EM4> Rencontre de vaisseau à haut risque <EM4>200 exp.</EM4>"
+      "tr": "[BP] Rencontre de vaisseau à haut risque <EM4>200 exp.</EM4>"
     },
     "Eckhart_ShipAmbush_S_title": {
       "en": "Highly Dangerous Ambush",
-      "tr": "<EM4>[BP]</EM4> Embuscade extrêmement dangereuse <EM4>300 exp.</EM4>"
+      "tr": "[BP] Embuscade extrêmement dangereuse <EM4>300 exp.</EM4>"
     },
     "headhunters_ChainElimAll_3C_ElimSpec_AttackCFP_VH_title_001": {
       "en": "Hit a CFP Complex",
-      "tr": "<EM4>[BP]</EM4> Toucher un complexe des CFP <EM4>300 exp.</EM4>"
+      "tr": "[BP] Toucher un complexe des CFP <EM4>300 exp.</EM4>"
     },
     "headhunters_killship_cfp_mrt_title_001": {
       "en": "Hit a CFP Ship",
-      "tr": "<EM4>[BP]</EM4> Toucher un vaisseau CFP <EM4>300 exp.</EM4>"
+      "tr": "[BP] Toucher un vaisseau CFP <EM4>300 exp.</EM4>"
     },
     "headhunters_ChainElimAll_Boss_XenoThreat_VH_title_001": {
       "en": "Hit on XenoThreat command",
-      "tr": "<EM4>[BP]</EM4> Réponse à la commande XenoThreat <EM4>400 exp.</EM4>"
+      "tr": "[BP] Réponse à la commande XenoThreat <EM4>400 exp.</EM4>"
     },
     "headhunters_EliminateAll_XenoThreat_H_title_001": {
       "en": "Hit XenoThreat at [LOCATION]",
-      "tr": "<EM4>[BP]</EM4> Frappez XenoThreat à [LOCATION] <EM4>300 exp.</EM4>"
+      "tr": "[BP] Frappez XenoThreat à [LOCATION] <EM4>300 exp.</EM4>"
     },
     "headhunters_eliminateall_cfp_E_title_001": {
       "en": "Hitting a CFP site",
-      "tr": "<EM4>[BP]</EM4> Atteindre un site CFP <EM4>50 exp.</EM4>"
+      "tr": "[BP] Atteindre un site CFP <EM4>50 exp.</EM4>"
     },
     "TheCollector_Recipes_Title_NonePistol": {
       "en": "Hot Shot",
@@ -1677,7 +1677,7 @@
     },
     "Battaglia_Story03_title": {
       "en": "Idea for Isaac",
-      "tr": "<EM4>[BP]</EM4> Un plan pour Isaac <EM4>800 exp.</EM4>"
+      "tr": "[BP] Un plan pour Isaac <EM4>800 exp.</EM4>"
     },
     "EckhartSecurity_DestroyServers_FacilityDelving_Title_001": {
       "en": "INFILITRATE ASD SITE AND DESTROY SERVERS",
@@ -1701,7 +1701,7 @@
     },
     "CFP_RecoverCargo_Easy_Title": {
       "en": "Intercepted Supply Run",
-      "tr": "<EM4>[BP]</EM4> Convoi de ravitaillement intercepté <EM4>100 exp.</EM4>"
+      "tr": "[BP] Convoi de ravitaillement intercepté <EM4>100 exp.</EM4>"
     },
     "Foxwell_X2_ShipWaves_Title": {
       "en": "Interdict XenoThreat Attack Force",
@@ -1737,7 +1737,7 @@
     },
     "Hockrow_FacilityDelve_P3M1_title": {
       "en": "Jorrit Dossier: Project Hyperion",
-      "tr": "<EM4>[BP]</EM4> Dossier Jorrit : Projet Hyperion"
+      "tr": "[BP] Dossier Jorrit : Projet Hyperion"
     },
     "Hockrow_FacilityDelve_P2M1_title": {
       "en": "Jorrit Dossier: Retrieve Energy Anomaly Data",
@@ -1753,19 +1753,19 @@
     },
     "Hockrow_FacilityDelve_P2M1_Repeat_title": {
       "en": "Jorrit Dossier: Updated Energy Anomaly Data",
-      "tr": "<EM4>[BP]</EM4> Dossier Jorrit : Mise à jour des données sur les anomalies énergétiques"
+      "tr": "[BP] Dossier Jorrit : Mise à jour des données sur les anomalies énergétiques"
     },
     "Hockrow_FacilityDelve_P2M4_Repeat_title": {
       "en": "Jorrit Dossier: Updated Power Usage Data",
-      "tr": "<EM4>[BP]</EM4> Dossier Jorrit : Mise à jour des données sur l'utilisation de l'énergie"
+      "tr": "[BP] Dossier Jorrit : Mise à jour des données sur l'utilisation de l'énergie"
     },
     "Hockrow_FacilityDelve_P2M2_Repeat_title": {
       "en": "Jorrit Dossier: Updated Security Data",
-      "tr": "<EM4>[BP]</EM4> Dossier Jorrit : Données de sécurité mises à jour"
+      "tr": "[BP] Dossier Jorrit : Données de sécurité mises à jour"
     },
     "Hockrow_FacilityDelve_P2M3_Repeat_title": {
       "en": "Jorrit Dossier: Updated Seismic Data",
-      "tr": "<EM4>[BP]</EM4> Dossier Jorrit : Données sismiques actualisées"
+      "tr": "[BP] Dossier Jorrit : Données sismiques actualisées"
     },
     "BHG_Certification_Hard_Title": {
       "en": "Journeyman Tracker License Certification",
@@ -1773,11 +1773,11 @@
     },
     "FTL_Courier_Stanton_Medium_Title_001": {
       "en": "JR. LVL. COURIER NEEDED IN STANTON",
-      "tr": "<EM4>[BP]</EM4> COURSIER JUNIOR REQUIS DANS STANTON <EM4>100 exp.</EM4>"
+      "tr": "[BP] COURSIER JUNIOR REQUIS DANS STANTON <EM4>100 exp.</EM4>"
     },
     "HeadHunters_DefendEntitesAndEscort_VE_Title": {
       "en": "Keep [LOCATION] Safe",
-      "tr": "<EM4>[BP]</EM4> Maintenir [LOCATION] en sécurité <EM4>100 exp.</EM4>"
+      "tr": "[BP] Maintenir [LOCATION] en sécurité <EM4>100 exp.</EM4>"
     },
     "Headhunters_DefendDestructibleEntites_VE_Title_001": {
       "en": "Keep Fuel Tanks Safe From Upstarts",
@@ -1785,11 +1785,11 @@
     },
     "headhunters_killship_cfp_hrt_title_001": {
       "en": "Kill Order",
-      "tr": "<EM4>[BP]</EM4> Ordre de tuer <EM4>600 exp.</EM4>"
+      "tr": "[BP] Ordre de tuer <EM4>600 exp.</EM4>"
     },
     "headhunters_EliminateSpecific_Generic_E_title_001": {
       "en": "Kill the king",
-      "tr": "<EM4>[BP]</EM4> Descendre le boss <EM4>50 / 100 exp.</EM4>"
+      "tr": "[BP] Descendre le boss <EM4>50 / 100 exp.</EM4>"
     },
     "headhunters_sabotage_generators_multi_M_title_001": {
       "en": "Knock Power Out",
@@ -1809,15 +1809,15 @@
     },
     "Eckhart_ShipAmbush_M_title": {
       "en": "Launch Surprise Attack",
-      "tr": "<EM4>[BP]</EM4> Lancer une attaque surprise <EM4>150 exp.</EM4>"
+      "tr": "[BP] Lancer une attaque surprise <EM4>150 exp.</EM4>"
     },
     "LingFamily_HaulCargo_AToB_title": {
       "en": "Ling Family Rookie Cargo Haul - Small Scale",
-      "tr": "<EM4>[BP]</EM4> [RANK] - Ling Family Transport de cargaison - Volume [CARGO_GRADE] <EM4>100 exp.</EM4>"
+      "tr": "[BP] [RANK] - Ling Family Transport de cargaison - Volume [CARGO_GRADE] <EM4>100 exp.</EM4>"
     },
     "LingFamily_HaulCargo_MultiToSingle_title": {
       "en": "Ling Family Rookie Cargo Haul - Small Scale",
-      "tr": "<EM4>[BP]</EM4> [RANK] - Ling Family Transport de Cargaison – Volume [CARGO_GRADE] <EM4>100 exp.</EM4>"
+      "tr": "[BP] [RANK] - Ling Family Transport de Cargaison – Volume [CARGO_GRADE] <EM4>100 exp.</EM4>"
     },
     "LingFamily_RecoverCargo_Easy_Title": {
       "en": "Ling Shipment Recovery",
@@ -1885,7 +1885,7 @@
     },
     "headhunters_eliminateall_cfp_title_001": {
       "en": "Looking for a little revenge",
-      "tr": "<EM4>[BP]</EM4> A la recherche d'une petite revanche <EM4>100 exp.</EM4>"
+      "tr": "[BP] A la recherche d'une petite revanche <EM4>100 exp.</EM4>"
     },
     "Headhunters_SecurityPatrol_H_Title_001": {
       "en": "Looking For Trouble",
@@ -1901,43 +1901,43 @@
     },
     "Eckhart_EscortShips_VE_title": {
       "en": "Low Risk Protection Detail",
-      "tr": "<EM4>[BP]</EM4> Détail de protection — Faible risque <EM4>100 exp.</EM4>"
+      "tr": "[BP] Détail de protection — Faible risque <EM4>100 exp.</EM4>"
     },
     "Shubin_Industrial_HandMining_Pyro_H_PlanetarySystem_Title_001": {
       "en": "Lrg. Purchase Order: Hand Mined Materials",
-      "tr": "<EM4>[BP]</EM4> Bon de commande - Grand: Matériaux extraits à la main <EM4>150 exp.</EM4>"
+      "tr": "[BP] Bon de commande - Grand: Matériaux extraits à la main <EM4>150 exp.</EM4>"
     },
     "Shubin_Industrial_HandMining_Stanton_H_PlanetarySystem_Title_001": {
       "en": "Lrg. Purchase Order: Hand Mined Materials",
-      "tr": "<EM4>[BP]</EM4> Bon de commande - Grand: Matériaux extraits à la main <EM4>150 exp.</EM4>"
+      "tr": "[BP] Bon de commande - Grand: Matériaux extraits à la main <EM4>150 exp.</EM4>"
     },
     "Shubin_Industrial_HandMining_Stanton_H_Planetary_Solar_Title_001": {
       "en": "Lrg. Purchase Order: Hand Mined Materials",
-      "tr": "<EM4>[BP]</EM4> Bon de commande - Grand: Matériaux extraits à la main <EM4>150 exp.</EM4>"
+      "tr": "[BP] Bon de commande - Grand: Matériaux extraits à la main <EM4>150 exp.</EM4>"
     },
     "Shubin_Industrial_ShipMining_Nyx_H_Secondary_Title_001": {
       "en": "Lrg. Purchase Order: Ship Mined Ore",
-      "tr": "<EM4>[BP]</EM4> Bon de commande - Grand: Minerai extrait en vaisseau <EM4>200 exp.</EM4>"
+      "tr": "[BP] Bon de commande - Grand: Minerai extrait en vaisseau <EM4>200 exp.</EM4>"
     },
     "Shubin_Industrial_ShipMining_Pyro_H_PrimarySecondary_Title_001": {
       "en": "Lrg. Purchase Order: Ship Mined Ore",
-      "tr": "<EM4>[BP]</EM4> Bon de commande - Grand: Minerai extrait en vaisseau <EM4>200 exp.</EM4>"
+      "tr": "[BP] Bon de commande - Grand: Minerai extrait en vaisseau <EM4>200 exp.</EM4>"
     },
     "Shubin_Industrial_ShipMining_Stanton_H_Secondary_Interstellar_Title_001": {
       "en": "Lrg. Purchase Order: Ship Mined Ore",
-      "tr": "<EM4>[BP]</EM4> Bon de commande - Grand: Minerai extrait en vaisseau <EM4>250 exp.</EM4>"
+      "tr": "[BP] Bon de commande - Grand: Minerai extrait en vaisseau <EM4>250 exp.</EM4>"
     },
     "Shubin_Industrial_ShipMining_Pyro_H_Secondary_Title_001": {
       "en": "Lrg. Purchase Order: Ship Mined Ore",
-      "tr": "<EM4>[BP]</EM4> Bon de commande - Grand: Minerai extrait en vaisseau <EM4>200 exp.</EM4>"
+      "tr": "[BP] Bon de commande - Grand: Minerai extrait en vaisseau <EM4>200 exp.</EM4>"
     },
     "Shubin_Industrial_ShipMining_Stanton_H_PrimarySecondary_Title_001": {
       "en": "Lrg. Purchase Order: Ship Mined Ore",
-      "tr": "<EM4>[BP]</EM4> Bon de commande - Grand: Minerai extrait en vaisseau <EM4>200 exp.</EM4>"
+      "tr": "[BP] Bon de commande - Grand: Minerai extrait en vaisseau <EM4>200 exp.</EM4>"
     },
     "Shubin_Industrial_ShipMining_Stanton_H_Secondary_Title_001": {
       "en": "Lrg. Purchase Order: Ship Mined Ore",
-      "tr": "<EM4>[BP]</EM4> Bon de commande - Grand: Minerai extrait en vaisseau <EM4>200 exp.</EM4>"
+      "tr": "[BP] Bon de commande - Grand: Minerai extrait en vaisseau <EM4>200 exp.</EM4>"
     },
     "Shubin_Industrial_GroundVehicle_Pyro_H_Solar_Title_001": {
       "en": "Lrg. Purchase Order: Vehicle Mined Ore",
@@ -1965,11 +1965,11 @@
     },
     "Covalex_HaulCargo_AToB_title": {
       "en": "Rookie Rank - Direct Small Cargo Haul",
-      "tr": "<EM4>[BP]</EM4> [RANK] - Transport de fret [CARGO_GRADE] direct"
+      "tr": "[BP] [RANK] - Transport de fret [CARGO_GRADE] direct"
     },
     "Covalex_HaulCargo_SingleToMulti_title": {
       "en": "Senior Rank - Medium Cargo Haul",
-      "tr": "<EM4>[BP]</EM4> [RANK] – Transport de cargaison [CARGO_GRADE]"
+      "tr": "[BP] [RANK] – Transport de cargaison [CARGO_GRADE]"
     },
     "BHG_Certification_Super_Title": {
       "en": "Master Tracker License Certification",
@@ -1989,23 +1989,23 @@
     },
     "Shubin_Industrial_HandMining_Pyro_M_DiscoverPlanetary_Title_001": {
       "en": "Med. Purchase Order: Hand Mined Materials",
-      "tr": "<EM4>[BP]</EM4> Bon de commande - Moyen: Matériaux extraits à la main <EM4>100 exp.</EM4>"
+      "tr": "[BP] Bon de commande - Moyen: Matériaux extraits à la main <EM4>100 exp.</EM4>"
     },
     "Shubin_Industrial_HandMining_Stanton_M_DiscoverPlanetary_Title_001": {
       "en": "Med. Purchase Order: Hand Mined Materials",
-      "tr": "<EM4>[BP]</EM4> Bon de commande - Moyen: Matériaux extraits à la main <EM4>100 exp.</EM4>"
+      "tr": "[BP] Bon de commande - Moyen: Matériaux extraits à la main <EM4>100 exp.</EM4>"
     },
     "Shubin_Industrial_ShipMining_Nyx_M_Solar_Title_001": {
       "en": "Med. Purchase Order: Ship Mined Ore",
-      "tr": "<EM4>[BP]</EM4> Bon de commande - Moyen: Minerai extrait en vaisseau <EM4>150 exp.</EM4>"
+      "tr": "[BP] Bon de commande - Moyen: Minerai extrait en vaisseau <EM4>150 exp.</EM4>"
     },
     "Shubin_Industrial_ShipMining_Pyro_M_Solar_Title_001": {
       "en": "Med. Purchase Order: Ship Mined Ore",
-      "tr": "<EM4>[BP]</EM4> Bon de commande - Moyen: Minerai extrait en vaisseau <EM4>150 exp.</EM4>"
+      "tr": "[BP] Bon de commande - Moyen: Minerai extrait en vaisseau <EM4>150 exp.</EM4>"
     },
     "Shubin_Industrial_ShipMining_Stanton_M_Solar_Title_001": {
       "en": "Med. Purchase Order: Ship Mined Ore",
-      "tr": "<EM4>[BP]</EM4> Bon de commande - Moyen: Minerai extrait en vaisseau <EM4>150 exp.</EM4>"
+      "tr": "[BP] Bon de commande - Moyen: Minerai extrait en vaisseau <EM4>150 exp.</EM4>"
     },
     "Shubin_Industrial_GroundVehicle_Pyro_M_PlanetarySystem_Title_001": {
       "en": "Med. Purchase Order: Vehicle Mined Ore",
@@ -2017,7 +2017,7 @@
     },
     "Battaglia_RPT_ScanMine_06_title": {
       "en": "Mining and Data Collection",
-      "tr": "<EM4>[BP]</EM4> Minage et collecte de données <EM4>600 exp.</EM4>"
+      "tr": "[BP] Minage et collecte de données <EM4>600 exp.</EM4>"
     },
     "Battaglia_RPT_ScanMine_Mole_title": {
       "en": "Mining and MOLE",
@@ -2025,7 +2025,7 @@
     },
     "Battaglia_RPT_ScanMine_01_title": {
       "en": "Minor Mining Job",
-      "tr": "<EM4>[BP]</EM4> Petit contrat de minage <EM4>200 exp.</EM4>"
+      "tr": "[BP] Petit contrat de minage <EM4>200 exp.</EM4>"
     },
     "cfp_maintenance_E_title_001": {
       "en": "Minor Repairs Needed: [LOCATION]",
@@ -2037,23 +2037,23 @@
     },
     "Battaglia_RPT_MissCrew_02_title": {
       "en": "Missing Mining Team",
-      "tr": "<EM4>[BP]</EM4> Équipe de mineurs disparue <EM4>200 exp.</EM4>"
+      "tr": "[BP] Équipe de mineurs disparue <EM4>200 exp.</EM4>"
     },
     "Battaglia_RPT_MissCrew_03_title": {
       "en": "Missing Persons",
-      "tr": "<EM4>[BP]</EM4> Personnes disparues <EM4>240 exp.</EM4>"
+      "tr": "[BP] Personnes disparues <EM4>240 exp.</EM4>"
     },
     "Shubin_Industrial_ShipMining_Stanton_S_Secondary_Title_001": {
       "en": "Mjr. Purchase Order: Ship Mined Ore",
-      "tr": "<EM4>[BP]</EM4> Bon de commande - Important: Minerai extrait en vaisseau <EM4>250 exp.</EM4>"
+      "tr": "[BP] Bon de commande - Important: Minerai extrait en vaisseau <EM4>250 exp.</EM4>"
     },
     "Shubin_Industrial_ShipMining_Nyx_S_Secondary_Title_001": {
       "en": "Mjr. Purchase Order: Ship Mined Ore",
-      "tr": "<EM4>[BP]</EM4> Bon de commande - Important: Minerai extrait en vaisseau <EM4>250 exp.</EM4>"
+      "tr": "[BP] Bon de commande - Important: Minerai extrait en vaisseau <EM4>250 exp.</EM4>"
     },
     "Shubin_Industrial_ShipMining_Pyro_S_Secondary_Title_001": {
       "en": "Mjr. Purchase Order: Ship Mined Ore",
-      "tr": "<EM4>[BP]</EM4> Bon de commande - Important: Minerai extrait en vaisseau <EM4>250 exp.</EM4>"
+      "tr": "[BP] Bon de commande - Important: Minerai extrait en vaisseau <EM4>250 exp.</EM4>"
     },
     "cfp_maintenance_M_title_001": {
       "en": "Moderate Repairs Needed: [LOCATION]",
@@ -2065,11 +2065,11 @@
     },
     "Battaglia_RPT_DataDownload_01_title": {
       "en": "Moraine Data Retrieval",
-      "tr": "<EM4>[BP]</EM4> Récupération de données Moraine <EM4>200 exp.</EM4>"
+      "tr": "[BP] Récupération de données Moraine <EM4>200 exp.</EM4>"
     },
     "Battaglia_RPT_CreateUplink_01_title": {
       "en": "Moraine Movements",
-      "tr": "<EM4>[BP]</EM4> Activité des Moraine <EM4>300 exp.</EM4>"
+      "tr": "[BP] Activité des Moraine <EM4>300 exp.</EM4>"
     },
     "TheCollector_Ships_Starlift_Max_TItle": {
       "en": "More than a Max",
@@ -2085,11 +2085,11 @@
     },
     "headhunters_EliminateSpecific_CFP_M_title_001": {
       "en": "Need a CFP taken down",
-      "tr": "<EM4>[BP]</EM4> Besoin de démonter un CFP <EM4>75 / 100 exp.</EM4>"
+      "tr": "[BP] Besoin de démonter un CFP <EM4>75 / 100 exp.</EM4>"
     },
     "headhunters_EliminateSpecific_Asteroid_Generic_M_title_001": {
       "en": "Need a death at [LOCATION]",
-      "tr": "<EM4>[BP]</EM4> Besoin d’un mort à [LOCATION] <EM4>300 exp.</EM4>"
+      "tr": "[BP] Besoin d’un mort à [LOCATION] <EM4>300 exp.</EM4>"
     },
     "cfp_HaulCargo_RegionLink_title_001": {
       "en": "Need a Hauler",
@@ -2097,23 +2097,23 @@
     },
     "headhunters_eliminateall_base_Generic_E_title_001": {
       "en": "Need a hitter",
-      "tr": "<EM4>[BP]</EM4> Besoin d'un cogneur <EM4>50 exp.</EM4>"
+      "tr": "[BP] Besoin d'un cogneur <EM4>50 exp.</EM4>"
     },
     "cfp_ChainElimAll_3C_ElimSpec_GenAttack_M_title_001": {
       "en": "Need multiple CFP outposts retaken",
-      "tr": "<EM4>[BP]</EM4> Reprise de plusieurs avant-postes de la PCP <EM4>300 exp.</EM4>"
+      "tr": "[BP] Reprise de plusieurs avant-postes de la PCP <EM4>300 exp.</EM4>"
     },
     "RAIN_collectresources_single_OLP_name_01": {
       "en": "Need Resource for Research",
-      "tr": "<EM4>[BP]</EM4> Ressource nécessaire pour la recherche <EM4>100 / 150 exp.</EM4>"
+      "tr": "[BP] Ressource nécessaire pour la recherche <EM4>100 / 150 exp.</EM4>"
     },
     "Battaglia_RPT_ScanMine_02_title": {
       "en": "Need Some Ore Mined",
-      "tr": "<EM4>[BP]</EM4> Besoin d’extraire du minerai <EM4>220 exp.</EM4>"
+      "tr": "[BP] Besoin d’extraire du minerai <EM4>220 exp.</EM4>"
     },
     "headhunters_EliminateSpecific_Generic_M_title_001": {
       "en": "Need someone taken out",
-      "tr": "<EM4>[BP]</EM4> Neutralisation d’une cible requise <EM4>25 / 50 exp.</EM4>"
+      "tr": "[BP] Neutralisation d’une cible requise <EM4>25 / 50 exp.</EM4>"
     },
     "CFP_ShipWaveAttack_ClearHostiles_Title_H_001": {
       "en": "Neutralize Dangerous Criminal Fleet",
@@ -2121,15 +2121,15 @@
     },
     "Intersec_KillShip_Title_Medium_001": {
       "en": "Neutralize UEE Threat: [TARGET]",
-      "tr": "<EM4>[BP]</EM4> Neutraliser la menace UEE : [TARGET] <EM4>150 exp.</EM4>"
+      "tr": "[BP] Neutraliser la menace UEE : [TARGET] <EM4>150 exp.</EM4>"
     },
     "Intersec_KillShip_Vanduul_Title_VeryHard_001": {
       "en": "Neutralize Vanduul Target",
-      "tr": "<EM4>[BP]</EM4> Neutralise la cible Vanduul <EM4>250 exp.</EM4>"
+      "tr": "[BP] Neutralise la cible Vanduul <EM4>250 exp.</EM4>"
     },
     "Intersec_KillShip_Title_Intro_001": {
       "en": "New Defense Contract: [TARGET] Elimination",
-      "tr": "<EM4>[BP]</EM4> Nouveau contrat de défense : Éliminer [TARGET] <EM4>100 exp.</EM4>"
+      "tr": "[BP] Nouveau contrat de défense : Éliminer [TARGET] <EM4>100 exp.</EM4>"
     },
     "searchbodyspace_title_intro": {
       "en": "NEW HIRE: Locate Missing Person",
@@ -2145,7 +2145,7 @@
     },
     "Eckhart_ShipAmbush_Intro_title": {
       "en": "New Opportunity - Ambush Strike",
-      "tr": "<EM4>[BP]</EM4> Nouvelle opportunité - Attaque embusquée <EM4>100 exp.</EM4>"
+      "tr": "[BP] Nouvelle opportunité - Attaque embusquée <EM4>100 exp.</EM4>"
     },
     "headhunters_bombingrun_E_title_001": {
       "en": "No Fly Zone",
@@ -2173,7 +2173,7 @@
     },
     "Intersec_DefendShip_Title_Medium_001": {
       "en": "Operative Extraction",
-      "tr": "<EM4>[BP]</EM4> Extraction d’un agent <EM4>150 exp.</EM4>"
+      "tr": "[BP] Extraction d’un agent <EM4>150 exp.</EM4>"
     },
     "Covalex_HaulCargo_AToB_Intro_title": {
       "en": "Opportunity for Independent Cargo Hauler",
@@ -2181,19 +2181,19 @@
     },
     "foxwell_DefendShip_M_title_001": {
       "en": "Orange Level Contract: [SHIP] Needs Assistance",
-      "tr": "<EM4>[BP]</EM4> Contrat Niveau Orange : Assistance requise pour [SHIP] <EM4>150 exp.</EM4>"
+      "tr": "[BP] Contrat Niveau Orange : Assistance requise pour [SHIP] <EM4>150 exp.</EM4>"
     },
     "Foxwell_bombingrun_H_title_001": {
       "en": "Orange Level Contract: Destroy Outlaw Infrastructure",
-      "tr": "<EM4>[BP]</EM4> Contrat niveau orange: Destruction d'une infrastructure de hors-la-loi <EM4>200 exp.</EM4>"
+      "tr": "[BP] Contrat niveau orange: Destruction d'une infrastructure de hors-la-loi <EM4>200 exp.</EM4>"
     },
     "Foxwell_ShipWaveAttack_ClearHostiles_Title_M_001": {
       "en": "Orange Level Contract: Destroy Outlaw Threat",
-      "tr": "<EM4>[BP]</EM4> Contrat niveau orange: Neutralisation d'une menace de hors-la-loi <EM4>150 exp.</EM4>"
+      "tr": "[BP] Contrat niveau orange: Neutralisation d'une menace de hors-la-loi <EM4>150 exp.</EM4>"
     },
     "destroyprobelegal_title": {
       "en": "Orange Level Contract: Handle Security Threat",
-      "tr": "<EM4>[BP]</EM4> [CONTRACTOR] <EM4>100 exp.</EM4>"
+      "tr": "[BP] [CONTRACTOR] <EM4>100 exp.</EM4>"
     },
     "Foxwell_destroyprobe_M_name_001": {
       "en": "Orange Level Contract: Handle Security Threat",
@@ -2201,55 +2201,55 @@
     },
     "Foxwell_SecurityPatrol_H_Title_001": {
       "en": "Orange Level Contract: Potential Security Threat",
-      "tr": "<EM4>[BP]</EM4> Contrat Niveau Orange : Menace potentielle pour la sécurité <EM4>200 exp.</EM4>"
+      "tr": "[BP] Contrat Niveau Orange : Menace potentielle pour la sécurité <EM4>200 exp.</EM4>"
     },
     "Foxwell_DefendLocation_H_Title_001": {
       "en": "Orange Level Contract: Protect Our Client’s Interests",
-      "tr": "<EM4>[BP]</EM4> Contrat Niveau Orange : Protéger les intérêts de nos clients <EM4>200 exp.</EM4>"
+      "tr": "[BP] Contrat Niveau Orange : Protéger les intérêts de nos clients <EM4>200 exp.</EM4>"
     },
     "Foxwell_ShipAmbush_H_title_001": {
       "en": "Orange Level Contract: Return the Favor",
-      "tr": "<EM4>[BP]</EM4> Contrat Niveau Orange : Renvoyer l'ascenseur <EM4>200 exp.</EM4>"
+      "tr": "[BP] Contrat Niveau Orange : Renvoyer l'ascenseur <EM4>200 exp.</EM4>"
     },
     "Foxwell_SecurityPatrol_M_Title_001": {
       "en": "Orange Level Contract: Security Patrol",
-      "tr": "<EM4>[BP]</EM4> Contrat Niveau Orange : Patrouille de sécurité <EM4>150 exp.</EM4>"
+      "tr": "[BP] Contrat Niveau Orange : Patrouille de sécurité <EM4>150 exp.</EM4>"
     },
     "Foxwell_DefendLocation_M_Title_001": {
       "en": "Orange Level Contract: Ship Protection Needed",
-      "tr": "<EM4>[BP]</EM4> Contrat Niveau Orange : Protection de vaisseau requise <EM4>150 exp.</EM4>"
+      "tr": "[BP] Contrat Niveau Orange : Protection de vaisseau requise <EM4>150 exp.</EM4>"
     },
     "Foxwell_ShipAmbush_M_title_001": {
       "en": "Orange Level Contract: Spring a Trap",
-      "tr": "<EM4>[BP]</EM4> Contrat Niveau Orange : Tendez une embuscade <EM4>150 exp.</EM4>"
+      "tr": "[BP] Contrat Niveau Orange : Tendez une embuscade <EM4>150 exp.</EM4>"
     },
     "Foxwell_ShipWaveAttack_ClearHostiles_Title_H_001": {
       "en": "Orange Level Contract: Take Out Criminal Fleet",
-      "tr": "<EM4>[BP]</EM4> Contrat niveau orange: Neutralisation d'une flotte criminelle <EM4>200 exp.</EM4>"
+      "tr": "[BP] Contrat niveau orange: Neutralisation d'une flotte criminelle <EM4>200 exp.</EM4>"
     },
     "Foxwell_bombingrun_M_title_001": {
       "en": "Orange Level Contract: Take Out Fuel Supplies",
-      "tr": "<EM4>[BP]</EM4> Contrat niveau orange: Destruction des réserves de carburant <EM4>150 exp.</EM4>"
+      "tr": "[BP] Contrat niveau orange: Destruction des réserves de carburant <EM4>150 exp.</EM4>"
     },
     "Foxwell_DefendDestructibleEntites_M_Title_001": {
       "en": "Orange Lvl. Contract: Defend Fuel Tanks",
-      "tr": "<EM4>[BP]</EM4> Contrat niveau orange: Défendre les [OBJECTS] <EM4>150 exp.</EM4>"
+      "tr": "[BP] Contrat niveau orange: Défendre les [OBJECTS] <EM4>150 exp.</EM4>"
     },
     "Foxwell_DefendEntitesAndEscort_M_Title": {
       "en": "Orange Lvl. Contract: Defend Fuel Tanks and Escort Employees",
-      "tr": "<EM4>[BP]</EM4> Contrat niveau orange: Défendre [OBJECTS] et escorter les employés <EM4>150 exp.</EM4>"
+      "tr": "[BP] Contrat niveau orange: Défendre [OBJECTS] et escorter les employés <EM4>150 exp.</EM4>"
     },
     "Foxwell_DefendDestructibleEntites_H_Title_001": {
       "en": "Orange Lvl. Contract: Protect Fuel Tanks",
-      "tr": "<EM4>[BP]</EM4> Contrat niveau orange: Protéger les [OBJECTS] <EM4>200 exp.</EM4>"
+      "tr": "[BP] Contrat niveau orange: Protéger les [OBJECTS] <EM4>200 exp.</EM4>"
     },
     "Foxwell_DefendEntitesAndEscort_H_Title": {
       "en": "Orange Lvl. Contract: Protect Fuel Tanks and Escort Employees",
-      "tr": "<EM4>[BP]</EM4> Contrat niveau orange: Protéger les [OBJECTS] et escorter les employés <EM4>200 exp.</EM4>"
+      "tr": "[BP] Contrat niveau orange: Protéger les [OBJECTS] et escorter les employés <EM4>200 exp.</EM4>"
     },
     "Battaglia_RPT_ScanMine_04_title": {
       "en": "Ore Needs Gathering",
-      "tr": "<EM4>[BP]</EM4> Extraction de minerai requise <EM4>380 exp.</EM4>"
+      "tr": "[BP] Extraction de minerai requise <EM4>380 exp.</EM4>"
     },
     "northrock_SOO_intro_title_001": {
       "en": "Orison Platforms Under Attack",
@@ -2257,7 +2257,7 @@
     },
     "ORS_Construct_Large_Title": {
       "en": "Orison Relief: Large Fabrication Order",
-      "tr": "<EM4>[BP]</EM4> Secours à Orison: Grande commande de fabrication <EM4>12600 exp.</EM4>"
+      "tr": "[BP] Secours à Orison: Grande commande de fabrication <EM4>12600 exp.</EM4>"
     },
     "ORS_ConstructionAid_ResourceGatherLarge_Title": {
       "en": "Orison Relief: Large Materials Order",
@@ -2273,7 +2273,7 @@
     },
     "ORS_Construct_Medium_Title": {
       "en": "Orison Relief: Medium Fabrication Order",
-      "tr": "<EM4>[BP]</EM4> Secours à Orison: Ordre de fabrication moyenne <EM4>8400 exp.</EM4>"
+      "tr": "[BP] Secours à Orison: Ordre de fabrication moyenne <EM4>8400 exp.</EM4>"
     },
     "ORS_ConstructionAid_ResourceGatherMedium_Title": {
       "en": "Orison Relief: Medium Materials Order",
@@ -2289,7 +2289,7 @@
     },
     "ORS_Construct_Small_Title": {
       "en": "Orison Relief: Small Fabrication Order",
-      "tr": "<EM4>[BP]</EM4> Secours à Orison: Ordre de fabrication petit <EM4>4200 exp.</EM4>"
+      "tr": "[BP] Secours à Orison: Ordre de fabrication petit <EM4>4200 exp.</EM4>"
     },
     "ORS_ConstructionAid_ResourceGatherSmall_title": {
       "en": "Orison Relief: Small Materials Order",
@@ -2309,7 +2309,7 @@
     },
     "cfp_ChainElimAll_2C_ElimSpec_GenAttack_M_title_001": {
       "en": "Outlaw attack at [LOCATION]",
-      "tr": "<EM4>[BP]</EM4> Attaque des hors-la-loi à [LOCATION] <EM4>300 exp.</EM4>"
+      "tr": "[BP] Attaque des hors-la-loi à [LOCATION] <EM4>300 exp.</EM4>"
     },
     "headhunters_bombingrun_S_title_001": {
       "en": "Outsmarting our Enemies",
@@ -2317,7 +2317,7 @@
     },
     "headhunters_EliminateSpecific_CFP_H_title_001": {
       "en": "Paid Target in CFP",
-      "tr": "<EM4>[BP]</EM4> Contrat payé sur une cible du CFP <EM4>1200 exp.</EM4>"
+      "tr": "[BP] Contrat payé sur une cible du CFP <EM4>1200 exp.</EM4>"
     },
     "CFP_SecurityPatrol_VH_Title_001": {
       "en": "Patrol Dangerous Outlaw Sector",
@@ -2325,7 +2325,7 @@
     },
     "InterSec_SecurityPatrol_H_Title_001": {
       "en": "Patrol Dangerous Sector",
-      "tr": "<EM4>[BP]</EM4> Patrouille dans la zone dangereuse <EM4>200 exp.</EM4>"
+      "tr": "[BP] Patrouille dans la zone dangereuse <EM4>200 exp.</EM4>"
     },
     "CFP_SecurityPatrol_M_Title_001": {
       "en": "Patrol Dangerous Travel Lanes",
@@ -2345,7 +2345,7 @@
     },
     "InterSec_SecurityPatrol_VH_Title_001": {
       "en": "Patrol to Prevent Possible Attack",
-      "tr": "<EM4>[BP]</EM4> Patrouille pour prévenir une éventuelle attaque <EM4>250 exp.</EM4>"
+      "tr": "[BP] Patrouille pour prévenir une éventuelle attaque <EM4>250 exp.</EM4>"
     },
     "CFP_SecurityPatrol_VE_Title_001": {
       "en": "Patrol Travel Lanes",
@@ -2353,7 +2353,7 @@
     },
     "InterSec_SecurityPatrol_S_Title_001": {
       "en": "Patrol Vanduul Hunting Ground",
-      "tr": "<EM4>[BP]</EM4> Patrouille du territoire de chasse Vanduul <EM4>300 exp.</EM4>"
+      "tr": "[BP] Patrouille du territoire de chasse Vanduul <EM4>300 exp.</EM4>"
     },
     "TheCollector_Ships_Peregrine_TItle": {
       "en": "Peregrine Wikelo Mod",
@@ -2361,19 +2361,19 @@
     },
     "cfp_defendship_VLRT_title_001": {
       "en": "Pilot in Distress",
-      "tr": "<EM4>[BP]</EM4> Pilote en détresse <EM4>100 exp.</EM4>"
+      "tr": "[BP] Pilote en détresse <EM4>100 exp.</EM4>"
     },
     "cfp_defendship_LRT_title_001": {
       "en": "Pilot Seeking Combat Support",
-      "tr": "<EM4>[BP]</EM4> Pilote à la recherche d'un soutien au combat <EM4>100 / 150 exp.</EM4>"
+      "tr": "[BP] Pilote à la recherche d'un soutien au combat <EM4>100 / 150 exp.</EM4>"
     },
     "Intersec_DefendShip_Vanduul_Title_VeryHard_001": {
       "en": "Pilot Under Fire From Vanduul",
-      "tr": "<EM4>[BP]</EM4> Pilote sous feu des Vanduuls <EM4>250 exp.</EM4>"
+      "tr": "[BP] Pilote sous feu des Vanduuls <EM4>250 exp.</EM4>"
     },
     "headhunters_EliminateSpecific_Defector_title_001": {
       "en": "Plug a traitor",
-      "tr": "<EM4>[BP]</EM4> Descendre un traître <EM4>100 exp.</EM4>"
+      "tr": "[BP] Descendre un traître <EM4>100 exp.</EM4>"
     },
     "Hockrow_searchbody_space_E_Title_001": {
       "en": "Potential Assassin Victim: [TARGET]",
@@ -2381,11 +2381,11 @@
     },
     "Foxwell_EliminateSpecific_NonHostiles_title_001": {
       "en": "Precision Strike on [TARGET]",
-      "tr": "<EM4>[BP]</EM4> Frappe de précision sur [TARGET] <EM4>100 exp.</EM4>"
+      "tr": "[BP] Frappe de précision sur [TARGET] <EM4>100 exp.</EM4>"
     },
     "Intersec_KillShip_Title_Hard_001": {
       "en": "Preemptive Strike On [TARGET]",
-      "tr": "<EM4>[BP]</EM4> Frappe préventive contre [TARGET] <EM4>200 exp.</EM4>"
+      "tr": "[BP] Frappe préventive contre [TARGET] <EM4>200 exp.</EM4>"
     },
     "bhg_bounty_title_FPS_intro": {
       "en": "Preliminary Bounty: [TARGET]",
@@ -2393,7 +2393,7 @@
     },
     "headhunters_killship_cfp_vhrt_title_001": {
       "en": "Primo Target",
-      "tr": "<EM4>[BP]</EM4> Première cible <EM4>1200 exp.</EM4>"
+      "tr": "[BP] Première cible <EM4>1200 exp.</EM4>"
     },
     "Northrock_Bounty_OLP_Boss_H_title_001": {
       "en": "Pro Tem Bounty Assignment: [TARGET]",
@@ -2413,15 +2413,15 @@
     },
     "cfp_defend-xenothreat_title_001": {
       "en": "Protect [LOCATION] from XenoThreat Attack",
-      "tr": "<EM4>[BP]</EM4> Protéger [LOCATION] de l'attaque de XenoThreat <EM4>300 exp.</EM4>"
+      "tr": "[BP] Protéger [LOCATION] de l'attaque de XenoThreat <EM4>300 exp.</EM4>"
     },
     "cfp_defend-xenothreat_title_003": {
       "en": "Protect [LOCATION] from XenoThreat Incursion",
-      "tr": "<EM4>[BP]</EM4> Protéger [LOCATION] de l'incursion XenoThreat <EM4>300 exp.</EM4>"
+      "tr": "[BP] Protéger [LOCATION] de l'incursion XenoThreat <EM4>300 exp.</EM4>"
     },
     "cfp_defend-xenothreat_title_002": {
       "en": "Protect [LOCATION] from XenoThreat Raid",
-      "tr": "<EM4>[BP]</EM4> Protéger [LOCATION] du raid XenoThreat <EM4>200 exp.</EM4>"
+      "tr": "[BP] Protéger [LOCATION] du raid XenoThreat <EM4>200 exp.</EM4>"
     },
     "Headhunters_DefendDestructibleEntites_E_Title_001": {
       "en": "Protect Fuel Tanks From Luggers",
@@ -2437,11 +2437,11 @@
     },
     "Intersec_DefendShip_Title_Hard_001": {
       "en": "Protect Vital Asset",
-      "tr": "<EM4>[BP]</EM4> Protéger l’actif essentiel <EM4>200 exp.</EM4>"
+      "tr": "[BP] Protéger l’actif essentiel <EM4>200 exp.</EM4>"
     },
     "cfp_eliminateall_fromCFP_XT_M_title_001": {
       "en": "Protecting outpost from XenoThreat",
-      "tr": "<EM4>[BP]</EM4> Protéger l'avant-poste de la menace Xeno <EM4>200 / 400 exp.</EM4>"
+      "tr": "[BP] Protéger l'avant-poste de la menace Xeno <EM4>200 / 400 exp.</EM4>"
     },
     "cfp_EliminateSpecific_Generic_E_title_001": {
       "en": "Protection against [TARGET]",
@@ -2449,15 +2449,15 @@
     },
     "Eckhart_EscortShips_VH_title": {
       "en": "Protection Detail Needed. High Risk.",
-      "tr": "<EM4>[BP]</EM4> Protection nécessaire. Risque élevé. <EM4>250 exp.</EM4>"
+      "tr": "[BP] Protection nécessaire. Risque élevé. <EM4>250 exp.</EM4>"
     },
     "cfp_defendship_LRT_SB_title_001": {
       "en": "Provide Combat Support",
-      "tr": "<EM4>[BP]</EM4> Fournir un soutien au combat"
+      "tr": "[BP] Fournir un soutien au combat"
     },
     "HeadHunters_DefendEntitesAndEscort_E_Title": {
       "en": "Provide Protection at [LOCATION]",
-      "tr": "<EM4>[BP]</EM4> Assurer la protection à [LOCATION] <EM4>100 exp.</EM4>"
+      "tr": "[BP] Assurer la protection à [LOCATION] <EM4>100 exp.</EM4>"
     },
     "TheCollector_Ships_Prowler_Util_Title": {
       "en": "Prowler More Utility",
@@ -2481,127 +2481,127 @@
     },
     "shubin_rockcracker_pvp_title_specific_24": {
       "en": "QV Breaker Station BRK-110 Mining Rights (Shared)",
-      "tr": "<EM4>[BP]</EM4> Droits miniers Station QV Breaker BRK-110 (partagés)"
+      "tr": "[BP] Droits miniers Station QV Breaker BRK-110 (partagés)"
     },
     "shubin_rockcracker_pvp_title_specific_04": {
       "en": "QV Breaker Station BRK-127 Mining Rights (Shared)",
-      "tr": "<EM4>[BP]</EM4> Droits miniers Station QV Breaker BRK-127 (partagés)"
+      "tr": "[BP] Droits miniers Station QV Breaker BRK-127 (partagés)"
     },
     "shubin_rockcracker_pvp_title_specific_13": {
       "en": "QV Breaker Station BRK-184 Mining Rights (Shared)",
-      "tr": "<EM4>[BP]</EM4> Droits miniers Station QV Breaker BRK-184 (partagés)"
+      "tr": "[BP] Droits miniers Station QV Breaker BRK-184 (partagés)"
     },
     "shubin_rockcracker_pvp_title_specific_30": {
       "en": "QV Breaker Station BRK-223 Mining Rights (Shared)",
-      "tr": "<EM4>[BP]</EM4> Droits miniers Station QV Breaker BRK-223 (partagés)"
+      "tr": "[BP] Droits miniers Station QV Breaker BRK-223 (partagés)"
     },
     "shubin_rockcracker_pvp_title_specific_08": {
       "en": "QV Breaker Station BRK-235 Mining Rights (Shared)",
-      "tr": "<EM4>[BP]</EM4> Droits miniers Station QV Breaker BRK-235 (partagés)"
+      "tr": "[BP] Droits miniers Station QV Breaker BRK-235 (partagés)"
     },
     "shubin_rockcracker_pvp_title_specific_07": {
       "en": "QV Breaker Station BRK-267 Mining Rights (Shared)",
-      "tr": "<EM4>[BP]</EM4> Droits miniers Station QV Breaker BRK-267 (partagés)"
+      "tr": "[BP] Droits miniers Station QV Breaker BRK-267 (partagés)"
     },
     "shubin_rockcracker_pvp_title_specific_19": {
       "en": "QV Breaker Station BRK-284 Mining Rights (Shared)",
-      "tr": "<EM4>[BP]</EM4> Droits miniers Station QV Breaker BRK-284 (partagés)"
+      "tr": "[BP] Droits miniers Station QV Breaker BRK-284 (partagés)"
     },
     "shubin_rockcracker_pvp_title_specific_09": {
       "en": "QV Breaker Station BRK-304 Mining Rights (Shared)",
-      "tr": "<EM4>[BP]</EM4> Droits miniers Station QV Breaker BRK-304 (partagés)"
+      "tr": "[BP] Droits miniers Station QV Breaker BRK-304 (partagés)"
     },
     "shubin_rockcracker_pvp_title_specific_02": {
       "en": "QV Breaker Station BRK-320 Mining Rights (Shared)",
-      "tr": "<EM4>[BP]</EM4> Droits miniers Station QV Breaker BRK-320 (partagés)"
+      "tr": "[BP] Droits miniers Station QV Breaker BRK-320 (partagés)"
     },
     "shubin_rockcracker_pvp_title_specific_05": {
       "en": "QV Breaker Station BRK-425 Mining Rights (Shared)",
-      "tr": "<EM4>[BP]</EM4> Droits miniers Station QV Breaker BRK-425 (partagés)"
+      "tr": "[BP] Droits miniers Station QV Breaker BRK-425 (partagés)"
     },
     "shubin_rockcracker_pvp_title_specific_20": {
       "en": "QV Breaker Station BRK-437 Mining Rights (Shared)",
-      "tr": "<EM4>[BP]</EM4> Droits miniers Station QV Breaker BRK-437 (partagés)"
+      "tr": "[BP] Droits miniers Station QV Breaker BRK-437 (partagés)"
     },
     "shubin_rockcracker_pvp_title_specific_10": {
       "en": "QV Breaker Station BRK-521 Mining Rights (Shared)",
-      "tr": "<EM4>[BP]</EM4> Droits miniers Station QV Breaker BRK-521 (partagés)"
+      "tr": "[BP] Droits miniers Station QV Breaker BRK-521 (partagés)"
     },
     "shubin_rockcracker_pvp_title_specific_27": {
       "en": "QV Breaker Station BRK-529 Mining Rights (Shared)",
-      "tr": "<EM4>[BP]</EM4> Droits miniers Station QV Breaker BRK-529 (partagés)"
+      "tr": "[BP] Droits miniers Station QV Breaker BRK-529 (partagés)"
     },
     "shubin_rockcracker_pvp_title_specific_12": {
       "en": "QV Breaker Station BRK-542 Mining Rights (Shared)",
-      "tr": "<EM4>[BP]</EM4> Droits miniers Station QV Breaker BRK-542 (partagés)"
+      "tr": "[BP] Droits miniers Station QV Breaker BRK-542 (partagés)"
     },
     "shubin_rockcracker_pvp_title_specific_03": {
       "en": "QV Breaker Station BRK-546 Mining Rights (Shared)",
-      "tr": "<EM4>[BP]</EM4> Droits miniers Station QV Breaker BRK-546 (partagés)"
+      "tr": "[BP] Droits miniers Station QV Breaker BRK-546 (partagés)"
     },
     "shubin_rockcracker_pvp_title_specific_16": {
       "en": "QV Breaker Station BRK-563 Mining Rights (Shared)",
-      "tr": "<EM4>[BP]</EM4> Droits miniers Station QV Breaker BRK-563 (partagés)"
+      "tr": "[BP] Droits miniers Station QV Breaker BRK-563 (partagés)"
     },
     "shubin_rockcracker_pvp_title_specific_23": {
       "en": "QV Breaker Station BRK-597 Mining Rights (Shared)",
-      "tr": "<EM4>[BP]</EM4> Droits miniers Station QV Breaker BRK-597 (partagés)"
+      "tr": "[BP] Droits miniers Station QV Breaker BRK-597 (partagés)"
     },
     "shubin_rockcracker_pvp_title_specific_06": {
       "en": "QV Breaker Station BRK-608 Mining Rights (Shared)",
-      "tr": "<EM4>[BP]</EM4> Droits miniers Station QV Breaker BRK-608 (partagés)"
+      "tr": "[BP] Droits miniers Station QV Breaker BRK-608 (partagés)"
     },
     "shubin_rockcracker_pvp_title_specific_21": {
       "en": "QV Breaker Station BRK-630 Mining Rights (Shared)",
-      "tr": "<EM4>[BP]</EM4> Droits miniers Station QV Breaker BRK-630 (partagés)"
+      "tr": "[BP] Droits miniers Station QV Breaker BRK-630 (partagés)"
     },
     "shubin_rockcracker_pvp_title_specific_28": {
       "en": "QV Breaker Station BRK-709 Mining Rights (Shared)",
-      "tr": "<EM4>[BP]</EM4> Droits miniers Station QV Breaker BRK-709 (partagés)"
+      "tr": "[BP] Droits miniers Station QV Breaker BRK-709 (partagés)"
     },
     "shubin_rockcracker_pvp_title_specific_18": {
       "en": "QV Breaker Station BRK-711 Mining Rights (Shared)",
-      "tr": "<EM4>[BP]</EM4> Droits miniers Station QV Breaker BRK-711 (partagés)"
+      "tr": "[BP] Droits miniers Station QV Breaker BRK-711 (partagés)"
     },
     "shubin_rockcracker_pvp_title_specific_29": {
       "en": "QV Breaker Station BRK-766 Mining Rights (Shared)",
-      "tr": "<EM4>[BP]</EM4> Droits miniers Station QV Breaker BRK-766 (partagés)"
+      "tr": "[BP] Droits miniers Station QV Breaker BRK-766 (partagés)"
     },
     "shubin_rockcracker_pvp_title_specific_17": {
       "en": "QV Breaker Station BRK-782 Mining Rights (Shared)",
-      "tr": "<EM4>[BP]</EM4> Droits miniers Station QV Breaker BRK-782 (partagés)"
+      "tr": "[BP] Droits miniers Station QV Breaker BRK-782 (partagés)"
     },
     "shubin_rockcracker_pvp_title_specific_26": {
       "en": "QV Breaker Station BRK-864 Mining Rights (Shared)",
-      "tr": "<EM4>[BP]</EM4> Droits miniers Station QV Breaker BRK-864 (partagés)"
+      "tr": "[BP] Droits miniers Station QV Breaker BRK-864 (partagés)"
     },
     "shubin_rockcracker_pvp_title_specific_15": {
       "en": "QV Breaker Station BRK-879 Mining Rights (Shared)",
-      "tr": "<EM4>[BP]</EM4> Droits miniers Station QV Breaker BRK-879 (partagés)"
+      "tr": "[BP] Droits miniers Station QV Breaker BRK-879 (partagés)"
     },
     "shubin_rockcracker_pvp_title_specific_22": {
       "en": "QV Breaker Station BRK-892 Mining Rights (Shared)",
-      "tr": "<EM4>[BP]</EM4> Droits miniers Station QV Breaker BRK-892 (partagés)"
+      "tr": "[BP] Droits miniers Station QV Breaker BRK-892 (partagés)"
     },
     "shubin_rockcracker_pvp_title_specific_25": {
       "en": "QV Breaker Station BRK-913 Mining Rights (Shared)",
-      "tr": "<EM4>[BP]</EM4> Droits miniers Station QV Breaker BRK-913 (partagés)"
+      "tr": "[BP] Droits miniers Station QV Breaker BRK-913 (partagés)"
     },
     "shubin_rockcracker_pvp_title_specific_14": {
       "en": "QV Breaker Station BRK-970 Mining Rights (Shared)",
-      "tr": "<EM4>[BP]</EM4> Droits miniers Station QV Breaker BRK-970 (partagés)"
+      "tr": "[BP] Droits miniers Station QV Breaker BRK-970 (partagés)"
     },
     "shubin_rockcracker_pvp_title_specific_11": {
       "en": "QV Breaker Station BRK-985 Mining Rights (Shared)",
-      "tr": "<EM4>[BP]</EM4> Droits miniers Station QV Breaker BRK-985 (partagés)"
+      "tr": "[BP] Droits miniers Station QV Breaker BRK-985 (partagés)"
     },
     "shubin_rockcracker_solo_title_01": {
       "en": "QV Breaker Station Mining Rights (Exclusive)",
-      "tr": "<EM4>[BP]</EM4> Droits de minage de la Station QV Breaker (exclusifs)"
+      "tr": "[BP] Droits de minage de la Station QV Breaker (exclusifs)"
     },
     "shubin_rockcracker_pvp_title_01": {
       "en": "QV Breaker Station Mining Rights (Shared)",
-      "tr": "<EM4>[BP]</EM4> Droits de minage de la Station QV Breaker (partagés)"
+      "tr": "[BP] Droits de minage de la Station QV Breaker (partagés)"
     },
     "headhunters_defendship_multi_VHRT_PA_title_001": {
       "en": "Rally to Help Clips Convoy",
@@ -2613,19 +2613,19 @@
     },
     "cfp_eliminateall_hh_E_title_001": {
       "en": "Reclaim Headhunter Outpost",
-      "tr": "<EM4>[BP]</EM4> Récupérer l'avant-poste des HeadHunters <EM4>100 exp.</EM4>"
+      "tr": "[BP] Récupérer l'avant-poste des HeadHunters <EM4>100 exp.</EM4>"
     },
     "cfp_eliminateall_XT_E_title_001": {
       "en": "Reclaim XenoThreat Outpost",
-      "tr": "<EM4>[BP]</EM4> Récupérer l'avant-poste XenoThreat <EM4>200 exp.</EM4>"
+      "tr": "[BP] Récupérer l'avant-poste XenoThreat <EM4>200 exp.</EM4>"
     },
     "cfp_ChainElimAll_3C_ElimSpec_HHAttack_VH_title_001": {
       "en": "Reclaiming Clusters from Headhunters",
-      "tr": "<EM4>[BP]</EM4> Récupérer les Clusters au profit des HeadHunters <EM4>300 exp.</EM4>"
+      "tr": "[BP] Récupérer les Clusters au profit des HeadHunters <EM4>300 exp.</EM4>"
     },
     "cfp_ChainElimAll_2C_ElimSpec_XTAttack_H_title_001": {
       "en": "Reclaiming Outposts from XenoThreat",
-      "tr": "<EM4>[BP]</EM4> Récupérer les avant-postes de la XenoThreat <EM4>400 exp.</EM4>"
+      "tr": "[BP] Récupérer les avant-postes de la XenoThreat <EM4>400 exp.</EM4>"
     },
     "BHG_ShipWaveAttack_DrawOutBoss_S_Title_001": {
       "en": "Reclusive Bounty: [TARGET] | Extreme Risk",
@@ -2641,11 +2641,11 @@
     },
     "InterSec_ResourceGathering_Cryopods_Title": {
       "en": "Recover Vanduul Corpses",
-      "tr": "<EM4>[BP]</EM4> Récupérer les corps des Vanduul"
+      "tr": "[BP] Récupérer les corps des Vanduul"
     },
     "InterSec_ResourceGathering_Tech_Title": {
       "en": "Recover Vanduul Tech",
-      "tr": "<EM4>[BP]</EM4> Récupérer la technologie Vanduul"
+      "tr": "[BP] Récupérer la technologie Vanduul"
     },
     "Covalex_RecoverCargo_Super_Title": {
       "en": "Recover VIP Covalex Shipment",
@@ -2653,7 +2653,7 @@
     },
     "CFP_RecoverCargo_Medium_Title": {
       "en": "Recovering Valuable Supplies",
-      "tr": "<EM4>[BP]</EM4> Récupération de fournitures précieuses <EM4>150 exp.</EM4>"
+      "tr": "[BP] Récupération de fournitures précieuses <EM4>150 exp.</EM4>"
     },
     "TheCollector_Recipes_Title_ApolloSkin": {
       "en": "Red Fight Apollo",
@@ -2669,67 +2669,67 @@
     },
     "Foxwell_ShipAmbush_VH_title_001": {
       "en": "Red Level Contract: Ambush Attack Squad",
-      "tr": "<EM4>[BP]</EM4> Contrat Niveau Rouge : Piéger l'Escouade d'Attaque <EM4>250 exp.</EM4>"
+      "tr": "[BP] Contrat Niveau Rouge : Piéger l'Escouade d'Attaque <EM4>250 exp.</EM4>"
     },
     "Foxwell_HaulCargo_MultiToSingle_title_01": {
       "en": "Red Level Contract: Clear PAFs, Recover Cargo, and Deliver to OLP",
-      "tr": "<EM4>[BP]</EM4> Contrat Niveau Rouge : nettoyage des PAFs, récupération du fret et livraison à l'OLP"
+      "tr": "[BP] Contrat Niveau Rouge : nettoyage des PAFs, récupération du fret et livraison à l'OLP"
     },
     "Foxwell_bombingrun_S_title_001": {
       "en": "Red Level Contract: Destroy Outlaw Infrastructure",
-      "tr": "<EM4>[BP]</EM4> Contrat niveau rouge: Destruction d'une infrastructure de hors-la-loi <EM4>300 exp.</EM4>"
+      "tr": "[BP] Contrat niveau rouge: Destruction d'une infrastructure de hors-la-loi <EM4>300 exp.</EM4>"
     },
     "Foxwell_bombingrun_VH_title_001": {
       "en": "Red Level Contract: Fuel Container Demolition",
-      "tr": "<EM4>[BP]</EM4> Contrat niveau rouge: Démolition de conteneurs de carburant <EM4>250 exp.</EM4>"
+      "tr": "[BP] Contrat niveau rouge: Démolition de conteneurs de carburant <EM4>250 exp.</EM4>"
     },
     "Foxwell_SecurityPatrol_VH_Title_001": {
       "en": "Red Level Contract: High-Risk Security Patrol",
-      "tr": "<EM4>[BP]</EM4> Contrat Niveau Rouge : Patrouille de sécurité à haut risque <EM4>250 exp.</EM4>"
+      "tr": "[BP] Contrat Niveau Rouge : Patrouille de sécurité à haut risque <EM4>250 exp.</EM4>"
     },
     "Foxwell_HaulCargo_AToB_PAF_title_01": {
       "en": "Red Level Contract: Recoup Stolen Cargo Haul",
-      "tr": "<EM4>[BP]</EM4> Contrat Niveau Rouge : Récupérer la cargaison volée"
+      "tr": "[BP] Contrat Niveau Rouge : Récupérer la cargaison volée"
     },
     "Foxwell_HaulCargo_AToB_OLP_title_01": {
       "en": "Red Level Contract: Retrieve Cargo Haul",
-      "tr": "<EM4>[BP]</EM4> Contrat Niveau Rouge : Récupérer la cargaison"
+      "tr": "[BP] Contrat Niveau Rouge : Récupérer la cargaison"
     },
     "Foxwell_DefendLocation_VH_Title_001": {
       "en": "Red Level Contract: Save Ships at [LOCATION]",
-      "tr": "<EM4>[BP]</EM4> Contrat Niveau Rouge : Sauver des vaisseaux à [LOCATION] <EM4>250 exp.</EM4>"
+      "tr": "[BP] Contrat Niveau Rouge : Sauver des vaisseaux à [LOCATION] <EM4>250 exp.</EM4>"
     },
     "Foxwell_SecurityPatrol_S_Title_001": {
       "en": "Red Level Contract: Secure Threatened Space",
-      "tr": "<EM4>[BP]</EM4> Contrat Niveau Rouge : Sécuriser l'espace menacé <EM4>300 exp.</EM4>"
+      "tr": "[BP] Contrat Niveau Rouge : Sécuriser l'espace menacé <EM4>300 exp.</EM4>"
     },
     "foxwell_DefendShip_H_title_001": {
       "en": "Red Level Contract: Ship Under Attack",
-      "tr": "<EM4>[BP]</EM4> Contrat Niveau Rouge : Vaisseau Attaqué <EM4>200 exp.</EM4>"
+      "tr": "[BP] Contrat Niveau Rouge : Vaisseau Attaqué <EM4>200 exp.</EM4>"
     },
     "Foxwell_DefendLocation_S_Title_001": {
       "en": "Red Level Contract: Support VIP Clients",
-      "tr": "<EM4>[BP]</EM4> Contrat Niveau Rouge : Protection de clients VIP <EM4>300 / 16000 exp.</EM4>"
+      "tr": "[BP] Contrat Niveau Rouge : Protection de clients VIP <EM4>300 / 16000 exp.</EM4>"
     },
     "Foxwell_ShipAmbush_S_title_001": {
       "en": "Red Level Contract: Surprise Attack",
-      "tr": "<EM4>[BP]</EM4> Contrat Niveau Rouge : Attaque surprise <EM4>300 exp.</EM4>"
+      "tr": "[BP] Contrat Niveau Rouge : Attaque surprise <EM4>300 exp.</EM4>"
     },
     "Foxwell_DefendDestructibleEntites_VH_Title_001": {
       "en": "Red Lvl. Contract: Defend Fuel Tanks",
-      "tr": "<EM4>[BP]</EM4> Contrat niveau rouge: Défendre les [OBJECTS] <EM4>250 exp.</EM4>"
+      "tr": "[BP] Contrat niveau rouge: Défendre les [OBJECTS] <EM4>250 exp.</EM4>"
     },
     "Foxwell_DefendEntitesAndEscort_VH_Title": {
       "en": "Red Lvl. Contract: Defend Fuel Tanks and Escort Employees",
-      "tr": "<EM4>[BP]</EM4> Contrat niveau rouge: Défendre les [OBJECTS] et escorter les employés <EM4>250 exp.</EM4>"
+      "tr": "[BP] Contrat niveau rouge: Défendre les [OBJECTS] et escorter les employés <EM4>250 exp.</EM4>"
     },
     "Foxwell_DefendDestructibleEntites_S_Title_001": {
       "en": "Red Lvl. Contract: Protect Fuel Tanks",
-      "tr": "<EM4>[BP]</EM4> Contrat niveau rouge: Protéger les [OBJECTS] <EM4>300 exp.</EM4>"
+      "tr": "[BP] Contrat niveau rouge: Protéger les [OBJECTS] <EM4>300 exp.</EM4>"
     },
     "Foxwell_DefendEntitesAndEscort_S_Title": {
       "en": "Red Lvl. Contract: Protect Fuel Tanks and Escort Employees",
-      "tr": "<EM4>[BP]</EM4> Contrat niveau rouge: Protéger les [OBJECTS] et escorter les employés <EM4>300 exp.</EM4>"
+      "tr": "[BP] Contrat niveau rouge: Protéger les [OBJECTS] et escorter les employés <EM4>300 exp.</EM4>"
     },
     "RedWind_RecoverCargo_Hard_Title": {
       "en": "Red Wind Challenging Cargo Recovery",
@@ -2757,7 +2757,7 @@
     },
     "cfp_bombingrun_sabotage_generators_title_001": {
       "en": "Reduce Outlaw's Operational Readiness",
-      "tr": "<EM4>[BP]</EM4> Réduire l'état de préparation opérationnelle des Hors-la-loi <EM4>300 exp.</EM4>"
+      "tr": "[BP] Réduire l'état de préparation opérationnelle des Hors-la-loi <EM4>300 exp.</EM4>"
     },
     "Highpoint_KillAnimals_OneType_title": {
       "en": "Reduce Overpopulation",
@@ -2765,11 +2765,11 @@
     },
     "Highpoint_KillAnimals_rockcracker_title_E_001": {
       "en": "Reduce Valakkar Breaker Station Population",
-      "tr": "<EM4>[BP]</EM4> Réduire la population de Valakkar dans les stations Breaker <EM4>100 exp.</EM4>"
+      "tr": "[BP] Réduire la population de Valakkar dans les stations Breaker <EM4>100 exp.</EM4>"
     },
     "UWC_Refueling_easy_title_001": {
       "en": "REFUEL REQUEST: [SHIP]",
-      "tr": "<EM4>[BP]</EM4> DEMANDE DE RAVITAILLEMENT : [SHIP]"
+      "tr": "[BP] DEMANDE DE RAVITAILLEMENT : [SHIP]"
     },
     "CFP_ShipWaveAttack_ClearHostiles_Title_M_001": {
       "en": "Remove Upstart Gang From Sector",
@@ -2781,7 +2781,7 @@
     },
     "eckhart_defendship_MRT_SB_title_001": {
       "en": "Repel Shattered Blade Ships",
-      "tr": "<EM4>[BP]</EM4> Repousser les navires Shattered Blade"
+      "tr": "[BP] Repousser les navires Shattered Blade"
     },
     "HeadHunters_ShipAmbush_H_title_001": {
       "en": "Reprisal Attack",
@@ -2789,11 +2789,11 @@
     },
     "headhunters_eliminateall_outpost_title_01": {
       "en": "Reputation Management",
-      "tr": "<EM4>[BP]</EM4> Gestion de Réputation <EM4>25 / 50 / 300 exp.</EM4>"
+      "tr": "[BP] Gestion de Réputation <EM4>25 / 50 / 300 exp.</EM4>"
     },
     "eckhart_defendship_LRT_SB_title_001": {
       "en": "Request for Ship Support",
-      "tr": "<EM4>[BP]</EM4> Demande d'aide pour vaisseau"
+      "tr": "[BP] Demande d'aide pour vaisseau"
     },
     "EckhartSecurity_EliminateAll_storm_shut_H_title_001": {
       "en": "Requesting Help",
@@ -2805,7 +2805,7 @@
     },
     "cfp_defendship_multi_VHRT_title_001": {
       "en": "Respond to Distress Beacon",
-      "tr": "<EM4>[BP]</EM4> Répondre au signal de détresse <EM4>250 exp.</EM4>"
+      "tr": "[BP] Répondre au signal de détresse <EM4>250 exp.</EM4>"
     },
     "Headhunters_DefendLocation_S_Title_001": {
       "en": "Restore Order at [LOCATION]",
@@ -2813,11 +2813,11 @@
     },
     "northrock_SOO_repeat_title_001": {
       "en": "Retake Platforms From Nine Tails",
-      "tr": "<EM4>[BP]</EM4> Reprendre les plateformes aux Nine Tails"
+      "tr": "[BP] Reprendre les plateformes aux Nine Tails"
     },
     "cfp_ChainElimAll_2C_ElimSpec_HHAttack_H_title_001": {
       "en": "Retaking Outposts from Headhunters",
-      "tr": "<EM4>[BP]</EM4> Reprendre les avant-postes aux HeadHunters <EM4>300 exp.</EM4>"
+      "tr": "[BP] Reprendre les avant-postes aux HeadHunters <EM4>300 exp.</EM4>"
     },
     "DeadSaints_RecoverCargo_Medium_Title": {
       "en": "Retrieval Op",
@@ -2825,7 +2825,7 @@
     },
     "Kaboos_Mission_Title": {
       "en": "Retrieve Additional Smuggler Intel",
-      "tr": "<EM4>[BP]</EM4> Récupérer des renseignements supplémentaires sur les contrebandiers <EM4>100 exp.</EM4>"
+      "tr": "[BP] Récupérer des renseignements supplémentaires sur les contrebandiers <EM4>100 exp.</EM4>"
     },
     "TheCollector_Ships_Meteor_Title": {
       "en": "RSI Meteor Mod",
@@ -2833,15 +2833,15 @@
     },
     "Battaglia_RPT_Salvage_H_01_title": {
       "en": "Salvage Job: Large",
-      "tr": "<EM4>[BP]</EM4> Mission de recyclage: Grande <EM4>600 exp.</EM4>"
+      "tr": "[BP] Mission de recyclage: Grande <EM4>600 exp.</EM4>"
     },
     "Battaglia_RPT_Salvage_M_01_title": {
       "en": "Salvage Job: Mid",
-      "tr": "<EM4>[BP]</EM4> Mission de recyclage: Moyenne <EM4>400 exp.</EM4>"
+      "tr": "[BP] Mission de recyclage: Moyenne <EM4>400 exp.</EM4>"
     },
     "Battaglia_RPT_Salvage_E_01_title": {
       "en": "Salvage Job: Small",
-      "tr": "<EM4>[BP]</EM4> Mission de recyclage : Petite <EM4>200 exp.</EM4>"
+      "tr": "[BP] Mission de recyclage : Petite <EM4>200 exp.</EM4>"
     },
     "roughready_salvage_M_title_001": {
       "en": "Salvage Wrecked Ships on the Drift",
@@ -2849,39 +2849,39 @@
     },
     "Adagio_Industrial_Component_Salvage_Levski_H_Title_001": {
       "en": "Salvager Needed (Lrg. Special Order of RMC / UCM / Components)",
-      "tr": "<EM4>[BP]</EM4> Recycleur recherché (Commande spéciale importante de RMC / UCM / Composants) <EM4>150 exp.</EM4>"
+      "tr": "[BP] Recycleur recherché (Commande spéciale importante de RMC / UCM / Composants) <EM4>150 exp.</EM4>"
     },
     "Adagio_Industrial_Component_Salvage_Pyro_H_Title_001": {
       "en": "Salvager Needed (Lrg. Special Order of RMC / UCM / Components)",
-      "tr": "<EM4>[BP]</EM4> Recycleur recherché (Commande spéciale importante de RMC / UCM / Composants) <EM4>150 exp.</EM4>"
+      "tr": "[BP] Recycleur recherché (Commande spéciale importante de RMC / UCM / Composants) <EM4>150 exp.</EM4>"
     },
     "Adagio_Industrial_Component_Salvage_Stanton_H_Title_001": {
       "en": "Salvager Needed (Lrg. Special Order of RMC / UCM / Components)",
-      "tr": "<EM4>[BP]</EM4> Recycleur recherché (Commande spéciale importante de RMC / UCM / Composants) <EM4>150 exp.</EM4>"
+      "tr": "[BP] Recycleur recherché (Commande spéciale importante de RMC / UCM / Composants) <EM4>150 exp.</EM4>"
     },
     "Adagio_Industrial_Component_Salvage_Universal_H_Title_001": {
       "en": "Salvager Needed (Lrg. Supply of RMC / UCM / Components)",
-      "tr": "<EM4>[BP]</EM4> Recycleur recherché (Gros stock de RMC / UCM / Composants) <EM4>150 exp.</EM4>"
+      "tr": "[BP] Recycleur recherché (Gros stock de RMC / UCM / Composants) <EM4>150 exp.</EM4>"
     },
     "Adagio_Industrial_Component_Salvage_Levski_M_Title_001": {
       "en": "Salvager Needed (Med. Special Order of RMC / UCM / Components)",
-      "tr": "<EM4>[BP]</EM4> Recycleur recherché (Commande spéciale moyenne de RMC / UCM / Composants) <EM4>100 exp.</EM4>"
+      "tr": "[BP] Recycleur recherché (Commande spéciale moyenne de RMC / UCM / Composants) <EM4>100 exp.</EM4>"
     },
     "Adagio_Industrial_Component_Salvage_Pyro_M_Title_001": {
       "en": "Salvager Needed (Med. Special Order of RMC / UCM / Components)",
-      "tr": "<EM4>[BP]</EM4> Recycleur recherché (Commande spéciale moyenne de RMC / UCM / Composants) <EM4>100 exp.</EM4>"
+      "tr": "[BP] Recycleur recherché (Commande spéciale moyenne de RMC / UCM / Composants) <EM4>100 exp.</EM4>"
     },
     "Adagio_Industrial_Component_Salvage_Stanton_M_Title_001": {
       "en": "Salvager Needed (Med. Special Order of RMC / UCM / Components)",
-      "tr": "<EM4>[BP]</EM4> Recycleur recherché (Commande spéciale moyenne de RMC / UCM / Composants) <EM4>100 exp.</EM4>"
+      "tr": "[BP] Recycleur recherché (Commande spéciale moyenne de RMC / UCM / Composants) <EM4>100 exp.</EM4>"
     },
     "Adagio_Industrial_Component_Salvage_Universal_M_Title_001": {
       "en": "Salvager Needed (Med. Supply of RMC / UCM / Components)",
-      "tr": "<EM4>[BP]</EM4> Recycleur recherché (Stock moyen de RMC / UCM / Composants) <EM4>100 exp.</EM4>"
+      "tr": "[BP] Recycleur recherché (Stock moyen de RMC / UCM / Composants) <EM4>100 exp.</EM4>"
     },
     "Adagio_Industrial_Salvage_Universal_M_Title_001": {
       "en": "Salvager Needed (Med. Supply of RMC)",
-      "tr": "<EM4>[BP]</EM4> Recycleur requis (Quantité moyenne de RMC) <EM4>100 exp.</EM4>"
+      "tr": "[BP] Recycleur requis (Quantité moyenne de RMC) <EM4>100 exp.</EM4>"
     },
     "Adagio_Industrial_Component_Salvage_Levski_E_Title_001": {
       "en": "Salvager Needed (Small Special Order of RMC / Components)",
@@ -2901,19 +2901,19 @@
     },
     "Adagio_Industrial_Salvage_Universal_E_Title_002": {
       "en": "Salvager Needed (Small Supply of RMC / UCM)",
-      "tr": "<EM4>[BP]</EM4> Recycleur recherché (Petit stock de RMC / UCM) <EM4>100 exp.</EM4>"
+      "tr": "[BP] Recycleur recherché (Petit stock de RMC / UCM) <EM4>100 exp.</EM4>"
     },
     "Adagio_Industrial_Salvage_Universal_E_Title_001": {
       "en": "Salvager Needed (Small Supply of RMC)",
-      "tr": "<EM4>[BP]</EM4> Recycleur requis (Faible quantité de RMC) <EM4>100 exp.</EM4>"
+      "tr": "[BP] Recycleur requis (Faible quantité de RMC) <EM4>100 exp.</EM4>"
     },
     "eckhart_defendship_VLRT_title_001": {
       "en": "Save Ship",
-      "tr": "<EM4>[BP]</EM4> Sécuriser le vaisseau <EM4>100 exp.</EM4>"
+      "tr": "[BP] Sécuriser le vaisseau <EM4>100 exp.</EM4>"
     },
     "Battaglia_RPT_ScanMine_03_title": {
       "en": "Scan And Mining Needed",
-      "tr": "<EM4>[BP]</EM4> Prospection et minage requis <EM4>260 exp.</EM4>"
+      "tr": "[BP] Prospection et minage requis <EM4>260 exp.</EM4>"
     },
     "Battaglia_RPT_Scan_Prosp_title": {
       "en": "Scan with a Prospector Payout",
@@ -2925,7 +2925,7 @@
     },
     "HeadHunters_DefendEntitesAndEscort_M_Title": {
       "en": "Secure [LOCATION] from Upstarts",
-      "tr": "<EM4>[BP]</EM4> Sécuriser [LOCATION] contre les nouveaux venus <EM4>150 exp.</EM4>"
+      "tr": "[BP] Sécuriser [LOCATION] contre les nouveaux venus <EM4>150 exp.</EM4>"
     },
     "Headhunters_DefendDestructibleEntites_M_Title_001": {
       "en": "Secure Fuel Tanks From Rivals",
@@ -2961,7 +2961,7 @@
     },
     "eckhart_defendship_multi_HRT_SB_title_001": {
       "en": "Serious Shattered Blade Attack",
-      "tr": "<EM4>[BP]</EM4> Attaque sérieuse des Shattered Blade"
+      "tr": "[BP] Attaque sérieuse des Shattered Blade"
     },
     "HeadHunters_ShipAmbush_Intro_title_001": {
       "en": "Setting a Trap",
@@ -2969,11 +2969,11 @@
     },
     "Eckhart_ShipAmbush_VE_title": {
       "en": "Settle a Score",
-      "tr": "<EM4>[BP]</EM4> Régler un compte <EM4>100 exp.</EM4>"
+      "tr": "[BP] Régler un compte <EM4>100 exp.</EM4>"
     },
     "eckhart_defendship_multi_SRT_SB_title_001": {
       "en": "Shattered Blade Strike",
-      "tr": "<EM4>[BP]</EM4> Frapper les Shattered Blade"
+      "tr": "[BP] Frapper les Shattered Blade"
     },
     "TheCollector_Recipes_Title_HeavyUtil": {
       "en": "Shiny Builder Suit",
@@ -2981,15 +2981,15 @@
     },
     "Battaglia_RPT_BoardShip_01_title": {
       "en": "Ship In Distress",
-      "tr": "<EM4>[BP]</EM4> Vaisseau en détresse <EM4>300 exp.</EM4>"
+      "tr": "[BP] Vaisseau en détresse <EM4>300 exp.</EM4>"
     },
     "cfp_defendship_MRT_title_001": {
       "en": "Ship Needs Emergency Assistance",
-      "tr": "<EM4>[BP]</EM4> Un vaisseau a besoin d'une aide d'urgence <EM4>150 / 200 exp.</EM4>"
+      "tr": "[BP] Un vaisseau a besoin d'une aide d'urgence <EM4>150 / 200 exp.</EM4>"
     },
     "headhunters_EliminateSpecific_CFP_E_title_001": {
       "en": "Shot in the chaos",
-      "tr": "<EM4>[BP]</EM4> Tir dans le chaos <EM4>50 exp.</EM4>"
+      "tr": "[BP] Tir dans le chaos <EM4>50 exp.</EM4>"
     },
     "Headhunters_EliminateAll_PAF_H_title_001": {
       "en": "Show Them Who's Boss",
@@ -3017,7 +3017,7 @@
     },
     "headhunters_killship_gen_lrt_title_001": {
       "en": "Simple Hit",
-      "tr": "<EM4>[BP]</EM4> Un coup simple <EM4>75 exp.</EM4>"
+      "tr": "[BP] Un coup simple <EM4>75 exp.</EM4>"
     },
     "Covalex_RecoverCargo_Easy_Title": {
       "en": "Small Covalex Shipment Needs Recovering",
@@ -3029,31 +3029,31 @@
     },
     "Shubin_Industrial_HandMining_Intro_Local_Title_001": {
       "en": "Small Purchase Order: Hand Mined Materials",
-      "tr": "<EM4>[BP]</EM4> Bon de commande - Petit: Matériaux extraits à la main <EM4>100 exp.</EM4>"
+      "tr": "[BP] Bon de commande - Petit: Matériaux extraits à la main <EM4>100 exp.</EM4>"
     },
     "Shubin_Industrial_HandMining_Pyro_E_Local_Title_001": {
       "en": "Small Purchase Order: Hand Mined Materials",
-      "tr": "<EM4>[BP]</EM4> Bon de commande - Petit: Matériaux extraits à la main <EM4>100 exp.</EM4>"
+      "tr": "[BP] Bon de commande - Petit: Matériaux extraits à la main <EM4>100 exp.</EM4>"
     },
     "Shubin_Industrial_HandMining_Stanton_E_Local_Title_001": {
       "en": "Small Purchase Order: Hand Mined Materials",
-      "tr": "<EM4>[BP]</EM4> Bon de commande - Petit: Matériaux extraits à la main <EM4>100 exp.</EM4>"
+      "tr": "[BP] Bon de commande - Petit: Matériaux extraits à la main <EM4>100 exp.</EM4>"
     },
     "Shubin_Industrial_HandMining_Stanton_E_PlanetarySystem_Title_001": {
       "en": "Small Purchase Order: Hand Mined Materials",
-      "tr": "<EM4>[BP]</EM4> Bon de commande - Petit: Matériaux extraits à la main <EM4>100 exp.</EM4>"
+      "tr": "[BP] Bon de commande - Petit: Matériaux extraits à la main <EM4>100 exp.</EM4>"
     },
     "Shubin_Industrial_ShipMining_Nyx_E_Local_Title_001": {
       "en": "Small Purchase Order: Ship Mined Ore",
-      "tr": "<EM4>[BP]</EM4> Bon de commande - Petit: Minerai extrait en vaisseau <EM4>100 exp.</EM4>"
+      "tr": "[BP] Bon de commande - Petit: Minerai extrait en vaisseau <EM4>100 exp.</EM4>"
     },
     "Shubin_Industrial_ShipMining_Pyro_E_Local_Title_001": {
       "en": "Small Purchase Order: Ship Mined Ore",
-      "tr": "<EM4>[BP]</EM4> Bon de commande - Petit: Minerai extrait en vaisseau <EM4>100 exp.</EM4>"
+      "tr": "[BP] Bon de commande - Petit: Minerai extrait en vaisseau <EM4>100 exp.</EM4>"
     },
     "Shubin_Industrial_ShipMining_Stanton_E_Local_Title_001": {
       "en": "Small Purchase Order: Ship Mined Ore",
-      "tr": "<EM4>[BP]</EM4> Bon de commande - Petit: Minerai extrait en vaisseau <EM4>100 exp.</EM4>"
+      "tr": "[BP] Bon de commande - Petit: Minerai extrait en vaisseau <EM4>100 exp.</EM4>"
     },
     "Shubin_Industrial_GroundVehicle_Pyro_E_DiscoverPlanetary_Title_001": {
       "en": "Small Purchase Order: Vehicle Mined Ore",
@@ -3093,11 +3093,11 @@
     },
     "Shubin_Industrial_ShipMining_VH_Org_Title_001": {
       "en": "Special Purchase Order: Mined Materials",
-      "tr": "<EM4>[BP]</EM4> Bon de commande - Spécial: Matériaux minés <EM4>250 exp.</EM4>"
+      "tr": "[BP] Bon de commande - Spécial: Matériaux minés <EM4>250 exp.</EM4>"
     },
     "CFP_RecoverCargo_Super_Title": {
       "en": "Special Recovery Operation",
-      "tr": "<EM4>[BP]</EM4> Opération spéciale de récupération <EM4>300 exp.</EM4>"
+      "tr": "[BP] Opération spéciale de récupération <EM4>300 exp.</EM4>"
     },
     "TheCollector_Ships_Spirit_C1_TItle": {
       "en": "Spirit Cargo mod",
@@ -3125,7 +3125,7 @@
     },
     "Foxwell_Mercenary_Rehire_title_001": {
       "en": "Still Looking for Work?",
-      "tr": "<EM4>[BP]</EM4> Toujours à la recherche de travail ? <EM4>100 exp.</EM4>"
+      "tr": "[BP] Toujours à la recherche de travail ? <EM4>100 exp.</EM4>"
     },
     "Headhunters_HaulCargo_AToB_PAF_title_01": {
       "en": "Stock Taking",
@@ -3137,15 +3137,15 @@
     },
     "eckhart_defendship_MRT_title_001": {
       "en": "Stop Attack on High-Profile Client",
-      "tr": "<EM4>[BP]</EM4> Arrêtez l'attaque sur un client important <EM4>150 exp.</EM4>"
+      "tr": "[BP] Arrêtez l'attaque sur un client important <EM4>150 exp.</EM4>"
     },
     "cfp_defendship_MRT_SB_title_001": {
       "en": "Stop Attack on Ship",
-      "tr": "<EM4>[BP]</EM4> Arrêter l’attaque sur le vaisseau"
+      "tr": "[BP] Arrêter l’attaque sur le vaisseau"
     },
     "eckhart_defendship_multi_VHRT_title_001": {
       "en": "Stop Deadly Ship Attack",
-      "tr": "<EM4>[BP]</EM4> Arrêtez cette attaque mortelle <EM4>250 exp.</EM4>"
+      "tr": "[BP] Arrêtez cette attaque mortelle <EM4>250 exp.</EM4>"
     },
     "Headhunters_DefendDestructibleEntites_H_Title_001": {
       "en": "Stop Gang From Destroying Fuel Tanks",
@@ -3153,7 +3153,7 @@
     },
     "HeadHunters_DefendEntitesAndEscort_H_Title": {
       "en": "Stop Rival Attack at [LOCATION]",
-      "tr": "<EM4>[BP]</EM4> Stopper l’attaque rivale à [LOCATION] <EM4>200 exp.</EM4>"
+      "tr": "[BP] Stopper l’attaque rivale à [LOCATION] <EM4>200 exp.</EM4>"
     },
     "headhunters_bombingrun_sabotage_servers_VH_title_001": {
       "en": "Stop Rivals from Launching Heist",
@@ -3161,11 +3161,11 @@
     },
     "cfp_defendship_multi_SRT_SB_title_001": {
       "en": "Stop Savage Shattered Blade Attack",
-      "tr": "<EM4>[BP]</EM4> Arrêter l’attaque brutale des Shattered Blade"
+      "tr": "[BP] Arrêter l’attaque brutale des Shattered Blade"
     },
     "eckhart_defendship_VLRT_SB_title_001": {
       "en": "Stop Shattered Blade Attack",
-      "tr": "<EM4>[BP]</EM4> Arrêtez l'attaque des Shattered Blade"
+      "tr": "[BP] Arrêtez l'attaque des Shattered Blade"
     },
     "headhunters_bombingrun_M_title_001": {
       "en": "Stopping the Competition",
@@ -3173,7 +3173,7 @@
     },
     "Intersec_TSG_BombRun_Solo_Title_001": {
       "en": "Strategic Bombing",
-      "tr": "<EM4>[BP]</EM4> Bombardement stratégique <EM4>200 exp.</EM4>"
+      "tr": "[BP] Bombardement stratégique <EM4>200 exp.</EM4>"
     },
     "LingFamily_RecoverCargo_Super_Title": {
       "en": "Stuck Ling Shipment Pending Delivery",
@@ -3181,7 +3181,7 @@
     },
     "TheCollector_Recipes_Title_VGLflightsuit": {
       "en": "Suit Up Take Off",
-      "tr": "<EM4>[BP]</EM4> S’équiper et décoller <EM4>10 exp.</EM4>"
+      "tr": "[BP] S’équiper et décoller <EM4>10 exp.</EM4>"
     },
     "Shubin_Rockcracker_CollectLenses_Title_001": {
       "en": "Supply Order: Sadaryx Focus Lenses",
@@ -3189,11 +3189,11 @@
     },
     "eckhart_defendship_LRT_title_001": {
       "en": "Support Client Under Attack",
-      "tr": "<EM4>[BP]</EM4> Soutenir le client attaqué <EM4>100 exp.</EM4>"
+      "tr": "[BP] Soutenir le client attaqué <EM4>100 exp.</EM4>"
     },
     "cfp_defendship_VLRT_SB_title_001": {
       "en": "Support Ship Under Attack",
-      "tr": "<EM4>[BP]</EM4> Soutien de vaisseau attaqué"
+      "tr": "[BP] Soutien de vaisseau attaqué"
     },
     "HeadHunters_ShipAmbush_VE_title_001": {
       "en": "Surprise Party",
@@ -3205,11 +3205,11 @@
     },
     "Foxwell_EliminateAll_title_001": {
       "en": "Sweep and Clear Location",
-      "tr": "<EM4>[BP]</EM4> Balayer et sécuriser la zone <EM4>150 exp.</EM4>"
+      "tr": "[BP] Balayer et sécuriser la zone <EM4>150 exp.</EM4>"
     },
     "headhunters_ChainElimAll_2C_ElimSpec_AttackCFP_H_title_001": {
       "en": "Sweep and clear some CFP haunts",
-      "tr": "<EM4>[BP]</EM4> Balayez et nettoyez certains repaires CFP. <EM4>300 exp.</EM4>"
+      "tr": "[BP] Balayez et nettoyez certains repaires CFP. <EM4>300 exp.</EM4>"
     },
     "HeadHunters_ShipAmbush_VH_title_001": {
       "en": "Tactical Strike",
@@ -3217,7 +3217,7 @@
     },
     "Intersec_TSG_Group_Title_001": {
       "en": "Tactical Strike Group Needed",
-      "tr": "<EM4>[BP]</EM4> Groupe d’assaut tactique requis <EM4>300 exp.</EM4>"
+      "tr": "[BP] Groupe d’assaut tactique requis <EM4>300 exp.</EM4>"
     },
     "headhunters_bombingrun_E_CFP_title_001": {
       "en": "Take Out Citizens for Prosperity Fuel Supply",
@@ -3225,11 +3225,11 @@
     },
     "cfp_sabotage_generators_M_title_001": {
       "en": "Take Outlaws at [LOCATION] Offline",
-      "tr": "<EM4>[BP]</EM4> Prendre les Outlaws à [LOCATION] Hors-Ligne <EM4>150 exp.</EM4>"
+      "tr": "[BP] Prendre les Outlaws à [LOCATION] Hors-Ligne <EM4>150 exp.</EM4>"
     },
     "cfp_ChainElimAll_1C_ElimSpec_HHAttack_M_title_001": {
       "en": "Taking back from the Headhunters",
-      "tr": "<EM4>[BP]</EM4> Reprendre la main sur les HeadHunters <EM4>300 exp.</EM4>"
+      "tr": "[BP] Reprendre la main sur les HeadHunters <EM4>300 exp.</EM4>"
     },
     "DeadSaints_RecoverCargo_Hard_Title": {
       "en": "Taking Back Our Goods",
@@ -3237,11 +3237,11 @@
     },
     "headhunters_ChainElimAll_3C_ElimSpec_AttackXT_VH_title_001": {
       "en": "Taking down a XenoThreat Hideout",
-      "tr": "<EM4>[BP]</EM4> Démanteler un repaire de XenoThreat <EM4>400 exp.</EM4>"
+      "tr": "[BP] Démanteler un repaire de XenoThreat <EM4>400 exp.</EM4>"
     },
     "headhunters_ChainElimAll_1C_AttackXT_M_title_001": {
       "en": "Taking out some XenoThreat trash",
-      "tr": "<EM4>[BP]</EM4> Éliminer la racaille XenoThreat <EM4>150 exp.</EM4>"
+      "tr": "[BP] Éliminer la racaille XenoThreat <EM4>150 exp.</EM4>"
     },
     "HeadHunters_RecoverCargo_Easy_Title": {
       "en": "Taking what’s ours",
@@ -3249,15 +3249,15 @@
     },
     "headhunters_ChainElimAll_2C_ElimSpec_AttackXT_H_title_001": {
       "en": "Taking XenoThreat Turf",
-      "tr": "<EM4>[BP]</EM4> Prendre le gazon des XenoThreat <EM4>300 exp.</EM4>"
+      "tr": "[BP] Prendre le gazon des XenoThreat <EM4>300 exp.</EM4>"
     },
     "headhunters_killship_asteroid_rank1_title_001": {
       "en": "Target at [LOCATION]",
-      "tr": "<EM4>[BP]</EM4> Cible à [LOCATION] <EM4>50 exp.</EM4>"
+      "tr": "[BP] Cible à [LOCATION] <EM4>50 exp.</EM4>"
     },
     "headhunters_killship_asteroid_rank0_title_001": {
       "en": "Target takedown for a fast track in",
-      "tr": "<EM4>[BP]</EM4> La prise en charge de la cible pour une voie rapide en <EM4>50 exp.</EM4>"
+      "tr": "[BP] La prise en charge de la cible pour une voie rapide en <EM4>50 exp.</EM4>"
     },
     "Foxwell_X2_AttackIdris_Title": {
       "en": "Target: XenoThreat Attack Group",
@@ -3273,7 +3273,7 @@
     },
     "Intersec_KillShip_Title_Easy_001": {
       "en": "Terrorist [TARGET] to be Neutralized",
-      "tr": "<EM4>[BP]</EM4> Terroriste [TARGET] à éliminer <EM4>100 exp.</EM4>"
+      "tr": "[BP] Terroriste [TARGET] à éliminer <EM4>100 exp.</EM4>"
     },
     "TheCollector_Recipes_Title_Battle": {
       "en": "Test Armor",
@@ -3281,27 +3281,27 @@
     },
     "vaughn_assassination_FPS_UGF_legal_title_001": {
       "en": "They Will Be Missed",
-      "tr": "<EM4>[BP]</EM4> Ils Vont Nous Manquer <EM4>100 / 250 exp.</EM4>"
+      "tr": "[BP] Ils Vont Nous Manquer <EM4>100 / 250 exp.</EM4>"
     },
     "headhunters_ChainElimAll_AttackCFP_E_title_001": {
       "en": "Time to roll on CFP",
-      "tr": "<EM4>[BP]</EM4> Offensive contre CFP <EM4>400 exp.</EM4>"
+      "tr": "[BP] Offensive contre CFP <EM4>400 exp.</EM4>"
     },
     "Eckhart_ShipAmbush_E_title": {
       "en": "Time to Teach a Lesson",
-      "tr": "<EM4>[BP]</EM4> Il est temps de donner une leçon <EM4>100 exp.</EM4>"
+      "tr": "[BP] Il est temps de donner une leçon <EM4>100 exp.</EM4>"
     },
     "TheCollector_Recipes_Title_aparGatlingGun": {
       "en": "Too Much Gun",
-      "tr": "<EM4>[BP]</EM4> Trop de fusils <EM4>10 exp.</EM4>"
+      "tr": "[BP] Trop de fusils <EM4>10 exp.</EM4>"
     },
     "Eckhart_EscortShips_S_title": {
       "en": "Top Tier Operator Needed",
-      "tr": "<EM4>[BP]</EM4> Opérateur de haut niveau recherché <EM4>300 exp.</EM4>"
+      "tr": "[BP] Opérateur de haut niveau recherché <EM4>300 exp.</EM4>"
     },
     "Foxwell_EliminateSpecific_title_001": {
       "en": "Track Down [TARGET]",
-      "tr": "<EM4>[BP]</EM4> Traquer [TARGET] <EM4>100 exp.</EM4>"
+      "tr": "[BP] Traquer [TARGET] <EM4>100 exp.</EM4>"
     },
     "BHG_Certification_Easy_Title": {
       "en": "Tracker Beginner's Permit Certification",
@@ -3333,15 +3333,15 @@
     },
     "headhunters_killship_gen_mrt_title_001": {
       "en": "Treat yourself to a fight",
-      "tr": "<EM4>[BP]</EM4> Offrez-vous un combat <EM4>300 exp.</EM4>"
+      "tr": "[BP] Offrez-vous un combat <EM4>300 exp.</EM4>"
     },
     "Eckhart_ShipAmbush_H_title": {
       "en": "Tricky Ambush",
-      "tr": "<EM4>[BP]</EM4> Embuscade sournoise <EM4>200 exp.</EM4>"
+      "tr": "[BP] Embuscade sournoise <EM4>200 exp.</EM4>"
     },
     "headhunters_eliminateall_XT_derelicts_title_01": {
       "en": "Turf War",
-      "tr": "<EM4>[BP]</EM4> Guerre de Territoires <EM4>200 exp.</EM4>"
+      "tr": "[BP] Guerre de Territoires <EM4>200 exp.</EM4>"
     },
     "TheCollector_Conversion_Favors_Title": {
       "en": "Turn Things to Favor",
@@ -3369,11 +3369,11 @@
     },
     "UWC_Refuelling_BespokeCapital_Title": {
       "en": "URGENT CAPITAL FLEET REFUEL",
-      "tr": "<EM4>[BP]</EM4> RAVITAILLEMENT D'URGENCE D'UNE FLOTTE CAPITALE <EM4>200 exp.</EM4>"
+      "tr": "[BP] RAVITAILLEMENT D'URGENCE D'UNE FLOTTE CAPITALE <EM4>200 exp.</EM4>"
     },
     "UWC_Refueling_multiple_med_title_001": {
       "en": "URGENT CONVOY REFUEL",
-      "tr": "<EM4>[BP]</EM4> RAVITAILLEMENT D'URGENCE D'UN CONVOI <EM4>100 / 150 / 200 / 250 exp.</EM4>"
+      "tr": "[BP] RAVITAILLEMENT D'URGENCE D'UN CONVOI <EM4>100 / 150 / 200 / 250 exp.</EM4>"
     },
     "northrock_boarders_890J_title_001": {
       "en": "URGENT: Boarding Action In Progress",
@@ -3389,23 +3389,23 @@
     },
     "bhg_bounty_title_ShatteredBlade_001": {
       "en": "Verified Bounty: [TARGET]",
-      "tr": "<EM4>[BP]</EM4> Prime vérifiée: [TARGET]"
+      "tr": "[BP] Prime vérifiée: [TARGET]"
     },
     "bhg_bounty_title_ASD_Engineering_001": {
       "en": "Verified Bounty: [TARGET] at [LOCATION]",
-      "tr": "<EM4>[BP]</EM4> Prime vérifiée : [TARGET] à [LOCATION] <EM4>50 exp.</EM4>"
+      "tr": "[BP] Prime vérifiée : [TARGET] à [LOCATION] <EM4>50 exp.</EM4>"
     },
     "bhg_bounty_title_ASD_Research_001": {
       "en": "Verified Bounty: [TARGET] at [LOCATION]",
-      "tr": "<EM4>[BP]</EM4> Prime vérifiée : [TARGET] à [LOCATION] <EM4>50 exp.</EM4>"
+      "tr": "[BP] Prime vérifiée : [TARGET] à [LOCATION] <EM4>50 exp.</EM4>"
     },
     "bhg_bounty_title_Rockcracker_001": {
       "en": "Verified Bounty: [TARGET] at QV Breaker Station",
-      "tr": "<EM4>[BP]</EM4> Prime confirmée: [TARGET] à la Station QV Breaker <EM4>150 exp.</EM4>"
+      "tr": "[BP] Prime confirmée: [TARGET] à la Station QV Breaker <EM4>150 exp.</EM4>"
     },
     "bhg_bounty_title_gen_001": {
       "en": "Verified Bounty: [TARGET] | Very Low-Risk Target (Single Seater Craft, Minimal Support)",
-      "tr": "<EM4>[BP]</EM4> Prime vérifiée : [TARGET] | [DANGER] <EM4>500 / 1000 / 2000 / 8000 / 16000 exp.</EM4>"
+      "tr": "[BP] Prime vérifiée : [TARGET] | [DANGER] <EM4>500 / 1000 / 2000 / 8000 / 16000 exp.</EM4>"
     },
     "bhg_bounty_title_HeadHunters_001": {
       "en": "Verified Bounty: [TARGET] | HeadHunters | Very High-Risk Target (Large Multicrew Craft, Heavy Support)",
@@ -3429,15 +3429,15 @@
     },
     "Eckhart_EscortShips_H_title": {
       "en": "VIP Client Needs Protection",
-      "tr": "<EM4>[BP]</EM4> Client VIP besoin de protection <EM4>200 exp.</EM4>"
+      "tr": "[BP] Client VIP besoin de protection <EM4>200 exp.</EM4>"
     },
     "RAIN_collectresources_multiple_OLP_name_01": {
       "en": "Vital Resources Needed For Research",
-      "tr": "<EM4>[BP]</EM4> Ressources vitales nécessaires pour la recherche <EM4>100 exp.</EM4>"
+      "tr": "[BP] Ressources vitales nécessaires pour la recherche <EM4>100 exp.</EM4>"
     },
     "headhunters_killship_gen_vlrt_rank0_title_001": {
       "en": "Wanna be a Headhunter?",
-      "tr": "<EM4>[BP]</EM4> Vous voulez devenir HeadHunters ? <EM4>50 exp.</EM4>"
+      "tr": "[BP] Vous voulez devenir HeadHunters ? <EM4>50 exp.</EM4>"
     },
     "TheCollector_Conversion_SpecialFavors_Title": {
       "en": "Want Polaris? Need something special.",
@@ -3449,11 +3449,11 @@
     },
     "headhunters_killship_gen_hrt_title_001": {
       "en": "Wanted: [TARGET]",
-      "tr": "<EM4>[BP]</EM4> Recherché : [TARGET] <EM4>600 exp.</EM4>"
+      "tr": "[BP] Recherché : [TARGET] <EM4>600 exp.</EM4>"
     },
     "headhunters_EliminateSpecific_XenoThreat_VH_title_001": {
       "en": "Wanted: [TARGET]",
-      "tr": "<EM4>[BP]</EM4> Recherché : [TARGET] <EM4>600 exp.</EM4>"
+      "tr": "[BP] Recherché : [TARGET] <EM4>600 exp.</EM4>"
     },
     "headhunters_bombingrun_H_title_001": {
       "en": "Wasting Their Stockpile",
@@ -3461,7 +3461,7 @@
     },
     "Battaglia_Story01_title": {
       "en": "Welcome to the System",
-      "tr": "<EM4>[BP]</EM4> Bienvenue dans le système <EM4>800 exp.</EM4>"
+      "tr": "[BP] Bienvenue dans le système <EM4>800 exp.</EM4>"
     },
     "TheCollector_Ships_Terrapin_Medic_Title": {
       "en": "What is Terrapin?",
@@ -3501,43 +3501,43 @@
     },
     "headhunters_EliminateSpecific_XenoThreat_H_title_001": {
       "en": "XenoThreat Lieutenant needs some killing",
-      "tr": "<EM4>[BP]</EM4> Lieutenant XenoThreat doit être éliminé <EM4>75 exp.</EM4>"
+      "tr": "[BP] Lieutenant XenoThreat doit être éliminé <EM4>75 exp.</EM4>"
     },
     "Shubin_Industrial_HandMining_Pyro_Nyx_VH_Interstellar_Title_001": {
       "en": "XL Purchase Order: Hand Mined Materials",
-      "tr": "<EM4>[BP]</EM4> Bon de commande - Très grand: Matériaux extraits à la main <EM4>200 exp.</EM4>"
+      "tr": "[BP] Bon de commande - Très grand: Matériaux extraits à la main <EM4>200 exp.</EM4>"
     },
     "Shubin_Industrial_HandMining_Pyro_VH_Interstellar_Title_001": {
       "en": "XL Purchase Order: Hand Mined Materials",
-      "tr": "<EM4>[BP]</EM4> Bon de commande - Très grand: Matériaux extraits à la main <EM4>200 exp.</EM4>"
+      "tr": "[BP] Bon de commande - Très grand: Matériaux extraits à la main <EM4>200 exp.</EM4>"
     },
     "Shubin_Industrial_HandMining_Stanton_VH_Solar_Title_001": {
       "en": "XL Purchase Order: Hand Mined Materials",
-      "tr": "<EM4>[BP]</EM4> Bon de commande - Très grand: Matériaux extraits à la main <EM4>200 exp.</EM4>"
+      "tr": "[BP] Bon de commande - Très grand: Matériaux extraits à la main <EM4>200 exp.</EM4>"
     },
     "Shubin_Industrial_ShipMining_Nyx_VH_Secondary_Title_001": {
       "en": "XL Purchase Order: Ship Mined Ore",
-      "tr": "<EM4>[BP]</EM4> Bon de commande - Très grand: Minerai extrait en vaisseau <EM4>250 exp.</EM4>"
+      "tr": "[BP] Bon de commande - Très grand: Minerai extrait en vaisseau <EM4>250 exp.</EM4>"
     },
     "Shubin_Industrial_ShipMining_Nyx_VH_Interstellar_Title_001": {
       "en": "XL Purchase Order: Ship Mined Ore",
-      "tr": "<EM4>[BP]</EM4> Bon de commande - Très grand: Minerai extrait en vaisseau <EM4>250 exp.</EM4>"
+      "tr": "[BP] Bon de commande - Très grand: Minerai extrait en vaisseau <EM4>250 exp.</EM4>"
     },
     "Shubin_Industrial_ShipMining_Stanton_VH_Secondary_Interstellar_Title_001": {
       "en": "XL Purchase Order: Ship Mined Ore",
-      "tr": "<EM4>[BP]</EM4> Bon de commande - Très grand: Minerai extrait en vaisseau <EM4>250 exp.</EM4>"
+      "tr": "[BP] Bon de commande - Très grand: Minerai extrait en vaisseau <EM4>250 exp.</EM4>"
     },
     "Shubin_Industrial_ShipMining_Pyro_VH_Secondary_Title_001": {
       "en": "XL Purchase Order: Ship Mined Ore",
-      "tr": "<EM4>[BP]</EM4> Bon de commande - Très grand: Minerai extrait en vaisseau <EM4>250 exp.</EM4>"
+      "tr": "[BP] Bon de commande - Très grand: Minerai extrait en vaisseau <EM4>250 exp.</EM4>"
     },
     "Shubin_Industrial_ShipMining_Stanton_VH_Secondary_Title_001": {
       "en": "XL Purchase Order: Ship Mined Ore",
-      "tr": "<EM4>[BP]</EM4> Bon de commande - Très grand: Minerai extrait en vaisseau <EM4>250 exp.</EM4>"
+      "tr": "[BP] Bon de commande - Très grand: Minerai extrait en vaisseau <EM4>250 exp.</EM4>"
     },
     "Shubin_Industrial_ShipMining_Stanton_VH_Interstellar_Title_001": {
       "en": "XL Purchase Order: Ship Mined Ore",
-      "tr": "<EM4>[BP]</EM4> Bon de commande - Très grand: Minerai extrait en vaisseau <EM4>250 exp.</EM4>"
+      "tr": "[BP] Bon de commande - Très grand: Minerai extrait en vaisseau <EM4>250 exp.</EM4>"
     },
     "Shubin_Industrial_GroundVehicle_Nyx_VH_Interstellar_Title_001": {
       "en": "XL Purchase Order: Vehicle Mined Ore",
@@ -3553,79 +3553,79 @@
     },
     "Shubin_Industrial_ShipMining_Nyx_VE_Local_Title_001": {
       "en": "XS Purchase Order: Ship Mined Ore",
-      "tr": "<EM4>[BP]</EM4> Bon de commande - Très petit: Minerai extrait en vaisseau <EM4>100 exp.</EM4>"
+      "tr": "[BP] Bon de commande - Très petit: Minerai extrait en vaisseau <EM4>100 exp.</EM4>"
     },
     "Shubin_Industrial_ShipMining_Stanton_VE_Local_Title_001": {
       "en": "XS Purchase Order: Ship Mined Ore",
-      "tr": "<EM4>[BP]</EM4> Bon de commande - Très petit: Minerai extrait en vaisseau <EM4>100 exp.</EM4>"
+      "tr": "[BP] Bon de commande - Très petit: Minerai extrait en vaisseau <EM4>100 exp.</EM4>"
     },
     "Foxwell_ShipAmbush_VE_title_001": {
       "en": "Yellow Level Contract: Ambush An Amateur",
-      "tr": "<EM4>[BP]</EM4> Contrat Niveau Jaune : Piégez un Amateur <EM4>100 exp.</EM4>"
+      "tr": "[BP] Contrat Niveau Jaune : Piégez un Amateur <EM4>100 exp.</EM4>"
     },
     "Foxwell_EliminateAll_PAF_M_title_001": {
       "en": "Yellow Level Contract: Clear Out PAF",
-      "tr": "<EM4>[BP]</EM4> Contrat Niveau Jaune : Nettoyer PAF <EM4>100 exp.</EM4>"
+      "tr": "[BP] Contrat Niveau Jaune : Nettoyer PAF <EM4>100 exp.</EM4>"
     },
     "Foxwell_ShipWaveAttack_ClearHostiles_Title_VE_001": {
       "en": "Yellow Level Contract: Clear Shipjacking Group",
-      "tr": "<EM4>[BP]</EM4> Contrat niveau jaune: Neutralisation d'un groupe de pirates de vaisseaux <EM4>100 exp.</EM4>"
+      "tr": "[BP] Contrat niveau jaune: Neutralisation d'un groupe de pirates de vaisseaux <EM4>100 exp.</EM4>"
     },
     "Foxwell_DefendLocation_E_Title_001": {
       "en": "Yellow Level Contract: Defend [LOCATION]",
-      "tr": "<EM4>[BP]</EM4> Contrat Niveau Jaune : Défendre [LOCATION] <EM4>100 exp.</EM4>"
+      "tr": "[BP] Contrat Niveau Jaune : Défendre [LOCATION] <EM4>100 exp.</EM4>"
     },
     "Foxwell_bombingrun_E_title_001": {
       "en": "Yellow Level Contract: Disrupt Operations",
-      "tr": "<EM4>[BP]</EM4> Contrat niveau jaune: Perturbation des opérations <EM4>100 exp.</EM4>"
+      "tr": "[BP] Contrat niveau jaune: Perturbation des opérations <EM4>100 exp.</EM4>"
     },
     "Foxwell_bombingrun_VE_title_001": {
       "en": "Yellow Level Contract: Limiting Potential Threat",
-      "tr": "<EM4>[BP]</EM4> Contrat niveau jaune: Réduction d'une menace potentielle <EM4>100 exp.</EM4>"
+      "tr": "[BP] Contrat niveau jaune: Réduction d'une menace potentielle <EM4>100 exp.</EM4>"
     },
     "Foxwell_EliminateAll_OLP_M_title_001": {
       "en": "Yellow Level Contract: Merc Work",
-      "tr": "<EM4>[BP]</EM4> Contrat Niveau Jaune : Travail de Mercenaire <EM4>100 exp.</EM4>"
+      "tr": "[BP] Contrat Niveau Jaune : Travail de Mercenaire <EM4>100 exp.</EM4>"
     },
     "Foxwell_ShipWaveAttack_ClearHostiles_Title_E_001": {
       "en": "Yellow Level Contract: Neutralize Shipjacking Gang",
-      "tr": "<EM4>[BP]</EM4> Contrat niveau jaune: Neutralisation d'un gang de pirates de vaisseaux <EM4>100 exp.</EM4>"
+      "tr": "[BP] Contrat niveau jaune: Neutralisation d'un gang de pirates de vaisseaux <EM4>100 exp.</EM4>"
     },
     "Foxwell_SecurityPatrol_VE_Title_001": {
       "en": "Yellow Level Contract: Routine Patrol",
-      "tr": "<EM4>[BP]</EM4> Contrat Niveau Jaune : Patrouille de routine <EM4>100 exp.</EM4>"
+      "tr": "[BP] Contrat Niveau Jaune : Patrouille de routine <EM4>100 exp.</EM4>"
     },
     "Foxwell_SecurityPatrol_E_Title_001": {
       "en": "Yellow Level Contract: Security Sweep",
-      "tr": "<EM4>[BP]</EM4> Contrat Niveau Jaune : Bilan de sécurité <EM4>100 exp.</EM4>"
+      "tr": "[BP] Contrat Niveau Jaune : Bilan de sécurité <EM4>100 exp.</EM4>"
     },
     "foxwell_DefendShip_E_title_001": {
       "en": "Yellow Level Contract: Ship Under Attack",
-      "tr": "<EM4>[BP]</EM4> Contrat Niveau Jaune : Vaisseau Attaqué <EM4>100 exp.</EM4>"
+      "tr": "[BP] Contrat Niveau Jaune : Vaisseau Attaqué <EM4>100 exp.</EM4>"
     },
     "Foxwell_DefendLocation_VE_Title_001": {
       "en": "Yellow Level Contract: Stand Up to Aggressors",
-      "tr": "<EM4>[BP]</EM4> Contrat Niveau Jaune : Faites face aux agresseurs <EM4>100 exp.</EM4>"
+      "tr": "[BP] Contrat Niveau Jaune : Faites face aux agresseurs <EM4>100 exp.</EM4>"
     },
     "Foxwell_ShipAmbush_E_title_001": {
       "en": "Yellow Level Contract: Surprise Strike",
-      "tr": "<EM4>[BP]</EM4> Contrat Niveau Jaune : Frappe surprise <EM4>100 exp.</EM4>"
+      "tr": "[BP] Contrat Niveau Jaune : Frappe surprise <EM4>100 exp.</EM4>"
     },
     "Foxwell_DefendDestructibleEntites_VE_Title_001": {
       "en": "Yellow Lvl. Contract: Defend Fuel Tanks",
-      "tr": "<EM4>[BP]</EM4> Contrat niveau jaune: Défendre les [OBJECTS] <EM4>100 exp.</EM4>"
+      "tr": "[BP] Contrat niveau jaune: Défendre les [OBJECTS] <EM4>100 exp.</EM4>"
     },
     "Foxwell_DefendEntitesAndEscort_VE_Title": {
       "en": "Yellow Lvl. Contract: Defend Fuel Tanks and Escort Employees",
-      "tr": "<EM4>[BP]</EM4> Contrat niveau jaune: Défendre les [OBJECTS] et escorter les employés <EM4>100 exp.</EM4>"
+      "tr": "[BP] Contrat niveau jaune: Défendre les [OBJECTS] et escorter les employés <EM4>100 exp.</EM4>"
     },
     "Foxwell_DefendDestructibleEntites_E_Title_001": {
       "en": "Yellow Lvl. Contract: Protect Fuel Tanks",
-      "tr": "<EM4>[BP]</EM4> Contrat niveau jaune: Protéger les [OBJECTS] <EM4>100 exp.</EM4>"
+      "tr": "[BP] Contrat niveau jaune: Protéger les [OBJECTS] <EM4>100 exp.</EM4>"
     },
     "Foxwell_DefendEntitesAndEscort_E_Title": {
       "en": "Yellow Lvl. Contract: Protect Fuel Tanks and Escort Employees",
-      "tr": "<EM4>[BP]</EM4> Contrat niveau jaune: Protéger les [OBJECTS] et escorter les employés <EM4>100 exp.</EM4>"
+      "tr": "[BP] Contrat niveau jaune: Protéger les [OBJECTS] et escorter les employés <EM4>100 exp.</EM4>"
     },
     "TheCollector_Recipes_Title_SlimyLMG": {
       "en": "Yormandi Gun",
@@ -3633,7 +3633,7 @@
     },
     "TheCollector_Recipes_Title_NoneAR": {
       "en": "Your Best Shot",
-      "tr": "<EM4>[BP]</EM4> Ton meilleur tir <EM4>10 exp.</EM4>"
+      "tr": "[BP] Ton meilleur tir <EM4>10 exp.</EM4>"
     },
     "TheCollector_Ships_ZeusCL_TItle": {
       "en": "Zeus Cargo Special",
