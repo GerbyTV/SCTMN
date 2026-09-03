@@ -238426,7 +238426,7 @@
         }
       ],
       "internalName": "BP_CRAFT_qrt_combat_medium_legs_02_01_01",
-      "locKey": "@item_Name_qrt_combat_medium_legs_02_01_01,P",
+      "locKey": "@item_Name_qrt_combat_medium_legs_02_01_01",
       "blueprintName": "Testudo Legs Clanguard",
       "categoryName": "Armure",
       "type": "fpsgear",
