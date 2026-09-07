@@ -107714,33 +107714,9 @@
       "file": "crafting\\blueprints\\crafting\\fpsgear\\armour\\combat\\heavy\\bp_craft_kap_combat_heavy_arms_02_06_01.xml",
       "recordName": "CraftingBlueprintRecord.BP_CRAFT_KAP_COMBAT_HEAVY_ARMS_02_06_01",
       "recordGUID": "3aa99a29-3177-4008-b88c-efe0c93c2b3f",
-      "isReward": true,
-      "rewardMissions": [
-        "Bounty Hunters Guild: High-Risk Bounty: ~mission(TargetName) at QV Breaker Station",
-        "Vaughn: End of a Salamander"
-      ],
-      "rewardMissionKeys": [
-        {
-          "titleKey": "bhg_EliminateBoss_FPS_Rockcracker_Warehouse_name_001",
-          "titleEN": "High-Risk Bounty: ~mission(TargetName) at QV Breaker Station",
-          "faction": "Bounty Hunters Guild",
-          "systems": [],
-          "illegal": false,
-          "descKeys": [
-            "bhg_EliminateBoss_FPS_Rockcracker_Warehouse_desc_001"
-          ]
-        },
-        {
-          "titleKey": "Vaughn_EliminateBoss_FPS_Rockcracker_Warehouse_name_001",
-          "titleEN": "End of a Salamander",
-          "faction": "Vaughn",
-          "systems": [],
-          "illegal": true,
-          "descKeys": [
-            "Vaughn_EliminateBoss_FPS_Rockcracker_Warehouse_desc_001"
-          ]
-        }
-      ],
+      "isReward": false,
+      "rewardMissions": [],
+      "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_kap_combat_heavy_arms_02_06_01",
       "locKey": "@item_Name_kap_combat_heavy_arms_02_06_01",
       "blueprintName": "Monde Arms Crimson Camo",
@@ -107829,33 +107805,9 @@
       "file": "crafting\\blueprints\\crafting\\fpsgear\\armour\\combat\\heavy\\bp_craft_kap_combat_heavy_arms_02_05_01.xml",
       "recordName": "CraftingBlueprintRecord.BP_CRAFT_KAP_COMBAT_HEAVY_ARMS_02_05_01",
       "recordGUID": "ca04f474-538a-4d73-8b76-2c20d0433f0f",
-      "isReward": true,
-      "rewardMissions": [
-        "Bounty Hunters Guild: High-Risk Bounty: ~mission(TargetName) at QV Breaker Station",
-        "Vaughn: End of a Salamander"
-      ],
-      "rewardMissionKeys": [
-        {
-          "titleKey": "bhg_EliminateBoss_FPS_Rockcracker_Warehouse_name_001",
-          "titleEN": "High-Risk Bounty: ~mission(TargetName) at QV Breaker Station",
-          "faction": "Bounty Hunters Guild",
-          "systems": [],
-          "illegal": false,
-          "descKeys": [
-            "bhg_EliminateBoss_FPS_Rockcracker_Warehouse_desc_001"
-          ]
-        },
-        {
-          "titleKey": "Vaughn_EliminateBoss_FPS_Rockcracker_Warehouse_name_001",
-          "titleEN": "End of a Salamander",
-          "faction": "Vaughn",
-          "systems": [],
-          "illegal": true,
-          "descKeys": [
-            "Vaughn_EliminateBoss_FPS_Rockcracker_Warehouse_desc_001"
-          ]
-        }
-      ],
+      "isReward": false,
+      "rewardMissions": [],
+      "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_kap_combat_heavy_arms_02_05_01",
       "locKey": "@item_Name_kap_combat_heavy_arms_02_05_01",
       "blueprintName": "Monde Arms Daimyo",
@@ -109043,33 +108995,9 @@
       "file": "crafting\\blueprints\\crafting\\fpsgear\\armour\\combat\\heavy\\bp_craft_kap_combat_heavy_core_02_06_01.xml",
       "recordName": "CraftingBlueprintRecord.BP_CRAFT_KAP_COMBAT_HEAVY_CORE_02_06_01",
       "recordGUID": "6fb3b3ad-e39e-4d6b-a97a-84f7bad75b89",
-      "isReward": true,
-      "rewardMissions": [
-        "Bounty Hunters Guild: High-Risk Bounty: ~mission(TargetName) at QV Breaker Station",
-        "Vaughn: End of a Salamander"
-      ],
-      "rewardMissionKeys": [
-        {
-          "titleKey": "bhg_EliminateBoss_FPS_Rockcracker_Warehouse_name_001",
-          "titleEN": "High-Risk Bounty: ~mission(TargetName) at QV Breaker Station",
-          "faction": "Bounty Hunters Guild",
-          "systems": [],
-          "illegal": false,
-          "descKeys": [
-            "bhg_EliminateBoss_FPS_Rockcracker_Warehouse_desc_001"
-          ]
-        },
-        {
-          "titleKey": "Vaughn_EliminateBoss_FPS_Rockcracker_Warehouse_name_001",
-          "titleEN": "End of a Salamander",
-          "faction": "Vaughn",
-          "systems": [],
-          "illegal": true,
-          "descKeys": [
-            "Vaughn_EliminateBoss_FPS_Rockcracker_Warehouse_desc_001"
-          ]
-        }
-      ],
+      "isReward": false,
+      "rewardMissions": [],
+      "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_kap_combat_heavy_core_02_06_01",
       "locKey": "@item_Name_kap_combat_heavy_core_02_06_01",
       "blueprintName": "Monde Core Crimson Camo",
@@ -109158,33 +109086,9 @@
       "file": "crafting\\blueprints\\crafting\\fpsgear\\armour\\combat\\heavy\\bp_craft_kap_combat_heavy_core_02_05_01.xml",
       "recordName": "CraftingBlueprintRecord.BP_CRAFT_KAP_COMBAT_HEAVY_CORE_02_05_01",
       "recordGUID": "7839dc1c-2881-406f-9f83-a1caaa99da25",
-      "isReward": true,
-      "rewardMissions": [
-        "Bounty Hunters Guild: High-Risk Bounty: ~mission(TargetName) at QV Breaker Station",
-        "Vaughn: End of a Salamander"
-      ],
-      "rewardMissionKeys": [
-        {
-          "titleKey": "bhg_EliminateBoss_FPS_Rockcracker_Warehouse_name_001",
-          "titleEN": "High-Risk Bounty: ~mission(TargetName) at QV Breaker Station",
-          "faction": "Bounty Hunters Guild",
-          "systems": [],
-          "illegal": false,
-          "descKeys": [
-            "bhg_EliminateBoss_FPS_Rockcracker_Warehouse_desc_001"
-          ]
-        },
-        {
-          "titleKey": "Vaughn_EliminateBoss_FPS_Rockcracker_Warehouse_name_001",
-          "titleEN": "End of a Salamander",
-          "faction": "Vaughn",
-          "systems": [],
-          "illegal": true,
-          "descKeys": [
-            "Vaughn_EliminateBoss_FPS_Rockcracker_Warehouse_desc_001"
-          ]
-        }
-      ],
+      "isReward": false,
+      "rewardMissions": [],
+      "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_kap_combat_heavy_core_02_05_01",
       "locKey": "@item_Name_kap_combat_heavy_core_02_05_01",
       "blueprintName": "Monde Core Daimyo",
@@ -110372,33 +110276,9 @@
       "file": "crafting\\blueprints\\crafting\\fpsgear\\armour\\combat\\heavy\\bp_craft_kap_combat_heavy_helmet_02_06_01.xml",
       "recordName": "CraftingBlueprintRecord.BP_CRAFT_KAP_COMBAT_HEAVY_HELMET_02_06_01",
       "recordGUID": "c2677899-cd03-45ac-ae90-8e9de0792c14",
-      "isReward": true,
-      "rewardMissions": [
-        "Bounty Hunters Guild: High-Risk Bounty: ~mission(TargetName) at QV Breaker Station",
-        "Vaughn: End of a Salamander"
-      ],
-      "rewardMissionKeys": [
-        {
-          "titleKey": "bhg_EliminateBoss_FPS_Rockcracker_Warehouse_name_001",
-          "titleEN": "High-Risk Bounty: ~mission(TargetName) at QV Breaker Station",
-          "faction": "Bounty Hunters Guild",
-          "systems": [],
-          "illegal": false,
-          "descKeys": [
-            "bhg_EliminateBoss_FPS_Rockcracker_Warehouse_desc_001"
-          ]
-        },
-        {
-          "titleKey": "Vaughn_EliminateBoss_FPS_Rockcracker_Warehouse_name_001",
-          "titleEN": "End of a Salamander",
-          "faction": "Vaughn",
-          "systems": [],
-          "illegal": true,
-          "descKeys": [
-            "Vaughn_EliminateBoss_FPS_Rockcracker_Warehouse_desc_001"
-          ]
-        }
-      ],
+      "isReward": false,
+      "rewardMissions": [],
+      "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_kap_combat_heavy_helmet_02_06_01",
       "locKey": "@item_Name_kap_combat_heavy_helmet_02_06_01",
       "blueprintName": "Monde Helmet Crimson Camo",
@@ -110487,33 +110367,9 @@
       "file": "crafting\\blueprints\\crafting\\fpsgear\\armour\\combat\\heavy\\bp_craft_kap_combat_heavy_helmet_02_05_01.xml",
       "recordName": "CraftingBlueprintRecord.BP_CRAFT_KAP_COMBAT_HEAVY_HELMET_02_05_01",
       "recordGUID": "a0cfd9bb-9c32-4679-825c-3c7496b85cc6",
-      "isReward": true,
-      "rewardMissions": [
-        "Bounty Hunters Guild: High-Risk Bounty: ~mission(TargetName) at QV Breaker Station",
-        "Vaughn: End of a Salamander"
-      ],
-      "rewardMissionKeys": [
-        {
-          "titleKey": "bhg_EliminateBoss_FPS_Rockcracker_Warehouse_name_001",
-          "titleEN": "High-Risk Bounty: ~mission(TargetName) at QV Breaker Station",
-          "faction": "Bounty Hunters Guild",
-          "systems": [],
-          "illegal": false,
-          "descKeys": [
-            "bhg_EliminateBoss_FPS_Rockcracker_Warehouse_desc_001"
-          ]
-        },
-        {
-          "titleKey": "Vaughn_EliminateBoss_FPS_Rockcracker_Warehouse_name_001",
-          "titleEN": "End of a Salamander",
-          "faction": "Vaughn",
-          "systems": [],
-          "illegal": true,
-          "descKeys": [
-            "Vaughn_EliminateBoss_FPS_Rockcracker_Warehouse_desc_001"
-          ]
-        }
-      ],
+      "isReward": false,
+      "rewardMissions": [],
+      "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_kap_combat_heavy_helmet_02_05_01",
       "locKey": "@item_Name_kap_combat_heavy_helmet_02_05_01",
       "blueprintName": "Monde Helmet Daimyo",
@@ -111701,33 +111557,9 @@
       "file": "crafting\\blueprints\\crafting\\fpsgear\\armour\\combat\\heavy\\bp_craft_kap_combat_heavy_legs_02_06_01.xml",
       "recordName": "CraftingBlueprintRecord.BP_CRAFT_KAP_COMBAT_HEAVY_LEGS_02_06_01",
       "recordGUID": "51bb9eda-cc14-4b64-8b92-0565638d5d0d",
-      "isReward": true,
-      "rewardMissions": [
-        "Bounty Hunters Guild: High-Risk Bounty: ~mission(TargetName) at QV Breaker Station",
-        "Vaughn: End of a Salamander"
-      ],
-      "rewardMissionKeys": [
-        {
-          "titleKey": "bhg_EliminateBoss_FPS_Rockcracker_Warehouse_name_001",
-          "titleEN": "High-Risk Bounty: ~mission(TargetName) at QV Breaker Station",
-          "faction": "Bounty Hunters Guild",
-          "systems": [],
-          "illegal": false,
-          "descKeys": [
-            "bhg_EliminateBoss_FPS_Rockcracker_Warehouse_desc_001"
-          ]
-        },
-        {
-          "titleKey": "Vaughn_EliminateBoss_FPS_Rockcracker_Warehouse_name_001",
-          "titleEN": "End of a Salamander",
-          "faction": "Vaughn",
-          "systems": [],
-          "illegal": true,
-          "descKeys": [
-            "Vaughn_EliminateBoss_FPS_Rockcracker_Warehouse_desc_001"
-          ]
-        }
-      ],
+      "isReward": false,
+      "rewardMissions": [],
+      "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_kap_combat_heavy_legs_02_06_01",
       "locKey": "@item_Name_kap_combat_heavy_legs_02_06_01",
       "blueprintName": "Monde Legs Crimson Camo",
@@ -111816,33 +111648,9 @@
       "file": "crafting\\blueprints\\crafting\\fpsgear\\armour\\combat\\heavy\\bp_craft_kap_combat_heavy_legs_02_05_01.xml",
       "recordName": "CraftingBlueprintRecord.BP_CRAFT_KAP_COMBAT_HEAVY_LEGS_02_05_01",
       "recordGUID": "1df6b82c-8b0d-4179-8138-94f33f1bd073",
-      "isReward": true,
-      "rewardMissions": [
-        "Bounty Hunters Guild: High-Risk Bounty: ~mission(TargetName) at QV Breaker Station",
-        "Vaughn: End of a Salamander"
-      ],
-      "rewardMissionKeys": [
-        {
-          "titleKey": "bhg_EliminateBoss_FPS_Rockcracker_Warehouse_name_001",
-          "titleEN": "High-Risk Bounty: ~mission(TargetName) at QV Breaker Station",
-          "faction": "Bounty Hunters Guild",
-          "systems": [],
-          "illegal": false,
-          "descKeys": [
-            "bhg_EliminateBoss_FPS_Rockcracker_Warehouse_desc_001"
-          ]
-        },
-        {
-          "titleKey": "Vaughn_EliminateBoss_FPS_Rockcracker_Warehouse_name_001",
-          "titleEN": "End of a Salamander",
-          "faction": "Vaughn",
-          "systems": [],
-          "illegal": true,
-          "descKeys": [
-            "Vaughn_EliminateBoss_FPS_Rockcracker_Warehouse_desc_001"
-          ]
-        }
-      ],
+      "isReward": false,
+      "rewardMissions": [],
+      "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_kap_combat_heavy_legs_02_05_01",
       "locKey": "@item_Name_kap_combat_heavy_legs_02_05_01",
       "blueprintName": "Monde Legs Daimyo",
@@ -146090,33 +145898,9 @@
       "file": "crafting\\blueprints\\crafting\\fpsgear\\weapons\\shotgun\\bp_craft_gmni_shotgun_ballistic_01_firerats01.xml",
       "recordName": "CraftingBlueprintRecord.BP_CRAFT_GMNI_SHOTGUN_BALLISTIC_01_FIRERATS01",
       "recordGUID": "80304f3a-bfd9-4eaa-a0b3-dee61872377b",
-      "isReward": true,
-      "rewardMissions": [
-        "Bounty Hunters Guild: High-Risk Bounty: ~mission(TargetName) at QV Breaker Station",
-        "Vaughn: End of a Salamander"
-      ],
-      "rewardMissionKeys": [
-        {
-          "titleKey": "bhg_EliminateBoss_FPS_Rockcracker_Warehouse_name_001",
-          "titleEN": "High-Risk Bounty: ~mission(TargetName) at QV Breaker Station",
-          "faction": "Bounty Hunters Guild",
-          "systems": [],
-          "illegal": false,
-          "descKeys": [
-            "bhg_EliminateBoss_FPS_Rockcracker_Warehouse_desc_001"
-          ]
-        },
-        {
-          "titleKey": "Vaughn_EliminateBoss_FPS_Rockcracker_Warehouse_name_001",
-          "titleEN": "End of a Salamander",
-          "faction": "Vaughn",
-          "systems": [],
-          "illegal": true,
-          "descKeys": [
-            "Vaughn_EliminateBoss_FPS_Rockcracker_Warehouse_desc_001"
-          ]
-        }
-      ],
+      "isReward": false,
+      "rewardMissions": [],
+      "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_gmni_shotgun_ballistic_01_firerats01",
       "locKey": "@item_Namegmni_shotgun_ballistic_01_firerats01",
       "blueprintName": "R97 \"Scorched\" Shotgun",
