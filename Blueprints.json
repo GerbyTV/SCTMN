@@ -84722,7 +84722,7 @@
       "file": "crafting\\blueprints\\crafting\\vehiclegear\\salvage\\bp_craft_salvage_modifier_scraper_salvation_small.xml",
       "recordName": "CraftingBlueprintRecord.BP_CRAFT_SALVAGE_MODIFIER_SCRAPER_SALVATION_SMALL",
       "recordGUID": "b4160c11-75f9-4699-8aab-7b21abf75bc6",
-      "isReward": false,
+      "isReward": true,
       "rewardMissions": [
         "Adagio Holdings: Salvager Needed (Med. Supply of RMC)",
         "Adagio Holdings: Salvager Needed (Lrg. Special Order of RMC / UCM / Components)",
@@ -107633,6 +107633,7 @@
         "Miles Eckhart: Stop Attack on High-Profile Client",
         "InterSec Defense Solutions: New Defense Contract: ~mission(TargetName) Elimination",
         "Citizens For Prosperity: Respond to Distress Beacon",
+        "Bounty Hunters Guild: Verified Bounty: ~mission(TargetName) | ~mission(Danger)",
         "Miles Eckhart: Save Ship",
         "InterSec Defense Solutions: Preemptive Strike On ~mission(TargetName)",
         "Highpoint Wilderness Specialists: Reduce Valakkar Breaker Station Population",
@@ -107716,6 +107717,18 @@
           "illegal": false,
           "descKeys": [
             "cfp_defendship_multi_VHRT_desc_001"
+          ]
+        },
+        {
+          "titleKey": "bhg_bounty_title_gen_001",
+          "titleEN": "Verified Bounty: ~mission(TargetName) | ~mission(Danger)",
+          "faction": "Bounty Hunters Guild",
+          "systems": [
+            "Nyx"
+          ],
+          "illegal": false,
+          "descKeys": [
+            "bhg_bounty_desc_gen_001"
           ]
         },
         {
@@ -108481,6 +108494,7 @@
         "Miles Eckhart: Stop Attack on High-Profile Client",
         "InterSec Defense Solutions: New Defense Contract: ~mission(TargetName) Elimination",
         "Citizens For Prosperity: Respond to Distress Beacon",
+        "Bounty Hunters Guild: Verified Bounty: ~mission(TargetName) | ~mission(Danger)",
         "Miles Eckhart: Save Ship",
         "InterSec Defense Solutions: Preemptive Strike On ~mission(TargetName)",
         "Highpoint Wilderness Specialists: Reduce Valakkar Breaker Station Population",
@@ -108564,6 +108578,18 @@
           "illegal": false,
           "descKeys": [
             "cfp_defendship_multi_VHRT_desc_001"
+          ]
+        },
+        {
+          "titleKey": "bhg_bounty_title_gen_001",
+          "titleEN": "Verified Bounty: ~mission(TargetName) | ~mission(Danger)",
+          "faction": "Bounty Hunters Guild",
+          "systems": [
+            "Nyx"
+          ],
+          "illegal": false,
+          "descKeys": [
+            "bhg_bounty_desc_gen_001"
           ]
         },
         {
@@ -108936,6 +108962,7 @@
         "Miles Eckhart: Stop Attack on High-Profile Client",
         "InterSec Defense Solutions: New Defense Contract: ~mission(TargetName) Elimination",
         "Citizens For Prosperity: Respond to Distress Beacon",
+        "Bounty Hunters Guild: Verified Bounty: ~mission(TargetName) | ~mission(Danger)",
         "Miles Eckhart: Save Ship",
         "InterSec Defense Solutions: Preemptive Strike On ~mission(TargetName)",
         "Highpoint Wilderness Specialists: Reduce Valakkar Breaker Station Population",
@@ -109019,6 +109046,18 @@
           "illegal": false,
           "descKeys": [
             "cfp_defendship_multi_VHRT_desc_001"
+          ]
+        },
+        {
+          "titleKey": "bhg_bounty_title_gen_001",
+          "titleEN": "Verified Bounty: ~mission(TargetName) | ~mission(Danger)",
+          "faction": "Bounty Hunters Guild",
+          "systems": [
+            "Nyx"
+          ],
+          "illegal": false,
+          "descKeys": [
+            "bhg_bounty_desc_gen_001"
           ]
         },
         {
@@ -109784,6 +109823,7 @@
         "Miles Eckhart: Stop Attack on High-Profile Client",
         "InterSec Defense Solutions: New Defense Contract: ~mission(TargetName) Elimination",
         "Citizens For Prosperity: Respond to Distress Beacon",
+        "Bounty Hunters Guild: Verified Bounty: ~mission(TargetName) | ~mission(Danger)",
         "Miles Eckhart: Save Ship",
         "InterSec Defense Solutions: Preemptive Strike On ~mission(TargetName)",
         "Highpoint Wilderness Specialists: Reduce Valakkar Breaker Station Population",
@@ -109867,6 +109907,18 @@
           "illegal": false,
           "descKeys": [
             "cfp_defendship_multi_VHRT_desc_001"
+          ]
+        },
+        {
+          "titleKey": "bhg_bounty_title_gen_001",
+          "titleEN": "Verified Bounty: ~mission(TargetName) | ~mission(Danger)",
+          "faction": "Bounty Hunters Guild",
+          "systems": [
+            "Nyx"
+          ],
+          "illegal": false,
+          "descKeys": [
+            "bhg_bounty_desc_gen_001"
           ]
         },
         {
@@ -110239,6 +110291,7 @@
         "Miles Eckhart: Stop Attack on High-Profile Client",
         "InterSec Defense Solutions: New Defense Contract: ~mission(TargetName) Elimination",
         "Citizens For Prosperity: Respond to Distress Beacon",
+        "Bounty Hunters Guild: Verified Bounty: ~mission(TargetName) | ~mission(Danger)",
         "Miles Eckhart: Save Ship",
         "InterSec Defense Solutions: Preemptive Strike On ~mission(TargetName)",
         "Highpoint Wilderness Specialists: Reduce Valakkar Breaker Station Population",
@@ -110322,6 +110375,18 @@
           "illegal": false,
           "descKeys": [
             "cfp_defendship_multi_VHRT_desc_001"
+          ]
+        },
+        {
+          "titleKey": "bhg_bounty_title_gen_001",
+          "titleEN": "Verified Bounty: ~mission(TargetName) | ~mission(Danger)",
+          "faction": "Bounty Hunters Guild",
+          "systems": [
+            "Nyx"
+          ],
+          "illegal": false,
+          "descKeys": [
+            "bhg_bounty_desc_gen_001"
           ]
         },
         {
@@ -111087,6 +111152,7 @@
         "Miles Eckhart: Stop Attack on High-Profile Client",
         "InterSec Defense Solutions: New Defense Contract: ~mission(TargetName) Elimination",
         "Citizens For Prosperity: Respond to Distress Beacon",
+        "Bounty Hunters Guild: Verified Bounty: ~mission(TargetName) | ~mission(Danger)",
         "Miles Eckhart: Save Ship",
         "InterSec Defense Solutions: Preemptive Strike On ~mission(TargetName)",
         "Highpoint Wilderness Specialists: Reduce Valakkar Breaker Station Population",
@@ -111170,6 +111236,18 @@
           "illegal": false,
           "descKeys": [
             "cfp_defendship_multi_VHRT_desc_001"
+          ]
+        },
+        {
+          "titleKey": "bhg_bounty_title_gen_001",
+          "titleEN": "Verified Bounty: ~mission(TargetName) | ~mission(Danger)",
+          "faction": "Bounty Hunters Guild",
+          "systems": [
+            "Nyx"
+          ],
+          "illegal": false,
+          "descKeys": [
+            "bhg_bounty_desc_gen_001"
           ]
         },
         {
@@ -111542,6 +111620,7 @@
         "Miles Eckhart: Stop Attack on High-Profile Client",
         "InterSec Defense Solutions: New Defense Contract: ~mission(TargetName) Elimination",
         "Citizens For Prosperity: Respond to Distress Beacon",
+        "Bounty Hunters Guild: Verified Bounty: ~mission(TargetName) | ~mission(Danger)",
         "Miles Eckhart: Save Ship",
         "InterSec Defense Solutions: Preemptive Strike On ~mission(TargetName)",
         "Highpoint Wilderness Specialists: Reduce Valakkar Breaker Station Population",
@@ -111625,6 +111704,18 @@
           "illegal": false,
           "descKeys": [
             "cfp_defendship_multi_VHRT_desc_001"
+          ]
+        },
+        {
+          "titleKey": "bhg_bounty_title_gen_001",
+          "titleEN": "Verified Bounty: ~mission(TargetName) | ~mission(Danger)",
+          "faction": "Bounty Hunters Guild",
+          "systems": [
+            "Nyx"
+          ],
+          "illegal": false,
+          "descKeys": [
+            "bhg_bounty_desc_gen_001"
           ]
         },
         {
@@ -112390,6 +112481,7 @@
         "Miles Eckhart: Stop Attack on High-Profile Client",
         "InterSec Defense Solutions: New Defense Contract: ~mission(TargetName) Elimination",
         "Citizens For Prosperity: Respond to Distress Beacon",
+        "Bounty Hunters Guild: Verified Bounty: ~mission(TargetName) | ~mission(Danger)",
         "Miles Eckhart: Save Ship",
         "InterSec Defense Solutions: Preemptive Strike On ~mission(TargetName)",
         "Highpoint Wilderness Specialists: Reduce Valakkar Breaker Station Population",
@@ -112473,6 +112565,18 @@
           "illegal": false,
           "descKeys": [
             "cfp_defendship_multi_VHRT_desc_001"
+          ]
+        },
+        {
+          "titleKey": "bhg_bounty_title_gen_001",
+          "titleEN": "Verified Bounty: ~mission(TargetName) | ~mission(Danger)",
+          "faction": "Bounty Hunters Guild",
+          "systems": [
+            "Nyx"
+          ],
+          "illegal": false,
+          "descKeys": [
+            "bhg_bounty_desc_gen_001"
           ]
         },
         {
@@ -130661,8 +130765,7 @@
       "recordGUID": "510d2cc3-9836-435b-bbd7-47f8e81a47ae",
       "isReward": true,
       "rewardMissions": [
-        "Rayari Incorporated: Additional Resources For Research",
-        "Bounty Hunters Guild: Verified Bounty: ~mission(TargetName) | ~mission(Danger)"
+        "Rayari Incorporated: Additional Resources For Research"
       ],
       "rewardMissionKeys": [
         {
@@ -130673,18 +130776,6 @@
           "illegal": false,
           "descKeys": [
             "RAIN_collectresources_multiple_GEN_desc_01"
-          ]
-        },
-        {
-          "titleKey": "bhg_bounty_title_gen_001",
-          "titleEN": "Verified Bounty: ~mission(TargetName) | ~mission(Danger)",
-          "faction": "Bounty Hunters Guild",
-          "systems": [
-            "Stanton"
-          ],
-          "illegal": false,
-          "descKeys": [
-            "bhg_bounty_desc_FPS_intro"
           ]
         }
       ],
@@ -130778,8 +130869,7 @@
       "recordGUID": "edcf3145-e9a9-471a-baa2-12f54da9ed26",
       "isReward": true,
       "rewardMissions": [
-        "Rayari Incorporated: Additional Resources For Research",
-        "Bounty Hunters Guild: Verified Bounty: ~mission(TargetName) | ~mission(Danger)"
+        "Rayari Incorporated: Additional Resources For Research"
       ],
       "rewardMissionKeys": [
         {
@@ -130790,18 +130880,6 @@
           "illegal": false,
           "descKeys": [
             "RAIN_collectresources_multiple_GEN_desc_01"
-          ]
-        },
-        {
-          "titleKey": "bhg_bounty_title_gen_001",
-          "titleEN": "Verified Bounty: ~mission(TargetName) | ~mission(Danger)",
-          "faction": "Bounty Hunters Guild",
-          "systems": [
-            "Stanton"
-          ],
-          "illegal": false,
-          "descKeys": [
-            "bhg_bounty_desc_FPS_intro"
           ]
         }
       ],
@@ -137454,8 +137532,7 @@
       "recordGUID": "77f68dc2-627b-4759-959e-4412868eea74",
       "isReward": true,
       "rewardMissions": [
-        "Rayari Incorporated: Additional Resources For Research",
-        "Bounty Hunters Guild: Verified Bounty: ~mission(TargetName) | ~mission(Danger)"
+        "Rayari Incorporated: Additional Resources For Research"
       ],
       "rewardMissionKeys": [
         {
@@ -137466,18 +137543,6 @@
           "illegal": false,
           "descKeys": [
             "RAIN_collectresources_multiple_GEN_desc_01"
-          ]
-        },
-        {
-          "titleKey": "bhg_bounty_title_gen_001",
-          "titleEN": "Verified Bounty: ~mission(TargetName) | ~mission(Danger)",
-          "faction": "Bounty Hunters Guild",
-          "systems": [
-            "Stanton"
-          ],
-          "illegal": false,
-          "descKeys": [
-            "bhg_bounty_desc_FPS_intro"
           ]
         }
       ],
@@ -137779,8 +137844,7 @@
       "recordGUID": "369ff871-956f-4c6a-923b-1f49984f7e07",
       "isReward": true,
       "rewardMissions": [
-        "Rayari Incorporated: Additional Resources For Research",
-        "Bounty Hunters Guild: Verified Bounty: ~mission(TargetName) | ~mission(Danger)"
+        "Rayari Incorporated: Additional Resources For Research"
       ],
       "rewardMissionKeys": [
         {
@@ -137791,18 +137855,6 @@
           "illegal": false,
           "descKeys": [
             "RAIN_collectresources_multiple_GEN_desc_01"
-          ]
-        },
-        {
-          "titleKey": "bhg_bounty_title_gen_001",
-          "titleEN": "Verified Bounty: ~mission(TargetName) | ~mission(Danger)",
-          "faction": "Bounty Hunters Guild",
-          "systems": [
-            "Stanton"
-          ],
-          "illegal": false,
-          "descKeys": [
-            "bhg_bounty_desc_FPS_intro"
           ]
         }
       ],
@@ -138089,8 +138141,7 @@
       "recordGUID": "82cb5508-47ad-4cdc-8e8d-1af302c7a3c7",
       "isReward": true,
       "rewardMissions": [
-        "Rayari Incorporated: Additional Resources For Research",
-        "Bounty Hunters Guild: Verified Bounty: ~mission(TargetName) | ~mission(Danger)"
+        "Rayari Incorporated: Additional Resources For Research"
       ],
       "rewardMissionKeys": [
         {
@@ -138101,18 +138152,6 @@
           "illegal": false,
           "descKeys": [
             "RAIN_collectresources_multiple_GEN_desc_01"
-          ]
-        },
-        {
-          "titleKey": "bhg_bounty_title_gen_001",
-          "titleEN": "Verified Bounty: ~mission(TargetName) | ~mission(Danger)",
-          "faction": "Bounty Hunters Guild",
-          "systems": [
-            "Stanton"
-          ],
-          "illegal": false,
-          "descKeys": [
-            "bhg_bounty_desc_FPS_intro"
           ]
         }
       ],
@@ -138414,8 +138453,7 @@
       "recordGUID": "88ec9807-6a6e-4739-ac55-6c61b1787135",
       "isReward": true,
       "rewardMissions": [
-        "Rayari Incorporated: Additional Resources For Research",
-        "Bounty Hunters Guild: Verified Bounty: ~mission(TargetName) | ~mission(Danger)"
+        "Rayari Incorporated: Additional Resources For Research"
       ],
       "rewardMissionKeys": [
         {
@@ -138426,18 +138464,6 @@
           "illegal": false,
           "descKeys": [
             "RAIN_collectresources_multiple_GEN_desc_01"
-          ]
-        },
-        {
-          "titleKey": "bhg_bounty_title_gen_001",
-          "titleEN": "Verified Bounty: ~mission(TargetName) | ~mission(Danger)",
-          "faction": "Bounty Hunters Guild",
-          "systems": [
-            "Stanton"
-          ],
-          "illegal": false,
-          "descKeys": [
-            "bhg_bounty_desc_FPS_intro"
           ]
         }
       ],
@@ -138724,8 +138750,7 @@
       "recordGUID": "947f8d7f-9101-48e4-b5c4-95bda222c03c",
       "isReward": true,
       "rewardMissions": [
-        "Rayari Incorporated: Additional Resources For Research",
-        "Bounty Hunters Guild: Verified Bounty: ~mission(TargetName) | ~mission(Danger)"
+        "Rayari Incorporated: Additional Resources For Research"
       ],
       "rewardMissionKeys": [
         {
@@ -138736,18 +138761,6 @@
           "illegal": false,
           "descKeys": [
             "RAIN_collectresources_multiple_GEN_desc_01"
-          ]
-        },
-        {
-          "titleKey": "bhg_bounty_title_gen_001",
-          "titleEN": "Verified Bounty: ~mission(TargetName) | ~mission(Danger)",
-          "faction": "Bounty Hunters Guild",
-          "systems": [
-            "Stanton"
-          ],
-          "illegal": false,
-          "descKeys": [
-            "bhg_bounty_desc_FPS_intro"
           ]
         }
       ],
@@ -139049,8 +139062,7 @@
       "recordGUID": "db07e633-0281-4f0e-8209-d151e62f9269",
       "isReward": true,
       "rewardMissions": [
-        "Rayari Incorporated: Additional Resources For Research",
-        "Bounty Hunters Guild: Verified Bounty: ~mission(TargetName) | ~mission(Danger)"
+        "Rayari Incorporated: Additional Resources For Research"
       ],
       "rewardMissionKeys": [
         {
@@ -139061,18 +139073,6 @@
           "illegal": false,
           "descKeys": [
             "RAIN_collectresources_multiple_GEN_desc_01"
-          ]
-        },
-        {
-          "titleKey": "bhg_bounty_title_gen_001",
-          "titleEN": "Verified Bounty: ~mission(TargetName) | ~mission(Danger)",
-          "faction": "Bounty Hunters Guild",
-          "systems": [
-            "Stanton"
-          ],
-          "illegal": false,
-          "descKeys": [
-            "bhg_bounty_desc_FPS_intro"
           ]
         }
       ],
@@ -139270,8 +139270,7 @@
       "recordGUID": "d61972a1-b0eb-4f33-8a2f-2dd1c62bedf9",
       "isReward": true,
       "rewardMissions": [
-        "Rayari Incorporated: Additional Resources For Research",
-        "Bounty Hunters Guild: Verified Bounty: ~mission(TargetName) | ~mission(Danger)"
+        "Rayari Incorporated: Additional Resources For Research"
       ],
       "rewardMissionKeys": [
         {
@@ -139282,18 +139281,6 @@
           "illegal": false,
           "descKeys": [
             "RAIN_collectresources_multiple_GEN_desc_01"
-          ]
-        },
-        {
-          "titleKey": "bhg_bounty_title_gen_001",
-          "titleEN": "Verified Bounty: ~mission(TargetName) | ~mission(Danger)",
-          "faction": "Bounty Hunters Guild",
-          "systems": [
-            "Stanton"
-          ],
-          "illegal": false,
-          "descKeys": [
-            "bhg_bounty_desc_FPS_intro"
           ]
         }
       ],
@@ -139595,8 +139582,7 @@
       "recordGUID": "ed5cb4c0-a292-4913-a977-da104950fb07",
       "isReward": true,
       "rewardMissions": [
-        "Rayari Incorporated: Additional Resources For Research",
-        "Bounty Hunters Guild: Verified Bounty: ~mission(TargetName) | ~mission(Danger)"
+        "Rayari Incorporated: Additional Resources For Research"
       ],
       "rewardMissionKeys": [
         {
@@ -139607,18 +139593,6 @@
           "illegal": false,
           "descKeys": [
             "RAIN_collectresources_multiple_GEN_desc_01"
-          ]
-        },
-        {
-          "titleKey": "bhg_bounty_title_gen_001",
-          "titleEN": "Verified Bounty: ~mission(TargetName) | ~mission(Danger)",
-          "faction": "Bounty Hunters Guild",
-          "systems": [
-            "Stanton"
-          ],
-          "illegal": false,
-          "descKeys": [
-            "bhg_bounty_desc_FPS_intro"
           ]
         }
       ],
@@ -146525,6 +146499,7 @@
         "Miles Eckhart: Stop Attack on High-Profile Client",
         "InterSec Defense Solutions: New Defense Contract: ~mission(TargetName) Elimination",
         "Citizens For Prosperity: Respond to Distress Beacon",
+        "Bounty Hunters Guild: Verified Bounty: ~mission(TargetName) | ~mission(Danger)",
         "Miles Eckhart: Save Ship",
         "InterSec Defense Solutions: Preemptive Strike On ~mission(TargetName)",
         "Highpoint Wilderness Specialists: Reduce Valakkar Breaker Station Population",
@@ -146610,6 +146585,18 @@
           "illegal": false,
           "descKeys": [
             "cfp_defendship_multi_VHRT_desc_001"
+          ]
+        },
+        {
+          "titleKey": "bhg_bounty_title_gen_001",
+          "titleEN": "Verified Bounty: ~mission(TargetName) | ~mission(Danger)",
+          "faction": "Bounty Hunters Guild",
+          "systems": [
+            "Nyx"
+          ],
+          "illegal": false,
+          "descKeys": [
+            "bhg_bounty_desc_gen_001"
           ]
         },
         {
@@ -146911,6 +146898,7 @@
         "Miles Eckhart: Stop Attack on High-Profile Client",
         "InterSec Defense Solutions: New Defense Contract: ~mission(TargetName) Elimination",
         "Citizens For Prosperity: Respond to Distress Beacon",
+        "Bounty Hunters Guild: Verified Bounty: ~mission(TargetName) | ~mission(Danger)",
         "Miles Eckhart: Save Ship",
         "InterSec Defense Solutions: Preemptive Strike On ~mission(TargetName)",
         "Highpoint Wilderness Specialists: Reduce Valakkar Breaker Station Population",
@@ -147010,6 +146998,18 @@
           "illegal": false,
           "descKeys": [
             "cfp_defendship_multi_VHRT_desc_001"
+          ]
+        },
+        {
+          "titleKey": "bhg_bounty_title_gen_001",
+          "titleEN": "Verified Bounty: ~mission(TargetName) | ~mission(Danger)",
+          "faction": "Bounty Hunters Guild",
+          "systems": [
+            "Nyx"
+          ],
+          "illegal": false,
+          "descKeys": [
+            "bhg_bounty_desc_gen_001"
           ]
         },
         {
