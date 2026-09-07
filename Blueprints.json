@@ -84722,7 +84722,7 @@
       "file": "crafting\\blueprints\\crafting\\vehiclegear\\salvage\\bp_craft_salvage_modifier_scraper_salvation_small.xml",
       "recordName": "CraftingBlueprintRecord.BP_CRAFT_SALVAGE_MODIFIER_SCRAPER_SALVATION_SMALL",
       "recordGUID": "b4160c11-75f9-4699-8aab-7b21abf75bc6",
-      "isReward": true,
+      "isReward": false,
       "rewardMissions": [
         "Adagio Holdings: Salvager Needed (Med. Supply of RMC)",
         "Adagio Holdings: Salvager Needed (Lrg. Special Order of RMC / UCM / Components)",
