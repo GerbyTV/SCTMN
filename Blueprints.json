@@ -9186,10 +9186,8 @@
       "file": "crafting\\blueprints\\crafting\\fpsgear\\armour\\combat\\heavy\\bp_craft_cds_combat_heavy_arms_01_02_02.xml",
       "recordName": "CraftingBlueprintRecord.BP_CRAFT_cds_combat_heavy_arms_01_02_02",
       "recordGUID": "5fa322e9-ddb3-4696-94fb-45725aca6aef",
-      "isReward": true,
-      "rewardMissions": [
-        "Crusader Industries: ORS_ScenarioProgress 288000"
-      ],
+      "isReward": false,
+      "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_cds_combat_heavy_arms_01_02_02",
       "locKey": "@item_Name_cds_combat_heavy_arms_01_02_02",
@@ -9497,10 +9495,8 @@
       "file": "crafting\\blueprints\\crafting\\fpsgear\\armour\\combat\\heavy\\bp_craft_cds_combat_heavy_core_01_02_02.xml",
       "recordName": "CraftingBlueprintRecord.BP_CRAFT_cds_combat_heavy_core_01_02_02",
       "recordGUID": "d0d6a9aa-9e5a-4e11-8211-d080faeeca47",
-      "isReward": true,
-      "rewardMissions": [
-        "Crusader Industries: ORS_ScenarioProgress 288000"
-      ],
+      "isReward": false,
+      "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_cds_combat_heavy_core_01_02_02",
       "locKey": "@item_Name_cds_combat_heavy_core_01_02_02",
@@ -9808,10 +9804,8 @@
       "file": "crafting\\blueprints\\crafting\\fpsgear\\armour\\combat\\heavy\\bp_craft_cds_combat_heavy_helmet_01_02_02.xml",
       "recordName": "CraftingBlueprintRecord.BP_CRAFT_cds_combat_heavy_helmet_01_02_02",
       "recordGUID": "b7c1c3e2-7c74-4219-830c-7a75c4d13f80",
-      "isReward": true,
-      "rewardMissions": [
-        "Crusader Industries: ORS_ScenarioProgress 288000"
-      ],
+      "isReward": false,
+      "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_cds_combat_heavy_helmet_01_02_02",
       "locKey": "@item_Name_cds_combat_heavy_helmet_01_02_02",
@@ -10119,10 +10113,8 @@
       "file": "crafting\\blueprints\\crafting\\fpsgear\\armour\\combat\\heavy\\bp_craft_cds_combat_heavy_legs_01_02_02.xml",
       "recordName": "CraftingBlueprintRecord.BP_CRAFT_cds_combat_heavy_legs_01_02_02",
       "recordGUID": "d7471459-d238-4f44-b5c5-e793377de11a",
-      "isReward": true,
-      "rewardMissions": [
-        "Crusader Industries: ORS_ScenarioProgress 288000"
-      ],
+      "isReward": false,
+      "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_cds_combat_heavy_legs_01_02_02",
       "locKey": "@item_Name_cds_combat_heavy_legs_01_02_02",
@@ -70254,10 +70246,8 @@
       "file": "crafting\\blueprints\\crafting\\fpsgear\\armour\\combat\\light\\bp_craft_cds_combat_light_arms_02_02_01.xml",
       "recordName": "CraftingBlueprintRecord.BP_CRAFT_cds_combat_light_arms_02_02_01",
       "recordGUID": "350cc844-93d1-49a7-a2fc-b50eac006945",
-      "isReward": true,
-      "rewardMissions": [
-        "Crusader Industries: ORS_ScenarioProgress 72000"
-      ],
+      "isReward": false,
+      "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_cds_combat_light_arms_02_02_01",
       "locKey": "@item_Name_cds_combat_light_arms_02_02_01",
@@ -70325,10 +70315,8 @@
       "file": "crafting\\blueprints\\crafting\\fpsgear\\armour\\combat\\light\\bp_craft_cds_combat_light_core_02_02_01.xml",
       "recordName": "CraftingBlueprintRecord.BP_CRAFT_cds_combat_light_core_02_02_01",
       "recordGUID": "1ac52ca8-a15c-445a-9b1b-adbc4f060cf0",
-      "isReward": true,
-      "rewardMissions": [
-        "Crusader Industries: ORS_ScenarioProgress 72000"
-      ],
+      "isReward": false,
+      "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_cds_combat_light_core_02_02_01",
       "locKey": "@item_Name_cds_combat_light_core_02_02_01",
@@ -70396,10 +70384,8 @@
       "file": "crafting\\blueprints\\crafting\\fpsgear\\armour\\combat\\light\\bp_craft_cds_combat_light_helmet_02_02_01.xml",
       "recordName": "CraftingBlueprintRecord.BP_CRAFT_cds_combat_light_helmet_02_02_01",
       "recordGUID": "e75c0be5-82b7-4cdf-ab29-7187040a27ac",
-      "isReward": true,
-      "rewardMissions": [
-        "Crusader Industries: ORS_ScenarioProgress 72000"
-      ],
+      "isReward": false,
+      "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_cds_combat_light_helmet_02_02_01",
       "locKey": "@item_Name_cds_combat_light_helmet_02_02_01",
@@ -70467,10 +70453,8 @@
       "file": "crafting\\blueprints\\crafting\\fpsgear\\armour\\combat\\light\\bp_craft_cds_combat_light_legs_02_02_01.xml",
       "recordName": "CraftingBlueprintRecord.BP_CRAFT_cds_combat_light_legs_02_02_01",
       "recordGUID": "77047612-1413-4401-a29d-74822babf286",
-      "isReward": true,
-      "rewardMissions": [
-        "Crusader Industries: ORS_ScenarioProgress 72000"
-      ],
+      "isReward": false,
+      "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_cds_combat_light_legs_02_02_01",
       "locKey": "@item_Name_cds_combat_light_legs_02_02_01",
@@ -70538,10 +70522,8 @@
       "file": "crafting\\blueprints\\crafting\\fpsgear\\armour\\undersuit\\bp_craft_cds_undersuit_01_02_02.xml",
       "recordName": "CraftingBlueprintRecord.BP_CRAFT_cds_undersuit_01_02_02",
       "recordGUID": "3ac19a05-1b4c-4c10-bfd4-78b8a44a59be",
-      "isReward": true,
-      "rewardMissions": [
-        "Crusader Industries: ORS_ScenarioProgress 288000"
-      ],
+      "isReward": false,
+      "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_cds_undersuit_01_02_02",
       "locKey": "@item_Name_cds_undersuit_armor_01_02_02",
@@ -102936,10 +102918,8 @@
       "file": "crafting\\blueprints\\crafting\\fpsgear\\weapons\\smg\\bp_craft_klwe_smg_energy_01_mr01.xml",
       "recordName": "CraftingBlueprintRecord.BP_CRAFT_klwe_smg_energy_01_mr01",
       "recordGUID": "b488199e-f0fc-4e8b-89bd-d3a435d6dce1",
-      "isReward": true,
-      "rewardMissions": [
-        "Crusader Industries: ORS_ScenarioProgress 230400"
-      ],
+      "isReward": false,
+      "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_klwe_smg_energy_01_mr01",
       "locKey": "@item_Nameklwe_smg_energy_01_mr01",
@@ -126268,10 +126248,8 @@
       "file": "crafting\\blueprints\\crafting\\fpsgear\\armour\\combat\\medium\\bp_craft_cds_combat_medium_arms_01_02_01.xml",
       "recordName": "CraftingBlueprintRecord.BP_CRAFT_cds_combat_medium_arms_01_02_01",
       "recordGUID": "939fd17c-9ab9-42ba-9c66-bdff35650f10",
-      "isReward": true,
-      "rewardMissions": [
-        "Crusader Industries: ORS_ScenarioProgress 164160"
-      ],
+      "isReward": false,
+      "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_cds_combat_medium_arms_01_02_01",
       "locKey": "@item_Name_cds_combat_medium_arms_01_02_01",
@@ -126875,10 +126853,8 @@
       "file": "crafting\\blueprints\\crafting\\fpsgear\\armour\\combat\\medium\\bp_craft_cds_combat_medium_core_01_02_01.xml",
       "recordName": "CraftingBlueprintRecord.BP_CRAFT_cds_combat_medium_core_01_02_01",
       "recordGUID": "cfb81d2e-21f6-432e-9293-335a2b76833e",
-      "isReward": true,
-      "rewardMissions": [
-        "Crusader Industries: ORS_ScenarioProgress 164160"
-      ],
+      "isReward": false,
+      "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_cds_combat_medium_core_01_02_01",
       "locKey": "@item_Name_cds_combat_medium_core_01_02_01",
@@ -127482,10 +127458,8 @@
       "file": "crafting\\blueprints\\crafting\\fpsgear\\armour\\combat\\medium\\bp_craft_cds_combat_medium_helmet_01_02_01.xml",
       "recordName": "CraftingBlueprintRecord.BP_CRAFT_cds_combat_medium_helmet_01_02_01",
       "recordGUID": "7e329a5d-3b5a-4f8c-a1ec-1299ef1debd9",
-      "isReward": true,
-      "rewardMissions": [
-        "Crusader Industries: ORS_ScenarioProgress 164160"
-      ],
+      "isReward": false,
+      "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_cds_combat_medium_helmet_01_02_01",
       "locKey": "@item_Name_cds_combat_medium_helmet_01_02_01,P",
@@ -128090,10 +128064,8 @@
       "file": "crafting\\blueprints\\crafting\\fpsgear\\armour\\combat\\medium\\bp_craft_cds_combat_medium_legs_01_02_01.xml",
       "recordName": "CraftingBlueprintRecord.BP_CRAFT_cds_combat_medium_legs_01_02_01",
       "recordGUID": "ad7e7203-073a-4937-a43e-d5ed7170e460",
-      "isReward": true,
-      "rewardMissions": [
-        "Crusader Industries: ORS_ScenarioProgress 164160"
-      ],
+      "isReward": false,
+      "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_cds_combat_medium_legs_01_02_01",
       "locKey": "@item_Name_cds_combat_medium_legs_01_02_01",
@@ -129248,10 +129220,8 @@
       "file": "crafting\\blueprints\\crafting\\fpsgear\\weapons\\rifle\\bp_craft_behr_rifle_ballistic_01_mr01.xml",
       "recordName": "CraftingBlueprintRecord.BP_CRAFT_behr_rifle_ballistic_01_mr01",
       "recordGUID": "7012c8b6-a894-41c2-a954-5b8f3f3e1b9a",
-      "isReward": true,
-      "rewardMissions": [
-        "Crusader Industries: ORS_ScenarioProgress 123840"
-      ],
+      "isReward": false,
+      "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_behr_rifle_ballistic_01_mr01",
       "locKey": "@item_Namebehr_rifle_ballistic_01_mr01",
@@ -149260,10 +149230,8 @@
       "file": "crafting\\blueprints\\crafting\\fpsgear\\weapons\\pistol\\bp_craft_behr_pistol_ballistic_01_mr01.xml",
       "recordName": "CraftingBlueprintRecord.BP_CRAFT_behr_pistol_ballistic_01_mr01",
       "recordGUID": "020bb260-171f-441b-9bc0-6e44284efa1a",
-      "isReward": true,
-      "rewardMissions": [
-        "Crusader Industries: ORS_ScenarioProgress 43200"
-      ],
+      "isReward": false,
+      "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_behr_pistol_ballistic_01_mr01",
       "locKey": "@item_Namebehr_pistol_ballistic_01_mr01",
