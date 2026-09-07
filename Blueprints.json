@@ -42870,14 +42870,14 @@
       "recordGUID": "6713db41-8231-4e71-b7a2-74073ddd4b50",
       "isReward": true,
       "rewardMissions": [
-        "Miles Eckhart: Deal with ~mission(TargetName) and Support Forces",
-        "Miles Eckhart: High-Risk Bounty: ~mission(TargetName)"
+        "Eckhart Sécurité: Deal with ~mission(TargetName) and Support Forces",
+        "Eckhart Sécurité: High-Risk Bounty: ~mission(TargetName)"
       ],
       "rewardMissionKeys": [
         {
           "titleKey": "EckhartSecurity_MultiEliminateAllAndBoss_DC_Title_001",
           "titleEN": "Deal with ~mission(TargetName) and Support Forces",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Stanton"
           ],
@@ -42889,7 +42889,7 @@
         {
           "titleKey": "EckhartSecurity_EliminateBoss_DC_Title_001",
           "titleEN": "High-Risk Bounty: ~mission(TargetName)",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Stanton"
           ],
@@ -51434,19 +51434,19 @@
       "recordGUID": "02a12ac4-9436-4f03-9da4-043427bd5678",
       "isReward": true,
       "rewardMissions": [
-        "Miles Eckhart: Launch Surprise Attack",
-        "Miles Eckhart: Tricky Ambush",
-        "Miles Eckhart: Dangerous Ambush",
-        "Miles Eckhart: Settle a Score",
-        "Miles Eckhart: Highly Dangerous Ambush",
-        "Miles Eckhart: Time to Teach a Lesson",
-        "Miles Eckhart: New Opportunity - Ambush Strike"
+        "Eckhart Sécurité: Launch Surprise Attack",
+        "Eckhart Sécurité: Tricky Ambush",
+        "Eckhart Sécurité: Dangerous Ambush",
+        "Eckhart Sécurité: Settle a Score",
+        "Eckhart Sécurité: Highly Dangerous Ambush",
+        "Eckhart Sécurité: Time to Teach a Lesson",
+        "Eckhart Sécurité: New Opportunity - Ambush Strike"
       ],
       "rewardMissionKeys": [
         {
           "titleKey": "Eckhart_ShipAmbush_M_title",
           "titleEN": "Launch Surprise Attack",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -51458,7 +51458,7 @@
         {
           "titleKey": "Eckhart_ShipAmbush_H_title",
           "titleEN": "Tricky Ambush",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -51470,7 +51470,7 @@
         {
           "titleKey": "Eckhart_ShipAmbush_VH_title",
           "titleEN": "Dangerous Ambush",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -51482,7 +51482,7 @@
         {
           "titleKey": "Eckhart_ShipAmbush_VE_title",
           "titleEN": "Settle a Score",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -51494,7 +51494,7 @@
         {
           "titleKey": "Eckhart_ShipAmbush_S_title",
           "titleEN": "Highly Dangerous Ambush",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -51506,7 +51506,7 @@
         {
           "titleKey": "Eckhart_ShipAmbush_E_title",
           "titleEN": "Time to Teach a Lesson",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -51518,7 +51518,7 @@
         {
           "titleKey": "Eckhart_ShipAmbush_Intro_title",
           "titleEN": "New Opportunity - Ambush Strike",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -62157,16 +62157,16 @@
       "recordGUID": "8e3ac3f9-a7ed-4959-8527-6bf030a0293d",
       "isReward": true,
       "rewardMissions": [
-        "Miles Eckhart: Launch Surprise Attack",
-        "Miles Eckhart: Tricky Ambush",
-        "Miles Eckhart: Dangerous Ambush",
-        "Miles Eckhart: Highly Dangerous Ambush"
+        "Eckhart Sécurité: Launch Surprise Attack",
+        "Eckhart Sécurité: Tricky Ambush",
+        "Eckhart Sécurité: Dangerous Ambush",
+        "Eckhart Sécurité: Highly Dangerous Ambush"
       ],
       "rewardMissionKeys": [
         {
           "titleKey": "Eckhart_ShipAmbush_M_title",
           "titleEN": "Launch Surprise Attack",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -62178,7 +62178,7 @@
         {
           "titleKey": "Eckhart_ShipAmbush_H_title",
           "titleEN": "Tricky Ambush",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -62190,7 +62190,7 @@
         {
           "titleKey": "Eckhart_ShipAmbush_VH_title",
           "titleEN": "Dangerous Ambush",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -62202,7 +62202,7 @@
         {
           "titleKey": "Eckhart_ShipAmbush_S_title",
           "titleEN": "Highly Dangerous Ambush",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -65571,14 +65571,14 @@
       "recordGUID": "9e514c69-af37-4e55-808a-63c5822e6acf",
       "isReward": true,
       "rewardMissions": [
-        "Miles Eckhart: Deal with ~mission(TargetName) and Support Forces",
-        "Miles Eckhart: High-Risk Bounty: ~mission(TargetName)"
+        "Eckhart Sécurité: Deal with ~mission(TargetName) and Support Forces",
+        "Eckhart Sécurité: High-Risk Bounty: ~mission(TargetName)"
       ],
       "rewardMissionKeys": [
         {
           "titleKey": "EckhartSecurity_MultiEliminateAllAndBoss_DC_Title_001",
           "titleEN": "Deal with ~mission(TargetName) and Support Forces",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Stanton"
           ],
@@ -65590,7 +65590,7 @@
         {
           "titleKey": "EckhartSecurity_EliminateBoss_DC_Title_001",
           "titleEN": "High-Risk Bounty: ~mission(TargetName)",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Stanton"
           ],
@@ -67981,15 +67981,15 @@
       "recordGUID": "30ec1d99-ec11-4f6d-bdeb-bffcb5a93cfb",
       "isReward": true,
       "rewardMissions": [
-        "Miles Eckhart: Tricky Ambush",
-        "Miles Eckhart: Dangerous Ambush",
-        "Miles Eckhart: Highly Dangerous Ambush"
+        "Eckhart Sécurité: Tricky Ambush",
+        "Eckhart Sécurité: Dangerous Ambush",
+        "Eckhart Sécurité: Highly Dangerous Ambush"
       ],
       "rewardMissionKeys": [
         {
           "titleKey": "Eckhart_ShipAmbush_H_title",
           "titleEN": "Tricky Ambush",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -68001,7 +68001,7 @@
         {
           "titleKey": "Eckhart_ShipAmbush_VH_title",
           "titleEN": "Dangerous Ambush",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -68013,7 +68013,7 @@
         {
           "titleKey": "Eckhart_ShipAmbush_S_title",
           "titleEN": "Highly Dangerous Ambush",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -70928,14 +70928,14 @@
       "recordGUID": "373079a1-8480-49d8-bd97-ea0c4fa24432",
       "isReward": true,
       "rewardMissions": [
-        "Miles Eckhart: Deal with ~mission(TargetName) and Support Forces",
-        "Miles Eckhart: High-Risk Bounty: ~mission(TargetName)"
+        "Eckhart Sécurité: Deal with ~mission(TargetName) and Support Forces",
+        "Eckhart Sécurité: High-Risk Bounty: ~mission(TargetName)"
       ],
       "rewardMissionKeys": [
         {
           "titleKey": "EckhartSecurity_MultiEliminateAllAndBoss_DC_Title_001",
           "titleEN": "Deal with ~mission(TargetName) and Support Forces",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Stanton"
           ],
@@ -70947,7 +70947,7 @@
         {
           "titleKey": "EckhartSecurity_EliminateBoss_DC_Title_001",
           "titleEN": "High-Risk Bounty: ~mission(TargetName)",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Stanton"
           ],
@@ -71136,16 +71136,16 @@
       "recordGUID": "f4a4939e-2d1c-40db-af6a-e29ec625fc7e",
       "isReward": true,
       "rewardMissions": [
-        "Miles Eckhart: Launch Surprise Attack",
-        "Miles Eckhart: Tricky Ambush",
-        "Miles Eckhart: Dangerous Ambush",
-        "Miles Eckhart: Highly Dangerous Ambush"
+        "Eckhart Sécurité: Launch Surprise Attack",
+        "Eckhart Sécurité: Tricky Ambush",
+        "Eckhart Sécurité: Dangerous Ambush",
+        "Eckhart Sécurité: Highly Dangerous Ambush"
       ],
       "rewardMissionKeys": [
         {
           "titleKey": "Eckhart_ShipAmbush_M_title",
           "titleEN": "Launch Surprise Attack",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -71157,7 +71157,7 @@
         {
           "titleKey": "Eckhart_ShipAmbush_H_title",
           "titleEN": "Tricky Ambush",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -71169,7 +71169,7 @@
         {
           "titleKey": "Eckhart_ShipAmbush_VH_title",
           "titleEN": "Dangerous Ambush",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -71181,7 +71181,7 @@
         {
           "titleKey": "Eckhart_ShipAmbush_S_title",
           "titleEN": "Highly Dangerous Ambush",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -71267,16 +71267,16 @@
       "recordGUID": "721c2625-e684-4dfb-8a58-356fcf92022d",
       "isReward": true,
       "rewardMissions": [
-        "Miles Eckhart: Launch Surprise Attack",
-        "Miles Eckhart: Tricky Ambush",
-        "Miles Eckhart: Dangerous Ambush",
-        "Miles Eckhart: Highly Dangerous Ambush"
+        "Eckhart Sécurité: Launch Surprise Attack",
+        "Eckhart Sécurité: Tricky Ambush",
+        "Eckhart Sécurité: Dangerous Ambush",
+        "Eckhart Sécurité: Highly Dangerous Ambush"
       ],
       "rewardMissionKeys": [
         {
           "titleKey": "Eckhart_ShipAmbush_M_title",
           "titleEN": "Launch Surprise Attack",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -71288,7 +71288,7 @@
         {
           "titleKey": "Eckhart_ShipAmbush_H_title",
           "titleEN": "Tricky Ambush",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -71300,7 +71300,7 @@
         {
           "titleKey": "Eckhart_ShipAmbush_VH_title",
           "titleEN": "Dangerous Ambush",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -71312,7 +71312,7 @@
         {
           "titleKey": "Eckhart_ShipAmbush_S_title",
           "titleEN": "Highly Dangerous Ambush",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -71398,16 +71398,16 @@
       "recordGUID": "323d25f0-7345-4a74-9c18-c29524eb0a6b",
       "isReward": true,
       "rewardMissions": [
-        "Miles Eckhart: Launch Surprise Attack",
-        "Miles Eckhart: Tricky Ambush",
-        "Miles Eckhart: Dangerous Ambush",
-        "Miles Eckhart: Highly Dangerous Ambush"
+        "Eckhart Sécurité: Launch Surprise Attack",
+        "Eckhart Sécurité: Tricky Ambush",
+        "Eckhart Sécurité: Dangerous Ambush",
+        "Eckhart Sécurité: Highly Dangerous Ambush"
       ],
       "rewardMissionKeys": [
         {
           "titleKey": "Eckhart_ShipAmbush_M_title",
           "titleEN": "Launch Surprise Attack",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -71419,7 +71419,7 @@
         {
           "titleKey": "Eckhart_ShipAmbush_H_title",
           "titleEN": "Tricky Ambush",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -71431,7 +71431,7 @@
         {
           "titleKey": "Eckhart_ShipAmbush_VH_title",
           "titleEN": "Dangerous Ambush",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -71443,7 +71443,7 @@
         {
           "titleKey": "Eckhart_ShipAmbush_S_title",
           "titleEN": "Highly Dangerous Ambush",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -79938,16 +79938,16 @@
       "recordGUID": "35f34597-906c-4cc6-b823-ab331fbb34b8",
       "isReward": true,
       "rewardMissions": [
-        "Miles Eckhart: Launch Surprise Attack",
-        "Miles Eckhart: Tricky Ambush",
-        "Miles Eckhart: Dangerous Ambush",
-        "Miles Eckhart: Highly Dangerous Ambush"
+        "Eckhart Sécurité: Launch Surprise Attack",
+        "Eckhart Sécurité: Tricky Ambush",
+        "Eckhart Sécurité: Dangerous Ambush",
+        "Eckhart Sécurité: Highly Dangerous Ambush"
       ],
       "rewardMissionKeys": [
         {
           "titleKey": "Eckhart_ShipAmbush_M_title",
           "titleEN": "Launch Surprise Attack",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -79959,7 +79959,7 @@
         {
           "titleKey": "Eckhart_ShipAmbush_H_title",
           "titleEN": "Tricky Ambush",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -79971,7 +79971,7 @@
         {
           "titleKey": "Eckhart_ShipAmbush_VH_title",
           "titleEN": "Dangerous Ambush",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -79983,7 +79983,7 @@
         {
           "titleKey": "Eckhart_ShipAmbush_S_title",
           "titleEN": "Highly Dangerous Ambush",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -84956,15 +84956,15 @@
       "recordGUID": "49715f66-325c-4239-82b1-3a494c359e3e",
       "isReward": true,
       "rewardMissions": [
-        "Miles Eckhart: Top Tier Operator Needed",
-        "Miles Eckhart: Protection Detail Needed. High Risk.",
-        "Miles Eckhart: VIP Client Needs Protection"
+        "Eckhart Sécurité: Top Tier Operator Needed",
+        "Eckhart Sécurité: Protection Detail Needed. High Risk.",
+        "Eckhart Sécurité: VIP Client Needs Protection"
       ],
       "rewardMissionKeys": [
         {
           "titleKey": "Eckhart_EscortShips_S_title",
           "titleEN": "Top Tier Operator Needed",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -84976,7 +84976,7 @@
         {
           "titleKey": "Eckhart_EscortShips_VH_title",
           "titleEN": "Protection Detail Needed. High Risk.",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -84988,7 +84988,7 @@
         {
           "titleKey": "Eckhart_EscortShips_H_title",
           "titleEN": "VIP Client Needs Protection",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -86263,15 +86263,15 @@
       "recordGUID": "49e3ffa8-a54b-4af5-bbd3-2f0f39f54750",
       "isReward": true,
       "rewardMissions": [
-        "Miles Eckhart: Top Tier Operator Needed",
-        "Miles Eckhart: Protection Detail Needed. High Risk.",
-        "Miles Eckhart: VIP Client Needs Protection"
+        "Eckhart Sécurité: Top Tier Operator Needed",
+        "Eckhart Sécurité: Protection Detail Needed. High Risk.",
+        "Eckhart Sécurité: VIP Client Needs Protection"
       ],
       "rewardMissionKeys": [
         {
           "titleKey": "Eckhart_EscortShips_S_title",
           "titleEN": "Top Tier Operator Needed",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -86283,7 +86283,7 @@
         {
           "titleKey": "Eckhart_EscortShips_VH_title",
           "titleEN": "Protection Detail Needed. High Risk.",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -86295,7 +86295,7 @@
         {
           "titleKey": "Eckhart_EscortShips_H_title",
           "titleEN": "VIP Client Needs Protection",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -101567,19 +101567,19 @@
       "recordGUID": "78b1bf49-bdd8-48e9-9cbe-1faeb95f24d5",
       "isReward": true,
       "rewardMissions": [
-        "Miles Eckhart: Launch Surprise Attack",
-        "Miles Eckhart: Tricky Ambush",
-        "Miles Eckhart: Dangerous Ambush",
-        "Miles Eckhart: Settle a Score",
-        "Miles Eckhart: Highly Dangerous Ambush",
-        "Miles Eckhart: Time to Teach a Lesson",
-        "Miles Eckhart: New Opportunity - Ambush Strike"
+        "Eckhart Sécurité: Launch Surprise Attack",
+        "Eckhart Sécurité: Tricky Ambush",
+        "Eckhart Sécurité: Dangerous Ambush",
+        "Eckhart Sécurité: Settle a Score",
+        "Eckhart Sécurité: Highly Dangerous Ambush",
+        "Eckhart Sécurité: Time to Teach a Lesson",
+        "Eckhart Sécurité: New Opportunity - Ambush Strike"
       ],
       "rewardMissionKeys": [
         {
           "titleKey": "Eckhart_ShipAmbush_M_title",
           "titleEN": "Launch Surprise Attack",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -101591,7 +101591,7 @@
         {
           "titleKey": "Eckhart_ShipAmbush_H_title",
           "titleEN": "Tricky Ambush",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -101603,7 +101603,7 @@
         {
           "titleKey": "Eckhart_ShipAmbush_VH_title",
           "titleEN": "Dangerous Ambush",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -101615,7 +101615,7 @@
         {
           "titleKey": "Eckhart_ShipAmbush_VE_title",
           "titleEN": "Settle a Score",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -101627,7 +101627,7 @@
         {
           "titleKey": "Eckhart_ShipAmbush_S_title",
           "titleEN": "Highly Dangerous Ambush",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -101639,7 +101639,7 @@
         {
           "titleKey": "Eckhart_ShipAmbush_E_title",
           "titleEN": "Time to Teach a Lesson",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -101651,7 +101651,7 @@
         {
           "titleKey": "Eckhart_ShipAmbush_Intro_title",
           "titleEN": "New Opportunity - Ambush Strike",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -101737,19 +101737,19 @@
       "recordGUID": "5907d8df-c6c0-4609-83d9-a6130a7b210a",
       "isReward": true,
       "rewardMissions": [
-        "Miles Eckhart: Launch Surprise Attack",
-        "Miles Eckhart: Tricky Ambush",
-        "Miles Eckhart: Dangerous Ambush",
-        "Miles Eckhart: Settle a Score",
-        "Miles Eckhart: Highly Dangerous Ambush",
-        "Miles Eckhart: Time to Teach a Lesson",
-        "Miles Eckhart: New Opportunity - Ambush Strike"
+        "Eckhart Sécurité: Launch Surprise Attack",
+        "Eckhart Sécurité: Tricky Ambush",
+        "Eckhart Sécurité: Dangerous Ambush",
+        "Eckhart Sécurité: Settle a Score",
+        "Eckhart Sécurité: Highly Dangerous Ambush",
+        "Eckhart Sécurité: Time to Teach a Lesson",
+        "Eckhart Sécurité: New Opportunity - Ambush Strike"
       ],
       "rewardMissionKeys": [
         {
           "titleKey": "Eckhart_ShipAmbush_M_title",
           "titleEN": "Launch Surprise Attack",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -101761,7 +101761,7 @@
         {
           "titleKey": "Eckhart_ShipAmbush_H_title",
           "titleEN": "Tricky Ambush",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -101773,7 +101773,7 @@
         {
           "titleKey": "Eckhart_ShipAmbush_VH_title",
           "titleEN": "Dangerous Ambush",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -101785,7 +101785,7 @@
         {
           "titleKey": "Eckhart_ShipAmbush_VE_title",
           "titleEN": "Settle a Score",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -101797,7 +101797,7 @@
         {
           "titleKey": "Eckhart_ShipAmbush_S_title",
           "titleEN": "Highly Dangerous Ambush",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -101809,7 +101809,7 @@
         {
           "titleKey": "Eckhart_ShipAmbush_E_title",
           "titleEN": "Time to Teach a Lesson",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -101821,7 +101821,7 @@
         {
           "titleKey": "Eckhart_ShipAmbush_Intro_title",
           "titleEN": "New Opportunity - Ambush Strike",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -101907,19 +101907,19 @@
       "recordGUID": "5ef6986b-12eb-4e2d-93d3-a4def34584c0",
       "isReward": true,
       "rewardMissions": [
-        "Miles Eckhart: Launch Surprise Attack",
-        "Miles Eckhart: Tricky Ambush",
-        "Miles Eckhart: Dangerous Ambush",
-        "Miles Eckhart: Settle a Score",
-        "Miles Eckhart: Highly Dangerous Ambush",
-        "Miles Eckhart: Time to Teach a Lesson",
-        "Miles Eckhart: New Opportunity - Ambush Strike"
+        "Eckhart Sécurité: Launch Surprise Attack",
+        "Eckhart Sécurité: Tricky Ambush",
+        "Eckhart Sécurité: Dangerous Ambush",
+        "Eckhart Sécurité: Settle a Score",
+        "Eckhart Sécurité: Highly Dangerous Ambush",
+        "Eckhart Sécurité: Time to Teach a Lesson",
+        "Eckhart Sécurité: New Opportunity - Ambush Strike"
       ],
       "rewardMissionKeys": [
         {
           "titleKey": "Eckhart_ShipAmbush_M_title",
           "titleEN": "Launch Surprise Attack",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -101931,7 +101931,7 @@
         {
           "titleKey": "Eckhart_ShipAmbush_H_title",
           "titleEN": "Tricky Ambush",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -101943,7 +101943,7 @@
         {
           "titleKey": "Eckhart_ShipAmbush_VH_title",
           "titleEN": "Dangerous Ambush",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -101955,7 +101955,7 @@
         {
           "titleKey": "Eckhart_ShipAmbush_VE_title",
           "titleEN": "Settle a Score",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -101967,7 +101967,7 @@
         {
           "titleKey": "Eckhart_ShipAmbush_S_title",
           "titleEN": "Highly Dangerous Ambush",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -101979,7 +101979,7 @@
         {
           "titleKey": "Eckhart_ShipAmbush_E_title",
           "titleEN": "Time to Teach a Lesson",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -101991,7 +101991,7 @@
         {
           "titleKey": "Eckhart_ShipAmbush_Intro_title",
           "titleEN": "New Opportunity - Ambush Strike",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -102077,15 +102077,15 @@
       "recordGUID": "628ef015-246b-49b5-9943-253aace1263f",
       "isReward": true,
       "rewardMissions": [
-        "Miles Eckhart: Tricky Ambush",
-        "Miles Eckhart: Dangerous Ambush",
-        "Miles Eckhart: Highly Dangerous Ambush"
+        "Eckhart Sécurité: Tricky Ambush",
+        "Eckhart Sécurité: Dangerous Ambush",
+        "Eckhart Sécurité: Highly Dangerous Ambush"
       ],
       "rewardMissionKeys": [
         {
           "titleKey": "Eckhart_ShipAmbush_H_title",
           "titleEN": "Tricky Ambush",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -102097,7 +102097,7 @@
         {
           "titleKey": "Eckhart_ShipAmbush_VH_title",
           "titleEN": "Dangerous Ambush",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -102109,7 +102109,7 @@
         {
           "titleKey": "Eckhart_ShipAmbush_S_title",
           "titleEN": "Highly Dangerous Ambush",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -102195,15 +102195,15 @@
       "recordGUID": "cecb97f4-200d-4ecf-b428-78c3d005dcea",
       "isReward": true,
       "rewardMissions": [
-        "Miles Eckhart: Tricky Ambush",
-        "Miles Eckhart: Dangerous Ambush",
-        "Miles Eckhart: Highly Dangerous Ambush"
+        "Eckhart Sécurité: Tricky Ambush",
+        "Eckhart Sécurité: Dangerous Ambush",
+        "Eckhart Sécurité: Highly Dangerous Ambush"
       ],
       "rewardMissionKeys": [
         {
           "titleKey": "Eckhart_ShipAmbush_H_title",
           "titleEN": "Tricky Ambush",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -102215,7 +102215,7 @@
         {
           "titleKey": "Eckhart_ShipAmbush_VH_title",
           "titleEN": "Dangerous Ambush",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -102227,7 +102227,7 @@
         {
           "titleKey": "Eckhart_ShipAmbush_S_title",
           "titleEN": "Highly Dangerous Ambush",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -102313,15 +102313,15 @@
       "recordGUID": "2483cc8f-f8b3-496e-8f77-9885d4751c1f",
       "isReward": true,
       "rewardMissions": [
-        "Miles Eckhart: Tricky Ambush",
-        "Miles Eckhart: Dangerous Ambush",
-        "Miles Eckhart: Highly Dangerous Ambush"
+        "Eckhart Sécurité: Tricky Ambush",
+        "Eckhart Sécurité: Dangerous Ambush",
+        "Eckhart Sécurité: Highly Dangerous Ambush"
       ],
       "rewardMissionKeys": [
         {
           "titleKey": "Eckhart_ShipAmbush_H_title",
           "titleEN": "Tricky Ambush",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -102333,7 +102333,7 @@
         {
           "titleKey": "Eckhart_ShipAmbush_VH_title",
           "titleEN": "Dangerous Ambush",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -102345,7 +102345,7 @@
         {
           "titleKey": "Eckhart_ShipAmbush_S_title",
           "titleEN": "Highly Dangerous Ambush",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -103995,18 +103995,18 @@
       "recordGUID": "bad004a3-647a-463c-ab7f-539b992d2ac7",
       "isReward": true,
       "rewardMissions": [
-        "Miles Eckhart: Low Risk Protection Detail",
-        "Miles Eckhart: Top Tier Operator Needed",
-        "Miles Eckhart: Protection Detail Needed. High Risk.",
-        "Miles Eckhart: VIP Client Needs Protection",
-        "Miles Eckhart: Experienced Protection Detail Needed",
-        "Miles Eckhart: Executive Protection Detail"
+        "Eckhart Sécurité: Low Risk Protection Detail",
+        "Eckhart Sécurité: Top Tier Operator Needed",
+        "Eckhart Sécurité: Protection Detail Needed. High Risk.",
+        "Eckhart Sécurité: VIP Client Needs Protection",
+        "Eckhart Sécurité: Experienced Protection Detail Needed",
+        "Eckhart Sécurité: Executive Protection Detail"
       ],
       "rewardMissionKeys": [
         {
           "titleKey": "Eckhart_EscortShips_VE_title",
           "titleEN": "Low Risk Protection Detail",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -104018,7 +104018,7 @@
         {
           "titleKey": "Eckhart_EscortShips_S_title",
           "titleEN": "Top Tier Operator Needed",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -104030,7 +104030,7 @@
         {
           "titleKey": "Eckhart_EscortShips_VH_title",
           "titleEN": "Protection Detail Needed. High Risk.",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -104042,7 +104042,7 @@
         {
           "titleKey": "Eckhart_EscortShips_H_title",
           "titleEN": "VIP Client Needs Protection",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -104054,7 +104054,7 @@
         {
           "titleKey": "Eckhart_EscortShips_M_title",
           "titleEN": "Experienced Protection Detail Needed",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -104066,7 +104066,7 @@
         {
           "titleKey": "Eckhart_EscortShips_E_title",
           "titleEN": "Executive Protection Detail",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -104152,18 +104152,18 @@
       "recordGUID": "6cf912b7-6aa4-4be8-81de-58bc03ba67a6",
       "isReward": true,
       "rewardMissions": [
-        "Miles Eckhart: Low Risk Protection Detail",
-        "Miles Eckhart: Top Tier Operator Needed",
-        "Miles Eckhart: Protection Detail Needed. High Risk.",
-        "Miles Eckhart: VIP Client Needs Protection",
-        "Miles Eckhart: Experienced Protection Detail Needed",
-        "Miles Eckhart: Executive Protection Detail"
+        "Eckhart Sécurité: Low Risk Protection Detail",
+        "Eckhart Sécurité: Top Tier Operator Needed",
+        "Eckhart Sécurité: Protection Detail Needed. High Risk.",
+        "Eckhart Sécurité: VIP Client Needs Protection",
+        "Eckhart Sécurité: Experienced Protection Detail Needed",
+        "Eckhart Sécurité: Executive Protection Detail"
       ],
       "rewardMissionKeys": [
         {
           "titleKey": "Eckhart_EscortShips_VE_title",
           "titleEN": "Low Risk Protection Detail",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -104175,7 +104175,7 @@
         {
           "titleKey": "Eckhart_EscortShips_S_title",
           "titleEN": "Top Tier Operator Needed",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -104187,7 +104187,7 @@
         {
           "titleKey": "Eckhart_EscortShips_VH_title",
           "titleEN": "Protection Detail Needed. High Risk.",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -104199,7 +104199,7 @@
         {
           "titleKey": "Eckhart_EscortShips_H_title",
           "titleEN": "VIP Client Needs Protection",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -104211,7 +104211,7 @@
         {
           "titleKey": "Eckhart_EscortShips_M_title",
           "titleEN": "Experienced Protection Detail Needed",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -104223,7 +104223,7 @@
         {
           "titleKey": "Eckhart_EscortShips_E_title",
           "titleEN": "Executive Protection Detail",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -104309,18 +104309,18 @@
       "recordGUID": "9fe902be-8b39-4d71-9017-e2fed7b0604c",
       "isReward": true,
       "rewardMissions": [
-        "Miles Eckhart: Low Risk Protection Detail",
-        "Miles Eckhart: Top Tier Operator Needed",
-        "Miles Eckhart: Protection Detail Needed. High Risk.",
-        "Miles Eckhart: VIP Client Needs Protection",
-        "Miles Eckhart: Experienced Protection Detail Needed",
-        "Miles Eckhart: Executive Protection Detail"
+        "Eckhart Sécurité: Low Risk Protection Detail",
+        "Eckhart Sécurité: Top Tier Operator Needed",
+        "Eckhart Sécurité: Protection Detail Needed. High Risk.",
+        "Eckhart Sécurité: VIP Client Needs Protection",
+        "Eckhart Sécurité: Experienced Protection Detail Needed",
+        "Eckhart Sécurité: Executive Protection Detail"
       ],
       "rewardMissionKeys": [
         {
           "titleKey": "Eckhart_EscortShips_VE_title",
           "titleEN": "Low Risk Protection Detail",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -104332,7 +104332,7 @@
         {
           "titleKey": "Eckhart_EscortShips_S_title",
           "titleEN": "Top Tier Operator Needed",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -104344,7 +104344,7 @@
         {
           "titleKey": "Eckhart_EscortShips_VH_title",
           "titleEN": "Protection Detail Needed. High Risk.",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -104356,7 +104356,7 @@
         {
           "titleKey": "Eckhart_EscortShips_H_title",
           "titleEN": "VIP Client Needs Protection",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -104368,7 +104368,7 @@
         {
           "titleKey": "Eckhart_EscortShips_M_title",
           "titleEN": "Experienced Protection Detail Needed",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -104380,7 +104380,7 @@
         {
           "titleKey": "Eckhart_EscortShips_E_title",
           "titleEN": "Executive Protection Detail",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -106345,14 +106345,14 @@
       "recordGUID": "f059b40e-51a3-49c0-89d7-26a72ffcdffc",
       "isReward": true,
       "rewardMissions": [
-        "Miles Eckhart: Deal with ~mission(TargetName) and Support Forces",
-        "Miles Eckhart: High-Risk Bounty: ~mission(TargetName)"
+        "Eckhart Sécurité: Deal with ~mission(TargetName) and Support Forces",
+        "Eckhart Sécurité: High-Risk Bounty: ~mission(TargetName)"
       ],
       "rewardMissionKeys": [
         {
           "titleKey": "EckhartSecurity_MultiEliminateAllAndBoss_DC_Title_001",
           "titleEN": "Deal with ~mission(TargetName) and Support Forces",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Stanton"
           ],
@@ -106364,7 +106364,7 @@
         {
           "titleKey": "EckhartSecurity_EliminateBoss_DC_Title_001",
           "titleEN": "High-Risk Bounty: ~mission(TargetName)",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Stanton"
           ],
@@ -107089,15 +107089,15 @@
       "recordGUID": "84e8ce98-b46f-4b03-aec2-472a4e93bd97",
       "isReward": true,
       "rewardMissions": [
-        "Miles Eckhart: Top Tier Operator Needed",
-        "Miles Eckhart: Protection Detail Needed. High Risk.",
-        "Miles Eckhart: VIP Client Needs Protection"
+        "Eckhart Sécurité: Top Tier Operator Needed",
+        "Eckhart Sécurité: Protection Detail Needed. High Risk.",
+        "Eckhart Sécurité: VIP Client Needs Protection"
       ],
       "rewardMissionKeys": [
         {
           "titleKey": "Eckhart_EscortShips_S_title",
           "titleEN": "Top Tier Operator Needed",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -107109,7 +107109,7 @@
         {
           "titleKey": "Eckhart_EscortShips_VH_title",
           "titleEN": "Protection Detail Needed. High Risk.",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -107121,7 +107121,7 @@
         {
           "titleKey": "Eckhart_EscortShips_H_title",
           "titleEN": "VIP Client Needs Protection",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -107324,23 +107324,23 @@
         "Citizens For Prosperity: Come to Aid of Convoy",
         "Bounty Hunters Guild: Verified Bounty: ~mission(TargetName) at QV Breaker Station",
         "Vaughn: A Well Deserved Break",
-        "Miles Eckhart: Stop Attack on High-Profile Client",
+        "Eckhart Sécurité: Stop Attack on High-Profile Client",
         "InterSec Defense Solutions: New Defense Contract: ~mission(TargetName) Elimination",
         "Citizens For Prosperity: Respond to Distress Beacon",
         "Bounty Hunters Guild: Verified Bounty: ~mission(TargetName) | ~mission(Danger)",
-        "Miles Eckhart: Save Ship",
+        "Eckhart Sécurité: Save Ship",
         "InterSec Defense Solutions: Preemptive Strike On ~mission(TargetName)",
         "Highpoint Wilderness Specialists: Reduce Valakkar Breaker Station Population",
-        "Miles Eckhart: High-Risk Ship Encounter",
-        "Miles Eckhart: Support Client Under Attack",
+        "Eckhart Sécurité: High-Risk Ship Encounter",
+        "Eckhart Sécurité: Support Client Under Attack",
         "InterSec Defense Solutions: Eliminate Vanduul Ship",
         "Citizens For Prosperity: Ship Needs Emergency Assistance",
-        "Miles Eckhart: Extremely Dangerous Defense",
+        "Eckhart Sécurité: Extremely Dangerous Defense",
         "Citizens For Prosperity: Convoy Caught in Brutal Attack",
         "InterSec Defense Solutions: Terrorist ~mission(TargetName) to be Neutralized",
         "Citizens For Prosperity: Pilot in Distress",
         "InterSec Defense Solutions: Neutralize UEE Threat: ~mission(TargetName)",
-        "Miles Eckhart: Stop Deadly Ship Attack",
+        "Eckhart Sécurité: Stop Deadly Ship Attack",
         "InterSec Defense Solutions: Neutralize Vanduul Target",
         "Citizens For Prosperity: Pilot Seeking Combat Support"
       ],
@@ -107380,7 +107380,7 @@
         {
           "titleKey": "eckhart_defendship_MRT_title_001",
           "titleEN": "Stop Attack on High-Profile Client",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -107428,7 +107428,7 @@
         {
           "titleKey": "eckhart_defendship_VLRT_title_001",
           "titleEN": "Save Ship",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -107464,7 +107464,7 @@
         {
           "titleKey": "eckhart_defendship_multi_HRT_title_001",
           "titleEN": "High-Risk Ship Encounter",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -107476,7 +107476,7 @@
         {
           "titleKey": "eckhart_defendship_LRT_title_001",
           "titleEN": "Support Client Under Attack",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -107512,7 +107512,7 @@
         {
           "titleKey": "eckhart_defendship_multi_SRT_title_001",
           "titleEN": "Extremely Dangerous Defense",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -107572,7 +107572,7 @@
         {
           "titleKey": "eckhart_defendship_multi_VHRT_title_001",
           "titleEN": "Stop Deadly Ship Attack",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -108137,23 +108137,23 @@
         "Citizens For Prosperity: Come to Aid of Convoy",
         "Bounty Hunters Guild: Verified Bounty: ~mission(TargetName) at QV Breaker Station",
         "Vaughn: A Well Deserved Break",
-        "Miles Eckhart: Stop Attack on High-Profile Client",
+        "Eckhart Sécurité: Stop Attack on High-Profile Client",
         "InterSec Defense Solutions: New Defense Contract: ~mission(TargetName) Elimination",
         "Citizens For Prosperity: Respond to Distress Beacon",
         "Bounty Hunters Guild: Verified Bounty: ~mission(TargetName) | ~mission(Danger)",
-        "Miles Eckhart: Save Ship",
+        "Eckhart Sécurité: Save Ship",
         "InterSec Defense Solutions: Preemptive Strike On ~mission(TargetName)",
         "Highpoint Wilderness Specialists: Reduce Valakkar Breaker Station Population",
-        "Miles Eckhart: High-Risk Ship Encounter",
-        "Miles Eckhart: Support Client Under Attack",
+        "Eckhart Sécurité: High-Risk Ship Encounter",
+        "Eckhart Sécurité: Support Client Under Attack",
         "InterSec Defense Solutions: Eliminate Vanduul Ship",
         "Citizens For Prosperity: Ship Needs Emergency Assistance",
-        "Miles Eckhart: Extremely Dangerous Defense",
+        "Eckhart Sécurité: Extremely Dangerous Defense",
         "Citizens For Prosperity: Convoy Caught in Brutal Attack",
         "InterSec Defense Solutions: Terrorist ~mission(TargetName) to be Neutralized",
         "Citizens For Prosperity: Pilot in Distress",
         "InterSec Defense Solutions: Neutralize UEE Threat: ~mission(TargetName)",
-        "Miles Eckhart: Stop Deadly Ship Attack",
+        "Eckhart Sécurité: Stop Deadly Ship Attack",
         "InterSec Defense Solutions: Neutralize Vanduul Target",
         "Citizens For Prosperity: Pilot Seeking Combat Support"
       ],
@@ -108193,7 +108193,7 @@
         {
           "titleKey": "eckhart_defendship_MRT_title_001",
           "titleEN": "Stop Attack on High-Profile Client",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -108241,7 +108241,7 @@
         {
           "titleKey": "eckhart_defendship_VLRT_title_001",
           "titleEN": "Save Ship",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -108277,7 +108277,7 @@
         {
           "titleKey": "eckhart_defendship_multi_HRT_title_001",
           "titleEN": "High-Risk Ship Encounter",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -108289,7 +108289,7 @@
         {
           "titleKey": "eckhart_defendship_LRT_title_001",
           "titleEN": "Support Client Under Attack",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -108325,7 +108325,7 @@
         {
           "titleKey": "eckhart_defendship_multi_SRT_title_001",
           "titleEN": "Extremely Dangerous Defense",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -108385,7 +108385,7 @@
         {
           "titleKey": "eckhart_defendship_multi_VHRT_title_001",
           "titleEN": "Stop Deadly Ship Attack",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -108605,23 +108605,23 @@
         "Citizens For Prosperity: Come to Aid of Convoy",
         "Bounty Hunters Guild: Verified Bounty: ~mission(TargetName) at QV Breaker Station",
         "Vaughn: A Well Deserved Break",
-        "Miles Eckhart: Stop Attack on High-Profile Client",
+        "Eckhart Sécurité: Stop Attack on High-Profile Client",
         "InterSec Defense Solutions: New Defense Contract: ~mission(TargetName) Elimination",
         "Citizens For Prosperity: Respond to Distress Beacon",
         "Bounty Hunters Guild: Verified Bounty: ~mission(TargetName) | ~mission(Danger)",
-        "Miles Eckhart: Save Ship",
+        "Eckhart Sécurité: Save Ship",
         "InterSec Defense Solutions: Preemptive Strike On ~mission(TargetName)",
         "Highpoint Wilderness Specialists: Reduce Valakkar Breaker Station Population",
-        "Miles Eckhart: High-Risk Ship Encounter",
-        "Miles Eckhart: Support Client Under Attack",
+        "Eckhart Sécurité: High-Risk Ship Encounter",
+        "Eckhart Sécurité: Support Client Under Attack",
         "InterSec Defense Solutions: Eliminate Vanduul Ship",
         "Citizens For Prosperity: Ship Needs Emergency Assistance",
-        "Miles Eckhart: Extremely Dangerous Defense",
+        "Eckhart Sécurité: Extremely Dangerous Defense",
         "Citizens For Prosperity: Convoy Caught in Brutal Attack",
         "InterSec Defense Solutions: Terrorist ~mission(TargetName) to be Neutralized",
         "Citizens For Prosperity: Pilot in Distress",
         "InterSec Defense Solutions: Neutralize UEE Threat: ~mission(TargetName)",
-        "Miles Eckhart: Stop Deadly Ship Attack",
+        "Eckhart Sécurité: Stop Deadly Ship Attack",
         "InterSec Defense Solutions: Neutralize Vanduul Target",
         "Citizens For Prosperity: Pilot Seeking Combat Support"
       ],
@@ -108661,7 +108661,7 @@
         {
           "titleKey": "eckhart_defendship_MRT_title_001",
           "titleEN": "Stop Attack on High-Profile Client",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -108709,7 +108709,7 @@
         {
           "titleKey": "eckhart_defendship_VLRT_title_001",
           "titleEN": "Save Ship",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -108745,7 +108745,7 @@
         {
           "titleKey": "eckhart_defendship_multi_HRT_title_001",
           "titleEN": "High-Risk Ship Encounter",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -108757,7 +108757,7 @@
         {
           "titleKey": "eckhart_defendship_LRT_title_001",
           "titleEN": "Support Client Under Attack",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -108793,7 +108793,7 @@
         {
           "titleKey": "eckhart_defendship_multi_SRT_title_001",
           "titleEN": "Extremely Dangerous Defense",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -108853,7 +108853,7 @@
         {
           "titleKey": "eckhart_defendship_multi_VHRT_title_001",
           "titleEN": "Stop Deadly Ship Attack",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -109418,23 +109418,23 @@
         "Citizens For Prosperity: Come to Aid of Convoy",
         "Bounty Hunters Guild: Verified Bounty: ~mission(TargetName) at QV Breaker Station",
         "Vaughn: A Well Deserved Break",
-        "Miles Eckhart: Stop Attack on High-Profile Client",
+        "Eckhart Sécurité: Stop Attack on High-Profile Client",
         "InterSec Defense Solutions: New Defense Contract: ~mission(TargetName) Elimination",
         "Citizens For Prosperity: Respond to Distress Beacon",
         "Bounty Hunters Guild: Verified Bounty: ~mission(TargetName) | ~mission(Danger)",
-        "Miles Eckhart: Save Ship",
+        "Eckhart Sécurité: Save Ship",
         "InterSec Defense Solutions: Preemptive Strike On ~mission(TargetName)",
         "Highpoint Wilderness Specialists: Reduce Valakkar Breaker Station Population",
-        "Miles Eckhart: High-Risk Ship Encounter",
-        "Miles Eckhart: Support Client Under Attack",
+        "Eckhart Sécurité: High-Risk Ship Encounter",
+        "Eckhart Sécurité: Support Client Under Attack",
         "InterSec Defense Solutions: Eliminate Vanduul Ship",
         "Citizens For Prosperity: Ship Needs Emergency Assistance",
-        "Miles Eckhart: Extremely Dangerous Defense",
+        "Eckhart Sécurité: Extremely Dangerous Defense",
         "Citizens For Prosperity: Convoy Caught in Brutal Attack",
         "InterSec Defense Solutions: Terrorist ~mission(TargetName) to be Neutralized",
         "Citizens For Prosperity: Pilot in Distress",
         "InterSec Defense Solutions: Neutralize UEE Threat: ~mission(TargetName)",
-        "Miles Eckhart: Stop Deadly Ship Attack",
+        "Eckhart Sécurité: Stop Deadly Ship Attack",
         "InterSec Defense Solutions: Neutralize Vanduul Target",
         "Citizens For Prosperity: Pilot Seeking Combat Support"
       ],
@@ -109474,7 +109474,7 @@
         {
           "titleKey": "eckhart_defendship_MRT_title_001",
           "titleEN": "Stop Attack on High-Profile Client",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -109522,7 +109522,7 @@
         {
           "titleKey": "eckhart_defendship_VLRT_title_001",
           "titleEN": "Save Ship",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -109558,7 +109558,7 @@
         {
           "titleKey": "eckhart_defendship_multi_HRT_title_001",
           "titleEN": "High-Risk Ship Encounter",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -109570,7 +109570,7 @@
         {
           "titleKey": "eckhart_defendship_LRT_title_001",
           "titleEN": "Support Client Under Attack",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -109606,7 +109606,7 @@
         {
           "titleKey": "eckhart_defendship_multi_SRT_title_001",
           "titleEN": "Extremely Dangerous Defense",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -109666,7 +109666,7 @@
         {
           "titleKey": "eckhart_defendship_multi_VHRT_title_001",
           "titleEN": "Stop Deadly Ship Attack",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -109886,23 +109886,23 @@
         "Citizens For Prosperity: Come to Aid of Convoy",
         "Bounty Hunters Guild: Verified Bounty: ~mission(TargetName) at QV Breaker Station",
         "Vaughn: A Well Deserved Break",
-        "Miles Eckhart: Stop Attack on High-Profile Client",
+        "Eckhart Sécurité: Stop Attack on High-Profile Client",
         "InterSec Defense Solutions: New Defense Contract: ~mission(TargetName) Elimination",
         "Citizens For Prosperity: Respond to Distress Beacon",
         "Bounty Hunters Guild: Verified Bounty: ~mission(TargetName) | ~mission(Danger)",
-        "Miles Eckhart: Save Ship",
+        "Eckhart Sécurité: Save Ship",
         "InterSec Defense Solutions: Preemptive Strike On ~mission(TargetName)",
         "Highpoint Wilderness Specialists: Reduce Valakkar Breaker Station Population",
-        "Miles Eckhart: High-Risk Ship Encounter",
-        "Miles Eckhart: Support Client Under Attack",
+        "Eckhart Sécurité: High-Risk Ship Encounter",
+        "Eckhart Sécurité: Support Client Under Attack",
         "InterSec Defense Solutions: Eliminate Vanduul Ship",
         "Citizens For Prosperity: Ship Needs Emergency Assistance",
-        "Miles Eckhart: Extremely Dangerous Defense",
+        "Eckhart Sécurité: Extremely Dangerous Defense",
         "Citizens For Prosperity: Convoy Caught in Brutal Attack",
         "InterSec Defense Solutions: Terrorist ~mission(TargetName) to be Neutralized",
         "Citizens For Prosperity: Pilot in Distress",
         "InterSec Defense Solutions: Neutralize UEE Threat: ~mission(TargetName)",
-        "Miles Eckhart: Stop Deadly Ship Attack",
+        "Eckhart Sécurité: Stop Deadly Ship Attack",
         "InterSec Defense Solutions: Neutralize Vanduul Target",
         "Citizens For Prosperity: Pilot Seeking Combat Support"
       ],
@@ -109942,7 +109942,7 @@
         {
           "titleKey": "eckhart_defendship_MRT_title_001",
           "titleEN": "Stop Attack on High-Profile Client",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -109990,7 +109990,7 @@
         {
           "titleKey": "eckhart_defendship_VLRT_title_001",
           "titleEN": "Save Ship",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -110026,7 +110026,7 @@
         {
           "titleKey": "eckhart_defendship_multi_HRT_title_001",
           "titleEN": "High-Risk Ship Encounter",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -110038,7 +110038,7 @@
         {
           "titleKey": "eckhart_defendship_LRT_title_001",
           "titleEN": "Support Client Under Attack",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -110074,7 +110074,7 @@
         {
           "titleKey": "eckhart_defendship_multi_SRT_title_001",
           "titleEN": "Extremely Dangerous Defense",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -110134,7 +110134,7 @@
         {
           "titleKey": "eckhart_defendship_multi_VHRT_title_001",
           "titleEN": "Stop Deadly Ship Attack",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -110699,23 +110699,23 @@
         "Citizens For Prosperity: Come to Aid of Convoy",
         "Bounty Hunters Guild: Verified Bounty: ~mission(TargetName) at QV Breaker Station",
         "Vaughn: A Well Deserved Break",
-        "Miles Eckhart: Stop Attack on High-Profile Client",
+        "Eckhart Sécurité: Stop Attack on High-Profile Client",
         "InterSec Defense Solutions: New Defense Contract: ~mission(TargetName) Elimination",
         "Citizens For Prosperity: Respond to Distress Beacon",
         "Bounty Hunters Guild: Verified Bounty: ~mission(TargetName) | ~mission(Danger)",
-        "Miles Eckhart: Save Ship",
+        "Eckhart Sécurité: Save Ship",
         "InterSec Defense Solutions: Preemptive Strike On ~mission(TargetName)",
         "Highpoint Wilderness Specialists: Reduce Valakkar Breaker Station Population",
-        "Miles Eckhart: High-Risk Ship Encounter",
-        "Miles Eckhart: Support Client Under Attack",
+        "Eckhart Sécurité: High-Risk Ship Encounter",
+        "Eckhart Sécurité: Support Client Under Attack",
         "InterSec Defense Solutions: Eliminate Vanduul Ship",
         "Citizens For Prosperity: Ship Needs Emergency Assistance",
-        "Miles Eckhart: Extremely Dangerous Defense",
+        "Eckhart Sécurité: Extremely Dangerous Defense",
         "Citizens For Prosperity: Convoy Caught in Brutal Attack",
         "InterSec Defense Solutions: Terrorist ~mission(TargetName) to be Neutralized",
         "Citizens For Prosperity: Pilot in Distress",
         "InterSec Defense Solutions: Neutralize UEE Threat: ~mission(TargetName)",
-        "Miles Eckhart: Stop Deadly Ship Attack",
+        "Eckhart Sécurité: Stop Deadly Ship Attack",
         "InterSec Defense Solutions: Neutralize Vanduul Target",
         "Citizens For Prosperity: Pilot Seeking Combat Support"
       ],
@@ -110755,7 +110755,7 @@
         {
           "titleKey": "eckhart_defendship_MRT_title_001",
           "titleEN": "Stop Attack on High-Profile Client",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -110803,7 +110803,7 @@
         {
           "titleKey": "eckhart_defendship_VLRT_title_001",
           "titleEN": "Save Ship",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -110839,7 +110839,7 @@
         {
           "titleKey": "eckhart_defendship_multi_HRT_title_001",
           "titleEN": "High-Risk Ship Encounter",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -110851,7 +110851,7 @@
         {
           "titleKey": "eckhart_defendship_LRT_title_001",
           "titleEN": "Support Client Under Attack",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -110887,7 +110887,7 @@
         {
           "titleKey": "eckhart_defendship_multi_SRT_title_001",
           "titleEN": "Extremely Dangerous Defense",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -110947,7 +110947,7 @@
         {
           "titleKey": "eckhart_defendship_multi_VHRT_title_001",
           "titleEN": "Stop Deadly Ship Attack",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -111167,23 +111167,23 @@
         "Citizens For Prosperity: Come to Aid of Convoy",
         "Bounty Hunters Guild: Verified Bounty: ~mission(TargetName) at QV Breaker Station",
         "Vaughn: A Well Deserved Break",
-        "Miles Eckhart: Stop Attack on High-Profile Client",
+        "Eckhart Sécurité: Stop Attack on High-Profile Client",
         "InterSec Defense Solutions: New Defense Contract: ~mission(TargetName) Elimination",
         "Citizens For Prosperity: Respond to Distress Beacon",
         "Bounty Hunters Guild: Verified Bounty: ~mission(TargetName) | ~mission(Danger)",
-        "Miles Eckhart: Save Ship",
+        "Eckhart Sécurité: Save Ship",
         "InterSec Defense Solutions: Preemptive Strike On ~mission(TargetName)",
         "Highpoint Wilderness Specialists: Reduce Valakkar Breaker Station Population",
-        "Miles Eckhart: High-Risk Ship Encounter",
-        "Miles Eckhart: Support Client Under Attack",
+        "Eckhart Sécurité: High-Risk Ship Encounter",
+        "Eckhart Sécurité: Support Client Under Attack",
         "InterSec Defense Solutions: Eliminate Vanduul Ship",
         "Citizens For Prosperity: Ship Needs Emergency Assistance",
-        "Miles Eckhart: Extremely Dangerous Defense",
+        "Eckhart Sécurité: Extremely Dangerous Defense",
         "Citizens For Prosperity: Convoy Caught in Brutal Attack",
         "InterSec Defense Solutions: Terrorist ~mission(TargetName) to be Neutralized",
         "Citizens For Prosperity: Pilot in Distress",
         "InterSec Defense Solutions: Neutralize UEE Threat: ~mission(TargetName)",
-        "Miles Eckhart: Stop Deadly Ship Attack",
+        "Eckhart Sécurité: Stop Deadly Ship Attack",
         "InterSec Defense Solutions: Neutralize Vanduul Target",
         "Citizens For Prosperity: Pilot Seeking Combat Support"
       ],
@@ -111223,7 +111223,7 @@
         {
           "titleKey": "eckhart_defendship_MRT_title_001",
           "titleEN": "Stop Attack on High-Profile Client",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -111271,7 +111271,7 @@
         {
           "titleKey": "eckhart_defendship_VLRT_title_001",
           "titleEN": "Save Ship",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -111307,7 +111307,7 @@
         {
           "titleKey": "eckhart_defendship_multi_HRT_title_001",
           "titleEN": "High-Risk Ship Encounter",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -111319,7 +111319,7 @@
         {
           "titleKey": "eckhart_defendship_LRT_title_001",
           "titleEN": "Support Client Under Attack",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -111355,7 +111355,7 @@
         {
           "titleKey": "eckhart_defendship_multi_SRT_title_001",
           "titleEN": "Extremely Dangerous Defense",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -111415,7 +111415,7 @@
         {
           "titleKey": "eckhart_defendship_multi_VHRT_title_001",
           "titleEN": "Stop Deadly Ship Attack",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -111980,23 +111980,23 @@
         "Citizens For Prosperity: Come to Aid of Convoy",
         "Bounty Hunters Guild: Verified Bounty: ~mission(TargetName) at QV Breaker Station",
         "Vaughn: A Well Deserved Break",
-        "Miles Eckhart: Stop Attack on High-Profile Client",
+        "Eckhart Sécurité: Stop Attack on High-Profile Client",
         "InterSec Defense Solutions: New Defense Contract: ~mission(TargetName) Elimination",
         "Citizens For Prosperity: Respond to Distress Beacon",
         "Bounty Hunters Guild: Verified Bounty: ~mission(TargetName) | ~mission(Danger)",
-        "Miles Eckhart: Save Ship",
+        "Eckhart Sécurité: Save Ship",
         "InterSec Defense Solutions: Preemptive Strike On ~mission(TargetName)",
         "Highpoint Wilderness Specialists: Reduce Valakkar Breaker Station Population",
-        "Miles Eckhart: High-Risk Ship Encounter",
-        "Miles Eckhart: Support Client Under Attack",
+        "Eckhart Sécurité: High-Risk Ship Encounter",
+        "Eckhart Sécurité: Support Client Under Attack",
         "InterSec Defense Solutions: Eliminate Vanduul Ship",
         "Citizens For Prosperity: Ship Needs Emergency Assistance",
-        "Miles Eckhart: Extremely Dangerous Defense",
+        "Eckhart Sécurité: Extremely Dangerous Defense",
         "Citizens For Prosperity: Convoy Caught in Brutal Attack",
         "InterSec Defense Solutions: Terrorist ~mission(TargetName) to be Neutralized",
         "Citizens For Prosperity: Pilot in Distress",
         "InterSec Defense Solutions: Neutralize UEE Threat: ~mission(TargetName)",
-        "Miles Eckhart: Stop Deadly Ship Attack",
+        "Eckhart Sécurité: Stop Deadly Ship Attack",
         "InterSec Defense Solutions: Neutralize Vanduul Target",
         "Citizens For Prosperity: Pilot Seeking Combat Support"
       ],
@@ -112036,7 +112036,7 @@
         {
           "titleKey": "eckhart_defendship_MRT_title_001",
           "titleEN": "Stop Attack on High-Profile Client",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -112084,7 +112084,7 @@
         {
           "titleKey": "eckhart_defendship_VLRT_title_001",
           "titleEN": "Save Ship",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -112120,7 +112120,7 @@
         {
           "titleKey": "eckhart_defendship_multi_HRT_title_001",
           "titleEN": "High-Risk Ship Encounter",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -112132,7 +112132,7 @@
         {
           "titleKey": "eckhart_defendship_LRT_title_001",
           "titleEN": "Support Client Under Attack",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -112168,7 +112168,7 @@
         {
           "titleKey": "eckhart_defendship_multi_SRT_title_001",
           "titleEN": "Extremely Dangerous Defense",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -112228,7 +112228,7 @@
         {
           "titleKey": "eckhart_defendship_multi_VHRT_title_001",
           "titleEN": "Stop Deadly Ship Attack",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -119059,18 +119059,18 @@
       "recordGUID": "ccea53f3-0a4e-4a4d-a7b1-2b6c9e8f362f",
       "isReward": true,
       "rewardMissions": [
-        "Miles Eckhart: Low Risk Protection Detail",
-        "Miles Eckhart: Top Tier Operator Needed",
-        "Miles Eckhart: Protection Detail Needed. High Risk.",
-        "Miles Eckhart: VIP Client Needs Protection",
-        "Miles Eckhart: Experienced Protection Detail Needed",
-        "Miles Eckhart: Executive Protection Detail"
+        "Eckhart Sécurité: Low Risk Protection Detail",
+        "Eckhart Sécurité: Top Tier Operator Needed",
+        "Eckhart Sécurité: Protection Detail Needed. High Risk.",
+        "Eckhart Sécurité: VIP Client Needs Protection",
+        "Eckhart Sécurité: Experienced Protection Detail Needed",
+        "Eckhart Sécurité: Executive Protection Detail"
       ],
       "rewardMissionKeys": [
         {
           "titleKey": "Eckhart_EscortShips_VE_title",
           "titleEN": "Low Risk Protection Detail",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -119082,7 +119082,7 @@
         {
           "titleKey": "Eckhart_EscortShips_S_title",
           "titleEN": "Top Tier Operator Needed",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -119094,7 +119094,7 @@
         {
           "titleKey": "Eckhart_EscortShips_VH_title",
           "titleEN": "Protection Detail Needed. High Risk.",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -119106,7 +119106,7 @@
         {
           "titleKey": "Eckhart_EscortShips_H_title",
           "titleEN": "VIP Client Needs Protection",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -119118,7 +119118,7 @@
         {
           "titleKey": "Eckhart_EscortShips_M_title",
           "titleEN": "Experienced Protection Detail Needed",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -119130,7 +119130,7 @@
         {
           "titleKey": "Eckhart_EscortShips_E_title",
           "titleEN": "Executive Protection Detail",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -142572,15 +142572,15 @@
       "recordGUID": "6c7d0dd4-c604-4a5f-9836-30756cc15b43",
       "isReward": true,
       "rewardMissions": [
-        "Miles Eckhart: Top Tier Operator Needed",
-        "Miles Eckhart: Protection Detail Needed. High Risk.",
-        "Miles Eckhart: VIP Client Needs Protection"
+        "Eckhart Sécurité: Top Tier Operator Needed",
+        "Eckhart Sécurité: Protection Detail Needed. High Risk.",
+        "Eckhart Sécurité: VIP Client Needs Protection"
       ],
       "rewardMissionKeys": [
         {
           "titleKey": "Eckhart_EscortShips_S_title",
           "titleEN": "Top Tier Operator Needed",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -142592,7 +142592,7 @@
         {
           "titleKey": "Eckhart_EscortShips_VH_title",
           "titleEN": "Protection Detail Needed. High Risk.",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -142604,7 +142604,7 @@
         {
           "titleKey": "Eckhart_EscortShips_H_title",
           "titleEN": "VIP Client Needs Protection",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -144637,15 +144637,15 @@
       "recordGUID": "f8dc5f10-aa36-41fb-b209-37fd0166c4ac",
       "isReward": true,
       "rewardMissions": [
-        "Miles Eckhart: Top Tier Operator Needed",
-        "Miles Eckhart: Protection Detail Needed. High Risk.",
-        "Miles Eckhart: VIP Client Needs Protection"
+        "Eckhart Sécurité: Top Tier Operator Needed",
+        "Eckhart Sécurité: Protection Detail Needed. High Risk.",
+        "Eckhart Sécurité: VIP Client Needs Protection"
       ],
       "rewardMissionKeys": [
         {
           "titleKey": "Eckhart_EscortShips_S_title",
           "titleEN": "Top Tier Operator Needed",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -144657,7 +144657,7 @@
         {
           "titleKey": "Eckhart_EscortShips_VH_title",
           "titleEN": "Protection Detail Needed. High Risk.",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -144669,7 +144669,7 @@
         {
           "titleKey": "Eckhart_EscortShips_H_title",
           "titleEN": "VIP Client Needs Protection",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -145964,24 +145964,24 @@
         "Citizens For Prosperity: Come to Aid of Convoy",
         "Bounty Hunters Guild: Verified Bounty: ~mission(TargetName) at QV Breaker Station",
         "Vaughn: A Well Deserved Break",
-        "Miles Eckhart: Stop Attack on High-Profile Client",
+        "Eckhart Sécurité: Stop Attack on High-Profile Client",
         "InterSec Defense Solutions: New Defense Contract: ~mission(TargetName) Elimination",
         "Citizens For Prosperity: Respond to Distress Beacon",
         "Bounty Hunters Guild: Verified Bounty: ~mission(TargetName) | ~mission(Danger)",
-        "Miles Eckhart: Save Ship",
+        "Eckhart Sécurité: Save Ship",
         "InterSec Defense Solutions: Preemptive Strike On ~mission(TargetName)",
         "Highpoint Wilderness Specialists: Reduce Valakkar Breaker Station Population",
-        "Miles Eckhart: High-Risk Ship Encounter",
-        "Miles Eckhart: Support Client Under Attack",
+        "Eckhart Sécurité: High-Risk Ship Encounter",
+        "Eckhart Sécurité: Support Client Under Attack",
         "InterSec Defense Solutions: Eliminate Vanduul Ship",
         "Citizens For Prosperity: Ship Needs Emergency Assistance",
         "Bounty Hunters Guild: High-Risk Bounty: ~mission(TargetName) at QV Breaker Station",
-        "Miles Eckhart: Extremely Dangerous Defense",
+        "Eckhart Sécurité: Extremely Dangerous Defense",
         "Citizens For Prosperity: Convoy Caught in Brutal Attack",
         "InterSec Defense Solutions: Terrorist ~mission(TargetName) to be Neutralized",
         "Citizens For Prosperity: Pilot in Distress",
         "InterSec Defense Solutions: Neutralize UEE Threat: ~mission(TargetName)",
-        "Miles Eckhart: Stop Deadly Ship Attack",
+        "Eckhart Sécurité: Stop Deadly Ship Attack",
         "Vaughn: End of a Salamander",
         "InterSec Defense Solutions: Neutralize Vanduul Target",
         "Citizens For Prosperity: Pilot Seeking Combat Support"
@@ -146022,7 +146022,7 @@
         {
           "titleKey": "eckhart_defendship_MRT_title_001",
           "titleEN": "Stop Attack on High-Profile Client",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -146070,7 +146070,7 @@
         {
           "titleKey": "eckhart_defendship_VLRT_title_001",
           "titleEN": "Save Ship",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -146106,7 +146106,7 @@
         {
           "titleKey": "eckhart_defendship_multi_HRT_title_001",
           "titleEN": "High-Risk Ship Encounter",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -146118,7 +146118,7 @@
         {
           "titleKey": "eckhart_defendship_LRT_title_001",
           "titleEN": "Support Client Under Attack",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -146164,7 +146164,7 @@
         {
           "titleKey": "eckhart_defendship_multi_SRT_title_001",
           "titleEN": "Extremely Dangerous Defense",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -146224,7 +146224,7 @@
         {
           "titleKey": "eckhart_defendship_multi_VHRT_title_001",
           "titleEN": "Stop Deadly Ship Attack",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -146363,26 +146363,26 @@
         "Citizens For Prosperity: Come to Aid of Convoy",
         "Bounty Hunters Guild: Verified Bounty: ~mission(TargetName) at QV Breaker Station",
         "Vaughn: A Well Deserved Break",
-        "Miles Eckhart: Stop Attack on High-Profile Client",
+        "Eckhart Sécurité: Stop Attack on High-Profile Client",
         "InterSec Defense Solutions: New Defense Contract: ~mission(TargetName) Elimination",
         "Citizens For Prosperity: Respond to Distress Beacon",
         "Bounty Hunters Guild: Verified Bounty: ~mission(TargetName) | ~mission(Danger)",
-        "Miles Eckhart: Save Ship",
+        "Eckhart Sécurité: Save Ship",
         "InterSec Defense Solutions: Preemptive Strike On ~mission(TargetName)",
         "Highpoint Wilderness Specialists: Reduce Valakkar Breaker Station Population",
-        "Miles Eckhart: High-Risk Ship Encounter",
-        "Miles Eckhart: Support Client Under Attack",
+        "Eckhart Sécurité: High-Risk Ship Encounter",
+        "Eckhart Sécurité: Support Client Under Attack",
         "InterSec Defense Solutions: Eliminate Vanduul Ship",
         "Shubin Interstellar: QV Breaker Station Mining Rights (Shared)",
         "Citizens For Prosperity: Ship Needs Emergency Assistance",
         "Bounty Hunters Guild: High-Risk Bounty: ~mission(TargetName) at QV Breaker Station",
-        "Miles Eckhart: Extremely Dangerous Defense",
+        "Eckhart Sécurité: Extremely Dangerous Defense",
         "Citizens For Prosperity: Convoy Caught in Brutal Attack",
         "InterSec Defense Solutions: Terrorist ~mission(TargetName) to be Neutralized",
         "Shubin Interstellar: QV Breaker Station Mining Rights (Exclusive)",
         "Citizens For Prosperity: Pilot in Distress",
         "InterSec Defense Solutions: Neutralize UEE Threat: ~mission(TargetName)",
-        "Miles Eckhart: Stop Deadly Ship Attack",
+        "Eckhart Sécurité: Stop Deadly Ship Attack",
         "Vaughn: End of a Salamander",
         "InterSec Defense Solutions: Neutralize Vanduul Target",
         "Citizens For Prosperity: Pilot Seeking Combat Support"
@@ -146435,7 +146435,7 @@
         {
           "titleKey": "eckhart_defendship_MRT_title_001",
           "titleEN": "Stop Attack on High-Profile Client",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -146483,7 +146483,7 @@
         {
           "titleKey": "eckhart_defendship_VLRT_title_001",
           "titleEN": "Save Ship",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -146519,7 +146519,7 @@
         {
           "titleKey": "eckhart_defendship_multi_HRT_title_001",
           "titleEN": "High-Risk Ship Encounter",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -146531,7 +146531,7 @@
         {
           "titleKey": "eckhart_defendship_LRT_title_001",
           "titleEN": "Support Client Under Attack",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -146587,7 +146587,7 @@
         {
           "titleKey": "eckhart_defendship_multi_SRT_title_001",
           "titleEN": "Extremely Dangerous Defense",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -146657,7 +146657,7 @@
         {
           "titleKey": "eckhart_defendship_multi_VHRT_title_001",
           "titleEN": "Stop Deadly Ship Attack",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -148294,14 +148294,14 @@
       "recordGUID": "28a5e6ff-7dde-494e-a938-deb133ce7d9f",
       "isReward": true,
       "rewardMissions": [
-        "Miles Eckhart: Deal with ~mission(TargetName) and Support Forces",
-        "Miles Eckhart: High-Risk Bounty: ~mission(TargetName)"
+        "Eckhart Sécurité: Deal with ~mission(TargetName) and Support Forces",
+        "Eckhart Sécurité: High-Risk Bounty: ~mission(TargetName)"
       ],
       "rewardMissionKeys": [
         {
           "titleKey": "EckhartSecurity_MultiEliminateAllAndBoss_DC_Title_001",
           "titleEN": "Deal with ~mission(TargetName) and Support Forces",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Stanton"
           ],
@@ -148313,7 +148313,7 @@
         {
           "titleKey": "EckhartSecurity_EliminateBoss_DC_Title_001",
           "titleEN": "High-Risk Bounty: ~mission(TargetName)",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Stanton"
           ],
@@ -152567,16 +152567,16 @@
       "recordGUID": "389088f8-c2ae-48d0-bf8c-0b0024b01744",
       "isReward": true,
       "rewardMissions": [
-        "Miles Eckhart: Top Tier Operator Needed",
-        "Miles Eckhart: Protection Detail Needed. High Risk.",
-        "Miles Eckhart: VIP Client Needs Protection",
-        "Miles Eckhart: Experienced Protection Detail Needed"
+        "Eckhart Sécurité: Top Tier Operator Needed",
+        "Eckhart Sécurité: Protection Detail Needed. High Risk.",
+        "Eckhart Sécurité: VIP Client Needs Protection",
+        "Eckhart Sécurité: Experienced Protection Detail Needed"
       ],
       "rewardMissionKeys": [
         {
           "titleKey": "Eckhart_EscortShips_S_title",
           "titleEN": "Top Tier Operator Needed",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -152588,7 +152588,7 @@
         {
           "titleKey": "Eckhart_EscortShips_VH_title",
           "titleEN": "Protection Detail Needed. High Risk.",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -152600,7 +152600,7 @@
         {
           "titleKey": "Eckhart_EscortShips_H_title",
           "titleEN": "VIP Client Needs Protection",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -152612,7 +152612,7 @@
         {
           "titleKey": "Eckhart_EscortShips_M_title",
           "titleEN": "Experienced Protection Detail Needed",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -152705,18 +152705,18 @@
       "recordGUID": "5c1b49d9-db7e-4898-8fe1-a97072f8cf37",
       "isReward": true,
       "rewardMissions": [
-        "Miles Eckhart: Low Risk Protection Detail",
-        "Miles Eckhart: Top Tier Operator Needed",
-        "Miles Eckhart: Protection Detail Needed. High Risk.",
-        "Miles Eckhart: VIP Client Needs Protection",
-        "Miles Eckhart: Experienced Protection Detail Needed",
-        "Miles Eckhart: Executive Protection Detail"
+        "Eckhart Sécurité: Low Risk Protection Detail",
+        "Eckhart Sécurité: Top Tier Operator Needed",
+        "Eckhart Sécurité: Protection Detail Needed. High Risk.",
+        "Eckhart Sécurité: VIP Client Needs Protection",
+        "Eckhart Sécurité: Experienced Protection Detail Needed",
+        "Eckhart Sécurité: Executive Protection Detail"
       ],
       "rewardMissionKeys": [
         {
           "titleKey": "Eckhart_EscortShips_VE_title",
           "titleEN": "Low Risk Protection Detail",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -152728,7 +152728,7 @@
         {
           "titleKey": "Eckhart_EscortShips_S_title",
           "titleEN": "Top Tier Operator Needed",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -152740,7 +152740,7 @@
         {
           "titleKey": "Eckhart_EscortShips_VH_title",
           "titleEN": "Protection Detail Needed. High Risk.",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -152752,7 +152752,7 @@
         {
           "titleKey": "Eckhart_EscortShips_H_title",
           "titleEN": "VIP Client Needs Protection",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -152764,7 +152764,7 @@
         {
           "titleKey": "Eckhart_EscortShips_M_title",
           "titleEN": "Experienced Protection Detail Needed",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -152776,7 +152776,7 @@
         {
           "titleKey": "Eckhart_EscortShips_E_title",
           "titleEN": "Executive Protection Detail",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -154666,15 +154666,15 @@
       "recordGUID": "36a88bbc-555d-468f-b333-9a8759e60426",
       "isReward": true,
       "rewardMissions": [
-        "Miles Eckhart: Tricky Ambush",
-        "Miles Eckhart: Dangerous Ambush",
-        "Miles Eckhart: Highly Dangerous Ambush"
+        "Eckhart Sécurité: Tricky Ambush",
+        "Eckhart Sécurité: Dangerous Ambush",
+        "Eckhart Sécurité: Highly Dangerous Ambush"
       ],
       "rewardMissionKeys": [
         {
           "titleKey": "Eckhart_ShipAmbush_H_title",
           "titleEN": "Tricky Ambush",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -154686,7 +154686,7 @@
         {
           "titleKey": "Eckhart_ShipAmbush_VH_title",
           "titleEN": "Dangerous Ambush",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -154698,7 +154698,7 @@
         {
           "titleKey": "Eckhart_ShipAmbush_S_title",
           "titleEN": "Highly Dangerous Ambush",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -156115,19 +156115,19 @@
       "recordGUID": "2a8d359b-08da-41e2-8809-92ffeef0dc6f",
       "isReward": true,
       "rewardMissions": [
-        "Miles Eckhart: Launch Surprise Attack",
-        "Miles Eckhart: Tricky Ambush",
-        "Miles Eckhart: Dangerous Ambush",
-        "Miles Eckhart: Settle a Score",
-        "Miles Eckhart: Highly Dangerous Ambush",
-        "Miles Eckhart: Time to Teach a Lesson",
-        "Miles Eckhart: New Opportunity - Ambush Strike"
+        "Eckhart Sécurité: Launch Surprise Attack",
+        "Eckhart Sécurité: Tricky Ambush",
+        "Eckhart Sécurité: Dangerous Ambush",
+        "Eckhart Sécurité: Settle a Score",
+        "Eckhart Sécurité: Highly Dangerous Ambush",
+        "Eckhart Sécurité: Time to Teach a Lesson",
+        "Eckhart Sécurité: New Opportunity - Ambush Strike"
       ],
       "rewardMissionKeys": [
         {
           "titleKey": "Eckhart_ShipAmbush_M_title",
           "titleEN": "Launch Surprise Attack",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -156139,7 +156139,7 @@
         {
           "titleKey": "Eckhart_ShipAmbush_H_title",
           "titleEN": "Tricky Ambush",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -156151,7 +156151,7 @@
         {
           "titleKey": "Eckhart_ShipAmbush_VH_title",
           "titleEN": "Dangerous Ambush",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -156163,7 +156163,7 @@
         {
           "titleKey": "Eckhart_ShipAmbush_VE_title",
           "titleEN": "Settle a Score",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -156175,7 +156175,7 @@
         {
           "titleKey": "Eckhart_ShipAmbush_S_title",
           "titleEN": "Highly Dangerous Ambush",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -156187,7 +156187,7 @@
         {
           "titleKey": "Eckhart_ShipAmbush_E_title",
           "titleEN": "Time to Teach a Lesson",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -156199,7 +156199,7 @@
         {
           "titleKey": "Eckhart_ShipAmbush_Intro_title",
           "titleEN": "New Opportunity - Ambush Strike",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -161902,16 +161902,16 @@
       "recordGUID": "66596afa-8e0b-4414-ada8-a7844f1a7b08",
       "isReward": true,
       "rewardMissions": [
-        "Miles Eckhart: Top Tier Operator Needed",
-        "Miles Eckhart: Protection Detail Needed. High Risk.",
-        "Miles Eckhart: VIP Client Needs Protection",
-        "Miles Eckhart: Experienced Protection Detail Needed"
+        "Eckhart Sécurité: Top Tier Operator Needed",
+        "Eckhart Sécurité: Protection Detail Needed. High Risk.",
+        "Eckhart Sécurité: VIP Client Needs Protection",
+        "Eckhart Sécurité: Experienced Protection Detail Needed"
       ],
       "rewardMissionKeys": [
         {
           "titleKey": "Eckhart_EscortShips_S_title",
           "titleEN": "Top Tier Operator Needed",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -161923,7 +161923,7 @@
         {
           "titleKey": "Eckhart_EscortShips_VH_title",
           "titleEN": "Protection Detail Needed. High Risk.",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -161935,7 +161935,7 @@
         {
           "titleKey": "Eckhart_EscortShips_H_title",
           "titleEN": "VIP Client Needs Protection",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -161947,7 +161947,7 @@
         {
           "titleKey": "Eckhart_EscortShips_M_title",
           "titleEN": "Experienced Protection Detail Needed",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -162040,16 +162040,16 @@
       "recordGUID": "4bc3c371-85bf-44bb-87c5-3bb43892ae96",
       "isReward": true,
       "rewardMissions": [
-        "Miles Eckhart: Top Tier Operator Needed",
-        "Miles Eckhart: Protection Detail Needed. High Risk.",
-        "Miles Eckhart: VIP Client Needs Protection",
-        "Miles Eckhart: Experienced Protection Detail Needed"
+        "Eckhart Sécurité: Top Tier Operator Needed",
+        "Eckhart Sécurité: Protection Detail Needed. High Risk.",
+        "Eckhart Sécurité: VIP Client Needs Protection",
+        "Eckhart Sécurité: Experienced Protection Detail Needed"
       ],
       "rewardMissionKeys": [
         {
           "titleKey": "Eckhart_EscortShips_S_title",
           "titleEN": "Top Tier Operator Needed",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -162061,7 +162061,7 @@
         {
           "titleKey": "Eckhart_EscortShips_VH_title",
           "titleEN": "Protection Detail Needed. High Risk.",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -162073,7 +162073,7 @@
         {
           "titleKey": "Eckhart_EscortShips_H_title",
           "titleEN": "VIP Client Needs Protection",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -162085,7 +162085,7 @@
         {
           "titleKey": "Eckhart_EscortShips_M_title",
           "titleEN": "Experienced Protection Detail Needed",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -162178,16 +162178,16 @@
       "recordGUID": "fba80733-cd1e-4466-8bd9-3a49867d8cc4",
       "isReward": true,
       "rewardMissions": [
-        "Miles Eckhart: Top Tier Operator Needed",
-        "Miles Eckhart: Protection Detail Needed. High Risk.",
-        "Miles Eckhart: VIP Client Needs Protection",
-        "Miles Eckhart: Experienced Protection Detail Needed"
+        "Eckhart Sécurité: Top Tier Operator Needed",
+        "Eckhart Sécurité: Protection Detail Needed. High Risk.",
+        "Eckhart Sécurité: VIP Client Needs Protection",
+        "Eckhart Sécurité: Experienced Protection Detail Needed"
       ],
       "rewardMissionKeys": [
         {
           "titleKey": "Eckhart_EscortShips_S_title",
           "titleEN": "Top Tier Operator Needed",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -162199,7 +162199,7 @@
         {
           "titleKey": "Eckhart_EscortShips_VH_title",
           "titleEN": "Protection Detail Needed. High Risk.",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -162211,7 +162211,7 @@
         {
           "titleKey": "Eckhart_EscortShips_H_title",
           "titleEN": "VIP Client Needs Protection",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -162223,7 +162223,7 @@
         {
           "titleKey": "Eckhart_EscortShips_M_title",
           "titleEN": "Experienced Protection Detail Needed",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -171210,14 +171210,14 @@
       "recordGUID": "28d4dfac-a77b-4c42-beae-60d82643f190",
       "isReward": true,
       "rewardMissions": [
-        "Miles Eckhart: Deal with ~mission(TargetName) and Support Forces",
-        "Miles Eckhart: High-Risk Bounty: ~mission(TargetName)"
+        "Eckhart Sécurité: Deal with ~mission(TargetName) and Support Forces",
+        "Eckhart Sécurité: High-Risk Bounty: ~mission(TargetName)"
       ],
       "rewardMissionKeys": [
         {
           "titleKey": "EckhartSecurity_MultiEliminateAllAndBoss_DC_Title_001",
           "titleEN": "Deal with ~mission(TargetName) and Support Forces",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Stanton"
           ],
@@ -171229,7 +171229,7 @@
         {
           "titleKey": "EckhartSecurity_EliminateBoss_DC_Title_001",
           "titleEN": "High-Risk Bounty: ~mission(TargetName)",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Stanton"
           ],
@@ -177010,14 +177010,14 @@
       "recordGUID": "c7641484-d1cc-471c-aa9e-9da5419e3ee5",
       "isReward": true,
       "rewardMissions": [
-        "Miles Eckhart: Deal with ~mission(TargetName) and Support Forces",
-        "Miles Eckhart: High-Risk Bounty: ~mission(TargetName)"
+        "Eckhart Sécurité: Deal with ~mission(TargetName) and Support Forces",
+        "Eckhart Sécurité: High-Risk Bounty: ~mission(TargetName)"
       ],
       "rewardMissionKeys": [
         {
           "titleKey": "EckhartSecurity_MultiEliminateAllAndBoss_DC_Title_001",
           "titleEN": "Deal with ~mission(TargetName) and Support Forces",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Stanton"
           ],
@@ -177029,7 +177029,7 @@
         {
           "titleKey": "EckhartSecurity_EliminateBoss_DC_Title_001",
           "titleEN": "High-Risk Bounty: ~mission(TargetName)",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Stanton"
           ],
@@ -177129,15 +177129,15 @@
       "recordGUID": "fe989d57-d565-44a5-ae56-9d13801a60a6",
       "isReward": true,
       "rewardMissions": [
-        "Miles Eckhart: Top Tier Operator Needed",
-        "Miles Eckhart: Protection Detail Needed. High Risk.",
-        "Miles Eckhart: VIP Client Needs Protection"
+        "Eckhart Sécurité: Top Tier Operator Needed",
+        "Eckhart Sécurité: Protection Detail Needed. High Risk.",
+        "Eckhart Sécurité: VIP Client Needs Protection"
       ],
       "rewardMissionKeys": [
         {
           "titleKey": "Eckhart_EscortShips_S_title",
           "titleEN": "Top Tier Operator Needed",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -177149,7 +177149,7 @@
         {
           "titleKey": "Eckhart_EscortShips_VH_title",
           "titleEN": "Protection Detail Needed. High Risk.",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -177161,7 +177161,7 @@
         {
           "titleKey": "Eckhart_EscortShips_H_title",
           "titleEN": "VIP Client Needs Protection",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -178031,16 +178031,16 @@
       "recordGUID": "d7ac6b06-bc08-4c9f-8c9f-3d8f2c2eedf0",
       "isReward": true,
       "rewardMissions": [
-        "Miles Eckhart: Top Tier Operator Needed",
-        "Miles Eckhart: Protection Detail Needed. High Risk.",
-        "Miles Eckhart: VIP Client Needs Protection",
-        "Miles Eckhart: Experienced Protection Detail Needed"
+        "Eckhart Sécurité: Top Tier Operator Needed",
+        "Eckhart Sécurité: Protection Detail Needed. High Risk.",
+        "Eckhart Sécurité: VIP Client Needs Protection",
+        "Eckhart Sécurité: Experienced Protection Detail Needed"
       ],
       "rewardMissionKeys": [
         {
           "titleKey": "Eckhart_EscortShips_S_title",
           "titleEN": "Top Tier Operator Needed",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -178052,7 +178052,7 @@
         {
           "titleKey": "Eckhart_EscortShips_VH_title",
           "titleEN": "Protection Detail Needed. High Risk.",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -178064,7 +178064,7 @@
         {
           "titleKey": "Eckhart_EscortShips_H_title",
           "titleEN": "VIP Client Needs Protection",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
@@ -178076,7 +178076,7 @@
         {
           "titleKey": "Eckhart_EscortShips_M_title",
           "titleEN": "Experienced Protection Detail Needed",
-          "faction": "Miles Eckhart",
+          "faction": "Eckhart Sécurité",
           "systems": [
             "Nyx"
           ],
