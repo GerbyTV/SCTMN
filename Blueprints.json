@@ -1,5 +1,5 @@
 {
-  "version": "4.10.0-live.12519617",
+  "version": "4.10.1-live",
   "blueprints": [
     {
       "file": "crafting\\blueprints\\crafting\\vehiclegear\\weapons\\ballistic\\cannon\\bp_craft_kbar_ballisticcannon_s2.xml",
