@@ -116249,7 +116249,7 @@
         }
       ],
       "internalName": "BP_CRAFT_mrai_flightsuit_01_07_12",
-      "locKey": "@item_Name_mrai_flightsuit_01_07_12,P",
+      "locKey": "@item_Name_mrai_flightsuit_01_07_12",
       "blueprintName": "Neutrino Racing Flight Suit BlackFire",
       "categoryName": "Armure",
       "type": "fpsgear",
@@ -116311,7 +116311,7 @@
         }
       ],
       "internalName": "BP_CRAFT_mrai_flightsuit_01_07_18",
-      "locKey": "@item_Name_mrai_flightsuit_01_07_18,P",
+      "locKey": "@item_Name_mrai_flightsuit_01_07_18",
       "blueprintName": "Neutrino Racing Flight Suit BlueFlame",
       "categoryName": "Armure",
       "type": "fpsgear",
@@ -116358,7 +116358,7 @@
       "rewardMissions": [],
       "rewardMissionKeys": [],
       "internalName": "BP_CRAFT_mrai_flightsuit_01_01_01",
-      "locKey": "@item_Name_mrai_flightsuit_01_01_01,P",
+      "locKey": "@item_Name_mrai_flightsuit_01_01_01",
       "blueprintName": "Neutrino Racing Flight Suit Mirai",
       "categoryName": "Armure",
       "type": "fpsgear",
@@ -116418,7 +116418,7 @@
         }
       ],
       "internalName": "BP_CRAFT_mrai_flightsuit_01_07_02",
-      "locKey": "@item_Name_mrai_flightsuit_01_07_02,P",
+      "locKey": "@item_Name_mrai_flightsuit_01_07_02",
       "blueprintName": "Neutrino Racing Flight Suit WhiteHot",
       "categoryName": "Armure",
       "type": "fpsgear",
