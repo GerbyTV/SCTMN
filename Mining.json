@@ -1,5 +1,5 @@
 {
-  "version": "generated-from-scdata",
+  "version": "4.10.2-ptu",
   "source": {
     "resources": "ScDataDumper/export/resources/resources.json",
     "locations": "ScDataDumper/export/resources/locations.json",
@@ -72,28 +72,6 @@
           "provider": "HPP_Stanton2c"
         },
         {
-          "location": "Vuur",
-          "system": "Pyro",
-          "type": "unknown",
-          "probability": 1.065,
-          "groupProbability": 7.5,
-          "relativeProbability": 14.2,
-          "signature": 3885,
-          "rock": "Surface",
-          "provider": "HPP_Pyro5f"
-        },
-        {
-          "location": "Terminus",
-          "system": "Pyro",
-          "type": "unknown",
-          "probability": 1.065,
-          "groupProbability": 7.5,
-          "relativeProbability": 14.2,
-          "signature": 3885,
-          "rock": "Surface",
-          "provider": "HPP_Pyro6"
-        },
-        {
           "location": "Lagrange G",
           "system": "Stanton",
           "type": "lagrange",
@@ -114,6 +92,28 @@
           "signature": 3885,
           "rock": "Asteroide",
           "provider": "HPP_Lagrange_Occupied"
+        },
+        {
+          "location": "Vuur",
+          "system": "Pyro",
+          "type": "unknown",
+          "probability": 1.065,
+          "groupProbability": 7.5,
+          "relativeProbability": 14.2,
+          "signature": 3885,
+          "rock": "Surface",
+          "provider": "HPP_Pyro5f"
+        },
+        {
+          "location": "Terminus",
+          "system": "Pyro",
+          "type": "unknown",
+          "probability": 1.065,
+          "groupProbability": 7.5,
+          "relativeProbability": 14.2,
+          "signature": 3885,
+          "rock": "Surface",
+          "provider": "HPP_Pyro6"
         }
       ],
       "key": "agricium"
@@ -129,28 +129,6 @@
         25710
       ],
       "locations": [
-        {
-          "location": "Hurston",
-          "system": "Stanton",
-          "type": "belt",
-          "probability": 3.09,
-          "groupProbability": 30.0,
-          "relativeProbability": 10.3,
-          "signature": 4285,
-          "rock": "Asteroide",
-          "provider": "HPP_AaronHalo"
-        },
-        {
-          "location": "HUR L2",
-          "system": "Stanton",
-          "type": "lagrange",
-          "probability": 2.67,
-          "groupProbability": 15.0,
-          "relativeProbability": 17.8,
-          "signature": 4285,
-          "rock": "Asteroide",
-          "provider": "HPP_Lagrange_F"
-        },
         {
           "location": "Hurston",
           "system": "Stanton",
@@ -185,26 +163,15 @@
           "provider": "HPP_Stanton1d"
         },
         {
-          "location": "Keeger Belt",
-          "system": "Nyx",
-          "type": "belt",
-          "probability": 2.075,
-          "groupProbability": 10.0,
-          "relativeProbability": 20.75,
-          "signature": 4285,
-          "rock": "Asteroide",
-          "provider": "HPP_Nyx_KeegerBelt"
-        },
-        {
-          "location": "HUR L1",
+          "location": "Aberdeen",
           "system": "Stanton",
-          "type": "lagrange",
-          "probability": 1.79,
-          "groupProbability": 10.0,
-          "relativeProbability": 17.9,
+          "type": "unknown",
+          "probability": 1.782,
+          "groupProbability": 6.0,
+          "relativeProbability": 29.7,
           "signature": 4285,
-          "rock": "Asteroide",
-          "provider": "HPP_Lagrange_A"
+          "rock": "Surface",
+          "provider": "HPP_Stanton1b"
         },
         {
           "location": "HUR L5",
@@ -218,28 +185,6 @@
           "provider": "HPP_Lagrange_C"
         },
         {
-          "location": "Aberdeen",
-          "system": "Stanton",
-          "type": "unknown",
-          "probability": 1.782,
-          "groupProbability": 6.0,
-          "relativeProbability": 29.7,
-          "signature": 4285,
-          "rock": "Surface",
-          "provider": "HPP_Stanton1b"
-        },
-        {
-          "location": "Pyro",
-          "system": "Pyro",
-          "type": "belt",
-          "probability": 1.49,
-          "groupProbability": 10.0,
-          "relativeProbability": 14.9,
-          "signature": 4285,
-          "rock": "Asteroide",
-          "provider": "HPP_Pyro_DeepSpaceAsteroids"
-        },
-        {
           "location": "Arial",
           "system": "Stanton",
           "type": "unknown",
@@ -249,6 +194,17 @@
           "signature": 4285,
           "rock": "Surface",
           "provider": "HPP_Stanton1a"
+        },
+        {
+          "location": "Keeger Belt",
+          "system": "Nyx",
+          "type": "belt",
+          "probability": 2.075,
+          "groupProbability": 10.0,
+          "relativeProbability": 20.75,
+          "signature": 4285,
+          "rock": "Asteroide",
+          "provider": "HPP_Nyx_KeegerBelt"
         },
         {
           "location": "Asteroid Cluster (Medium Yield)",
@@ -271,6 +227,50 @@
           "signature": 4285,
           "rock": "Asteroide",
           "provider": "AsteroidCluster_Low_Yield"
+        },
+        {
+          "location": "HUR L1",
+          "system": "Stanton",
+          "type": "lagrange",
+          "probability": 1.79,
+          "groupProbability": 10.0,
+          "relativeProbability": 17.9,
+          "signature": 4285,
+          "rock": "Asteroide",
+          "provider": "HPP_Lagrange_A"
+        },
+        {
+          "location": "HUR L2",
+          "system": "Stanton",
+          "type": "lagrange",
+          "probability": 2.67,
+          "groupProbability": 15.0,
+          "relativeProbability": 17.8,
+          "signature": 4285,
+          "rock": "Asteroide",
+          "provider": "HPP_Lagrange_F"
+        },
+        {
+          "location": "Pyro",
+          "system": "Pyro",
+          "type": "belt",
+          "probability": 1.49,
+          "groupProbability": 10.0,
+          "relativeProbability": 14.9,
+          "signature": 4285,
+          "rock": "Asteroide",
+          "provider": "HPP_Pyro_DeepSpaceAsteroids"
+        },
+        {
+          "location": "Hurston",
+          "system": "Stanton",
+          "type": "belt",
+          "probability": 3.09,
+          "groupProbability": 30.0,
+          "relativeProbability": 10.3,
+          "signature": 4285,
+          "rock": "Asteroide",
+          "provider": "HPP_AaronHalo"
         }
       ],
       "key": "aluminum"
@@ -295,17 +295,6 @@
           "signature": 3840,
           "rock": "Asteroide",
           "provider": "HPP_Lagrange_B"
-        },
-        {
-          "location": "Hurston",
-          "system": "Stanton",
-          "type": "belt",
-          "probability": 4.26,
-          "groupProbability": 30.0,
-          "relativeProbability": 14.2,
-          "signature": 3840,
-          "rock": "Asteroide",
-          "provider": "HPP_AaronHalo"
         },
         {
           "location": "PYR6 L1",
@@ -339,6 +328,17 @@
           "signature": 3840,
           "rock": "Surface",
           "provider": "HPP_Stanton1d"
+        },
+        {
+          "location": "Hurston",
+          "system": "Stanton",
+          "type": "belt",
+          "probability": 4.26,
+          "groupProbability": 30.0,
+          "relativeProbability": 14.2,
+          "signature": 3840,
+          "rock": "Asteroide",
+          "provider": "HPP_AaronHalo"
         },
         {
           "location": "Vuur",
@@ -531,6 +531,17 @@
       ],
       "locations": [
         {
+          "location": "Pyro IV",
+          "system": "Pyro",
+          "type": "unknown",
+          "probability": 1.351351,
+          "groupProbability": 7.5,
+          "relativeProbability": 18.018018,
+          "signature": 3570,
+          "rock": "Surface",
+          "provider": "HPP_Pyro4"
+        },
+        {
           "location": "PYR5 L1",
           "system": "Pyro",
           "type": "belt",
@@ -551,17 +562,6 @@
           "signature": 3570,
           "rock": "Asteroide",
           "provider": "HPP_Lagrange_A"
-        },
-        {
-          "location": "Pyro IV",
-          "system": "Pyro",
-          "type": "unknown",
-          "probability": 1.351351,
-          "groupProbability": 7.5,
-          "relativeProbability": 18.018018,
-          "signature": 3570,
-          "rock": "Surface",
-          "provider": "HPP_Pyro4"
         },
         {
           "location": "Bloom",
@@ -611,83 +611,6 @@
       ],
       "locations": [
         {
-          "location": "HUR L3",
-          "system": "Stanton",
-          "type": "lagrange",
-          "probability": 5.34,
-          "groupProbability": 30.0,
-          "relativeProbability": 17.8,
-          "signature": 4240,
-          "rock": "Asteroide",
-          "provider": "HPP_Lagrange_E"
-        },
-        {
-          "location": "Terminus",
-          "system": "Pyro",
-          "type": "belt",
-          "probability": 4.1,
-          "groupProbability": 20.0,
-          "relativeProbability": 20.5,
-          "signature": 4240,
-          "rock": "Asteroide",
-          "provider": "HPP_Stanton2c_Belt"
-        },
-        {
-          "location": "Hurston",
-          "system": "Stanton",
-          "type": "belt",
-          "probability": 3.09,
-          "groupProbability": 30.0,
-          "relativeProbability": 10.3,
-          "signature": 4240,
-          "rock": "Asteroide",
-          "provider": "HPP_AaronHalo"
-        },
-        {
-          "location": "PYR1 L1",
-          "system": "Pyro",
-          "type": "belt",
-          "probability": 2.67,
-          "groupProbability": 10.0,
-          "relativeProbability": 26.7,
-          "signature": 4240,
-          "rock": "Asteroide",
-          "provider": "HPP_Pyro_Warm01"
-        },
-        {
-          "location": "PYR3 L1",
-          "system": "Pyro",
-          "type": "belt",
-          "probability": 2.67,
-          "groupProbability": 10.0,
-          "relativeProbability": 26.7,
-          "signature": 4240,
-          "rock": "Asteroide",
-          "provider": "HPP_Pyro_Warm02"
-        },
-        {
-          "location": "CRU L4",
-          "system": "Stanton",
-          "type": "lagrange",
-          "probability": 2.67,
-          "groupProbability": 15.0,
-          "relativeProbability": 17.8,
-          "signature": 4240,
-          "rock": "Asteroide",
-          "provider": "HPP_Lagrange_B"
-        },
-        {
-          "location": "Pyro I",
-          "system": "Pyro",
-          "type": "unknown",
-          "probability": 2.447447,
-          "groupProbability": 7.5,
-          "relativeProbability": 32.632633,
-          "signature": 4240,
-          "rock": "Surface",
-          "provider": "HPP_Pyro1"
-        },
-        {
           "location": "Clio",
           "system": "Stanton",
           "type": "unknown",
@@ -721,37 +644,37 @@
           "provider": "HPP_Stanton3a"
         },
         {
-          "location": "Pyro IV",
+          "location": "Pyro I",
           "system": "Pyro",
           "type": "unknown",
-          "probability": 1.929429,
+          "probability": 2.447447,
           "groupProbability": 7.5,
-          "relativeProbability": 25.725726,
+          "relativeProbability": 32.632633,
           "signature": 4240,
           "rock": "Surface",
-          "provider": "HPP_Pyro4"
+          "provider": "HPP_Pyro1"
         },
         {
-          "location": "CRU L5",
-          "system": "Stanton",
-          "type": "lagrange",
-          "probability": 1.78,
+          "location": "PYR1 L1",
+          "system": "Pyro",
+          "type": "belt",
+          "probability": 2.67,
           "groupProbability": 10.0,
-          "relativeProbability": 17.8,
+          "relativeProbability": 26.7,
           "signature": 4240,
           "rock": "Asteroide",
-          "provider": "HPP_Lagrange_D"
+          "provider": "HPP_Pyro_Warm01"
         },
         {
-          "location": "Terminus",
+          "location": "PYR3 L1",
           "system": "Pyro",
-          "type": "unknown",
-          "probability": 1.56,
-          "groupProbability": 7.5,
-          "relativeProbability": 20.8,
+          "type": "belt",
+          "probability": 2.67,
+          "groupProbability": 10.0,
+          "relativeProbability": 26.7,
           "signature": 4240,
-          "rock": "Surface",
-          "provider": "HPP_Pyro6"
+          "rock": "Asteroide",
+          "provider": "HPP_Pyro_Warm02"
         },
         {
           "location": "Wala",
@@ -765,15 +688,49 @@
           "provider": "HPP_Stanton3b"
         },
         {
-          "location": "Akiro Cluster",
+          "location": "Pyro IV",
           "system": "Pyro",
-          "type": "cluster",
-          "probability": 1.49,
-          "groupProbability": 10.0,
-          "relativeProbability": 14.9,
+          "type": "unknown",
+          "probability": 1.929429,
+          "groupProbability": 7.5,
+          "relativeProbability": 25.725726,
+          "signature": 4240,
+          "rock": "Surface",
+          "provider": "HPP_Pyro4"
+        },
+        {
+          "location": "Terminus",
+          "system": "Pyro",
+          "type": "unknown",
+          "probability": 1.56,
+          "groupProbability": 7.5,
+          "relativeProbability": 20.8,
+          "signature": 4240,
+          "rock": "Surface",
+          "provider": "HPP_Pyro6"
+        },
+        {
+          "location": "Terminus",
+          "system": "Pyro",
+          "type": "belt",
+          "probability": 4.1,
+          "groupProbability": 20.0,
+          "relativeProbability": 20.5,
           "signature": 4240,
           "rock": "Asteroide",
-          "provider": "HPP_Pyro_AkiroCluster"
+          "provider": "HPP_Stanton2c_Belt"
+        },
+        {
+          "location": "Yela Asteroid Belt",
+          "system": "Stanton",
+          "type": "belt",
+          "probability": 4.1,
+          "groupProbability": 20.0,
+          "relativeProbability": 20.5,
+          "signature": 4240,
+          "rock": "Asteroide",
+          "provider": "HPP_Stanton2c_Belt",
+          "sharesCompositionWith": "Terminus (Pyro)"
         },
         {
           "location": "Asteroid Cluster (Medium Yield)",
@@ -798,6 +755,39 @@
           "provider": "AsteroidCluster_Low_Yield"
         },
         {
+          "location": "HUR L3",
+          "system": "Stanton",
+          "type": "lagrange",
+          "probability": 5.34,
+          "groupProbability": 30.0,
+          "relativeProbability": 17.8,
+          "signature": 4240,
+          "rock": "Asteroide",
+          "provider": "HPP_Lagrange_E"
+        },
+        {
+          "location": "CRU L4",
+          "system": "Stanton",
+          "type": "lagrange",
+          "probability": 2.67,
+          "groupProbability": 15.0,
+          "relativeProbability": 17.8,
+          "signature": 4240,
+          "rock": "Asteroide",
+          "provider": "HPP_Lagrange_B"
+        },
+        {
+          "location": "CRU L5",
+          "system": "Stanton",
+          "type": "lagrange",
+          "probability": 1.78,
+          "groupProbability": 10.0,
+          "relativeProbability": 17.8,
+          "signature": 4240,
+          "rock": "Asteroide",
+          "provider": "HPP_Lagrange_D"
+        },
+        {
           "location": "Lagrange G",
           "system": "Stanton",
           "type": "lagrange",
@@ -818,6 +808,28 @@
           "signature": 4240,
           "rock": "Asteroide",
           "provider": "HPP_Lagrange_Occupied"
+        },
+        {
+          "location": "Akiro Cluster",
+          "system": "Pyro",
+          "type": "cluster",
+          "probability": 1.49,
+          "groupProbability": 10.0,
+          "relativeProbability": 14.9,
+          "signature": 4240,
+          "rock": "Asteroide",
+          "provider": "HPP_Pyro_AkiroCluster"
+        },
+        {
+          "location": "Hurston",
+          "system": "Stanton",
+          "type": "belt",
+          "probability": 3.09,
+          "groupProbability": 30.0,
+          "relativeProbability": 10.3,
+          "signature": 4240,
+          "rock": "Asteroide",
+          "provider": "HPP_AaronHalo"
         }
       ],
       "key": "copper"
@@ -834,15 +846,15 @@
       ],
       "locations": [
         {
-          "location": "HUR L2",
+          "location": "Aberdeen",
           "system": "Stanton",
-          "type": "lagrange",
-          "probability": 2.685,
-          "groupProbability": 15.0,
-          "relativeProbability": 17.9,
+          "type": "unknown",
+          "probability": 1.788,
+          "groupProbability": 6.0,
+          "relativeProbability": 29.8,
           "signature": 4225,
-          "rock": "Asteroide",
-          "provider": "HPP_Lagrange_F"
+          "rock": "Surface",
+          "provider": "HPP_Stanton1b"
         },
         {
           "location": "HUR L5",
@@ -856,15 +868,26 @@
           "provider": "HPP_Lagrange_C"
         },
         {
-          "location": "Aberdeen",
+          "location": "Arial",
           "system": "Stanton",
           "type": "unknown",
-          "probability": 1.788,
+          "probability": 1.32,
           "groupProbability": 6.0,
-          "relativeProbability": 29.8,
+          "relativeProbability": 22.0,
           "signature": 4225,
           "rock": "Surface",
-          "provider": "HPP_Stanton1b"
+          "provider": "HPP_Stanton1a"
+        },
+        {
+          "location": "HUR L2",
+          "system": "Stanton",
+          "type": "lagrange",
+          "probability": 2.685,
+          "groupProbability": 15.0,
+          "relativeProbability": 17.9,
+          "signature": 4225,
+          "rock": "Asteroide",
+          "provider": "HPP_Lagrange_F"
         },
         {
           "location": "HUR L1",
@@ -887,17 +910,6 @@
           "signature": 4225,
           "rock": "Asteroide",
           "provider": "HPP_Pyro_DeepSpaceAsteroids"
-        },
-        {
-          "location": "Arial",
-          "system": "Stanton",
-          "type": "unknown",
-          "probability": 1.32,
-          "groupProbability": 6.0,
-          "relativeProbability": 22.0,
-          "signature": 4225,
-          "rock": "Surface",
-          "provider": "HPP_Stanton1a"
         }
       ],
       "key": "corundum"
@@ -987,17 +999,6 @@
       ],
       "locations": [
         {
-          "location": "HUR L2",
-          "system": "Stanton",
-          "type": "lagrange",
-          "probability": 2.67,
-          "groupProbability": 15.0,
-          "relativeProbability": 17.8,
-          "signature": 4180,
-          "rock": "Asteroide",
-          "provider": "HPP_Lagrange_F"
-        },
-        {
           "location": "Monox",
           "system": "Pyro",
           "type": "unknown",
@@ -1007,28 +1008,6 @@
           "signature": 4180,
           "rock": "Surface",
           "provider": "HPP_Pyro2"
-        },
-        {
-          "location": "Vuur",
-          "system": "Pyro",
-          "type": "unknown",
-          "probability": 2.01,
-          "groupProbability": 7.5,
-          "relativeProbability": 26.8,
-          "signature": 4180,
-          "rock": "Surface",
-          "provider": "HPP_Pyro5f"
-        },
-        {
-          "location": "Fuego",
-          "system": "Pyro",
-          "type": "unknown",
-          "probability": 2.0025,
-          "groupProbability": 7.5,
-          "relativeProbability": 26.7,
-          "signature": 4180,
-          "rock": "Surface",
-          "provider": "HPP_Pyro5e"
         },
         {
           "location": "microTech",
@@ -1053,6 +1032,28 @@
           "provider": "HPP_Stanton4a"
         },
         {
+          "location": "Vuur",
+          "system": "Pyro",
+          "type": "unknown",
+          "probability": 2.01,
+          "groupProbability": 7.5,
+          "relativeProbability": 26.8,
+          "signature": 4180,
+          "rock": "Surface",
+          "provider": "HPP_Pyro5f"
+        },
+        {
+          "location": "Fuego",
+          "system": "Pyro",
+          "type": "unknown",
+          "probability": 2.0025,
+          "groupProbability": 7.5,
+          "relativeProbability": 26.7,
+          "signature": 4180,
+          "rock": "Surface",
+          "provider": "HPP_Pyro5e"
+        },
+        {
           "location": "HUR L5",
           "system": "Stanton",
           "type": "lagrange",
@@ -1064,17 +1065,6 @@
           "provider": "HPP_Lagrange_C"
         },
         {
-          "location": "HUR L1",
-          "system": "Stanton",
-          "type": "lagrange",
-          "probability": 1.78,
-          "groupProbability": 10.0,
-          "relativeProbability": 17.8,
-          "signature": 4180,
-          "rock": "Asteroide",
-          "provider": "HPP_Lagrange_A"
-        },
-        {
           "location": "Arial",
           "system": "Stanton",
           "type": "unknown",
@@ -1084,6 +1074,28 @@
           "signature": 4180,
           "rock": "Surface",
           "provider": "HPP_Stanton1a"
+        },
+        {
+          "location": "HUR L2",
+          "system": "Stanton",
+          "type": "lagrange",
+          "probability": 2.67,
+          "groupProbability": 15.0,
+          "relativeProbability": 17.8,
+          "signature": 4180,
+          "rock": "Asteroide",
+          "provider": "HPP_Lagrange_F"
+        },
+        {
+          "location": "HUR L1",
+          "system": "Stanton",
+          "type": "lagrange",
+          "probability": 1.78,
+          "groupProbability": 10.0,
+          "relativeProbability": 17.8,
+          "signature": 4180,
+          "rock": "Asteroide",
+          "provider": "HPP_Lagrange_A"
         }
       ],
       "key": "hephaestanite r"
@@ -1100,28 +1112,6 @@
       ],
       "locations": [
         {
-          "location": "HUR L3",
-          "system": "Stanton",
-          "type": "lagrange",
-          "probability": 5.37,
-          "groupProbability": 30.0,
-          "relativeProbability": 17.9,
-          "signature": 4270,
-          "rock": "Asteroide",
-          "provider": "HPP_Lagrange_E"
-        },
-        {
-          "location": "Terminus",
-          "system": "Pyro",
-          "type": "belt",
-          "probability": 4.1,
-          "groupProbability": 20.0,
-          "relativeProbability": 20.5,
-          "signature": 4270,
-          "rock": "Asteroide",
-          "provider": "HPP_Stanton2c_Belt"
-        },
-        {
           "location": "Adir",
           "system": "Pyro",
           "type": "unknown",
@@ -1131,17 +1121,6 @@
           "signature": 4270,
           "rock": "Surface",
           "provider": "HPP_Pyro5c"
-        },
-        {
-          "location": "Hurston",
-          "system": "Stanton",
-          "type": "belt",
-          "probability": 3.09,
-          "groupProbability": 30.0,
-          "relativeProbability": 10.3,
-          "signature": 4270,
-          "rock": "Asteroide",
-          "provider": "HPP_AaronHalo"
         },
         {
           "location": "Vatra",
@@ -1155,39 +1134,6 @@
           "provider": "HPP_Pyro5b"
         },
         {
-          "location": "CRU L4",
-          "system": "Stanton",
-          "type": "lagrange",
-          "probability": 2.685,
-          "groupProbability": 15.0,
-          "relativeProbability": 17.9,
-          "signature": 4270,
-          "rock": "Asteroide",
-          "provider": "HPP_Lagrange_B"
-        },
-        {
-          "location": "PYR1 L1",
-          "system": "Pyro",
-          "type": "belt",
-          "probability": 2.68,
-          "groupProbability": 10.0,
-          "relativeProbability": 26.8,
-          "signature": 4270,
-          "rock": "Asteroide",
-          "provider": "HPP_Pyro_Warm01"
-        },
-        {
-          "location": "PYR3 L1",
-          "system": "Pyro",
-          "type": "belt",
-          "probability": 2.68,
-          "groupProbability": 10.0,
-          "relativeProbability": 26.8,
-          "signature": 4270,
-          "rock": "Asteroide",
-          "provider": "HPP_Pyro_Warm02"
-        },
-        {
           "location": "Bloom",
           "system": "Pyro",
           "type": "unknown",
@@ -1197,28 +1143,6 @@
           "signature": 4270,
           "rock": "Surface",
           "provider": "HPP_Pyro3"
-        },
-        {
-          "location": "Pyro I",
-          "system": "Pyro",
-          "type": "unknown",
-          "probability": 2.454955,
-          "groupProbability": 7.5,
-          "relativeProbability": 32.732733,
-          "signature": 4270,
-          "rock": "Surface",
-          "provider": "HPP_Pyro1"
-        },
-        {
-          "location": "Monox",
-          "system": "Pyro",
-          "type": "unknown",
-          "probability": 2.447447,
-          "groupProbability": 7.5,
-          "relativeProbability": 32.632633,
-          "signature": 4270,
-          "rock": "Surface",
-          "provider": "HPP_Pyro2"
         },
         {
           "location": "Magda",
@@ -1243,15 +1167,70 @@
           "provider": "HPP_Stanton3a"
         },
         {
-          "location": "Glaciem Ring",
-          "system": "Nyx",
+          "location": "Pyro I",
+          "system": "Pyro",
+          "type": "unknown",
+          "probability": 2.454955,
+          "groupProbability": 7.5,
+          "relativeProbability": 32.732733,
+          "signature": 4270,
+          "rock": "Surface",
+          "provider": "HPP_Pyro1"
+        },
+        {
+          "location": "Calliope",
+          "system": "Stanton",
+          "type": "unknown",
+          "probability": 1.963964,
+          "groupProbability": 6.0,
+          "relativeProbability": 32.732733,
+          "signature": 4270,
+          "rock": "Surface",
+          "provider": "HPP_Stanton4a"
+        },
+        {
+          "location": "Monox",
+          "system": "Pyro",
+          "type": "unknown",
+          "probability": 2.447447,
+          "groupProbability": 7.5,
+          "relativeProbability": 32.632633,
+          "signature": 4270,
+          "rock": "Surface",
+          "provider": "HPP_Pyro2"
+        },
+        {
+          "location": "microTech",
+          "system": "Stanton",
+          "type": "unknown",
+          "probability": 1.956,
+          "groupProbability": 6.0,
+          "relativeProbability": 32.6,
+          "signature": 4270,
+          "rock": "Surface",
+          "provider": "HPP_Stanton4"
+        },
+        {
+          "location": "PYR1 L1",
+          "system": "Pyro",
           "type": "belt",
-          "probability": 2.075,
+          "probability": 2.68,
           "groupProbability": 10.0,
-          "relativeProbability": 20.75,
+          "relativeProbability": 26.8,
           "signature": 4270,
           "rock": "Asteroide",
-          "provider": "HPP_Nyx_GlaciemRing"
+          "provider": "HPP_Pyro_Warm01"
+        },
+        {
+          "location": "PYR3 L1",
+          "system": "Pyro",
+          "type": "belt",
+          "probability": 2.68,
+          "groupProbability": 10.0,
+          "relativeProbability": 26.8,
+          "signature": 4270,
+          "rock": "Asteroide",
+          "provider": "HPP_Pyro_Warm02"
         },
         {
           "location": "Fuego",
@@ -1287,28 +1266,6 @@
           "provider": "HPP_Pyro5d"
         },
         {
-          "location": "Calliope",
-          "system": "Stanton",
-          "type": "unknown",
-          "probability": 1.963964,
-          "groupProbability": 6.0,
-          "relativeProbability": 32.732733,
-          "signature": 4270,
-          "rock": "Surface",
-          "provider": "HPP_Stanton4a"
-        },
-        {
-          "location": "microTech",
-          "system": "Stanton",
-          "type": "unknown",
-          "probability": 1.956,
-          "groupProbability": 6.0,
-          "relativeProbability": 32.6,
-          "signature": 4270,
-          "rock": "Surface",
-          "provider": "HPP_Stanton4"
-        },
-        {
           "location": "Pyro IV",
           "system": "Pyro",
           "type": "unknown",
@@ -1318,17 +1275,6 @@
           "signature": 4270,
           "rock": "Surface",
           "provider": "HPP_Pyro4"
-        },
-        {
-          "location": "CRU L5",
-          "system": "Stanton",
-          "type": "lagrange",
-          "probability": 1.79,
-          "groupProbability": 10.0,
-          "relativeProbability": 17.9,
-          "signature": 4270,
-          "rock": "Asteroide",
-          "provider": "HPP_Lagrange_D"
         },
         {
           "location": "Wala",
@@ -1342,15 +1288,38 @@
           "provider": "HPP_Stanton3b"
         },
         {
-          "location": "Akiro Cluster",
-          "system": "Pyro",
-          "type": "cluster",
-          "probability": 1.48,
+          "location": "Glaciem Ring",
+          "system": "Nyx",
+          "type": "belt",
+          "probability": 2.075,
           "groupProbability": 10.0,
-          "relativeProbability": 14.8,
+          "relativeProbability": 20.75,
           "signature": 4270,
           "rock": "Asteroide",
-          "provider": "HPP_Pyro_AkiroCluster"
+          "provider": "HPP_Nyx_GlaciemRing"
+        },
+        {
+          "location": "Terminus",
+          "system": "Pyro",
+          "type": "belt",
+          "probability": 4.1,
+          "groupProbability": 20.0,
+          "relativeProbability": 20.5,
+          "signature": 4270,
+          "rock": "Asteroide",
+          "provider": "HPP_Stanton2c_Belt"
+        },
+        {
+          "location": "Yela Asteroid Belt",
+          "system": "Stanton",
+          "type": "belt",
+          "probability": 4.1,
+          "groupProbability": 20.0,
+          "relativeProbability": 20.5,
+          "signature": 4270,
+          "rock": "Asteroide",
+          "provider": "HPP_Stanton2c_Belt",
+          "sharesCompositionWith": "Terminus (Pyro)"
         },
         {
           "location": "Asteroid Cluster (Medium Yield)",
@@ -1375,6 +1344,39 @@
           "provider": "AsteroidCluster_Low_Yield"
         },
         {
+          "location": "HUR L3",
+          "system": "Stanton",
+          "type": "lagrange",
+          "probability": 5.37,
+          "groupProbability": 30.0,
+          "relativeProbability": 17.9,
+          "signature": 4270,
+          "rock": "Asteroide",
+          "provider": "HPP_Lagrange_E"
+        },
+        {
+          "location": "CRU L4",
+          "system": "Stanton",
+          "type": "lagrange",
+          "probability": 2.685,
+          "groupProbability": 15.0,
+          "relativeProbability": 17.9,
+          "signature": 4270,
+          "rock": "Asteroide",
+          "provider": "HPP_Lagrange_B"
+        },
+        {
+          "location": "CRU L5",
+          "system": "Stanton",
+          "type": "lagrange",
+          "probability": 1.79,
+          "groupProbability": 10.0,
+          "relativeProbability": 17.9,
+          "signature": 4270,
+          "rock": "Asteroide",
+          "provider": "HPP_Lagrange_D"
+        },
+        {
           "location": "Lagrange G",
           "system": "Stanton",
           "type": "lagrange",
@@ -1395,6 +1397,28 @@
           "signature": 4270,
           "rock": "Asteroide",
           "provider": "HPP_Lagrange_Occupied"
+        },
+        {
+          "location": "Akiro Cluster",
+          "system": "Pyro",
+          "type": "cluster",
+          "probability": 1.48,
+          "groupProbability": 10.0,
+          "relativeProbability": 14.8,
+          "signature": 4270,
+          "rock": "Asteroide",
+          "provider": "HPP_Pyro_AkiroCluster"
+        },
+        {
+          "location": "Hurston",
+          "system": "Stanton",
+          "type": "belt",
+          "probability": 3.09,
+          "groupProbability": 30.0,
+          "relativeProbability": 10.3,
+          "signature": 4270,
+          "rock": "Asteroide",
+          "provider": "HPP_AaronHalo"
         }
       ],
       "key": "iron"
@@ -1410,17 +1434,6 @@
       ],
       "locations": [
         {
-          "location": "HUR L1",
-          "system": "Stanton",
-          "type": "lagrange",
-          "probability": 2.85,
-          "groupProbability": 10.0,
-          "relativeProbability": 28.5,
-          "signature": 3825,
-          "rock": "Asteroide",
-          "provider": "HPP_Lagrange_A"
-        },
-        {
           "location": "Pyro IV",
           "system": "Pyro",
           "type": "unknown",
@@ -1430,6 +1443,17 @@
           "signature": 3825,
           "rock": "Surface",
           "provider": "HPP_Pyro4"
+        },
+        {
+          "location": "HUR L1",
+          "system": "Stanton",
+          "type": "lagrange",
+          "probability": 2.85,
+          "groupProbability": 10.0,
+          "relativeProbability": 28.5,
+          "signature": 3825,
+          "rock": "Asteroide",
+          "provider": "HPP_Lagrange_A"
         },
         {
           "location": "Wala",
@@ -1509,6 +1533,18 @@
           "provider": "HPP_Stanton2c_Belt"
         },
         {
+          "location": "Yela Asteroid Belt",
+          "system": "Stanton",
+          "type": "belt",
+          "probability": 2.0,
+          "groupProbability": 20.0,
+          "relativeProbability": 10.0,
+          "signature": 3370,
+          "rock": "Asteroide",
+          "provider": "HPP_Stanton2c_Belt",
+          "sharesCompositionWith": "Terminus (Pyro)"
+        },
+        {
           "location": "Hurston",
           "system": "Stanton",
           "type": "unknown",
@@ -1552,17 +1588,6 @@
       ],
       "locations": [
         {
-          "location": "Hurston",
-          "system": "Stanton",
-          "type": "belt",
-          "probability": 0.6,
-          "groupProbability": 30.0,
-          "relativeProbability": 2.0,
-          "signature": 3170,
-          "rock": "Asteroide",
-          "provider": "HPP_AaronHalo"
-        },
-        {
           "location": "Calliope",
           "system": "Stanton",
           "type": "unknown",
@@ -1572,6 +1597,17 @@
           "signature": 3170,
           "rock": "Surface",
           "provider": "HPP_Stanton4a"
+        },
+        {
+          "location": "Hurston",
+          "system": "Stanton",
+          "type": "belt",
+          "probability": 0.6,
+          "groupProbability": 30.0,
+          "relativeProbability": 2.0,
+          "signature": 3170,
+          "rock": "Asteroide",
+          "provider": "HPP_AaronHalo"
         },
         {
           "location": "Hurston",
@@ -1706,17 +1742,6 @@
           "provider": "HPP_Stanton4c"
         },
         {
-          "location": "Lyria",
-          "system": "Stanton",
-          "type": "unknown",
-          "probability": 0.11988,
-          "groupProbability": 6.0,
-          "relativeProbability": 1.998002,
-          "signature": 3170,
-          "rock": "Surface",
-          "provider": "HPP_Stanton3a"
-        },
-        {
           "location": "Asteroid Cluster (Medium Yield)",
           "system": "Stanton",
           "type": "cluster",
@@ -1737,6 +1762,17 @@
           "signature": 3170,
           "rock": "Surface",
           "provider": "AsteroidCluster_Low_Yield"
+        },
+        {
+          "location": "Lyria",
+          "system": "Stanton",
+          "type": "unknown",
+          "probability": 0.11988,
+          "groupProbability": 6.0,
+          "relativeProbability": 1.998002,
+          "signature": 3170,
+          "rock": "Surface",
+          "provider": "HPP_Stanton3a"
         }
       ],
       "key": "quantainium"
@@ -1817,72 +1853,6 @@
       ],
       "locations": [
         {
-          "location": "HUR L3",
-          "system": "Stanton",
-          "type": "lagrange",
-          "probability": 5.34,
-          "groupProbability": 30.0,
-          "relativeProbability": 17.8,
-          "signature": 4300,
-          "rock": "Asteroide",
-          "provider": "HPP_Lagrange_E"
-        },
-        {
-          "location": "Terminus",
-          "system": "Pyro",
-          "type": "belt",
-          "probability": 4.1,
-          "groupProbability": 20.0,
-          "relativeProbability": 20.5,
-          "signature": 4300,
-          "rock": "Asteroide",
-          "provider": "HPP_Stanton2c_Belt"
-        },
-        {
-          "location": "Hurston",
-          "system": "Stanton",
-          "type": "belt",
-          "probability": 3.12,
-          "groupProbability": 30.0,
-          "relativeProbability": 10.4,
-          "signature": 4300,
-          "rock": "Asteroide",
-          "provider": "HPP_AaronHalo"
-        },
-        {
-          "location": "PYR5 L1",
-          "system": "Pyro",
-          "type": "belt",
-          "probability": 2.68,
-          "groupProbability": 10.0,
-          "relativeProbability": 26.8,
-          "signature": 4300,
-          "rock": "Asteroide",
-          "provider": "HPP_Pyro_Cool01"
-        },
-        {
-          "location": "PYR6 L1",
-          "system": "Pyro",
-          "type": "belt",
-          "probability": 2.68,
-          "groupProbability": 10.0,
-          "relativeProbability": 26.8,
-          "signature": 4300,
-          "rock": "Asteroide",
-          "provider": "HPP_Pyro_Cool02"
-        },
-        {
-          "location": "CRU L4",
-          "system": "Stanton",
-          "type": "lagrange",
-          "probability": 2.67,
-          "groupProbability": 15.0,
-          "relativeProbability": 17.8,
-          "signature": 4300,
-          "rock": "Asteroide",
-          "provider": "HPP_Lagrange_B"
-        },
-        {
           "location": "Clio",
           "system": "Stanton",
           "type": "unknown",
@@ -1903,28 +1873,6 @@
           "signature": 4300,
           "rock": "Surface",
           "provider": "HPP_Stanton4c"
-        },
-        {
-          "location": "Glaciem Ring",
-          "system": "Nyx",
-          "type": "belt",
-          "probability": 2.075,
-          "groupProbability": 10.0,
-          "relativeProbability": 20.75,
-          "signature": 4300,
-          "rock": "Asteroide",
-          "provider": "HPP_Nyx_GlaciemRing"
-        },
-        {
-          "location": "Keeger Belt",
-          "system": "Nyx",
-          "type": "belt",
-          "probability": 2.075,
-          "groupProbability": 10.0,
-          "relativeProbability": 20.75,
-          "signature": 4300,
-          "rock": "Asteroide",
-          "provider": "HPP_Nyx_KeegerBelt"
         },
         {
           "location": "microTech",
@@ -1949,15 +1897,26 @@
           "provider": "HPP_Stanton4a"
         },
         {
-          "location": "CRU L5",
-          "system": "Stanton",
-          "type": "lagrange",
-          "probability": 1.78,
+          "location": "PYR5 L1",
+          "system": "Pyro",
+          "type": "belt",
+          "probability": 2.68,
           "groupProbability": 10.0,
-          "relativeProbability": 17.8,
+          "relativeProbability": 26.8,
           "signature": 4300,
           "rock": "Asteroide",
-          "provider": "HPP_Lagrange_D"
+          "provider": "HPP_Pyro_Cool01"
+        },
+        {
+          "location": "PYR6 L1",
+          "system": "Pyro",
+          "type": "belt",
+          "probability": 2.68,
+          "groupProbability": 10.0,
+          "relativeProbability": 26.8,
+          "signature": 4300,
+          "rock": "Asteroide",
+          "provider": "HPP_Pyro_Cool02"
         },
         {
           "location": "Terminus",
@@ -1971,15 +1930,49 @@
           "provider": "HPP_Pyro6"
         },
         {
-          "location": "Akiro Cluster",
-          "system": "Pyro",
-          "type": "cluster",
-          "probability": 1.49,
+          "location": "Glaciem Ring",
+          "system": "Nyx",
+          "type": "belt",
+          "probability": 2.075,
           "groupProbability": 10.0,
-          "relativeProbability": 14.9,
+          "relativeProbability": 20.75,
           "signature": 4300,
           "rock": "Asteroide",
-          "provider": "HPP_Pyro_AkiroCluster"
+          "provider": "HPP_Nyx_GlaciemRing"
+        },
+        {
+          "location": "Keeger Belt",
+          "system": "Nyx",
+          "type": "belt",
+          "probability": 2.075,
+          "groupProbability": 10.0,
+          "relativeProbability": 20.75,
+          "signature": 4300,
+          "rock": "Asteroide",
+          "provider": "HPP_Nyx_KeegerBelt"
+        },
+        {
+          "location": "Terminus",
+          "system": "Pyro",
+          "type": "belt",
+          "probability": 4.1,
+          "groupProbability": 20.0,
+          "relativeProbability": 20.5,
+          "signature": 4300,
+          "rock": "Asteroide",
+          "provider": "HPP_Stanton2c_Belt"
+        },
+        {
+          "location": "Yela Asteroid Belt",
+          "system": "Stanton",
+          "type": "belt",
+          "probability": 4.1,
+          "groupProbability": 20.0,
+          "relativeProbability": 20.5,
+          "signature": 4300,
+          "rock": "Asteroide",
+          "provider": "HPP_Stanton2c_Belt",
+          "sharesCompositionWith": "Terminus (Pyro)"
         },
         {
           "location": "Asteroid Cluster (Medium Yield)",
@@ -2004,6 +1997,39 @@
           "provider": "AsteroidCluster_Low_Yield"
         },
         {
+          "location": "HUR L3",
+          "system": "Stanton",
+          "type": "lagrange",
+          "probability": 5.34,
+          "groupProbability": 30.0,
+          "relativeProbability": 17.8,
+          "signature": 4300,
+          "rock": "Asteroide",
+          "provider": "HPP_Lagrange_E"
+        },
+        {
+          "location": "CRU L4",
+          "system": "Stanton",
+          "type": "lagrange",
+          "probability": 2.67,
+          "groupProbability": 15.0,
+          "relativeProbability": 17.8,
+          "signature": 4300,
+          "rock": "Asteroide",
+          "provider": "HPP_Lagrange_B"
+        },
+        {
+          "location": "CRU L5",
+          "system": "Stanton",
+          "type": "lagrange",
+          "probability": 1.78,
+          "groupProbability": 10.0,
+          "relativeProbability": 17.8,
+          "signature": 4300,
+          "rock": "Asteroide",
+          "provider": "HPP_Lagrange_D"
+        },
+        {
           "location": "Lagrange G",
           "system": "Stanton",
           "type": "lagrange",
@@ -2024,6 +2050,28 @@
           "signature": 4300,
           "rock": "Asteroide",
           "provider": "HPP_Lagrange_Occupied"
+        },
+        {
+          "location": "Akiro Cluster",
+          "system": "Pyro",
+          "type": "cluster",
+          "probability": 1.49,
+          "groupProbability": 10.0,
+          "relativeProbability": 14.9,
+          "signature": 4300,
+          "rock": "Asteroide",
+          "provider": "HPP_Pyro_AkiroCluster"
+        },
+        {
+          "location": "Hurston",
+          "system": "Stanton",
+          "type": "belt",
+          "probability": 3.12,
+          "groupProbability": 30.0,
+          "relativeProbability": 10.4,
+          "signature": 4300,
+          "rock": "Asteroide",
+          "provider": "HPP_AaronHalo"
         }
       ],
       "key": "raw ice"
@@ -2034,17 +2082,6 @@
         4255
       ],
       "locations": [
-        {
-          "location": "Hurston",
-          "system": "Stanton",
-          "type": "belt",
-          "probability": 3.09,
-          "groupProbability": 30.0,
-          "relativeProbability": 10.3,
-          "signature": 4255,
-          "rock": "Asteroide",
-          "provider": "HPP_AaronHalo"
-        },
         {
           "location": "Ignis",
           "system": "Pyro",
@@ -2066,28 +2103,6 @@
           "signature": 4255,
           "rock": "Surface",
           "provider": "HPP_Pyro5b"
-        },
-        {
-          "location": "PYR5 L1",
-          "system": "Pyro",
-          "type": "belt",
-          "probability": 2.67,
-          "groupProbability": 10.0,
-          "relativeProbability": 26.7,
-          "signature": 4255,
-          "rock": "Asteroide",
-          "provider": "HPP_Pyro_Cool01"
-        },
-        {
-          "location": "PYR6 L1",
-          "system": "Pyro",
-          "type": "belt",
-          "probability": 2.67,
-          "groupProbability": 10.0,
-          "relativeProbability": 26.7,
-          "signature": 4255,
-          "rock": "Asteroide",
-          "provider": "HPP_Pyro_Cool02"
         },
         {
           "location": "Daymar",
@@ -2112,6 +2127,28 @@
           "provider": "HPP_Pyro5d"
         },
         {
+          "location": "PYR5 L1",
+          "system": "Pyro",
+          "type": "belt",
+          "probability": 2.67,
+          "groupProbability": 10.0,
+          "relativeProbability": 26.7,
+          "signature": 4255,
+          "rock": "Asteroide",
+          "provider": "HPP_Pyro_Cool01"
+        },
+        {
+          "location": "PYR6 L1",
+          "system": "Pyro",
+          "type": "belt",
+          "probability": 2.67,
+          "groupProbability": 10.0,
+          "relativeProbability": 26.7,
+          "signature": 4255,
+          "rock": "Asteroide",
+          "provider": "HPP_Pyro_Cool02"
+        },
+        {
           "location": "Cellin",
           "system": "Stanton",
           "type": "unknown",
@@ -2134,17 +2171,6 @@
           "provider": "HPP_Stanton2c"
         },
         {
-          "location": "Akiro Cluster",
-          "system": "Pyro",
-          "type": "cluster",
-          "probability": 1.49,
-          "groupProbability": 10.0,
-          "relativeProbability": 14.9,
-          "signature": 4255,
-          "rock": "Asteroide",
-          "provider": "HPP_Pyro_AkiroCluster"
-        },
-        {
           "location": "Asteroid Cluster (Medium Yield)",
           "system": "Stanton",
           "type": "cluster",
@@ -2165,6 +2191,28 @@
           "signature": 4255,
           "rock": "Asteroide",
           "provider": "AsteroidCluster_Low_Yield"
+        },
+        {
+          "location": "Akiro Cluster",
+          "system": "Pyro",
+          "type": "cluster",
+          "probability": 1.49,
+          "groupProbability": 10.0,
+          "relativeProbability": 14.9,
+          "signature": 4255,
+          "rock": "Asteroide",
+          "provider": "HPP_Pyro_AkiroCluster"
+        },
+        {
+          "location": "Hurston",
+          "system": "Stanton",
+          "type": "belt",
+          "probability": 3.09,
+          "groupProbability": 30.0,
+          "relativeProbability": 10.3,
+          "signature": 4255,
+          "rock": "Asteroide",
+          "provider": "HPP_AaronHalo"
         }
       ],
       "key": "raw silicon"
@@ -2297,28 +2345,6 @@
       ],
       "locations": [
         {
-          "location": "Akiro Cluster",
-          "system": "Pyro",
-          "type": "cluster",
-          "probability": 0.2,
-          "groupProbability": 10.0,
-          "relativeProbability": 2.0,
-          "signature": 3185,
-          "rock": "Asteroide",
-          "provider": "HPP_Pyro_AkiroCluster"
-        },
-        {
-          "location": "Pyro",
-          "system": "Pyro",
-          "type": "belt",
-          "probability": 0.2,
-          "groupProbability": 10.0,
-          "relativeProbability": 2.0,
-          "signature": 3185,
-          "rock": "Asteroide",
-          "provider": "HPP_Pyro_DeepSpaceAsteroids"
-        },
-        {
           "location": "Pyro I",
           "system": "Pyro",
           "type": "unknown",
@@ -2350,6 +2376,28 @@
           "signature": 3185,
           "rock": "Surface",
           "provider": "HPP_Pyro4"
+        },
+        {
+          "location": "Akiro Cluster",
+          "system": "Pyro",
+          "type": "cluster",
+          "probability": 0.2,
+          "groupProbability": 10.0,
+          "relativeProbability": 2.0,
+          "signature": 3185,
+          "rock": "Asteroide",
+          "provider": "HPP_Pyro_AkiroCluster"
+        },
+        {
+          "location": "Pyro",
+          "system": "Pyro",
+          "type": "belt",
+          "probability": 0.2,
+          "groupProbability": 10.0,
+          "relativeProbability": 2.0,
+          "signature": 3185,
+          "rock": "Asteroide",
+          "provider": "HPP_Pyro_DeepSpaceAsteroids"
         },
         {
           "location": "Bloom",
@@ -2466,6 +2514,17 @@
       ],
       "locations": [
         {
+          "location": "Hurston",
+          "system": "Stanton",
+          "type": "unknown",
+          "probability": 2.64,
+          "groupProbability": 6.0,
+          "relativeProbability": 44.0,
+          "signature": 4195,
+          "rock": "Surface",
+          "provider": "HPP_Stanton1"
+        },
+        {
           "location": "Ignis",
           "system": "Pyro",
           "type": "unknown",
@@ -2477,15 +2536,15 @@
           "provider": "HPP_Pyro5a"
         },
         {
-          "location": "Hurston",
+          "location": "Ita",
           "system": "Stanton",
           "type": "unknown",
-          "probability": 2.64,
+          "probability": 2.088,
           "groupProbability": 6.0,
-          "relativeProbability": 44.0,
+          "relativeProbability": 34.8,
           "signature": 4195,
           "rock": "Surface",
-          "provider": "HPP_Stanton1"
+          "provider": "HPP_Stanton1d"
         },
         {
           "location": "Pyro I",
@@ -2510,15 +2569,15 @@
           "provider": "HPP_Pyro2"
         },
         {
-          "location": "Ita",
+          "location": "Arial",
           "system": "Stanton",
           "type": "unknown",
-          "probability": 2.088,
+          "probability": 1.32,
           "groupProbability": 6.0,
-          "relativeProbability": 34.8,
+          "relativeProbability": 22.0,
           "signature": 4195,
           "rock": "Surface",
-          "provider": "HPP_Stanton1d"
+          "provider": "HPP_Stanton1a"
         },
         {
           "location": "Pyro",
@@ -2530,17 +2589,6 @@
           "signature": 4195,
           "rock": "Asteroide",
           "provider": "HPP_Pyro_DeepSpaceAsteroids"
-        },
-        {
-          "location": "Arial",
-          "system": "Stanton",
-          "type": "unknown",
-          "probability": 1.32,
-          "groupProbability": 6.0,
-          "relativeProbability": 22.0,
-          "signature": 4195,
-          "rock": "Surface",
-          "provider": "HPP_Stanton1a"
         }
       ],
       "key": "tin"
@@ -2578,15 +2626,16 @@
           "provider": "HPP_Stanton2c_Belt"
         },
         {
-          "location": "Hurston",
+          "location": "Yela Asteroid Belt",
           "system": "Stanton",
           "type": "belt",
-          "probability": 4.26,
-          "groupProbability": 30.0,
-          "relativeProbability": 14.2,
+          "probability": 5.7,
+          "groupProbability": 20.0,
+          "relativeProbability": 28.5,
           "signature": 3855,
           "rock": "Asteroide",
-          "provider": "HPP_AaronHalo"
+          "provider": "HPP_Stanton2c_Belt",
+          "sharesCompositionWith": "Terminus (Pyro)"
         },
         {
           "location": "PYR5 L1",
@@ -2609,6 +2658,17 @@
           "signature": 3855,
           "rock": "Surface",
           "provider": "HPP_Stanton1b"
+        },
+        {
+          "location": "Hurston",
+          "system": "Stanton",
+          "type": "belt",
+          "probability": 4.26,
+          "groupProbability": 30.0,
+          "relativeProbability": 14.2,
+          "signature": 3855,
+          "rock": "Asteroide",
+          "provider": "HPP_AaronHalo"
         },
         {
           "location": "Terminus",
