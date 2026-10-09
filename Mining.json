@@ -1,5 +1,5 @@
 {
-  "version": "4.10.2-ptu",
+  "version": "4.10.2-live.12881860",
   "source": {
     "resources": "ScDataDumper/export/resources/resources.json",
     "locations": "ScDataDumper/export/resources/locations.json",
