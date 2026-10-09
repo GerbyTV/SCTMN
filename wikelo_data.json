@@ -33,7 +33,7 @@
     "Carinite (Pure)": "Carinite (pure)",
     "Carinite": "Carinite",
     "Clipper Fight Now": "Clipper combat maintenant",
-    "Constellation Taurus": "Constellation Taurus",
+    "Constellation Taurus MK IV": "Constellation Taurus MK IV",
     "Copper": "Cuivre",
     "Corbel Crush": "Corbel Crush",
     "Corbel Mire Arms": "Brassards Corbel Mire",
@@ -46,6 +46,8 @@
     "DCHS-05 Orbital Board": "Carte DCHS-05 de positionnement orbital",
     "Dolivine": "Dolivine",
     "Expired Quantanium Fuel Canister": "Conteneur de carburant quantanium périmé",
+    "F55 LMG": "LMG F55 LMG",
+    "F55 LMG Shadowflux": "LMG F55 Shadowflux",
     "F8C Lightning Military": "F8C Lightning Militaire",
     "F8C Lightning Stealth": "F8C Lightning Furtif",
     "Feynmaline": "Feynmaline",
@@ -87,6 +89,12 @@
     "Monde Core": "Plastron Monde",
     "Monde Helmet": "Casque Monde",
     "Monde Legs": "Jambières Monde",
+    "Monolith Arms": "Brassards Monolith",
+    "Monolith Backpack": "Sac à dos Monolith",
+    "Monolith Core": "Plastron Monolith",
+    "Monolith Helmet": "Casque Monolith",
+    "Monolith Legs": "Jambières Monolith",
+    "Monolith Shadowflux Set": "Set Monolith Shadowflux",
     "NN-13 Cannon": "Canon NN-13",
     "Novikov Backpack Mire": "Sac à dos Novikov Mire",
     "Ouratite": "Ouratite",
@@ -713,6 +721,19 @@
       }
     },
     {
+      "name": "Monolith Armor Very Stylish",
+      "maker": "Armor",
+      "mats": {
+        "Monolith Legs": 1,
+        "Monolith Arms": 1,
+        "Monolith Core": 1,
+        "Monolith Helmet": 1,
+        "Monolith Backpack": 1,
+        "Vanduul Metal": 10,
+        "Saldynium (Ore)": 25
+      }
+    },
+    {
       "name": "BUL-H4 Snow Camo",
       "maker": "Armor",
       "mats": {
@@ -779,6 +800,15 @@
         "Carinite": 20,
         "Bluemoon Fungus": 20,
         "Tripledown Pistol": 1
+      }
+    },
+    {
+      "name": "LMG F55 Shadowflux",
+      "maker": "Arme",
+      "mats": {
+        "F55 LMG": 1,
+        "Vanduul Metal": 5,
+        "Jaclium (Ore)": 20
       }
     },
     {
