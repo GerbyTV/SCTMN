@@ -24125,7 +24125,7 @@
         }
       ],
       "internalName": "BP_CRAFT_SHLD_SECO_S03_ARMOR_SCItem",
-      "locKey": "@item_TypeArmor",
+      "locKey": "@item_Name_SHLD_SECO_S03_ARMOR",
       "blueprintName": "ARMOR",
       "categoryName": "Bouclier",
       "type": "vehiclegear",
