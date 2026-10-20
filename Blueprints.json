@@ -39617,7 +39617,7 @@
         {
           "titleKey": "Hockrow_FacilityDelve_P3M1_title",
           "titleEN": "Jorrit Dossier: Project Hyperion",
-          "faction": "",
+          "faction": "Hockrow Agency",
           "systems": [],
           "illegal": false,
           "descKeys": [
@@ -42635,7 +42635,7 @@
         {
           "titleKey": "northrock_SOO_repeat_title_001",
           "titleEN": "Retake Platforms From Nine Tails",
-          "faction": "",
+          "faction": "Northrock Service Group",
           "systems": [
             "Stanton"
           ],
@@ -42845,7 +42845,7 @@
         {
           "titleKey": "northrock_SOO_repeat_title_001",
           "titleEN": "Retake Platforms From Nine Tails",
-          "faction": "",
+          "faction": "Northrock Service Group",
           "systems": [
             "Stanton"
           ],
@@ -55323,7 +55323,7 @@
         {
           "titleKey": "Hockrow_FacilityDelve_P2M3_Repeat_title",
           "titleEN": "Jorrit Dossier: Updated Seismic Data",
-          "faction": "",
+          "faction": "Hockrow Agency",
           "systems": [
             "Stanton"
           ],
@@ -55429,7 +55429,7 @@
         {
           "titleKey": "Hockrow_FacilityDelve_P2M1_Repeat_title",
           "titleEN": "Jorrit Dossier: Updated Energy Anomaly Data",
-          "faction": "",
+          "faction": "Hockrow Agency",
           "systems": [
             "Stanton"
           ],
@@ -55535,7 +55535,7 @@
         {
           "titleKey": "Hockrow_FacilityDelve_P2M2_Repeat_title",
           "titleEN": "Jorrit Dossier: Updated Security Data",
-          "faction": "",
+          "faction": "Hockrow Agency",
           "systems": [
             "Stanton"
           ],
@@ -55641,7 +55641,7 @@
         {
           "titleKey": "Hockrow_FacilityDelve_P2M4_Repeat_title",
           "titleEN": "Jorrit Dossier: Updated Power Usage Data",
-          "faction": "",
+          "faction": "Hockrow Agency",
           "systems": [
             "Stanton"
           ],
@@ -55836,7 +55836,7 @@
         {
           "titleKey": "Hockrow_FacilityDelve_P2M3_Repeat_title",
           "titleEN": "Jorrit Dossier: Updated Seismic Data",
-          "faction": "",
+          "faction": "Hockrow Agency",
           "systems": [
             "Stanton"
           ],
@@ -55942,7 +55942,7 @@
         {
           "titleKey": "Hockrow_FacilityDelve_P2M1_Repeat_title",
           "titleEN": "Jorrit Dossier: Updated Energy Anomaly Data",
-          "faction": "",
+          "faction": "Hockrow Agency",
           "systems": [
             "Stanton"
           ],
@@ -56048,7 +56048,7 @@
         {
           "titleKey": "Hockrow_FacilityDelve_P2M2_Repeat_title",
           "titleEN": "Jorrit Dossier: Updated Security Data",
-          "faction": "",
+          "faction": "Hockrow Agency",
           "systems": [
             "Stanton"
           ],
@@ -56154,7 +56154,7 @@
         {
           "titleKey": "Hockrow_FacilityDelve_P2M4_Repeat_title",
           "titleEN": "Jorrit Dossier: Updated Power Usage Data",
-          "faction": "",
+          "faction": "Hockrow Agency",
           "systems": [
             "Stanton"
           ],
@@ -56349,7 +56349,7 @@
         {
           "titleKey": "Hockrow_FacilityDelve_P2M3_Repeat_title",
           "titleEN": "Jorrit Dossier: Updated Seismic Data",
-          "faction": "",
+          "faction": "Hockrow Agency",
           "systems": [
             "Stanton"
           ],
@@ -56455,7 +56455,7 @@
         {
           "titleKey": "Hockrow_FacilityDelve_P2M1_Repeat_title",
           "titleEN": "Jorrit Dossier: Updated Energy Anomaly Data",
-          "faction": "",
+          "faction": "Hockrow Agency",
           "systems": [
             "Stanton"
           ],
@@ -56561,7 +56561,7 @@
         {
           "titleKey": "Hockrow_FacilityDelve_P2M2_Repeat_title",
           "titleEN": "Jorrit Dossier: Updated Security Data",
-          "faction": "",
+          "faction": "Hockrow Agency",
           "systems": [
             "Stanton"
           ],
@@ -56667,7 +56667,7 @@
         {
           "titleKey": "Hockrow_FacilityDelve_P2M4_Repeat_title",
           "titleEN": "Jorrit Dossier: Updated Power Usage Data",
-          "faction": "",
+          "faction": "Hockrow Agency",
           "systems": [
             "Stanton"
           ],
@@ -56862,7 +56862,7 @@
         {
           "titleKey": "Hockrow_FacilityDelve_P2M3_Repeat_title",
           "titleEN": "Jorrit Dossier: Updated Seismic Data",
-          "faction": "",
+          "faction": "Hockrow Agency",
           "systems": [
             "Stanton"
           ],
@@ -56968,7 +56968,7 @@
         {
           "titleKey": "Hockrow_FacilityDelve_P2M1_Repeat_title",
           "titleEN": "Jorrit Dossier: Updated Energy Anomaly Data",
-          "faction": "",
+          "faction": "Hockrow Agency",
           "systems": [
             "Stanton"
           ],
@@ -57074,7 +57074,7 @@
         {
           "titleKey": "Hockrow_FacilityDelve_P2M2_Repeat_title",
           "titleEN": "Jorrit Dossier: Updated Security Data",
-          "faction": "",
+          "faction": "Hockrow Agency",
           "systems": [
             "Stanton"
           ],
@@ -57180,7 +57180,7 @@
         {
           "titleKey": "Hockrow_FacilityDelve_P2M4_Repeat_title",
           "titleEN": "Jorrit Dossier: Updated Power Usage Data",
-          "faction": "",
+          "faction": "Hockrow Agency",
           "systems": [
             "Stanton"
           ],
@@ -68315,7 +68315,7 @@
         {
           "titleKey": "Hockrow_FacilityDelve_P3M1_title",
           "titleEN": "Jorrit Dossier: Project Hyperion",
-          "faction": "",
+          "faction": "Hockrow Agency",
           "systems": [],
           "illegal": false,
           "descKeys": [
@@ -73425,7 +73425,7 @@
         {
           "titleKey": "Hockrow_FacilityDelve_P2M4_Repeat_title",
           "titleEN": "Jorrit Dossier: Updated Power Usage Data",
-          "faction": "",
+          "faction": "Hockrow Agency",
           "systems": [
             "Stanton"
           ],
@@ -73524,7 +73524,7 @@
         {
           "titleKey": "Hockrow_FacilityDelve_P3M1_title",
           "titleEN": "Jorrit Dossier: Project Hyperion",
-          "faction": "",
+          "faction": "Hockrow Agency",
           "systems": [],
           "illegal": false,
           "descKeys": [
@@ -73621,7 +73621,7 @@
         {
           "titleKey": "Hockrow_FacilityDelve_P2M2_Repeat_title",
           "titleEN": "Jorrit Dossier: Updated Security Data",
-          "faction": "",
+          "faction": "Hockrow Agency",
           "systems": [
             "Stanton"
           ],
@@ -73720,7 +73720,7 @@
         {
           "titleKey": "Hockrow_FacilityDelve_P2M1_Repeat_title",
           "titleEN": "Jorrit Dossier: Updated Energy Anomaly Data",
-          "faction": "",
+          "faction": "Hockrow Agency",
           "systems": [
             "Stanton"
           ],
@@ -73821,7 +73821,7 @@
         {
           "titleKey": "Hockrow_FacilityDelve_P2M1_Repeat_title",
           "titleEN": "Jorrit Dossier: Updated Energy Anomaly Data",
-          "faction": "",
+          "faction": "Hockrow Agency",
           "systems": [
             "Stanton"
           ],
@@ -73833,7 +73833,7 @@
         {
           "titleKey": "Hockrow_FacilityDelve_P2M4_Repeat_title",
           "titleEN": "Jorrit Dossier: Updated Power Usage Data",
-          "faction": "",
+          "faction": "Hockrow Agency",
           "systems": [
             "Stanton"
           ],
@@ -73845,7 +73845,7 @@
         {
           "titleKey": "Hockrow_FacilityDelve_P2M2_Repeat_title",
           "titleEN": "Jorrit Dossier: Updated Security Data",
-          "faction": "",
+          "faction": "Hockrow Agency",
           "systems": [
             "Stanton"
           ],
@@ -75986,7 +75986,7 @@
         {
           "titleKey": "Hockrow_FacilityDelve_P3M1_title",
           "titleEN": "Jorrit Dossier: Project Hyperion",
-          "faction": "",
+          "faction": "Hockrow Agency",
           "systems": [],
           "illegal": false,
           "descKeys": [
@@ -80454,7 +80454,7 @@
         {
           "titleKey": "Hockrow_FacilityDelve_P2M2_Repeat_title",
           "titleEN": "Jorrit Dossier: Updated Security Data",
-          "faction": "",
+          "faction": "Hockrow Agency",
           "systems": [
             "Stanton"
           ],
@@ -80560,7 +80560,7 @@
         {
           "titleKey": "Hockrow_FacilityDelve_P3M1_title",
           "titleEN": "Jorrit Dossier: Project Hyperion",
-          "faction": "",
+          "faction": "Hockrow Agency",
           "systems": [],
           "illegal": false,
           "descKeys": [
@@ -80664,7 +80664,7 @@
         {
           "titleKey": "Hockrow_FacilityDelve_P2M3_Repeat_title",
           "titleEN": "Jorrit Dossier: Updated Seismic Data",
-          "faction": "",
+          "faction": "Hockrow Agency",
           "systems": [
             "Stanton"
           ],
@@ -80770,7 +80770,7 @@
         {
           "titleKey": "Hockrow_FacilityDelve_P2M1_Repeat_title",
           "titleEN": "Jorrit Dossier: Updated Energy Anomaly Data",
-          "faction": "",
+          "faction": "Hockrow Agency",
           "systems": [
             "Stanton"
           ],
@@ -80876,7 +80876,7 @@
         {
           "titleKey": "Hockrow_FacilityDelve_P2M4_Repeat_title",
           "titleEN": "Jorrit Dossier: Updated Power Usage Data",
-          "faction": "",
+          "faction": "Hockrow Agency",
           "systems": [
             "Stanton"
           ],
@@ -81072,7 +81072,7 @@
         {
           "titleKey": "Hockrow_FacilityDelve_P2M4_Repeat_title",
           "titleEN": "Jorrit Dossier: Updated Power Usage Data",
-          "faction": "",
+          "faction": "Hockrow Agency",
           "systems": [
             "Stanton"
           ],
@@ -81084,7 +81084,7 @@
         {
           "titleKey": "Hockrow_FacilityDelve_P2M3_Repeat_title",
           "titleEN": "Jorrit Dossier: Updated Seismic Data",
-          "faction": "",
+          "faction": "Hockrow Agency",
           "systems": [
             "Stanton"
           ],
@@ -81191,7 +81191,7 @@
         {
           "titleKey": "Hockrow_FacilityDelve_P2M2_Repeat_title",
           "titleEN": "Jorrit Dossier: Updated Security Data",
-          "faction": "",
+          "faction": "Hockrow Agency",
           "systems": [
             "Stanton"
           ],
@@ -81297,7 +81297,7 @@
         {
           "titleKey": "Hockrow_FacilityDelve_P3M1_title",
           "titleEN": "Jorrit Dossier: Project Hyperion",
-          "faction": "",
+          "faction": "Hockrow Agency",
           "systems": [],
           "illegal": false,
           "descKeys": [
@@ -81401,7 +81401,7 @@
         {
           "titleKey": "Hockrow_FacilityDelve_P2M3_Repeat_title",
           "titleEN": "Jorrit Dossier: Updated Seismic Data",
-          "faction": "",
+          "faction": "Hockrow Agency",
           "systems": [
             "Stanton"
           ],
@@ -81507,7 +81507,7 @@
         {
           "titleKey": "Hockrow_FacilityDelve_P2M1_Repeat_title",
           "titleEN": "Jorrit Dossier: Updated Energy Anomaly Data",
-          "faction": "",
+          "faction": "Hockrow Agency",
           "systems": [
             "Stanton"
           ],
@@ -81613,7 +81613,7 @@
         {
           "titleKey": "Hockrow_FacilityDelve_P2M4_Repeat_title",
           "titleEN": "Jorrit Dossier: Updated Power Usage Data",
-          "faction": "",
+          "faction": "Hockrow Agency",
           "systems": [
             "Stanton"
           ],
@@ -81809,7 +81809,7 @@
         {
           "titleKey": "Hockrow_FacilityDelve_P2M4_Repeat_title",
           "titleEN": "Jorrit Dossier: Updated Power Usage Data",
-          "faction": "",
+          "faction": "Hockrow Agency",
           "systems": [
             "Stanton"
           ],
@@ -81821,7 +81821,7 @@
         {
           "titleKey": "Hockrow_FacilityDelve_P2M3_Repeat_title",
           "titleEN": "Jorrit Dossier: Updated Seismic Data",
-          "faction": "",
+          "faction": "Hockrow Agency",
           "systems": [
             "Stanton"
           ],
@@ -81928,7 +81928,7 @@
         {
           "titleKey": "Hockrow_FacilityDelve_P2M2_Repeat_title",
           "titleEN": "Jorrit Dossier: Updated Security Data",
-          "faction": "",
+          "faction": "Hockrow Agency",
           "systems": [
             "Stanton"
           ],
@@ -82034,7 +82034,7 @@
         {
           "titleKey": "Hockrow_FacilityDelve_P3M1_title",
           "titleEN": "Jorrit Dossier: Project Hyperion",
-          "faction": "",
+          "faction": "Hockrow Agency",
           "systems": [],
           "illegal": false,
           "descKeys": [
@@ -82138,7 +82138,7 @@
         {
           "titleKey": "Hockrow_FacilityDelve_P2M3_Repeat_title",
           "titleEN": "Jorrit Dossier: Updated Seismic Data",
-          "faction": "",
+          "faction": "Hockrow Agency",
           "systems": [
             "Stanton"
           ],
@@ -82244,7 +82244,7 @@
         {
           "titleKey": "Hockrow_FacilityDelve_P2M1_Repeat_title",
           "titleEN": "Jorrit Dossier: Updated Energy Anomaly Data",
-          "faction": "",
+          "faction": "Hockrow Agency",
           "systems": [
             "Stanton"
           ],
@@ -82350,7 +82350,7 @@
         {
           "titleKey": "Hockrow_FacilityDelve_P2M4_Repeat_title",
           "titleEN": "Jorrit Dossier: Updated Power Usage Data",
-          "faction": "",
+          "faction": "Hockrow Agency",
           "systems": [
             "Stanton"
           ],
@@ -82546,7 +82546,7 @@
         {
           "titleKey": "Hockrow_FacilityDelve_P2M4_Repeat_title",
           "titleEN": "Jorrit Dossier: Updated Power Usage Data",
-          "faction": "",
+          "faction": "Hockrow Agency",
           "systems": [
             "Stanton"
           ],
@@ -82558,7 +82558,7 @@
         {
           "titleKey": "Hockrow_FacilityDelve_P2M3_Repeat_title",
           "titleEN": "Jorrit Dossier: Updated Seismic Data",
-          "faction": "",
+          "faction": "Hockrow Agency",
           "systems": [
             "Stanton"
           ],
@@ -82665,7 +82665,7 @@
         {
           "titleKey": "Hockrow_FacilityDelve_P2M2_Repeat_title",
           "titleEN": "Jorrit Dossier: Updated Security Data",
-          "faction": "",
+          "faction": "Hockrow Agency",
           "systems": [
             "Stanton"
           ],
@@ -82771,7 +82771,7 @@
         {
           "titleKey": "Hockrow_FacilityDelve_P3M1_title",
           "titleEN": "Jorrit Dossier: Project Hyperion",
-          "faction": "",
+          "faction": "Hockrow Agency",
           "systems": [],
           "illegal": false,
           "descKeys": [
@@ -82875,7 +82875,7 @@
         {
           "titleKey": "Hockrow_FacilityDelve_P2M3_Repeat_title",
           "titleEN": "Jorrit Dossier: Updated Seismic Data",
-          "faction": "",
+          "faction": "Hockrow Agency",
           "systems": [
             "Stanton"
           ],
@@ -82981,7 +82981,7 @@
         {
           "titleKey": "Hockrow_FacilityDelve_P2M1_Repeat_title",
           "titleEN": "Jorrit Dossier: Updated Energy Anomaly Data",
-          "faction": "",
+          "faction": "Hockrow Agency",
           "systems": [
             "Stanton"
           ],
@@ -83087,7 +83087,7 @@
         {
           "titleKey": "Hockrow_FacilityDelve_P2M4_Repeat_title",
           "titleEN": "Jorrit Dossier: Updated Power Usage Data",
-          "faction": "",
+          "faction": "Hockrow Agency",
           "systems": [
             "Stanton"
           ],
@@ -83283,7 +83283,7 @@
         {
           "titleKey": "Hockrow_FacilityDelve_P2M4_Repeat_title",
           "titleEN": "Jorrit Dossier: Updated Power Usage Data",
-          "faction": "",
+          "faction": "Hockrow Agency",
           "systems": [
             "Stanton"
           ],
@@ -83295,7 +83295,7 @@
         {
           "titleKey": "Hockrow_FacilityDelve_P2M3_Repeat_title",
           "titleEN": "Jorrit Dossier: Updated Seismic Data",
-          "faction": "",
+          "faction": "Hockrow Agency",
           "systems": [
             "Stanton"
           ],
@@ -84733,7 +84733,7 @@
         {
           "titleKey": "northrock_SOO_repeat_title_001",
           "titleEN": "Retake Platforms From Nine Tails",
-          "faction": "",
+          "faction": "Northrock Service Group",
           "systems": [
             "Stanton"
           ],
@@ -119936,7 +119936,7 @@
         {
           "titleKey": "Hockrow_FacilityDelve_P2M3_Repeat_title",
           "titleEN": "Jorrit Dossier: Updated Seismic Data",
-          "faction": "",
+          "faction": "Hockrow Agency",
           "systems": [
             "Stanton"
           ],
@@ -119998,7 +119998,7 @@
         {
           "titleKey": "Hockrow_FacilityDelve_P2M1_Repeat_title",
           "titleEN": "Jorrit Dossier: Updated Energy Anomaly Data",
-          "faction": "",
+          "faction": "Hockrow Agency",
           "systems": [
             "Stanton"
           ],
@@ -120060,7 +120060,7 @@
         {
           "titleKey": "Hockrow_FacilityDelve_P2M2_Repeat_title",
           "titleEN": "Jorrit Dossier: Updated Security Data",
-          "faction": "",
+          "faction": "Hockrow Agency",
           "systems": [
             "Stanton"
           ],
@@ -120122,7 +120122,7 @@
         {
           "titleKey": "Hockrow_FacilityDelve_P2M4_Repeat_title",
           "titleEN": "Jorrit Dossier: Updated Power Usage Data",
-          "faction": "",
+          "faction": "Hockrow Agency",
           "systems": [
             "Stanton"
           ],
@@ -145149,7 +145149,7 @@
         {
           "titleKey": "InterSec_ResourceGathering_Tech_Title",
           "titleEN": "Recover Vanduul Tech",
-          "faction": "",
+          "faction": "InterSec Defense Solutions",
           "systems": [],
           "illegal": false,
           "descKeys": [
@@ -145159,7 +145159,7 @@
         {
           "titleKey": "InterSec_ResourceGathering_Cryopods_Title",
           "titleEN": "Recover Vanduul Corpses",
-          "faction": "",
+          "faction": "InterSec Defense Solutions",
           "systems": [],
           "illegal": false,
           "descKeys": [
@@ -145286,7 +145286,7 @@
         {
           "titleKey": "InterSec_ResourceGathering_Tech_Title",
           "titleEN": "Recover Vanduul Tech",
-          "faction": "",
+          "faction": "InterSec Defense Solutions",
           "systems": [],
           "illegal": false,
           "descKeys": [
@@ -145330,7 +145330,7 @@
         {
           "titleKey": "InterSec_ResourceGathering_Cryopods_Title",
           "titleEN": "Recover Vanduul Corpses",
-          "faction": "",
+          "faction": "InterSec Defense Solutions",
           "systems": [],
           "illegal": false,
           "descKeys": [
@@ -168448,7 +168448,7 @@
         {
           "titleKey": "InterSec_ResourceGathering_Tech_Title",
           "titleEN": "Recover Vanduul Tech",
-          "faction": "",
+          "faction": "InterSec Defense Solutions",
           "systems": [],
           "illegal": false,
           "descKeys": [
@@ -168458,7 +168458,7 @@
         {
           "titleKey": "InterSec_ResourceGathering_Cryopods_Title",
           "titleEN": "Recover Vanduul Corpses",
-          "faction": "",
+          "faction": "InterSec Defense Solutions",
           "systems": [],
           "illegal": false,
           "descKeys": [
@@ -169094,7 +169094,7 @@
         {
           "titleKey": "InterSec_ResourceGathering_Tech_Title",
           "titleEN": "Recover Vanduul Tech",
-          "faction": "",
+          "faction": "InterSec Defense Solutions",
           "systems": [],
           "illegal": false,
           "descKeys": [
@@ -169104,7 +169104,7 @@
         {
           "titleKey": "InterSec_ResourceGathering_Cryopods_Title",
           "titleEN": "Recover Vanduul Corpses",
-          "faction": "",
+          "faction": "InterSec Defense Solutions",
           "systems": [],
           "illegal": false,
           "descKeys": [
@@ -169756,7 +169756,7 @@
         {
           "titleKey": "InterSec_ResourceGathering_Tech_Title",
           "titleEN": "Recover Vanduul Tech",
-          "faction": "",
+          "faction": "InterSec Defense Solutions",
           "systems": [],
           "illegal": false,
           "descKeys": [
@@ -169766,7 +169766,7 @@
         {
           "titleKey": "InterSec_ResourceGathering_Cryopods_Title",
           "titleEN": "Recover Vanduul Corpses",
-          "faction": "",
+          "faction": "InterSec Defense Solutions",
           "systems": [],
           "illegal": false,
           "descKeys": [
@@ -170594,7 +170594,7 @@
         {
           "titleKey": "InterSec_ResourceGathering_Tech_Title",
           "titleEN": "Recover Vanduul Tech",
-          "faction": "",
+          "faction": "InterSec Defense Solutions",
           "systems": [],
           "illegal": false,
           "descKeys": [
@@ -170604,7 +170604,7 @@
         {
           "titleKey": "InterSec_ResourceGathering_Cryopods_Title",
           "titleEN": "Recover Vanduul Corpses",
-          "faction": "",
+          "faction": "InterSec Defense Solutions",
           "systems": [],
           "illegal": false,
           "descKeys": [
@@ -171432,7 +171432,7 @@
         {
           "titleKey": "InterSec_ResourceGathering_Tech_Title",
           "titleEN": "Recover Vanduul Tech",
-          "faction": "",
+          "faction": "InterSec Defense Solutions",
           "systems": [],
           "illegal": false,
           "descKeys": [
@@ -171442,7 +171442,7 @@
         {
           "titleKey": "InterSec_ResourceGathering_Cryopods_Title",
           "titleEN": "Recover Vanduul Corpses",
-          "faction": "",
+          "faction": "InterSec Defense Solutions",
           "systems": [],
           "illegal": false,
           "descKeys": [
@@ -171903,7 +171903,7 @@
         {
           "titleKey": "ORS_Construct_Large_Title",
           "titleEN": "Orison Relief: Large Fabrication Order",
-          "faction": "",
+          "faction": "Cornerstone Developments",
           "systems": [],
           "illegal": false,
           "descKeys": [
@@ -184916,7 +184916,7 @@
         {
           "titleKey": "Hockrow_FacilityDelve_P3M1_title",
           "titleEN": "Jorrit Dossier: Project Hyperion",
-          "faction": "",
+          "faction": "Hockrow Agency",
           "systems": [],
           "illegal": false,
           "descKeys": [
@@ -185028,7 +185028,7 @@
         {
           "titleKey": "Hockrow_FacilityDelve_P2M2_Repeat_title",
           "titleEN": "Jorrit Dossier: Updated Security Data",
-          "faction": "",
+          "faction": "Hockrow Agency",
           "systems": [
             "Stanton"
           ],
@@ -185239,7 +185239,7 @@
         {
           "titleKey": "Hockrow_FacilityDelve_P2M3_Repeat_title",
           "titleEN": "Jorrit Dossier: Updated Seismic Data",
-          "faction": "",
+          "faction": "Hockrow Agency",
           "systems": [
             "Stanton"
           ],
@@ -185353,7 +185353,7 @@
         {
           "titleKey": "Hockrow_FacilityDelve_P2M1_Repeat_title",
           "titleEN": "Jorrit Dossier: Updated Energy Anomaly Data",
-          "faction": "",
+          "faction": "Hockrow Agency",
           "systems": [
             "Stanton"
           ],
@@ -185468,7 +185468,7 @@
         {
           "titleKey": "Hockrow_FacilityDelve_P2M3_Repeat_title",
           "titleEN": "Jorrit Dossier: Updated Seismic Data",
-          "faction": "",
+          "faction": "Hockrow Agency",
           "systems": [
             "Stanton"
           ],
@@ -185480,7 +185480,7 @@
         {
           "titleKey": "Hockrow_FacilityDelve_P3M1_title",
           "titleEN": "Jorrit Dossier: Project Hyperion",
-          "faction": "",
+          "faction": "Hockrow Agency",
           "systems": [],
           "illegal": false,
           "descKeys": [
