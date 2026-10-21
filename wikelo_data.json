@@ -43,7 +43,6 @@
     "Corundum": "Corindon",
     "Council Scrip": "Lingot du Conseil",
     "DCHS-05 Comp-Board": "Carte DCHS-05",
-    "DCHS-05 Orbital Board": "Carte DCHS-05 de positionnement orbital",
     "Dolivine": "Dolivine",
     "Expired Quantanium Fuel Canister": "Conteneur de carburant quantanium périmé",
     "F55 LMG": "LMG F55 LMG",
@@ -180,7 +179,7 @@
       "mats": {
         "Wikelo Favor": 50,
         "Polaris Bit": 50,
-        "DCHS-05 Orbital Board": 50,
+        "DCHS-05 Comp-Board": 50,
         "Carinite": 50,
         "Irr. Valakkar Fang (Apex)": 50,
         "MG Scrip": 50,
@@ -206,7 +205,7 @@
       "mats": {
         "Wikelo Favor": 50,
         "Polaris Bit": 15,
-        "DCHS-05 Orbital Board": 10,
+        "DCHS-05 Comp-Board": 10,
         "Carinite": 20,
         "Irr. Valakkar Fang (Apex)": 20,
         "MG Scrip": 20,
