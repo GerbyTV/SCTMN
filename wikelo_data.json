@@ -29,7 +29,6 @@
     "BUL-H4 Armor": "Combinaison BUL-H4",
     "BUL-H4 Helmet": "Casque BUL-H4",
     "BUL-H4 Snow Camo": "BUL-H4 Snow Camo",
-    "Carinite (Ore)": "Carinite (minerai)",
     "Carinite (Pure)": "Carinite (pure)",
     "Carinite": "Carinite",
     "Clipper Fight Now": "Clipper combat maintenant",
@@ -73,7 +72,7 @@
     "Irr. Valakkar Fang (Juvenile)": "Croc de valakkar irradié (juvénile)",
     "Irr. Valakkar Pearl (AA)": "Perle de valakkar irradiée (grade AA)",
     "Irr. Valakkar Pearl (AAA)": "Perle de valakkar irradiée (grade AAA)",
-    "Jaclium (Ore)": "Jaclium (minerai)",
+    "Jaclium": "Jaclium",
     "Janalite": "Janalite",
     "L-21 Wolf Military": "L-21 Wolf Militaire",
     "L-21 Wolf Stealth": "L-21 Wolf Furtif",
@@ -127,7 +126,7 @@
     "Riccite": "Riccite",
     "Sabre Firebird": "Sabre Firebird",
     "Sadaryx": "Sadaryx",
-    "Saldynium (Ore)": "Saldynium (minerai)",
+    "Saldynium": "Saldynium",
     "Savrilium": "Savrilium",
     "SCU Savrilium": "SCU Savrilium",
     "Set Tailwind Dominion Camo": "Ensemble Tailwind Dominion",
@@ -501,8 +500,8 @@
       "mats": {
         "Wikelo Favor": 6,
         "Carinite": 20,
-        "Saldynium (Ore)": 30,
-        "Jaclium (Ore)": 40,
+        "Saldynium": 30,
+        "Jaclium": 40,
         "Carinite (Pure)": 1
       }
     },
@@ -533,8 +532,8 @@
       "maker": "RSI",
       "mats": {
         "Wikelo Favor": 4,
-        "Saldynium (Ore)": 20,
-        "Jaclium (Ore)": 20
+        "Saldynium": 20,
+        "Jaclium": 20
       }
     },
     {
@@ -729,7 +728,7 @@
         "Monolith Helmet": 1,
         "Monolith Backpack": 1,
         "Vanduul Metal": 10,
-        "Saldynium (Ore)": 25
+        "Saldynium": 25
       }
     },
     {
@@ -807,7 +806,7 @@
       "mats": {
         "F55 LMG": 1,
         "Vanduul Metal": 5,
-        "Jaclium (Ore)": 20
+        "Jaclium": 20
       }
     },
     {
@@ -849,11 +848,11 @@
       "name": "Parallax \"Fun Kopion Skull\" Energy Assault Rifle",
       "maker": "Arme",
       "mats": {
-        "Jaclium (Ore)": 20,
+        "Jaclium": 20,
         "Parallax Energy Assault Rifle": 1,
         "Tundra Kopion Horn": 20,
-        "Saldynium (Ore)": 15,
-        "Carinite (Ore)": 10
+        "Saldynium": 15,
+        "Carinite": 10
       }
     },
     {
@@ -868,11 +867,11 @@
       "name": "Parallax \"Fun Military Skull\" Energy Assault Rifle",
       "maker": "Arme",
       "mats": {
-        "Jaclium (Ore)": 20,
+        "Jaclium": 20,
         "Parallax Energy Assault Rifle": 1,
         "Irr. Valakkar Fang (Juvenile)": 20,
-        "Saldynium (Ore)": 15,
-        "Carinite (Ore)": 10
+        "Saldynium": 15,
+        "Carinite": 10
       }
     }
   ],
@@ -914,7 +913,7 @@
     "Hadanite",
     "Janalite",
     "Sadaryx",
-    "Saldynium (Ore)",
+    "Saldynium",
     "Yormandi Eye"
   ],
   "bp_cats": [
